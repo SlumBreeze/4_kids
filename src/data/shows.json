@@ -1,88 +1,17 @@
 [
   {
-    "id": "4",
-    "title": "Power Rangers",
-    "synopsis": "The Rangers return to space to stop Lord Zedd.",
-    "coverImage": "https://via.placeholder.com/600x600/000000/FFFFFF?text=Power+Rangers",
-    "cast": [
-      "Russell Curry"
-    ],
-    "tags": [
-      "Action",
-      "Violence"
-    ],
-    "rating": "Caution",
-    "reasoning": "Mixed safety. Ages 6-9 is the ideal range. Avoid for toddlers.",
-    "ageRecommendation": "5-10",
-    "minAge": 5,
-    "maxAge": 10,
-    "releaseYear": "1993\u00e2\u20ac\u201cPresent",
-    "runtime": "22 min",
-    "stimulationLevel": "High"
-  },
-  {
-    "id": "5",
-    "title": "Daniel Tiger",
-    "synopsis": "Daniel Tiger learns the skills he needs for school and life.",
-    "coverImage": "https://via.placeholder.com/600x600/FF6347/FFFFFF?text=Daniel+Tiger",
-    "cast": [
-      "Jake Beale"
-    ],
-    "tags": [
-      "Educational",
-      "Values: Family"
-    ],
-    "rating": "Safe",
-    "reasoning": "Teaches social-emotional skills.",
-    "ageRecommendation": "2+",
-    "minAge": 2,
-    "maxAge": 5,
-    "releaseYear": "2012\u00e2\u20ac\u201cPresent",
-    "runtime": "12 min",
-    "stimulationLevel": "Medium"
-  },
-  {
-    "id": "6",
-    "title": "Sesame Street",
-    "synopsis": "Elmo and friends learn about letters, numbers, and kindness.",
-    "coverImage": "https://via.placeholder.com/600x600/FFD700/000000?text=Sesame",
-    "cast": [
-      "Elmo",
-      "Big Bird"
-    ],
-    "tags": [
-      "Educational",
-      "Comedy"
-    ],
-    "rating": "Safe",
-    "reasoning": "The gold standard for educational content.",
-    "ageRecommendation": "2+",
-    "minAge": 1.5,
-    "maxAge": 6,
-    "releaseYear": "1969\u00e2\u20ac\u201cPresent",
-    "runtime": "60 min",
-    "stimulationLevel": "Medium"
-  },
-  {
     "id": "tt7678620",
     "title": "Bluey",
     "synopsis": "The slice-of-life adventures of an Australian Blue Heeler Cattle Dog puppy as she has fun with her family and friends in everyday situations.",
     "coverImage": "https://m.media-amazon.com/images/M/MV5BYWU1YmQzMjEtMDNjOS00MGIyLWExY2ItZDAzNmU5NWViMGZmXkEyXkFqcGc@._V1_.jpg",
-    "cast": [
-      "David McCormack",
-      "Melanie Zanetti",
-      "Brad Elliott"
-    ],
-    "tags": [
-      "Educational",
-      "Comedy"
-    ],
+    "cast": ["David McCormack", "Melanie Zanetti", "Brad Elliott"],
+    "tags": ["Educational", "Comedy"],
     "rating": "Safe",
     "reasoning": "Bluey is a safe and highly recommended show for children, focusing on imaginative play, positive family dynamics, and social-emotional learning. The gentle, humorous content and TV-Y rating make it suitable for a very broad audience, despite one character being shown to have two mothers. Any \"violence\" is limited to the very mild, non-threatening rough-and-tumble of children's play.",
     "ageRecommendation": "0.5-7.0",
     "minAge": 0.5,
     "maxAge": 7.0,
-    "releaseYear": "2018\u00e2\u20ac\u201cPresent",
+    "releaseYear": "2018–Present",
     "runtime": "7 min",
     "stimulationLevel": "Medium"
   },
@@ -91,21 +20,14 @@
     "title": "Cocomelon",
     "synopsis": "In the town of Cocomelon, baby JJ and his siblings go on fun every-day adventures with nursery, play, exploration, and learning - situations that any preschooler could relate to. Fun, relatable stories set to toe-tapping songs.",
     "coverImage": "https://m.media-amazon.com/images/M/MV5BMmM5OGI0YjAtZGFlMC00MThmLTgwM2MtZTdhYmQ3YzJlNmYwXkEyXkFqcGc@._V1_.jpg",
-    "cast": [
-      "Kristen Princiotta",
-      "Hannah An",
-      "Ava Madison Gray"
-    ],
-    "tags": [
-      "Educational",
-      "Comedy"
-    ],
+    "cast": ["Kristen Princiotta", "Hannah An", "Ava Madison Gray"],
+    "tags": ["Educational", "Comedy"],
     "rating": "Safe",
     "reasoning": "The content is physically safe, featuring non-violent, lighthearted nursery rhymes and basic social/educational concepts for infants and toddlers. However, the show is widely criticized for its extremely high stimulation level, including rapid pacing, frantic scene cuts, and over-saturated colors which can condition children to crave constant sensory input. The spin-off *Cocomelon Lane* also includes an episode featuring a same-sex couple.",
     "ageRecommendation": "0.5-4.0",
     "minAge": 0.5,
     "maxAge": 4.0,
-    "releaseYear": "2018\u00e2\u20ac\u201cPresent",
+    "releaseYear": "2018–Present",
     "runtime": "3 min",
     "stimulationLevel": "High"
   },
@@ -114,23 +36,31 @@
     "title": "The Owl House",
     "synopsis": "Accidentally sent to the world of the Boiling Isles before a trip to summer camp, a teenage human named Luz longs to become a witch and is aided by rebellious Eda and pint-sized demon King.",
     "coverImage": "https://m.media-amazon.com/images/M/MV5BMWI2ZWQ3ZWItZjU2My00ZDg0LWIyMDEtNGQ1ZDdlMTVhZTg0XkEyXkFqcGc@._V1_.jpg",
-    "cast": [
-      "Sarah-Nicole Robles",
-      "Alex Hirsch",
-      "Wendie Malick"
-    ],
-    "tags": [
-      "LGBTQ+ Themes",
-      "Violence",
-      "Comedy"
-    ],
+    "cast": ["Sarah-Nicole Robles", "Alex Hirsch", "Wendie Malick"],
+    "tags": ["LGBTQ+ Themes", "Violence", "Comedy"],
     "rating": "Unsafe",
     "reasoning": "The show is safe for older children and teens, but the fantasy violence, complex horror elements, and mature themes may be frightening or confusing for younger viewers. It features prominent LGBTQ+ representation, positive themes of self-acceptance, and deep narratives on found family, which is highly beneficial for its target audience.",
     "ageRecommendation": "7.0-14.0",
     "minAge": 7.0,
     "maxAge": 14.0,
-    "releaseYear": "2020\u20132023",
-    "runtime": "22m",
+    "releaseYear": "2020–2023",
+    "runtime": "22 min",
     "stimulationLevel": "High"
+  },
+  {
+    "id": "tt2014553",
+    "title": "Daniel Tiger's Neighborhood",
+    "synopsis": "The adventures of the children of the characters of Fred Rogers' Neighborhood of Make-Believe.",
+    "coverImage": "https://m.media-amazon.com/images/M/MV5BOWI4ZDY2ZjAtMGE4OC00YmU4LWFhYTAtMWY4ZjM2NTdjMTIxXkEyXkFqcGc@._V1_.jpg",
+    "cast": ["Addison Holley", "Ted Dykstra", "Heather Bambrick"],
+    "tags": ["Educational", "Comedy"],
+    "rating": "Safe",
+    "reasoning": "This show is extremely safe and educational, focusing on social-emotional development for preschoolers, with \"zero concerning content\" such as violence or toxicity. Its gentle pacing and use of simple songs and stories make it a constructive and benign viewing experience for young children.",
+    "ageRecommendation": "2.0-5.0",
+    "minAge": 2.0,
+    "maxAge": 5.0,
+    "releaseYear": "2012–Present",
+    "runtime": "26 min",
+    "stimulationLevel": "Low"
   }
 ]
