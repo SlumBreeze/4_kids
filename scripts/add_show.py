@@ -1,26 +1,35 @@
-import requests
 import json
-import re
 import os
+import re
+import requests
+from urllib.parse import quote
+
 from bs4 import BeautifulSoup
+from dotenv import load_dotenv
 from rich.console import Console
-from rich.prompt import Prompt, IntPrompt, Confirm
+from rich.panel import Panel
+from rich.prompt import Confirm, IntPrompt, Prompt
 from rich.table import Table
-from rich import print
 
 console = Console()
 
 IMDB_SUGGEST_URL = "https://v3.sg.media-imdb.com/suggestion"
-DATA_FILE = os.path.join(os.path.dirname(__file__), '../src/data/shows.json')
+ROOT_DIR = os.path.abspath(os.path.join(os.path.dirname(__file__), ".."))
+DATA_FILE = os.path.join(ROOT_DIR, "src", "data", "shows.json")
+ENV_FILE = os.path.join(ROOT_DIR, ".env")
 
 HEADERS = {
     'User-Agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.124 Safari/537.36'
 }
 
+load_dotenv(ENV_FILE)
+GEMINI_API_KEY = os.getenv("GEMINI_API_KEY", "").strip()
+
 def search_imdb(query):
-    first_letter = query[0].lower() if query else 'a'
-    url = f"{IMDB_SUGGEST_URL}/{first_letter}/{query}.json"
-    response = requests.get(url, headers=HEADERS)
+    safe_query = query.strip()
+    first_letter = safe_query[0].lower() if safe_query else "a"
+    url = f"{IMDB_SUGGEST_URL}/{first_letter}/{quote(safe_query)}.json"
+    response = requests.get(url, headers=HEADERS, timeout=10)
     response.raise_for_status()
     data = response.json()
 
@@ -52,7 +61,7 @@ def parse_duration(duration_str):
 
 def get_movie_details(imdb_id):
     url = f"https://www.imdb.com/title/{imdb_id}/"
-    response = requests.get(url, headers=HEADERS)
+    response = requests.get(url, headers=HEADERS, timeout=10)
 
     soup = BeautifulSoup(response.text, 'html.parser')
 
@@ -103,7 +112,87 @@ def get_movie_details(imdb_id):
         'year_range': year_range
     }
 
+def normalize_age_value(value):
+    try:
+        age = float(value)
+    except (TypeError, ValueError):
+        return 0.0
+    if age < 0:
+        return 0.0
+    if age < 1:
+        # Interpret decimal as months in tenths: 0.4 -> 4 months, 0.5 -> 5 months.
+        months = int(round(age * 10))
+        return months / 10
+    return age
+
+def parse_age_input(label, default=None):
+    default_text = None if default is None else str(default)
+    raw = Prompt.ask(label, default=default_text)
+    value = raw.strip().lower()
+    if value.endswith(("mo", "mos", "m")):
+        num = value.rstrip("mos").rstrip("m").strip()
+        try:
+            months = float(num)
+        except ValueError:
+            months = 0.0
+        if months < 12:
+            return max(0.0, round(months / 10, 1))
+        return max(0.0, round(months / 12, 1))
+    try:
+        return normalize_age_value(float(value))
+    except ValueError:
+        return 0.0
+
+def format_age_label(age_years):
+    if age_years < 1:
+        months = int(round(age_years * 10))
+        return f"{months}mo"
+    return f"{age_years:g}"
+
+def get_ai_safety_assessment(title, year):
+    if not GEMINI_API_KEY:
+        console.print("[yellow]GEMINI_API_KEY missing. Skipping AI assessment.[/]")
+        return None
+
+    console.print(f"[yellow]Consulting AI Safety Expert for '{title}'...[/]")
+
+    system_prompt = f"""
+You are a safety assessment expert for children's media.
+Analyze the show/movie: "{title} ({year})".
+
+Return a valid JSON object with the following boolean or string fields. Do not use Markdown code blocks.
+
+Fields required:
+- has_lgbtq (boolean): true if it contains LGBTQ+ themes.
+- has_violence (boolean): true if it contains violence or scary imagery.
+- is_educational (boolean): true if it is educational.
+- is_comedy (boolean): true if it is a comedy.
+- reasoning (string): 2-3 sentences on why it is safe/unsafe.
+- min_age (number): Absolute minimum safe age (e.g. 0.5, 5).
+- max_age (number): Age where kids typically lose interest (e.g. 7, 12).
+- stimulation_level (string): "Low", "Medium", or "High".
+"""
+
+    try:
+        url = f"https://generativelanguage.googleapis.com/v1beta/models/gemini-2.5-flash-preview-09-2025:generateContent?key={GEMINI_API_KEY}"
+        payload = {
+            "contents": [{"parts": [{"text": system_prompt}]}],
+            "generationConfig": {"responseMimeType": "application/json"}
+        }
+
+        response = requests.post(url, json=payload, headers={"Content-Type": "application/json"}, timeout=15)
+        response.raise_for_status()
+
+        result = response.json()
+        raw_text = result["candidates"][0]["content"]["parts"][0]["text"]
+        return json.loads(raw_text)
+    except Exception as e:
+        console.print(f"[red]AI Assessment Failed: {e}[/]")
+        return None
+
 def load_shows():
+    if not os.path.exists(DATA_FILE):
+        return []
     with open(DATA_FILE, 'r') as f:
         return json.load(f)
 
@@ -138,35 +227,75 @@ def main():
         selection_idx = IntPrompt.ask("Select a show by index", choices=[str(i+1) for i in range(len(results))])
         selected = results[selection_idx - 1]
 
-        # 2. Fetch Details
-        console.print(f"[yellow]Fetching details for {selected['title']}...[/]")
+        # 2. Fetch Details (IMDb)
+        console.print(f"[yellow]Fetching IMDb details for {selected['title']}...[/]")
         details = get_movie_details(selected['id'])
 
-        # 3. Interview Phase
+        # 3. AI Safety Assessment (optional)
         console.rule("[bold green]Safety Assessment[/]")
+        ai_data = get_ai_safety_assessment(selected["title"], selected.get("year", ""))
 
         tags = []
-        has_lgbtq = Confirm.ask("Does this show have [bold red]LGBTQ+ Themes[/]?")
-        if has_lgbtq: tags.append("LGBTQ+ Themes")
+        reasoning = ""
+        min_age = 0.0
+        max_age = 99.0
+        stim_level = "Medium"
 
-        has_violence = Confirm.ask("Does it contain [bold red]Violence[/]?")
-        if has_violence: tags.append("Violence")
+        if ai_data:
+            if ai_data.get("has_lgbtq"): tags.append("LGBTQ+ Themes")
+            if ai_data.get("has_violence"): tags.append("Violence")
+            if ai_data.get("is_educational"): tags.append("Educational")
+            if ai_data.get("is_comedy"): tags.append("Comedy")
 
-        if Confirm.ask("Is it [bold blue]Educational[/]?"): tags.append("Educational")
-        if Confirm.ask("Is it a [bold magenta]Comedy[/]?"): tags.append("Comedy")
+            reasoning = ai_data.get("reasoning", "")
+            min_age = normalize_age_value(ai_data.get("min_age", 0))
+            max_age = normalize_age_value(ai_data.get("max_age", 99))
+            stim_level = ai_data.get("stimulation_level", "Medium")
+
+            console.print(Panel(f"""
+[bold]AI Assessment:[/bold]
+[cyan]Tags:[/cyan] {', '.join(tags) if tags else 'None'}
+[cyan]Ages:[/cyan] {min_age} - {max_age}
+[cyan]Stimulation:[/cyan] {stim_level}
+[cyan]Reasoning:[/cyan] {reasoning}
+""", title="Safety Report", border_style="green"))
+
+            if not Confirm.ask("Keep this assessment?", default=True):
+                ai_data = None
+            elif Confirm.ask("Quick-edit any fields?", default=False):
+                if Confirm.ask("Edit tags?", default=False):
+                    tags = []
+                    if Confirm.ask("Does this show have [bold red]LGBTQ+ Themes[/]?"): tags.append("LGBTQ+ Themes")
+                    if Confirm.ask("Does it contain [bold red]Violence[/]?"): tags.append("Violence")
+                    if Confirm.ask("Is it [bold blue]Educational[/]?"): tags.append("Educational")
+                    if Confirm.ask("Is it a [bold magenta]Comedy[/]?"): tags.append("Comedy")
+                if Confirm.ask("Edit ages?", default=False):
+                    min_age = parse_age_input("Minimum Age (e.g. 0.5, 3, 7, 6m)", default=str(min_age))
+                    max_age = parse_age_input("Maximum Age (e.g. 5, 12, 99, 18m)", default=str(max_age))
+                if Confirm.ask("Edit stimulation level?", default=False):
+                    stim_level = Prompt.ask("Stimulation Level", choices=["Low", "Medium", "High"], default=stim_level)
+                if Confirm.ask("Edit reasoning?", default=False):
+                    reasoning = Prompt.ask("Enter reasoning/opinion (Why is it safe/unsafe?)", default=reasoning)
+
+        # Manual Override / Fallback
+        if not ai_data:
+            tags = []
+            if Confirm.ask("Does this show have [bold red]LGBTQ+ Themes[/]?"): tags.append("LGBTQ+ Themes")
+            if Confirm.ask("Does it contain [bold red]Violence[/]?"): tags.append("Violence")
+            if Confirm.ask("Is it [bold blue]Educational[/]?"): tags.append("Educational")
+            if Confirm.ask("Is it a [bold magenta]Comedy[/]?"): tags.append("Comedy")
+            reasoning = Prompt.ask("Enter reasoning/opinion (Why is it safe/unsafe?)")
+            min_age = parse_age_input("Minimum Age (e.g. 0.5, 3, 7, 6m)")
+            max_age = parse_age_input("Maximum Age (e.g. 5, 12, 99, 18m)", default="99")
+            stim_level = Prompt.ask("Stimulation Level", choices=["Low", "Medium", "High"], default="Medium")
 
         # Smart Default for Rating
-        # Auto-determine Rating
         rating = "Safe"
-        if has_lgbtq:
+        if "LGBTQ+ Themes" in tags:
             rating = "Unsafe"
-        elif has_violence:
+        elif "Violence" in tags:
             rating = "Caution"
         console.print(f"Auto-assigned Rating: [bold cyan]{rating}[/]")
-
-        reasoning = Prompt.ask("Enter reasoning/opinion (Why is it safe/unsafe?)")
-        min_age = float(Prompt.ask("Minimum Age (e.g. 0.5, 3, 7)"))
-        max_age = float(Prompt.ask("Maximum Age (e.g. 5, 12, 99)", default="99"))
 
         # Auto-scraped fields (no prompts needed)
         release_year = details.get('year_range', '') or str(selected.get('year', ''))
@@ -174,8 +303,6 @@ def main():
 
         console.print(f"Auto-scraped Year: [bold cyan]{release_year}[/]")
         console.print(f"Auto-scraped Runtime: [bold cyan]{runtime if runtime else 'Not found'}[/]")
-
-        stim_level = Prompt.ask("Stimulation Level", choices=["Low", "Medium", "High"], default="Medium")
 
         new_show = {
             "id": selected['id'],
@@ -186,7 +313,7 @@ def main():
             "tags": tags,
             "rating": rating,
             "reasoning": reasoning,
-            "ageRecommendation": f"{int(min_age)}+" if max_age == 99 else f"{min_age}-{max_age}",
+            "ageRecommendation": f"{format_age_label(min_age)}+" if max_age == 99 else f"{format_age_label(min_age)}-{format_age_label(max_age)}",
             "minAge": min_age,
             "maxAge": max_age,
             "releaseYear": release_year,

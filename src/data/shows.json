@@ -1,28 +1,5 @@
 [
   {
-    "id": "tt7678620",
-    "title": "Bluey",
-    "synopsis": "The slice-of-life adventures of an Australian Blue Heeler Cattle Dog puppy as she has fun with her family and friends in everyday situations.",
-    "coverImage": "https://m.media-amazon.com/images/M/MV5BYWU1YmQzMjEtMDNjOS00MGIyLWExY2ItZDAzNmU5NWViMGZmXkEyXkFqcGc@._V1_.jpg",
-    "cast": [
-      "David McCormack",
-      "Melanie Zanetti",
-      "Brad Elliott"
-    ],
-    "tags": [
-      "Educational",
-      "Comedy"
-    ],
-    "rating": "Safe",
-    "reasoning": "Bluey is a safe and highly recommended show for children, focusing on imaginative play, positive family dynamics, and social-emotional learning. The gentle, humorous content and TV-Y rating make it suitable for a very broad audience, despite one character being shown to have two mothers. Any \"violence\" is limited to the very mild, non-threatening rough-and-tumble of children's play.",
-    "ageRecommendation": "0.5-7.0",
-    "minAge": 0.5,
-    "maxAge": 7.0,
-    "releaseYear": "2018\u00e2\u20ac\u201cPresent",
-    "runtime": "7 min",
-    "stimulationLevel": "Medium"
-  },
-  {
     "id": "tt12427840",
     "title": "Cocomelon",
     "synopsis": "In the town of Cocomelon, baby JJ and his siblings go on fun every-day adventures with nursery, play, exploration, and learning - situations that any preschooler could relate to. Fun, relatable stories set to toe-tapping songs.",
@@ -114,5 +91,74 @@
     "releaseYear": "2005\u2013Present",
     "runtime": "7m",
     "stimulationLevel": "Medium"
+  },
+  {
+    "id": "tt7678620",
+    "title": "Bluey",
+    "synopsis": "The slice-of-life adventures of an Australian Blue Heeler Cattle Dog puppy as she has fun with her family and friends in everyday situations.",
+    "coverImage": "https://m.media-amazon.com/images/M/MV5BYWU1YmQzMjEtMDNjOS00MGIyLWExY2ItZDAzNmU5NWViMGZmXkEyXkFqcGc@._V1_.jpg",
+    "cast": [
+      "David McCormack",
+      "Melanie Zanetti",
+      "Brad Elliott"
+    ],
+    "tags": [
+      "Educational",
+      "Comedy"
+    ],
+    "rating": "Safe",
+    "reasoning": "Bluey is exceptionally safe, modeling positive family interactions, emotional intelligence, and non-violent conflict resolution. Its primary focus is on imaginative play, social skills development, and empathy, making it a highly recommended show.",
+    "ageRecommendation": "2.0-7.0",
+    "minAge": 2.0,
+    "maxAge": 7.0,
+    "releaseYear": "2018\u2013Present",
+    "runtime": "7m",
+    "stimulationLevel": "Medium"
+  },
+  {
+    "id": "tt32328599",
+    "title": "Bluey Minisodes",
+    "synopsis": "Bluey, an energetic Blue Heeler pup, brings her family into imaginative games unfolding in hilarious ways, weaving her neighborhood into her delightful world.",
+    "coverImage": "https://m.media-amazon.com/images/M/MV5BNzE5MGIxMDYtNGMyNC00NzE3LWEwNDUtZDhkZTc4ZTJmOTJhXkEyXkFqcGc@._V1_.jpg",
+    "cast": [
+      "David McCormack",
+      "Melanie Zanetti",
+      "Chris Brumm"
+    ],
+    "tags": [
+      "Educational",
+      "Comedy"
+    ],
+    "rating": "Safe",
+    "reasoning": "The Bluey Minisodes are extremely safe, focusing entirely on gentle imaginative play, family dynamics, and social-emotional learning. The episodes contain no violence, scary imagery, or complex adult themes, making them perfect for very young viewers. Their short length and positive tone promote emotional development and healthy family interaction.",
+    "ageRecommendation": "2.0-7.0",
+    "minAge": 2.0,
+    "maxAge": 7.0,
+    "releaseYear": "2024\u2013Present",
+    "runtime": "",
+    "stimulationLevel": "Low"
+  },
+  {
+    "id": "tt0142055",
+    "title": "Teletubbies",
+    "synopsis": "Four creatures with televisions in their stomachs have fun in their magical world.",
+    "coverImage": "https://m.media-amazon.com/images/M/MV5BZWM5ZjNkOWItNmU0Zi00YzdiLTg0MTAtMzkxMTZmZGI4NmQ2XkEyXkFqcGc@._V1_.jpg",
+    "cast": [
+      "Rolf Saxon",
+      "Jessica Smith",
+      "John Simmit"
+    ],
+    "tags": [
+      "Educational",
+      "Comedy"
+    ],
+    "rating": "Safe",
+    "reasoning": "Teletubbies is exceptionally safe for its target audience (infants and toddlers), utilizing repetition and simple vocabulary to aid language development. It features no violence, conflict, or scary themes, focusing instead on gentle play and friendship.",
+    "ageRecommendation": "0.5-4.0",
+    "minAge": 0.5,
+    "maxAge": 4.0,
+    "releaseYear": "1997\u20132001",
+    "runtime": "28m",
+    "stimulationLevel": "Low"
   }
 ]

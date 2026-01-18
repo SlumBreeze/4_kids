@@ -22,7 +22,7 @@ export interface Show {
   rating: SafetyRating;
   reasoning: string; // "Why" it's good or bad
   ageRecommendation: string;
-  minAge: number; // in Years (e.g. 0.5 for 6 months)
+  minAge: number; // in Years; decimals under 1 represent months (e.g. 0.5 => 5 months)
   maxAge: number; // in Years
   releaseYear?: string; // "2018" or "2018–Present"
   runtime?: string; // "7 min" or "22 min"
