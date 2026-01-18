@@ -4,14 +4,21 @@
     "title": "Bluey",
     "synopsis": "The slice-of-life adventures of an Australian Blue Heeler Cattle Dog puppy as she has fun with her family and friends in everyday situations.",
     "coverImage": "https://m.media-amazon.com/images/M/MV5BYWU1YmQzMjEtMDNjOS00MGIyLWExY2ItZDAzNmU5NWViMGZmXkEyXkFqcGc@._V1_.jpg",
-    "cast": ["David McCormack", "Melanie Zanetti", "Brad Elliott"],
-    "tags": ["Educational", "Comedy"],
+    "cast": [
+      "David McCormack",
+      "Melanie Zanetti",
+      "Brad Elliott"
+    ],
+    "tags": [
+      "Educational",
+      "Comedy"
+    ],
     "rating": "Safe",
     "reasoning": "Bluey is a safe and highly recommended show for children, focusing on imaginative play, positive family dynamics, and social-emotional learning. The gentle, humorous content and TV-Y rating make it suitable for a very broad audience, despite one character being shown to have two mothers. Any \"violence\" is limited to the very mild, non-threatening rough-and-tumble of children's play.",
     "ageRecommendation": "0.5-7.0",
     "minAge": 0.5,
     "maxAge": 7.0,
-    "releaseYear": "2018–Present",
+    "releaseYear": "2018\u00e2\u20ac\u201cPresent",
     "runtime": "7 min",
     "stimulationLevel": "Medium"
   },
@@ -20,14 +27,21 @@
     "title": "Cocomelon",
     "synopsis": "In the town of Cocomelon, baby JJ and his siblings go on fun every-day adventures with nursery, play, exploration, and learning - situations that any preschooler could relate to. Fun, relatable stories set to toe-tapping songs.",
     "coverImage": "https://m.media-amazon.com/images/M/MV5BMmM5OGI0YjAtZGFlMC00MThmLTgwM2MtZTdhYmQ3YzJlNmYwXkEyXkFqcGc@._V1_.jpg",
-    "cast": ["Kristen Princiotta", "Hannah An", "Ava Madison Gray"],
-    "tags": ["Educational", "Comedy"],
+    "cast": [
+      "Kristen Princiotta",
+      "Hannah An",
+      "Ava Madison Gray"
+    ],
+    "tags": [
+      "Educational",
+      "Comedy"
+    ],
     "rating": "Safe",
     "reasoning": "The content is physically safe, featuring non-violent, lighthearted nursery rhymes and basic social/educational concepts for infants and toddlers. However, the show is widely criticized for its extremely high stimulation level, including rapid pacing, frantic scene cuts, and over-saturated colors which can condition children to crave constant sensory input. The spin-off *Cocomelon Lane* also includes an episode featuring a same-sex couple.",
     "ageRecommendation": "0.5-4.0",
     "minAge": 0.5,
     "maxAge": 4.0,
-    "releaseYear": "2018–Present",
+    "releaseYear": "2018\u00e2\u20ac\u201cPresent",
     "runtime": "3 min",
     "stimulationLevel": "High"
   },
@@ -36,14 +50,22 @@
     "title": "The Owl House",
     "synopsis": "Accidentally sent to the world of the Boiling Isles before a trip to summer camp, a teenage human named Luz longs to become a witch and is aided by rebellious Eda and pint-sized demon King.",
     "coverImage": "https://m.media-amazon.com/images/M/MV5BMWI2ZWQ3ZWItZjU2My00ZDg0LWIyMDEtNGQ1ZDdlMTVhZTg0XkEyXkFqcGc@._V1_.jpg",
-    "cast": ["Sarah-Nicole Robles", "Alex Hirsch", "Wendie Malick"],
-    "tags": ["LGBTQ+ Themes", "Violence", "Comedy"],
+    "cast": [
+      "Sarah-Nicole Robles",
+      "Alex Hirsch",
+      "Wendie Malick"
+    ],
+    "tags": [
+      "LGBTQ+ Themes",
+      "Violence",
+      "Comedy"
+    ],
     "rating": "Unsafe",
     "reasoning": "The show is safe for older children and teens, but the fantasy violence, complex horror elements, and mature themes may be frightening or confusing for younger viewers. It features prominent LGBTQ+ representation, positive themes of self-acceptance, and deep narratives on found family, which is highly beneficial for its target audience.",
     "ageRecommendation": "7.0-14.0",
     "minAge": 7.0,
     "maxAge": 14.0,
-    "releaseYear": "2020–2023",
+    "releaseYear": "2020\u00e2\u20ac\u201c2023",
     "runtime": "22 min",
     "stimulationLevel": "High"
   },
@@ -52,15 +74,45 @@
     "title": "Daniel Tiger's Neighborhood",
     "synopsis": "The adventures of the children of the characters of Fred Rogers' Neighborhood of Make-Believe.",
     "coverImage": "https://m.media-amazon.com/images/M/MV5BOWI4ZDY2ZjAtMGE4OC00YmU4LWFhYTAtMWY4ZjM2NTdjMTIxXkEyXkFqcGc@._V1_.jpg",
-    "cast": ["Addison Holley", "Ted Dykstra", "Heather Bambrick"],
-    "tags": ["Educational", "Comedy"],
+    "cast": [
+      "Addison Holley",
+      "Ted Dykstra",
+      "Heather Bambrick"
+    ],
+    "tags": [
+      "Educational",
+      "Comedy"
+    ],
     "rating": "Safe",
     "reasoning": "This show is extremely safe and educational, focusing on social-emotional development for preschoolers, with \"zero concerning content\" such as violence or toxicity. Its gentle pacing and use of simple songs and stories make it a constructive and benign viewing experience for young children.",
     "ageRecommendation": "2.0-5.0",
     "minAge": 2.0,
     "maxAge": 5.0,
-    "releaseYear": "2012–Present",
+    "releaseYear": "2012\u00e2\u20ac\u201cPresent",
     "runtime": "26 min",
     "stimulationLevel": "Low"
+  },
+  {
+    "id": "tt0487849",
+    "title": "Pocoyo",
+    "synopsis": "Pocoyo, the curious toddler dressed all in blue, joins Pato the yellow duck, Elly the pink elephant, Loula the dog, Sleepy Bird and many others in learning new things and having fun.",
+    "coverImage": "https://m.media-amazon.com/images/M/MV5BMTUxNzQ3MTI5Ml5BMl5BanBnXkFtZTcwNzcyNTE0MQ@@._V1_.jpg",
+    "cast": [
+      "Stephen Fry",
+      "Alex Marty",
+      "Rowan Alltraine"
+    ],
+    "tags": [
+      "Educational",
+      "Comedy"
+    ],
+    "rating": "Safe",
+    "reasoning": "This show is highly safe, featuring a simple, minimalist visual style on a white background that minimizes overstimulation. The narrative focuses on social-emotional learning, like manners, sharing, and problem-solving, through gentle, universal physical comedy and interaction with the narrator. It is appropriate and benign for the target audience of toddlers and preschoolers.",
+    "ageRecommendation": "0.5-5.0",
+    "minAge": 0.5,
+    "maxAge": 5.0,
+    "releaseYear": "2005\u2013Present",
+    "runtime": "7m",
+    "stimulationLevel": "Medium"
   }
 ]

@@ -114,101 +114,107 @@ def save_shows(shows):
 def main():
     console.rule("[bold blue]KidShow Scout - Data Ingestion Tool[/]")
 
-    # 1. Search
-    query = Prompt.ask("Search for a show")
-    results = search_imdb(query)
+    while True:
+        # 1. Search
+        query = Prompt.ask("Search for a show")
+        results = search_imdb(query)
 
-    if not results:
-        console.print("[red]No results found.[/]")
-        return
+        if not results:
+            console.print("[red]No results found.[/]")
+            if Confirm.ask("Search again?"):
+                continue
+            return
 
-    table = Table(title="Search Results")
-    table.add_column("Index", style="cyan")
-    table.add_column("Title", style="magenta")
-    table.add_column("Year", style="green")
+        table = Table(title="Search Results")
+        table.add_column("Index", style="cyan")
+        table.add_column("Title", style="magenta")
+        table.add_column("Year", style="green")
 
-    for idx, r in enumerate(results):
-        table.add_row(str(idx + 1), r['title'], str(r['year']))
+        for idx, r in enumerate(results):
+            table.add_row(str(idx + 1), r['title'], str(r['year']))
 
-    console.print(table)
+        console.print(table)
 
-    selection_idx = IntPrompt.ask("Select a show by index", choices=[str(i+1) for i in range(len(results))])
-    selected = results[selection_idx - 1]
+        selection_idx = IntPrompt.ask("Select a show by index", choices=[str(i+1) for i in range(len(results))])
+        selected = results[selection_idx - 1]
 
-    # 2. Fetch Details
-    console.print(f"[yellow]Fetching details for {selected['title']}...[/]")
-    details = get_movie_details(selected['id'])
+        # 2. Fetch Details
+        console.print(f"[yellow]Fetching details for {selected['title']}...[/]")
+        details = get_movie_details(selected['id'])
 
-    # 3. Interview Phase
-    console.rule("[bold green]Safety Assessment[/]")
+        # 3. Interview Phase
+        console.rule("[bold green]Safety Assessment[/]")
 
-    tags = []
-    has_lgbtq = Confirm.ask("Does this show have [bold red]LGBTQ+ Themes[/]?")
-    if has_lgbtq: tags.append("LGBTQ+ Themes")
+        tags = []
+        has_lgbtq = Confirm.ask("Does this show have [bold red]LGBTQ+ Themes[/]?")
+        if has_lgbtq: tags.append("LGBTQ+ Themes")
 
-    has_violence = Confirm.ask("Does it contain [bold red]Violence[/]?")
-    if has_violence: tags.append("Violence")
+        has_violence = Confirm.ask("Does it contain [bold red]Violence[/]?")
+        if has_violence: tags.append("Violence")
 
-    if Confirm.ask("Is it [bold blue]Educational[/]?"): tags.append("Educational")
-    if Confirm.ask("Is it a [bold magenta]Comedy[/]?"): tags.append("Comedy")
+        if Confirm.ask("Is it [bold blue]Educational[/]?"): tags.append("Educational")
+        if Confirm.ask("Is it a [bold magenta]Comedy[/]?"): tags.append("Comedy")
 
-    # Smart Default for Rating
-    # Auto-determine Rating
-    rating = "Safe"
-    if has_lgbtq:
-        rating = "Unsafe"
-    elif has_violence:
-        rating = "Caution"
-    console.print(f"Auto-assigned Rating: [bold cyan]{rating}[/]")
+        # Smart Default for Rating
+        # Auto-determine Rating
+        rating = "Safe"
+        if has_lgbtq:
+            rating = "Unsafe"
+        elif has_violence:
+            rating = "Caution"
+        console.print(f"Auto-assigned Rating: [bold cyan]{rating}[/]")
 
-    reasoning = Prompt.ask("Enter reasoning/opinion (Why is it safe/unsafe?)")
-    min_age = float(Prompt.ask("Minimum Age (e.g. 0.5, 3, 7)"))
-    max_age = float(Prompt.ask("Maximum Age (e.g. 5, 12, 99)", default="99"))
+        reasoning = Prompt.ask("Enter reasoning/opinion (Why is it safe/unsafe?)")
+        min_age = float(Prompt.ask("Minimum Age (e.g. 0.5, 3, 7)"))
+        max_age = float(Prompt.ask("Maximum Age (e.g. 5, 12, 99)", default="99"))
 
-    # Auto-scraped fields (no prompts needed)
-    release_year = details.get('year_range', '') or str(selected.get('year', ''))
-    runtime = details.get('duration', '')
+        # Auto-scraped fields (no prompts needed)
+        release_year = details.get('year_range', '') or str(selected.get('year', ''))
+        runtime = details.get('duration', '')
 
-    console.print(f"Auto-scraped Year: [bold cyan]{release_year}[/]")
-    console.print(f"Auto-scraped Runtime: [bold cyan]{runtime if runtime else 'Not found'}[/]")
+        console.print(f"Auto-scraped Year: [bold cyan]{release_year}[/]")
+        console.print(f"Auto-scraped Runtime: [bold cyan]{runtime if runtime else 'Not found'}[/]")
 
-    stim_level = Prompt.ask("Stimulation Level", choices=["Low", "Medium", "High"], default="Medium")
+        stim_level = Prompt.ask("Stimulation Level", choices=["Low", "Medium", "High"], default="Medium")
 
-    new_show = {
-        "id": selected['id'],
-        "title": selected['title'],
-        "synopsis": details['description'],
-        "coverImage": details['image'] if details['image'] else selected['image'],
-        "cast": details['cast'],
-        "tags": tags,
-        "rating": rating,
-        "reasoning": reasoning,
-        "ageRecommendation": f"{int(min_age)}+" if max_age == 99 else f"{min_age}-{max_age}",
-        "minAge": min_age,
-        "maxAge": max_age,
-        "releaseYear": release_year,
-        "runtime": runtime,
-        "stimulationLevel": stim_level
-    }
+        new_show = {
+            "id": selected['id'],
+            "title": selected['title'],
+            "synopsis": details['description'],
+            "coverImage": details['image'] if details['image'] else selected['image'],
+            "cast": details['cast'],
+            "tags": tags,
+            "rating": rating,
+            "reasoning": reasoning,
+            "ageRecommendation": f"{int(min_age)}+" if max_age == 99 else f"{min_age}-{max_age}",
+            "minAge": min_age,
+            "maxAge": max_age,
+            "releaseYear": release_year,
+            "runtime": runtime,
+            "stimulationLevel": stim_level
+        }
 
-    # 4. Save (check for duplicates by ID or by title+year)
-    shows = load_shows()
+        # 4. Save (check for duplicates by ID or by title+year)
+        shows = load_shows()
 
-    # Check for existing entry by ID or by title+year
-    existing_by_id = next((s for s in shows if s['id'] == new_show['id']), None)
-    existing_by_title = next((s for s in shows if s['title'].lower() == new_show['title'].lower() and s.get('releaseYear', '').startswith(release_year[:4])), None)
-    existing = existing_by_id or existing_by_title
+        # Check for existing entry by ID or by title+year
+        existing_by_id = next((s for s in shows if s['id'] == new_show['id']), None)
+        existing_by_title = next((s for s in shows if s['title'].lower() == new_show['title'].lower() and s.get('releaseYear', '').startswith(release_year[:4])), None)
+        existing = existing_by_id or existing_by_title
 
-    if existing:
-        if Confirm.ask(f"[yellow]{new_show['title']} ({existing['id']}) already exists. Overwrite?[/]"):
-            # Remove the old entry (by its actual ID)
-            shows = [s for s in shows if s['id'] != existing['id']]
+        if existing:
+            if Confirm.ask(f"[yellow]{new_show['title']} ({existing['id']}) already exists. Overwrite?[/]"):
+                # Remove the old entry (by its actual ID)
+                shows = [s for s in shows if s['id'] != existing['id']]
+                shows.append(new_show)
+        else:
             shows.append(new_show)
-    else:
-        shows.append(new_show)
 
-    save_shows(shows)
-    console.print(f"[bold green]Successfully added {selected['title']}![/]")
+        save_shows(shows)
+        console.print(f"[bold green]Successfully added {selected['title']}![/]")
+
+        if not Confirm.ask("Add another show? (Ctrl+C to exit)"):
+            return
 
 if __name__ == "__main__":
     main()

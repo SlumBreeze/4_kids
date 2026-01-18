@@ -28,9 +28,7 @@ export const filterShows = (shows: Show[], searchTerm: string): Show[] => {
   // 2. Filter by search term
   if (!searchTerm) return classifiedShows;
 
-  return classifiedShows.filter(
-    (s) =>
-      s.title.toLowerCase().includes(searchTerm.toLowerCase()) ||
-      s.tags.some((t) => t.toLowerCase().includes(searchTerm.toLowerCase())),
+  return classifiedShows.filter((s) =>
+    s.title.toLowerCase().includes(searchTerm.toLowerCase()),
   );
 };
