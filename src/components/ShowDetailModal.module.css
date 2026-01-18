@@ -1,0 +1,226 @@
+.overlay {
+  position: fixed;
+  top: 0;
+  left: 0;
+  width: 100vw;
+  height: 100vh;
+  background: rgba(0, 0, 0, 0.6);
+  backdrop-filter: blur(4px);
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  z-index: 100;
+  padding: 20px;
+  animation: fadeIn 0.2s ease-out;
+}
+
+@keyframes fadeIn {
+  from {
+    opacity: 0;
+  }
+  to {
+    opacity: 1;
+  }
+}
+
+.modal {
+  background: white;
+  width: 100%;
+  max-width: 800px;
+  max-height: 90vh;
+  border-radius: 32px;
+  overflow-y: auto;
+  position: relative;
+  box-shadow: 0 20px 60px rgba(0, 0, 0, 0.3);
+  animation: slideUp 0.3s cubic-bezier(0.175, 0.885, 0.32, 1.275);
+}
+
+@keyframes slideUp {
+  from {
+    transform: translateY(40px) scale(0.95);
+    opacity: 0;
+  }
+  to {
+    transform: translateY(0) scale(1);
+    opacity: 1;
+  }
+}
+
+.closeButton {
+  position: absolute;
+  top: 20px;
+  right: 20px;
+  background: transparent !important;
+  box-shadow: none !important;
+  border: none !important;
+  width: 40px;
+  height: 40px;
+  font-size: 28px;
+  display: grid;
+  place-items: center;
+  cursor: pointer;
+  z-index: 10;
+  transition: transform 0.2s;
+  color: #333;
+}
+
+.closeButton:hover {
+  transform: scale(1.1);
+  background: transparent !important;
+}
+
+.header {
+  display: flex;
+  gap: 32px;
+  padding: 32px;
+  background: linear-gradient(to bottom right, #ffffff, #f8f9fa);
+}
+
+.coverImage {
+  width: 200px;
+  height: 300px;
+  object-fit: cover;
+  border-radius: 16px;
+  box-shadow: 0 8px 20px rgba(0, 0, 0, 0.15);
+  transform: rotate(-2deg);
+}
+
+.headerInfo {
+  flex: 1;
+}
+
+.badges {
+  display: flex;
+  gap: 12px;
+  margin-bottom: 16px;
+  flex-wrap: wrap; /* Allow wrapping on small screens */
+}
+
+.ratingBadge {
+  padding: 6px 12px;
+  border-radius: 12px;
+  font-weight: 800;
+  font-size: 0.9rem;
+}
+
+.safe {
+  background: #e8f5e9;
+  color: #2e7d32;
+}
+.caution {
+  background: #fff8e1;
+  color: #f57f17;
+} /* Also serves as unsafe backup visually */
+
+.ageBadge {
+  padding: 6px 12px;
+  border-radius: 12px;
+  font-weight: 700;
+  font-size: 0.9rem;
+  background: #e3f2fd;
+  color: #1565c0;
+}
+
+.stimBadge {
+  padding: 6px 12px;
+  border-radius: 12px;
+  font-weight: 700;
+  font-size: 0.9rem;
+  /* Colors handled inline */
+}
+
+.titleGroup {
+  /* Grouping title + Year */
+  margin-bottom: 16px;
+}
+
+.title {
+  margin: 0;
+  font-size: 2.5rem;
+  line-height: 1.1;
+  color: #222;
+}
+
+.year {
+  font-size: 1.1rem;
+  color: #666;
+  font-weight: 600;
+  margin-top: 4px;
+  display: block;
+}
+
+.tags {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 8px;
+  margin-bottom: 20px;
+}
+
+.tag {
+  background: white;
+  border: 2px solid #eee;
+  padding: 4px 10px;
+  border-radius: 10px;
+  font-size: 0.85rem;
+  font-weight: 600;
+  color: #555;
+}
+
+.synopsis {
+  font-size: 1.1rem;
+  line-height: 1.6;
+  color: #444;
+}
+
+.body {
+  padding: 0 32px 32px 32px;
+}
+
+.section {
+  margin-bottom: 24px;
+}
+
+.section h3 {
+  font-size: 1.25rem;
+  color: #2c3e50;
+  margin-bottom: 12px;
+  border-bottom: 2px solid #eee;
+  padding-bottom: 8px;
+}
+
+.castList {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 12px;
+}
+
+.castMember {
+  background: #f0f0f0;
+  padding: 8px 16px;
+  border-radius: 20px;
+  font-weight: 500;
+}
+
+.reasoningBox {
+  background: #e8f5e9;
+  padding: 20px;
+  border-radius: 16px;
+  border-left: 6px solid #4caf50;
+  font-size: 1.05rem;
+}
+
+@media (max-width: 700px) {
+  .header {
+    flex-direction: column;
+    align-items: center;
+    text-align: center;
+  }
+
+  .badges {
+    justify-content: center;
+  }
+
+  .tags {
+    justify-content: center;
+  }
+}

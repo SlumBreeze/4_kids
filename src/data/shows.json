@@ -1,0 +1,133 @@
+[
+  {
+    "id": "2",
+    "title": "The Owl House",
+    "synopsis": "A teenager finds herself stuck in the Demon Realm.",
+    "coverImage": "https://via.placeholder.com/600x600/4B0082/FFFFFF?text=Owl+House",
+    "cast": [
+      "Sarah-Nicole Robles",
+      "Wendie Malick"
+    ],
+    "tags": [
+      "Fantasy",
+      "Action",
+      "LGBTQ+ Themes"
+    ],
+    "rating": "Caution",
+    "reasoning": "Contains LGBTQ+ relationship themes.",
+    "ageRecommendation": "7+",
+    "minAge": 7,
+    "maxAge": 14,
+    "releaseYear": "2020\u00e2\u20ac\u201c2023",
+    "runtime": "22 min",
+    "stimulationLevel": "High"
+  },
+  {
+    "id": "3",
+    "title": "Cocomelon",
+    "synopsis": "Baby JJ and his siblings go on fun relatable adventures.",
+    "coverImage": "https://via.placeholder.com/600x600/FF0000/FFFFFF?text=Cocomelon",
+    "cast": [
+      "JJ"
+    ],
+    "tags": [
+      "Educational",
+      "Comedy"
+    ],
+    "rating": "Safe",
+    "reasoning": "Simple songs and visuals for toddlers, but highly repetitive.",
+    "ageRecommendation": "0-3",
+    "minAge": 0,
+    "maxAge": 3,
+    "releaseYear": "2018\u00e2\u20ac\u201cPresent",
+    "runtime": "5 min",
+    "stimulationLevel": "High"
+  },
+  {
+    "id": "4",
+    "title": "Power Rangers",
+    "synopsis": "The Rangers return to space to stop Lord Zedd.",
+    "coverImage": "https://via.placeholder.com/600x600/000000/FFFFFF?text=Power+Rangers",
+    "cast": [
+      "Russell Curry"
+    ],
+    "tags": [
+      "Action",
+      "Violence"
+    ],
+    "rating": "Caution",
+    "reasoning": "Mixed safety. Ages 6-9 is the ideal range. Avoid for toddlers.",
+    "ageRecommendation": "5-10",
+    "minAge": 5,
+    "maxAge": 10,
+    "releaseYear": "1993\u00e2\u20ac\u201cPresent",
+    "runtime": "22 min",
+    "stimulationLevel": "High"
+  },
+  {
+    "id": "5",
+    "title": "Daniel Tiger",
+    "synopsis": "Daniel Tiger learns the skills he needs for school and life.",
+    "coverImage": "https://via.placeholder.com/600x600/FF6347/FFFFFF?text=Daniel+Tiger",
+    "cast": [
+      "Jake Beale"
+    ],
+    "tags": [
+      "Educational",
+      "Values: Family"
+    ],
+    "rating": "Safe",
+    "reasoning": "Teaches social-emotional skills.",
+    "ageRecommendation": "2+",
+    "minAge": 2,
+    "maxAge": 5,
+    "releaseYear": "2012\u00e2\u20ac\u201cPresent",
+    "runtime": "12 min",
+    "stimulationLevel": "Medium"
+  },
+  {
+    "id": "6",
+    "title": "Sesame Street",
+    "synopsis": "Elmo and friends learn about letters, numbers, and kindness.",
+    "coverImage": "https://via.placeholder.com/600x600/FFD700/000000?text=Sesame",
+    "cast": [
+      "Elmo",
+      "Big Bird"
+    ],
+    "tags": [
+      "Educational",
+      "Comedy"
+    ],
+    "rating": "Safe",
+    "reasoning": "The gold standard for educational content.",
+    "ageRecommendation": "2+",
+    "minAge": 1.5,
+    "maxAge": 6,
+    "releaseYear": "1969\u00e2\u20ac\u201cPresent",
+    "runtime": "60 min",
+    "stimulationLevel": "Medium"
+  },
+  {
+    "id": "tt7678620",
+    "title": "Bluey",
+    "synopsis": "The slice-of-life adventures of an Australian Blue Heeler Cattle Dog puppy as she has fun with her family and friends in everyday situations.",
+    "coverImage": "https://m.media-amazon.com/images/M/MV5BYWU1YmQzMjEtMDNjOS00MGIyLWExY2ItZDAzNmU5NWViMGZmXkEyXkFqcGc@._V1_.jpg",
+    "cast": [
+      "David McCormack",
+      "Melanie Zanetti",
+      "Brad Elliott"
+    ],
+    "tags": [
+      "Educational",
+      "Comedy"
+    ],
+    "rating": "Safe",
+    "reasoning": "Bluey is a safe and highly recommended show for children, focusing on imaginative play, positive family dynamics, and social-emotional learning. The gentle, humorous content and TV-Y rating make it suitable for a very broad audience, despite one character being shown to have two mothers. Any \"violence\" is limited to the very mild, non-threatening rough-and-tumble of children's play.",
+    "ageRecommendation": "0.5-7.0",
+    "minAge": 0.5,
+    "maxAge": 7.0,
+    "releaseYear": "2018",
+    "runtime": "",
+    "stimulationLevel": "Medium"
+  }
+]

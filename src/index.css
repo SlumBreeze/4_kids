@@ -1,0 +1,77 @@
+:root {
+  font-family: "Inter", system-ui, Avenir, Helvetica, Arial, sans-serif;
+  line-height: 1.5;
+  font-weight: 600; /* Bolder by default */
+
+  color-scheme: light;
+
+  /* Palette */
+  --c-yellow: #ffd700;
+  --c-yellow-dark: #ffc107;
+  --c-green: #4caf50;
+  --c-green-dark: #388e3c;
+  --c-blue: #2196f3;
+  --c-red: #e91e63;
+  --c-white: #ffffff;
+  --c-text: #2c3e50;
+
+  /* Layout */
+  --radius-lg: 24px;
+  --radius-xl: 40px;
+  --shadow-pop: 0 8px 0 rgba(0, 0, 0, 0.15); /* Pop-out 3D effect */
+
+  background-color: var(--c-yellow);
+  background-image:
+    radial-gradient(#ffeb3b 20%, transparent 20%),
+    radial-gradient(#ffeb3b 20%, transparent 20%);
+  background-size: 50px 50px;
+  background-position:
+    0 0,
+    25px 25px;
+
+  color: var(--c-text);
+
+  font-synthesis: none;
+  text-rendering: optimizeLegibility;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+body {
+  margin: 0;
+  display: block;
+  min-width: 320px;
+  min-height: 100vh;
+}
+
+h1,
+h2,
+h3 {
+  line-height: 1.1;
+  letter-spacing: -0.02em;
+}
+
+button {
+  border-radius: var(--radius-xl);
+  border: none;
+  padding: 0.8em 2em;
+  font-size: 1.1em;
+  font-weight: 800;
+  font-family: inherit;
+  background-color: var(--c-white);
+  cursor: pointer;
+  transition:
+    transform 0.1s,
+    box-shadow 0.1s;
+  box-shadow: 0 4px 0 rgba(0, 0, 0, 0.1);
+}
+
+button:hover {
+  transform: translateY(-2px);
+  box-shadow: 0 6px 0 rgba(0, 0, 0, 0.1);
+}
+
+button:active {
+  transform: translateY(2px);
+  box-shadow: 0 0 0 rgba(0, 0, 0, 0.1);
+}

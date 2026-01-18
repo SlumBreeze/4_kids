@@ -1,0 +1,1 @@
+{"root":["./src/app.tsx","./src/main.tsx","./src/vite-env.d.ts","./src/components/agefilter.tsx","./src/components/showcard.tsx","./src/components/showdetailmodal.tsx","./src/data/mockshows.ts","./src/types/index.ts","./src/utils/filter.ts","./src/utils/format.ts"],"version":"5.9.3"}

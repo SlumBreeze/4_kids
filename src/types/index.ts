@@ -1,0 +1,30 @@
+export type ContentTag =
+  | "Educational"
+  | "Fantasy"
+  | "Action"
+  | "Comedy"
+  | "LGBTQ+ Themes"
+  | "Violence"
+  | "Scary Imagery"
+  | "Values: Friendship"
+  | "Values: Family";
+
+export type SafetyRating = "Safe" | "Caution" | "Unsafe";
+export type StimulationLevel = "Low" | "Medium" | "High";
+
+export interface Show {
+  id: string;
+  title: string;
+  synopsis: string;
+  coverImage: string; // URL mock
+  cast: string[];
+  tags: ContentTag[];
+  rating: SafetyRating;
+  reasoning: string; // "Why" it's good or bad
+  ageRecommendation: string;
+  minAge: number; // in Years (e.g. 0.5 for 6 months)
+  maxAge: number; // in Years
+  releaseYear?: string; // "2018" or "2018–Present"
+  runtime?: string; // "7 min" or "22 min"
+  stimulationLevel?: StimulationLevel;
+}
