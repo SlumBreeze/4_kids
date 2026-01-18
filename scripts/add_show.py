@@ -54,25 +54,54 @@ def get_movie_details(imdb_id):
     url = f"https://www.imdb.com/title/{imdb_id}/"
     response = requests.get(url, headers=HEADERS)
 
-    # Extract JSON-LD
     soup = BeautifulSoup(response.text, 'html.parser')
+
+    # Extract JSON-LD
     json_ld_script = soup.find('script', {'type': 'application/ld+json'})
+
+    description = ''
+    image = ''
+    cast = []
+    duration = ''
+    year_range = ''
 
     if json_ld_script:
         try:
             data = json.loads(json_ld_script.string)
-            duration_iso = data.get('duration', '')
-
-            return {
-                'description': data.get('description', 'No description found.'),
-                'image': data.get('image', ''),
-                'cast': [actor['name'] for actor in data.get('actor', [])[:3]] if 'actor' in data else [],
-                'duration': parse_duration(duration_iso)
-            }
+            description = data.get('description', 'No description found.')
+            image = data.get('image', '')
+            cast = [actor['name'] for actor in data.get('actor', [])[:3]] if 'actor' in data else []
+            duration = parse_duration(data.get('duration', ''))
         except:
             pass
 
-    return {'description': '', 'image': '', 'cast': [], 'duration': ''}
+    # Scrape year range from page title (e.g., "Bluey (TV Series 2018– )" or "The Owl House (TV Series 2020–2023)")
+    title_tag = soup.find('title')
+    if title_tag:
+        title_text = title_tag.get_text()
+        # Match patterns like "2018– )" or "2020–2023)"
+        year_match = re.search(r'(\d{4})[–\-–]+(\d{4}|\s*\))', title_text)
+        if year_match:
+            start = year_match.group(1)
+            end_part = year_match.group(2).strip()
+            if ')' in end_part or end_part == '':
+                year_range = f"{start}–Present"
+            else:
+                year_range = f"{start}–{end_part}"
+
+    # Fallback: try to get runtime from technical specs if JSON-LD didn't have it
+    if not duration:
+        runtime_elem = soup.select_one('[data-testid="title-techspec_runtime"] .ipc-metadata-list-item__content-container')
+        if runtime_elem:
+            duration = runtime_elem.get_text().strip()
+
+    return {
+        'description': description,
+        'image': image,
+        'cast': cast,
+        'duration': duration,
+        'year_range': year_range
+    }
 
 def load_shows():
     with open(DATA_FILE, 'r') as f:
@@ -136,14 +165,12 @@ def main():
     min_age = float(Prompt.ask("Minimum Age (e.g. 0.5, 3, 7)"))
     max_age = float(Prompt.ask("Maximum Age (e.g. 5, 12, 99)", default="99"))
 
-    # Auto-scrape fields
-    release_year = str(selected.get('year', ''))
+    # Auto-scraped fields (no prompts needed)
+    release_year = details.get('year_range', '') or str(selected.get('year', ''))
     runtime = details.get('duration', '')
 
     console.print(f"Auto-scraped Year: [bold cyan]{release_year}[/]")
-    console.print(f"Auto-scraped Runtime: [bold cyan]{runtime}[/]")
-
-    stim_level = Prompt.ask("Stimulation Level", choices=["Low", "Medium", "High"], default="Medium")
+    console.print(f"Auto-scraped Runtime: [bold cyan]{runtime if runtime else 'Not found'}[/]")
 
     stim_level = Prompt.ask("Stimulation Level", choices=["Low", "Medium", "High"], default="Medium")
 
@@ -164,11 +191,18 @@ def main():
         "stimulationLevel": stim_level
     }
 
-    # 4. Save
+    # 4. Save (check for duplicates by ID or by title+year)
     shows = load_shows()
-    if any(s['id'] == new_show['id'] for s in shows):
-        if Confirm.ask(f"[yellow]{selected['title']} already exists. Overwrite?[/]"):
-            shows = [s for s in shows if s['id'] != new_show['id']]
+
+    # Check for existing entry by ID or by title+year
+    existing_by_id = next((s for s in shows if s['id'] == new_show['id']), None)
+    existing_by_title = next((s for s in shows if s['title'].lower() == new_show['title'].lower() and s.get('releaseYear', '').startswith(release_year[:4])), None)
+    existing = existing_by_id or existing_by_title
+
+    if existing:
+        if Confirm.ask(f"[yellow]{new_show['title']} ({existing['id']}) already exists. Overwrite?[/]"):
+            # Remove the old entry (by its actual ID)
+            shows = [s for s in shows if s['id'] != existing['id']]
             shows.append(new_show)
     else:
         shows.append(new_show)

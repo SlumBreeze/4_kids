@@ -1,49 +1,5 @@
 [
   {
-    "id": "2",
-    "title": "The Owl House",
-    "synopsis": "A teenager finds herself stuck in the Demon Realm.",
-    "coverImage": "https://via.placeholder.com/600x600/4B0082/FFFFFF?text=Owl+House",
-    "cast": [
-      "Sarah-Nicole Robles",
-      "Wendie Malick"
-    ],
-    "tags": [
-      "Fantasy",
-      "Action",
-      "LGBTQ+ Themes"
-    ],
-    "rating": "Caution",
-    "reasoning": "Contains LGBTQ+ relationship themes.",
-    "ageRecommendation": "7+",
-    "minAge": 7,
-    "maxAge": 14,
-    "releaseYear": "2020\u00e2\u20ac\u201c2023",
-    "runtime": "22 min",
-    "stimulationLevel": "High"
-  },
-  {
-    "id": "3",
-    "title": "Cocomelon",
-    "synopsis": "Baby JJ and his siblings go on fun relatable adventures.",
-    "coverImage": "https://via.placeholder.com/600x600/FF0000/FFFFFF?text=Cocomelon",
-    "cast": [
-      "JJ"
-    ],
-    "tags": [
-      "Educational",
-      "Comedy"
-    ],
-    "rating": "Safe",
-    "reasoning": "Simple songs and visuals for toddlers, but highly repetitive.",
-    "ageRecommendation": "0-3",
-    "minAge": 0,
-    "maxAge": 3,
-    "releaseYear": "2018\u00e2\u20ac\u201cPresent",
-    "runtime": "5 min",
-    "stimulationLevel": "High"
-  },
-  {
     "id": "4",
     "title": "Power Rangers",
     "synopsis": "The Rangers return to space to stop Lord Zedd.",
@@ -126,8 +82,55 @@
     "ageRecommendation": "0.5-7.0",
     "minAge": 0.5,
     "maxAge": 7.0,
-    "releaseYear": "2018",
-    "runtime": "",
+    "releaseYear": "2018\u00e2\u20ac\u201cPresent",
+    "runtime": "7 min",
     "stimulationLevel": "Medium"
+  },
+  {
+    "id": "tt12427840",
+    "title": "Cocomelon",
+    "synopsis": "In the town of Cocomelon, baby JJ and his siblings go on fun every-day adventures with nursery, play, exploration, and learning - situations that any preschooler could relate to. Fun, relatable stories set to toe-tapping songs.",
+    "coverImage": "https://m.media-amazon.com/images/M/MV5BMmM5OGI0YjAtZGFlMC00MThmLTgwM2MtZTdhYmQ3YzJlNmYwXkEyXkFqcGc@._V1_.jpg",
+    "cast": [
+      "Kristen Princiotta",
+      "Hannah An",
+      "Ava Madison Gray"
+    ],
+    "tags": [
+      "Educational",
+      "Comedy"
+    ],
+    "rating": "Safe",
+    "reasoning": "The content is physically safe, featuring non-violent, lighthearted nursery rhymes and basic social/educational concepts for infants and toddlers. However, the show is widely criticized for its extremely high stimulation level, including rapid pacing, frantic scene cuts, and over-saturated colors which can condition children to crave constant sensory input. The spin-off *Cocomelon Lane* also includes an episode featuring a same-sex couple.",
+    "ageRecommendation": "0.5-4.0",
+    "minAge": 0.5,
+    "maxAge": 4.0,
+    "releaseYear": "2018\u00e2\u20ac\u201cPresent",
+    "runtime": "3 min",
+    "stimulationLevel": "High"
+  },
+  {
+    "id": "tt8050756",
+    "title": "The Owl House",
+    "synopsis": "Accidentally sent to the world of the Boiling Isles before a trip to summer camp, a teenage human named Luz longs to become a witch and is aided by rebellious Eda and pint-sized demon King.",
+    "coverImage": "https://m.media-amazon.com/images/M/MV5BMWI2ZWQ3ZWItZjU2My00ZDg0LWIyMDEtNGQ1ZDdlMTVhZTg0XkEyXkFqcGc@._V1_.jpg",
+    "cast": [
+      "Sarah-Nicole Robles",
+      "Alex Hirsch",
+      "Wendie Malick"
+    ],
+    "tags": [
+      "LGBTQ+ Themes",
+      "Violence",
+      "Comedy"
+    ],
+    "rating": "Unsafe",
+    "reasoning": "The show is safe for older children and teens, but the fantasy violence, complex horror elements, and mature themes may be frightening or confusing for younger viewers. It features prominent LGBTQ+ representation, positive themes of self-acceptance, and deep narratives on found family, which is highly beneficial for its target audience.",
+    "ageRecommendation": "7.0-14.0",
+    "minAge": 7.0,
+    "maxAge": 14.0,
+    "releaseYear": "2020\u20132023",
+    "runtime": "22m",
+    "stimulationLevel": "High"
   }
 ]
