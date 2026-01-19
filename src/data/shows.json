@@ -449,5 +449,121 @@
     "releaseYear": "2023\u2013Present",
     "runtime": "25m",
     "stimulationLevel": "Medium"
+  },
+  {
+    "id": "tt26654560",
+    "title": "Meekah",
+    "synopsis": "Meekah and her best friend Blippi have exciting and educational adventures together as they explore the wonders of science and nature.",
+    "coverImage": "https://m.media-amazon.com/images/M/MV5BNzVhNGFkODMtZGE5OC00YjlkLWI4M2EtNjI1ZTc3NTUzYjc4XkEyXkFqcGc@._V1_.jpg",
+    "cast": [
+      "Cashae Monya",
+      "Kaitlin Becker",
+      "Shawn Johnson"
+    ],
+    "tags": [
+      "Educational"
+    ],
+    "featured": false,
+    "rating": "Safe",
+    "reasoning": "Meekah is a very safe program designed specifically for toddlers and preschoolers. The content focuses on positive social interactions, basic learning concepts (colors, numbers), and imaginative play. It utilizes bright, engaging visuals and calm, repetitive songs, making it suitable for very young viewers.",
+    "ageRecommendation": "5mo-4",
+    "minAge": 0.5,
+    "maxAge": 4.0,
+    "releaseYear": "2022\u2013Present",
+    "runtime": "",
+    "stimulationLevel": "Medium"
+  },
+  {
+    "id": "tt4781350",
+    "title": "Llama Llama",
+    "synopsis": "The adventures of Llama Llama and his mom, Mama Llama.",
+    "coverImage": "https://m.media-amazon.com/images/M/MV5BNjgxNmNjOTYtNTJlNy00ZjA5LTk2MzktYWU1YTRkN2ZmMzJiXkEyXkFqcGc@._V1_.jpg",
+    "cast": [
+      "Jennifer Garner",
+      "Islie Hirvonen",
+      "Brenden Sunderland"
+    ],
+    "tags": [
+      "Educational"
+    ],
+    "featured": false,
+    "rating": "Safe",
+    "reasoning": "Llama Llama is exceptionally safe, featuring gentle, relatable conflicts focused entirely on common childhood emotional issues like sharing, separation anxiety, and patience. The show provides positive role modeling through the relationship between Llama Llama and Mama Llama, making it ideal for the preschool demographic.",
+    "ageRecommendation": "2-6",
+    "minAge": 2.0,
+    "maxAge": 6.0,
+    "releaseYear": "2018\u20132019",
+    "runtime": "24m",
+    "stimulationLevel": "Low"
+  },
+  {
+    "id": "tt31974697",
+    "title": "Morphle",
+    "synopsis": "No description found.",
+    "coverImage": "https://m.media-amazon.com/images/M/MV5BZjgwNTE1YjctOGJiMS00MmYwLWEyYzgtNzE2NmIwYmFjOTRmXkEyXkFqcGc@._V1_.jpg",
+    "cast": [
+      "Ben Pronsky",
+      "Ayden Elijah",
+      "Adelynn Spoon"
+    ],
+    "tags": [
+      "Educational"
+    ],
+    "featured": false,
+    "rating": "Safe",
+    "reasoning": "Morphle is a very safe series targeted at preschoolers, emphasizing imaginative play and simple moral lessons (sharing, cooperation). Conflicts are minor and resolved through creative, non-threatening means, usually involving the magic pet changing shape. The show contains no violence, scary imagery, or mature themes.",
+    "ageRecommendation": "2-6",
+    "minAge": 2.0,
+    "maxAge": 6.0,
+    "releaseYear": "2023\u2013Present",
+    "runtime": "",
+    "stimulationLevel": "Medium"
+  },
+  {
+    "id": "tt7978538",
+    "title": "Numberblocks",
+    "synopsis": "Learning numbers and how to count with colourful personified blocks, each with their own quirks.",
+    "coverImage": "https://m.media-amazon.com/images/M/MV5BOTQ2MTZlNjgtNDEyNS00ZTU5LWJlZTEtYWZiMGQ5NjFiN2ExXkEyXkFqcGc@._V1_.jpg",
+    "cast": [
+      "Beth Chalmers",
+      "Teresa Gallagher",
+      "Marcel McCalla"
+    ],
+    "tags": [
+      "Educational"
+    ],
+    "featured": false,
+    "rating": "Safe",
+    "reasoning": "Numberblocks is an extremely safe and gentle educational program designed purely to teach early mathematical literacy to preschoolers. It features bright colors and simple narratives focused on combining and separating numbers, with no violence or scary imagery. The content is ideal for introducing foundational numeracy skills in a fun, positive environment.",
+    "ageRecommendation": "2-7",
+    "minAge": 2.0,
+    "maxAge": 7.0,
+    "releaseYear": "2017\u20132025",
+    "runtime": "5m",
+    "stimulationLevel": "Medium"
+  },
+  {
+    "id": "tt9897038",
+    "title": "Chip and Potato",
+    "synopsis": "Chip, a 4-year-old pug puppy, takes her first steps towards independence at kindergarten with secret friend Potato-a teensy tiny mouse-at her side.",
+    "coverImage": "https://m.media-amazon.com/images/M/MV5BYzBiYzY2ZjYtYjViNC00OTgyLTk0OWEtN2RhZjdkZTQzZjg1XkEyXkFqcGc@._V1_.jpg",
+    "cast": [
+      "Wayne Forester",
+      "Kate Harbour",
+      "Joanna Ruiz"
+    ],
+    "tags": [
+      "LGBTQ+ Themes",
+      "Educational"
+    ],
+    "featured": false,
+    "rating": "Unsafe",
+    "reasoning": "The series is very safe, featuring a gentle tone, low-stakes conflict resolution, and a strong focus on family values and friendship for the preschool audience. It introduces diversity by featuring a same-sex couple as the parents of a side character, which is presented naturally and without controversy. The show is designed to be an appropriate and positive viewing experience for young children.",
+    "ageRecommendation": "2-7",
+    "minAge": 2.0,
+    "maxAge": 7.0,
+    "releaseYear": "2018\u2013Present",
+    "runtime": "23m",
+    "stimulationLevel": "Medium"
   }
 ]

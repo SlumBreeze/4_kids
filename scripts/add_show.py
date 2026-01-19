@@ -2,6 +2,7 @@ import json
 import os
 import re
 import requests
+import sys
 from urllib.parse import quote
 
 from bs4 import BeautifulSoup
@@ -200,6 +201,7 @@ def save_shows(shows):
         json.dump(shows, f, indent=2)
 
 def main():
+    use_ai = "--no-ai" not in sys.argv
     console.rule("[bold blue]KidShow Scout - Data Ingestion Tool[/]")
 
     while True:
@@ -230,37 +232,49 @@ def main():
         console.print(f"[yellow]Fetching IMDb details for {selected['title']}...[/]")
         details = get_movie_details(selected['id'])
 
-        # 3. AI Safety Assessment (optional)
+        # 3. Manual Safety Assessment (primary)
         console.rule("[bold green]Safety Assessment[/]")
-        ai_data = get_ai_safety_assessment(selected["title"], selected.get("year", ""))
-
         tags = []
-        reasoning = ""
-        min_age = 0.0
-        max_age = 99.0
-        stim_level = "Medium"
+        if Confirm.ask("Does this show have [bold red]LGBTQ+ Themes[/]?"): tags.append("LGBTQ+ Themes")
+        if Confirm.ask("Does it contain [bold red]Violence[/]?"): tags.append("Violence")
+        if Confirm.ask("Is it [bold blue]Educational[/]?"): tags.append("Educational")
+        reasoning = Prompt.ask("Enter reasoning/opinion (Why is it safe/unsafe?)")
+        min_age = parse_age_input("Minimum Age (e.g. 0.5, 3, 7, 6m)")
+        max_age = parse_age_input("Maximum Age (e.g. 5, 12, 99, 18m)", default="99")
+        stim_level = Prompt.ask("Stimulation Level", choices=["Low", "Medium", "High"], default="Medium")
+
+        # 4. Optional AI Safety Assessment (compare/replace)
+        if use_ai and Confirm.ask("Run AI assessment for comparison?", default=False):
+            ai_data = get_ai_safety_assessment(selected["title"], selected.get("year", ""))
+        else:
+            ai_data = None
 
         if ai_data:
-            if ai_data.get("has_lgbtq"): tags.append("LGBTQ+ Themes")
-            if ai_data.get("has_violence"): tags.append("Violence")
-            if ai_data.get("is_educational"): tags.append("Educational")
+            ai_tags = []
+            if ai_data.get("has_lgbtq"): ai_tags.append("LGBTQ+ Themes")
+            if ai_data.get("has_violence"): ai_tags.append("Violence")
+            if ai_data.get("is_educational"): ai_tags.append("Educational")
 
-            reasoning = ai_data.get("reasoning", "")
-            min_age = normalize_age_value(ai_data.get("min_age", 0))
-            max_age = normalize_age_value(ai_data.get("max_age", 99))
-            stim_level = ai_data.get("stimulation_level", "Medium")
+            ai_reasoning = ai_data.get("reasoning", "")
+            ai_min_age = normalize_age_value(ai_data.get("min_age", 0))
+            ai_max_age = normalize_age_value(ai_data.get("max_age", 99))
+            ai_stim_level = ai_data.get("stimulation_level", "Medium")
 
             console.print(Panel(f"""
 [bold]AI Assessment:[/bold]
-[cyan]Tags:[/cyan] {', '.join(tags) if tags else 'None'}
-[cyan]Ages:[/cyan] {min_age} - {max_age}
-[cyan]Stimulation:[/cyan] {stim_level}
-[cyan]Reasoning:[/cyan] {reasoning}
+[cyan]Tags:[/cyan] {', '.join(ai_tags) if ai_tags else 'None'}
+[cyan]Ages:[/cyan] {ai_min_age} - {ai_max_age}
+[cyan]Stimulation:[/cyan] {ai_stim_level}
+[cyan]Reasoning:[/cyan] {ai_reasoning}
 """, title="Safety Report", border_style="green"))
 
-            if not Confirm.ask("Keep this assessment?", default=True):
-                ai_data = None
-            elif Confirm.ask("Quick-edit any fields?", default=False):
+            if Confirm.ask("Replace manual assessment with AI?", default=False):
+                tags = ai_tags
+                reasoning = ai_reasoning
+                min_age = ai_min_age
+                max_age = ai_max_age
+                stim_level = ai_stim_level
+            elif Confirm.ask("Quick-edit manual fields?", default=False):
                 if Confirm.ask("Edit tags?", default=False):
                     tags = []
                     if Confirm.ask("Does this show have [bold red]LGBTQ+ Themes[/]?"): tags.append("LGBTQ+ Themes")
@@ -273,17 +287,6 @@ def main():
                     stim_level = Prompt.ask("Stimulation Level", choices=["Low", "Medium", "High"], default=stim_level)
                 if Confirm.ask("Edit reasoning?", default=False):
                     reasoning = Prompt.ask("Enter reasoning/opinion (Why is it safe/unsafe?)", default=reasoning)
-
-        # Manual Override / Fallback
-        if not ai_data:
-            tags = []
-            if Confirm.ask("Does this show have [bold red]LGBTQ+ Themes[/]?"): tags.append("LGBTQ+ Themes")
-            if Confirm.ask("Does it contain [bold red]Violence[/]?"): tags.append("Violence")
-            if Confirm.ask("Is it [bold blue]Educational[/]?"): tags.append("Educational")
-            reasoning = Prompt.ask("Enter reasoning/opinion (Why is it safe/unsafe?)")
-            min_age = parse_age_input("Minimum Age (e.g. 0.5, 3, 7, 6m)")
-            max_age = parse_age_input("Maximum Age (e.g. 5, 12, 99, 18m)", default="99")
-            stim_level = Prompt.ask("Stimulation Level", choices=["Low", "Medium", "High"], default="Medium")
 
         # Smart Default for Rating
         rating = "Safe"
