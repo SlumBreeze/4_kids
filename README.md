@@ -43,6 +43,7 @@ python scripts/add_show.py
 Notes:
 - The script can overwrite existing entries if you confirm.
 - It auto-scrapes description, runtime, image, and year range when available.
+- Ages in the scraper use a compact format: whole numbers are years, decimals under 1 are months (e.g. `0.5` means 5 months).
 - If you see `ModuleNotFoundError`, install dependencies with
   `python -m pip install -r scripts/requirements.txt` or use a virtual env.
 

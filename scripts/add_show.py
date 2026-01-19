@@ -166,7 +166,6 @@ Fields required:
 - has_lgbtq (boolean): true if it contains LGBTQ+ themes.
 - has_violence (boolean): true if it contains violence or scary imagery.
 - is_educational (boolean): true if it is educational.
-- is_comedy (boolean): true if it is a comedy.
 - reasoning (string): 2-3 sentences on why it is safe/unsafe.
 - min_age (number): Absolute minimum safe age (e.g. 0.5, 5).
 - max_age (number): Age where kids typically lose interest (e.g. 7, 12).
@@ -245,7 +244,6 @@ def main():
             if ai_data.get("has_lgbtq"): tags.append("LGBTQ+ Themes")
             if ai_data.get("has_violence"): tags.append("Violence")
             if ai_data.get("is_educational"): tags.append("Educational")
-            if ai_data.get("is_comedy"): tags.append("Comedy")
 
             reasoning = ai_data.get("reasoning", "")
             min_age = normalize_age_value(ai_data.get("min_age", 0))
@@ -268,7 +266,6 @@ def main():
                     if Confirm.ask("Does this show have [bold red]LGBTQ+ Themes[/]?"): tags.append("LGBTQ+ Themes")
                     if Confirm.ask("Does it contain [bold red]Violence[/]?"): tags.append("Violence")
                     if Confirm.ask("Is it [bold blue]Educational[/]?"): tags.append("Educational")
-                    if Confirm.ask("Is it a [bold magenta]Comedy[/]?"): tags.append("Comedy")
                 if Confirm.ask("Edit ages?", default=False):
                     min_age = parse_age_input("Minimum Age (e.g. 0.5, 3, 7, 6m)", default=str(min_age))
                     max_age = parse_age_input("Maximum Age (e.g. 5, 12, 99, 18m)", default=str(max_age))
@@ -283,7 +280,6 @@ def main():
             if Confirm.ask("Does this show have [bold red]LGBTQ+ Themes[/]?"): tags.append("LGBTQ+ Themes")
             if Confirm.ask("Does it contain [bold red]Violence[/]?"): tags.append("Violence")
             if Confirm.ask("Is it [bold blue]Educational[/]?"): tags.append("Educational")
-            if Confirm.ask("Is it a [bold magenta]Comedy[/]?"): tags.append("Comedy")
             reasoning = Prompt.ask("Enter reasoning/opinion (Why is it safe/unsafe?)")
             min_age = parse_age_input("Minimum Age (e.g. 0.5, 3, 7, 6m)")
             max_age = parse_age_input("Maximum Age (e.g. 5, 12, 99, 18m)", default="99")
@@ -311,6 +307,7 @@ def main():
             "coverImage": details['image'] if details['image'] else selected['image'],
             "cast": details['cast'],
             "tags": tags,
+            "featured": False,
             "rating": rating,
             "reasoning": reasoning,
             "ageRecommendation": f"{format_age_label(min_age)}+" if max_age == 99 else f"{format_age_label(min_age)}-{format_age_label(max_age)}",

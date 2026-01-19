@@ -2,7 +2,6 @@ export type ContentTag =
   | "Educational"
   | "Fantasy"
   | "Action"
-  | "Comedy"
   | "LGBTQ+ Themes"
   | "Violence"
   | "Scary Imagery"
@@ -19,6 +18,7 @@ export interface Show {
   coverImage: string; // URL mock
   cast: string[];
   tags: ContentTag[];
+  featured?: boolean;
   rating: SafetyRating;
   reasoning: string; // "Why" it's good or bad
   ageRecommendation: string;

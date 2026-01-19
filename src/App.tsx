@@ -1,9 +1,13 @@
 import { useState, useMemo } from "react";
-import { Show } from "./types";
+import { Show, StimulationLevel } from "./types";
 import { mockShows } from "./data/mockShows";
 import { filterShows } from "./utils/filter";
 import { ShowCard } from "./components/ShowCard";
 import { AgeFilter, AGE_BUCKETS, AgeBucket } from "./components/AgeFilter";
+import {
+  StimulationFilter,
+  StimulationFilterValue,
+} from "./components/StimulationFilter";
 import { ShowDetailModal } from "./components/ShowDetailModal";
 import "./App.css";
 
@@ -12,10 +16,23 @@ function App() {
   const [selectedBucket, setSelectedBucket] = useState<AgeBucket>(
     AGE_BUCKETS[0],
   );
+  const [selectedStimulation, setSelectedStimulation] =
+    useState<StimulationFilterValue>("All");
   const [selectedShow, setSelectedShow] = useState<Show | null>(null);
+  const homePicks = useMemo(() => {
+    const base = filterShows(mockShows, "").filter(
+      (show) => show.rating !== "Unsafe",
+    );
+    const shuffled = [...base].sort(() => Math.random() - 0.5);
+    return shuffled.slice(0, 6);
+  }, []);
 
   const filteredShows = useMemo(() => {
     let shows = filterShows(mockShows, searchTerm);
+    const isHomepage =
+      !searchTerm &&
+      selectedBucket.label === "All Ages" &&
+      selectedStimulation === "All";
 
     if (selectedBucket.label !== "All Ages") {
       shows = shows.filter((show) => {
@@ -25,8 +42,19 @@ function App() {
       });
     }
 
+    if (selectedStimulation !== "All") {
+      shows = shows.filter((show) => {
+        const stim = (show.stimulationLevel || "Medium") as StimulationLevel;
+        return stim === selectedStimulation;
+      });
+    }
+
+    if (isHomepage) {
+      shows = homePicks;
+    }
+
     return shows;
-  }, [searchTerm, selectedBucket]);
+  }, [searchTerm, selectedBucket, selectedStimulation, homePicks]);
 
   return (
     <div className="app-container">
@@ -74,6 +102,10 @@ function App() {
           <AgeFilter
             selectedLabel={selectedBucket.label}
             onSelect={setSelectedBucket}
+          />
+          <StimulationFilter
+            selected={selectedStimulation}
+            onSelect={setSelectedStimulation}
           />
 
           <div className="shows-grid">

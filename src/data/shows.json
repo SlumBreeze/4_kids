@@ -10,8 +10,7 @@
       "Ava Madison Gray"
     ],
     "tags": [
-      "Educational",
-      "Comedy"
+      "Educational"
     ],
     "rating": "Safe",
     "reasoning": "The content is physically safe, featuring non-violent, lighthearted nursery rhymes and basic social/educational concepts for infants and toddlers. However, the show is widely criticized for its extremely high stimulation level, including rapid pacing, frantic scene cuts, and over-saturated colors which can condition children to crave constant sensory input. The spin-off *Cocomelon Lane* also includes an episode featuring a same-sex couple.",
@@ -34,8 +33,7 @@
     ],
     "tags": [
       "LGBTQ+ Themes",
-      "Violence",
-      "Comedy"
+      "Violence"
     ],
     "rating": "Unsafe",
     "reasoning": "The show is safe for older children and teens, but the fantasy violence, complex horror elements, and mature themes may be frightening or confusing for younger viewers. It features prominent LGBTQ+ representation, positive themes of self-acceptance, and deep narratives on found family, which is highly beneficial for its target audience.",
@@ -57,8 +55,7 @@
       "Heather Bambrick"
     ],
     "tags": [
-      "Educational",
-      "Comedy"
+      "Educational"
     ],
     "rating": "Safe",
     "reasoning": "This show is extremely safe and educational, focusing on social-emotional development for preschoolers, with \"zero concerning content\" such as violence or toxicity. Its gentle pacing and use of simple songs and stories make it a constructive and benign viewing experience for young children.",
@@ -67,7 +64,8 @@
     "maxAge": 5.0,
     "releaseYear": "2012\u00e2\u20ac\u201cPresent",
     "runtime": "26 min",
-    "stimulationLevel": "Low"
+    "stimulationLevel": "Low",
+    "featured": true
   },
   {
     "id": "tt0487849",
@@ -80,8 +78,7 @@
       "Rowan Alltraine"
     ],
     "tags": [
-      "Educational",
-      "Comedy"
+      "Educational"
     ],
     "rating": "Safe",
     "reasoning": "This show is highly safe, featuring a simple, minimalist visual style on a white background that minimizes overstimulation. The narrative focuses on social-emotional learning, like manners, sharing, and problem-solving, through gentle, universal physical comedy and interaction with the narrator. It is appropriate and benign for the target audience of toddlers and preschoolers.",
@@ -103,8 +100,7 @@
       "Brad Elliott"
     ],
     "tags": [
-      "Educational",
-      "Comedy"
+      "Educational"
     ],
     "rating": "Safe",
     "reasoning": "Bluey is exceptionally safe, modeling positive family interactions, emotional intelligence, and non-violent conflict resolution. Its primary focus is on imaginative play, social skills development, and empathy, making it a highly recommended show.",
@@ -113,7 +109,8 @@
     "maxAge": 7.0,
     "releaseYear": "2018\u2013Present",
     "runtime": "7m",
-    "stimulationLevel": "Medium"
+    "stimulationLevel": "Medium",
+    "featured": true
   },
   {
     "id": "tt32328599",
@@ -126,8 +123,7 @@
       "Chris Brumm"
     ],
     "tags": [
-      "Educational",
-      "Comedy"
+      "Educational"
     ],
     "rating": "Safe",
     "reasoning": "The Bluey Minisodes are extremely safe, focusing entirely on gentle imaginative play, family dynamics, and social-emotional learning. The episodes contain no violence, scary imagery, or complex adult themes, making them perfect for very young viewers. Their short length and positive tone promote emotional development and healthy family interaction.",
@@ -149,8 +145,7 @@
       "John Simmit"
     ],
     "tags": [
-      "Educational",
-      "Comedy"
+      "Educational"
     ],
     "rating": "Safe",
     "reasoning": "Teletubbies is exceptionally safe for its target audience (infants and toddlers), utilizing repetition and simple vocabulary to aid language development. It features no violence, conflict, or scary themes, focusing instead on gentle play and friendship.",
@@ -159,6 +154,300 @@
     "maxAge": 4.0,
     "releaseYear": "1997\u20132001",
     "runtime": "28m",
+    "stimulationLevel": "Low",
+    "featured": true
+  },
+  {
+    "id": "tt9165438",
+    "title": "Gabby's Dollhouse",
+    "synopsis": "Kitty enthusiast Gabby and her sidekick Pandy Paws team up for a series of animated adventures.",
+    "coverImage": "https://m.media-amazon.com/images/M/MV5BYjQ5ZjA1NDQtMmVhOS00ZWUyLWI5ZDktODU4MWUyYTljODkwXkEyXkFqcGc@._V1_.jpg",
+    "cast": [
+      "Laila Lockhart Kraner",
+      "Juliet Donenfeld",
+      "Donovan Patton"
+    ],
+    "tags": [
+      "Educational"
+    ],
+    "rating": "Safe",
+    "reasoning": "Gabby's Dollhouse is highly safe and appropriate for preschoolers, focusing on positive themes like friendship, imaginative play, and simple STEAM concepts. The show is very gentle, features no scary imagery or violence, and promotes kindness and emotional regulation. It is suitable for quiet co-viewing or independent watching.",
+    "ageRecommendation": "2-7",
+    "minAge": 2.0,
+    "maxAge": 7.0,
+    "releaseYear": "2021\u2013Present",
+    "runtime": "24m",
+    "stimulationLevel": "Medium"
+  },
+  {
+    "id": "tt32214143",
+    "title": "Gabby's Dollhouse: The Movie",
+    "synopsis": "Gabby and Grandma Gigi&apos;s road trip takes an unexpected turn when Gabby&apos;s prized dollhouse ends up with eccentric cat lady Vera. Gabby embarks on a adventure to reunite the Gabby Cats and retrieve her beloved dollhouse before it&apos;s ...",
+    "coverImage": "https://m.media-amazon.com/images/M/MV5BMmUwNTg3ODMtZGQxZi00Y2VmLWJhMTEtZTc5ZGM1Nzc5MDViXkEyXkFqcGc@._V1_.jpg",
+    "cast": [
+      "Laila Lockhart Kraner",
+      "Kristen Wiig",
+      "Gloria Estefan"
+    ],
+    "tags": [
+      "Educational"
+    ],
+    "rating": "Safe",
+    "reasoning": "Gabby's Dollhouse: The Movie is expected to maintain the gentle, low-conflict format of the series, making it highly safe for toddlers and preschoolers. It focuses on imagination, crafting, friendship, and basic problem-solving skills, reinforcing positive behaviors. The content is brightly colored, calm, and free of scary or violent imagery.",
+    "ageRecommendation": "2-7",
+    "minAge": 2.0,
+    "maxAge": 7.0,
+    "releaseYear": "2025",
+    "runtime": "1 hr 38 min",
     "stimulationLevel": "Low"
+  },
+  {
+    "id": "tt3590338",
+    "title": "Puffin Rock",
+    "synopsis": "Puffin Rock follows the adventures of Oona, her little brother Baba, and their family and friends on a gorgeous and wild Irish island.",
+    "coverImage": "https://m.media-amazon.com/images/M/MV5BMjVlNWM4ZjQtMTAyZS00NzM1LThlZjYtN2JmZDJhMDU2ZWUwXkEyXkFqcGc@._V1_.jpg",
+    "cast": [
+      "Kate McCafferty",
+      "Chris O&apos;Dowd",
+      "Sally McDaid"
+    ],
+    "tags": [
+      "Educational"
+    ],
+    "rating": "Safe",
+    "reasoning": "Puffin Rock is exceptionally safe, featuring very gentle narratives about nature, family bonds, and social-emotional learning. The pacing is slow and soothing, making it perfect for toddlers and preschoolers without any frightening or violent elements.",
+    "ageRecommendation": "2-6",
+    "minAge": 2.0,
+    "maxAge": 6.0,
+    "releaseYear": "2015\u20132016",
+    "runtime": "7m",
+    "stimulationLevel": "Low",
+    "featured": true
+  },
+  {
+    "id": "tt3121722",
+    "title": "PAW Patrol",
+    "synopsis": "Led by a boy named Ryder, a team of six playful rescue dogs use their individual talents to protect the seaside town of Adventure Bay.",
+    "coverImage": "https://m.media-amazon.com/images/M/MV5BODg0NDY1MjktMzA5MS00OGQ2LTliMWItZTdmZjNlYzQ2MWM1XkEyXkFqcGc@._V1_.jpg",
+    "cast": [
+      "Ron Pardo",
+      "Justin Paul Kelly",
+      "Kallan Holley"
+    ],
+    "tags": [
+      "Educational"
+    ],
+    "rating": "Safe",
+    "reasoning": "PAW Patrol is a highly safe show for preschoolers, emphasizing positive themes like community service, teamwork, and non-violent problem-solving. The plot lines are predictable and gentle, ensuring no frightening or overly stimulating content for young viewers. It promotes civic responsibility and teaches basic safety concepts.",
+    "ageRecommendation": "2-7",
+    "minAge": 2.0,
+    "maxAge": 7.0,
+    "releaseYear": "2013\u2013Present",
+    "runtime": "23m",
+    "stimulationLevel": "Medium"
+  },
+  {
+    "id": "tt31624609",
+    "title": "Little Angel",
+    "synopsis": "Little Angel is an animated musical show for pre-schoolers. The show has been captivating families around the world with its cheeky humor and catchy upbeat songs.",
+    "coverImage": "https://m.media-amazon.com/images/M/MV5BMWY4OTZmZmUtOGI1OS00YmUwLTllMmYtY2Y5MmFiYjE3Y2I0XkEyXkFqcGc@._V1_.jpg",
+    "cast": [
+      "Jenny W. Chan",
+      "Gracia Damsgard",
+      "Jordan Schreiber"
+    ],
+    "tags": [
+      "Educational"
+    ],
+    "rating": "Safe",
+    "reasoning": "Little Angel is extremely safe, focusing entirely on educational content like learning numbers, colors, and positive social behavior through simple songs and gentle animation. There are no elements of violence, mature themes, or frightening imagery, making it highly suitable for the youngest viewers. The series promotes positive family interactions and basic cognitive skill development.",
+    "ageRecommendation": "5mo-5",
+    "minAge": 0.5,
+    "maxAge": 5.0,
+    "releaseYear": "2021\u2013Present",
+    "runtime": "",
+    "stimulationLevel": "Medium"
+  },
+  {
+    "id": "tt9288860",
+    "title": "Trash Truck",
+    "synopsis": "Six-year old Hank and his best pal, a giant trash truck, explore the world around them on fantastical adventures with their animal friends.",
+    "coverImage": "https://m.media-amazon.com/images/M/MV5BM2U3ZTM3ZDYtMGQyMi00ZTkxLTg1NDQtMGUxZmZjNTUyODUwXkEyXkFqcGc@._V1_.jpg",
+    "cast": [
+      "Henry Keane",
+      "Glen Keane",
+      "Lucas Neff"
+    ],
+    "tags": [
+      "Educational"
+    ],
+    "rating": "Safe",
+    "reasoning": "Trash Truck is extremely safe and appropriate for young viewers, emphasizing imaginative play, friendship, and gentle humor. The show contains no violence, scary themes, or conflict, making it ideal for toddlers and preschoolers. Its simple, positive narratives promote emotional learning and curiosity about the world.",
+    "ageRecommendation": "2-6",
+    "minAge": 2.0,
+    "maxAge": 6.0,
+    "releaseYear": "2020\u20132021",
+    "runtime": "",
+    "stimulationLevel": "Low"
+  },
+  {
+    "id": "tt33522709",
+    "title": "Blippi's Job Show",
+    "synopsis": "Blippi and Meekah&apos;s mission is to learn all kinds of jobs. From driving monster trucks to making pizzas, all jobs are equally important.",
+    "coverImage": "https://m.media-amazon.com/images/M/MV5BZWRhYTI4MDgtOWU1Yy00ZGYxLTg5ZTItOGZkM2EyNzAzYzRkXkEyXkFqcGc@._V1_.jpg",
+    "cast": [
+      "Clayton Grimm",
+      "Cashae Monya",
+      "Sarah Nicklin"
+    ],
+    "tags": [
+      "Educational"
+    ],
+    "rating": "Safe",
+    "reasoning": "This show is highly safe, featuring educational content centered around careers, community helpers, and real-world functions presented in an accessible format for young children. It contains no violence or complex themes, making it appropriate for preschoolers, although the rapid pacing and high energy level are characteristic of the Blippi brand.",
+    "ageRecommendation": "2-6",
+    "minAge": 2.0,
+    "maxAge": 6.0,
+    "releaseYear": "2025\u2013Present",
+    "runtime": "",
+    "stimulationLevel": "High"
+  },
+  {
+    "id": "tt5235950",
+    "title": "Word Party",
+    "synopsis": "Four adorable animal babies need your help to learn lots of skills - especially how to talk.",
+    "coverImage": "https://m.media-amazon.com/images/M/MV5BZmZlYTg4MmEtZTNiYS00OTFhLTkwZjItNzQwZGU2YzdhMGM5XkEyXkFqcGc@._V1_.jpg",
+    "cast": [
+      "Dorien Davies",
+      "Misty Rosas",
+      "Donna Kimball"
+    ],
+    "tags": [
+      "Educational"
+    ],
+    "rating": "Safe",
+    "reasoning": "Word Party is extremely safe, utilizing gentle puppet characters to teach basic vocabulary and social skills. The show is non-violent, lacks scary imagery, and features a slow, repetitive format ideal for toddler learning. This program is highly recommended for its clear educational focus on early literacy and cooperative play.",
+    "ageRecommendation": "1-4",
+    "minAge": 1.0,
+    "maxAge": 4.0,
+    "releaseYear": "2016\u20132021",
+    "runtime": "11m",
+    "stimulationLevel": "Low",
+    "featured": true
+  },
+  {
+    "id": "tt4291050",
+    "title": "Hey Duggee",
+    "synopsis": "Duggee looks after the Squirrels, who earn different badges on their adventures.",
+    "coverImage": "https://m.media-amazon.com/images/M/MV5BMTQ3NjYxNjYxNV5BMl5BanBnXkFtZTgwMzc1Mzg1NDE@._V1_.jpg",
+    "cast": [
+      "Alexander Armstrong",
+      "Sander Jones",
+      "Jasmine Bartholomew"
+    ],
+    "tags": [
+      "Educational"
+    ],
+    "rating": "Safe",
+    "reasoning": "Hey Duggee is exceptionally safe, utilizing simple animation, clear narration, and positive messaging to teach preschoolers about friendship, cooperation, and skill-building. The series focuses entirely on earning badges through gentle educational activities and contains no violence or frightening imagery.",
+    "ageRecommendation": "1-5",
+    "minAge": 1.0,
+    "maxAge": 5.0,
+    "releaseYear": "2014\u2013Present",
+    "runtime": "7m",
+    "stimulationLevel": "Medium",
+    "featured": true
+  },
+  {
+    "id": "tt19883592",
+    "title": "Sea of Love",
+    "synopsis": "Sea animal friends Bruda, Bobbi, Wayu and Puri go on mini adventures in the ocean, where relatable, everyday moments come with a splash of magic.",
+    "coverImage": "https://m.media-amazon.com/images/M/MV5BMTQyN2I4Y2EtMjgzOC00NGFhLWEwYzUtODczYjZiMDg0OTcyXkEyXkFqcGc@._V1_.jpg",
+    "cast": [
+      "Rishi Kuppa",
+      "Mila Lieu",
+      "Archer Brandon"
+    ],
+    "tags": [
+      "Educational"
+    ],
+    "rating": "Safe",
+    "reasoning": "This show is extremely safe, featuring gentle animated marine life designed for toddlers. It focuses on basic educational themes like colors, animals, and simple social skills. The content contains no violence, scary imagery, or complex adult themes.",
+    "ageRecommendation": "1-5",
+    "minAge": 1.0,
+    "maxAge": 5.0,
+    "releaseYear": "2022\u2013Present",
+    "runtime": "10m",
+    "stimulationLevel": "Medium"
+  },
+  {
+    "id": "tt8115702",
+    "title": "Go! Go! Cory Carson",
+    "synopsis": "Based on the Go. Go. toy line from VTech, children&apos;s series follows the adventures of Cory Carson.",
+    "coverImage": "https://m.media-amazon.com/images/M/MV5BZDQyODljMTItMDk2YS00ZDMzLTg2NmUtY2FkOTQxNzQzMmNjXkEyXkFqcGc@._V1_.jpg",
+    "cast": [
+      "Alan C. Lim",
+      "Maisie Benson",
+      "Kerry Gudjohnsen"
+    ],
+    "tags": [
+      "Educational"
+    ],
+    "featured": false,
+    "rating": "Safe",
+    "reasoning": "This show is very safe and specifically targets social-emotional learning, focusing on themes like friendship, responsibility, and kindness. The conflicts are mild and easily resolved, making it appropriate for young toddlers and preschoolers. The content is non-violent and highly positive.",
+    "ageRecommendation": "2-5",
+    "minAge": 2.0,
+    "maxAge": 5.0,
+    "releaseYear": "2020\u2013Present",
+    "runtime": "11m",
+    "stimulationLevel": "Medium"
+  },
+  {
+    "id": "tt30797164",
+    "title": "Bebefinn",
+    "synopsis": "Join baby Finn and his family on fun-filled adventures while learning something new every time. Get ready to sing and dance.",
+    "coverImage": "https://m.media-amazon.com/images/M/MV5BMzllM2QzYmQtNWY4Yi00MTYxLWIzYTMtYzJkMWQ4M2FjNzllXkEyXkFqcGc@._V1_.jpg",
+    "cast": [
+      "Sarah Bock",
+      "Selina Wiesmann",
+      "Scarlett Unger"
+    ],
+    "tags": [
+      "Educational"
+    ],
+    "featured": false,
+    "rating": "Safe",
+    "reasoning": "Bebefinn is extremely safe, featuring gentle animation, repetitive songs, and positive family interactions. The content focuses on basic educational themes like daily routines, colors, and counting, making it ideal for infants and toddlers. It contains no scary, violent, or concerning themes.",
+    "ageRecommendation": "5mo-4",
+    "minAge": 0.5,
+    "maxAge": 4.0,
+    "releaseYear": "2022\u2013Present",
+    "runtime": "",
+    "stimulationLevel": "Medium"
+  },
+  {
+    "id": "tt15040002",
+    "title": "CoComelon Lane",
+    "synopsis": "The adventures of JJ and his friends as they experience life as little kids.",
+    "coverImage": "https://m.media-amazon.com/images/M/MV5BNGM5Yjc4ZjgtYmY3OS00ZWZhLWFkOTUtNzQ0MGE2MTYwN2JmXkEyXkFqcGc@._V1_.jpg",
+    "cast": [
+      "Cruze McKinnon",
+      "Sebastian Billingsley-Rodriguez",
+      "Diana Tsoy"
+    ],
+    "tags": [
+      "LGBTQ+ Themes",
+      "Educational"
+    ],
+    "featured": false,
+    "rating": "Unsafe",
+    "reasoning": "CoComelon Lane is a safe, educational series for preschoolers that focuses on themes of family, community, and social-emotional growth, all presented without violence or foul language. This spinoff introduces a more traditional narrative structure than the original Cocomelon, which makes it less visually intense, though it does include mild, age-appropriate LGBTQ+ representation like a child with two dads and themes of self-expression. It is appropriate for the target age group as a tool for teaching kindness and consideration.",
+    "ageRecommendation": "2-5",
+    "minAge": 2.0,
+    "maxAge": 5.0,
+    "releaseYear": "2023\u2013Present",
+    "runtime": "25m",
+    "stimulationLevel": "Medium"
   }
 ]
