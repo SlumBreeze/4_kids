@@ -1,852 +1,199 @@
 [
   {
-    "tmdb_id": 3022,
+    "tmdb_id": 65268,
     "media_type": "tv",
-    "title": "Rugrats",
-    "original_title": "Rugrats",
-    "overview": "Focuses on a group of toddlers, most prominently Tommy, Chuckie, Phil, Lil, and Angelica, and their day-to-day lives, usually involving common life experiences that become adventures in the babies' imaginations. Adults in the series are almost always unaware of what the children are up to; however, this only provides more room for the babies to explore and discover their surroundings.",
-    "poster_path": "/wmsINbZuEBLNP2Z26Xffx5NHJpW.jpg",
-    "release_date": "1991-08-11",
-    "vote_average": 7.614,
-    "vote_count": 734,
-    "popularity": 26.33,
+    "title": "Care Bears: Welcome to Care-a-Lot",
+    "original_title": "Care Bears: Welcome to Care-a-Lot",
+    "overview": "The Care Bears try to help kids and have fun in Care-a-Lot, but must contend with the antics of the mischievous Beastly and the young Beasties.",
+    "poster_path": "/jXkGRKryLYmbYuYQpAgxW46atVt.jpg",
+    "release_date": "2012-06-02",
+    "vote_average": 6.8,
+    "vote_count": 10,
+    "popularity": 2.7959,
     "genre_ids": [
-      10751,
       16,
+      10751,
       10762,
       35
     ]
   },
   {
-    "tmdb_id": 4630,
+    "tmdb_id": 13712,
     "media_type": "tv",
-    "title": "The Fairly OddParents",
-    "original_title": "The Fairly OddParents",
-    "overview": "The zany, fast-paced adventures of a 10-year-old boy and his fairy godparents, who inadvertently create havoc as they grant wishes for their pint-sized charge.",
-    "poster_path": "/3ryMj7tIvVtiXyI2tLvHYTjOjq4.jpg",
-    "release_date": "2001-03-30",
-    "vote_average": 7.6,
-    "vote_count": 1068,
-    "popularity": 25.1288,
+    "title": "Oswald",
+    "original_title": "Oswald",
+    "overview": "The story of a blue octopus and his dog that looks like a hotdog, named Weenie, and their friends like Daisy the daisy, and Henry the penguin. They go on adventures in their town that usually involve a problem that needs to be solved.",
+    "poster_path": "/A0FBRubIK3ys3zolPDQFVxt1DgA.jpg",
+    "release_date": "2001-08-20",
+    "vote_average": 7.1,
+    "vote_count": 33,
+    "popularity": 3.1338,
     "genre_ids": [
       16,
-      35,
-      10765,
-      10762,
-      10751
+      10751,
+      10762
     ]
   },
   {
-    "tmdb_id": 607,
+    "tmdb_id": 14759,
     "media_type": "tv",
-    "title": "The Powerpuff Girls",
-    "original_title": "The Powerpuff Girls",
-    "overview": "The Powerpuff Girls is a animated television series about Blossom, Bubbles, and Buttercup, three kindergarten-aged girls with superpowers, as well as their \"father\", the brainy scientist Professor Utonium, who all live in the fictional city of Townsville, USA. The girls are frequently called upon by the town's childlike and naive mayor to help fight nearby criminals using their powers.",
-    "poster_path": "/4CMPCuP6ihU5UvTStv23aGEEMuC.jpg",
-    "release_date": "1998-11-18",
-    "vote_average": 7.5,
-    "vote_count": 968,
-    "popularity": 20.4637,
-    "genre_ids": [
-      10759,
-      16,
-      35,
-      10762,
-      10751
-    ]
-  },
-  {
-    "tmdb_id": 63401,
-    "media_type": "tv",
-    "title": "We Bare Bears",
-    "original_title": "We Bare Bears",
-    "overview": "Three brother bears awkwardly attempt to find their place in civilized  society, whether they're looking for food, trying to make human friends,  or scheming to become famous on the internet. Grizzly, Panda and Ice  Bear stack atop one another when they leave their cave and explore the  hipster environs of the San Francisco Bay Area, and it's clear the  siblings have a lot to learn about a technologically driven world. By  their side on many adventures are best friend Chloe (the only human  character in the cast), fame-obsessed panda Nom Nom, and Charlie, aka  Bigfoot.",
-    "poster_path": "/3xWzlLZ0kAD6SkVZTekFM9lxZyP.jpg",
-    "release_date": "2015-08-24",
-    "vote_average": 7.723,
-    "vote_count": 1823,
-    "popularity": 19.7936,
+    "title": "Yo Gabba Gabba!",
+    "original_title": "Yo Gabba Gabba!",
+    "overview": "Yo Gabba Gabba! is an American children's television show that airs on the Nick Jr. cable network in the United States and the Nick Jr. networks in the United Kingdom & Ireland, Italy, France and Australia as well as Treehouse TV network in Canada and RTE2 on RTÉjr in Ireland.  The show stars five costumed toys-come-to-life and their friend DJ Lance Rock, who explore a single topic in each episode through songs and short storylines in the half-hour program while teaching children life and social skills.  It also encourages viewers to move along with and dance with the characters in the program. The show is noted for its indie-culture guest stars and bands, and for drawing visual inspiration from 8-bit video games and H. R. Pufnstuff.",
+    "poster_path": "/h8UHNBBnJwdXVtMIA5OAxJoXWid.jpg",
+    "release_date": "2007-08-20",
+    "vote_average": 7.083,
+    "vote_count": 24,
+    "popularity": 3.2881,
     "genre_ids": [
       10751,
-      35,
       16,
       10762
     ]
   },
   {
-    "tmdb_id": 68073,
+    "tmdb_id": 256953,
     "media_type": "tv",
-    "title": "The Loud House",
-    "original_title": "The Loud House",
-    "overview": "Welcome to the Loud House, where life can get pretty crazy. One boy, TEN girls?! Lincoln Loud wouldn’t change it for the world!",
-    "poster_path": "/v0xMCeZIkgBUQtiije0IDc8ReHr.jpg",
-    "release_date": "2016-05-02",
-    "vote_average": 7.846,
-    "vote_count": 551,
-    "popularity": 19.2199,
+    "title": "Bluey Minisodes",
+    "original_title": "Bluey Minisodes",
+    "overview": "A collection of funny and sweet episodes featuring Bluey and her family and friends. This collection of every day moments introduces some new characters and games they have been playing together.",
+    "poster_path": "/xqHt3vc3iKnnp2yuMP2Y4RAZF1Q.jpg",
+    "release_date": "2024-06-16",
+    "vote_average": 8.0,
+    "vote_count": 36,
+    "popularity": 3.1815,
     "genre_ids": [
       16,
+      10751,
+      10762
+    ]
+  },
+  {
+    "tmdb_id": 234800,
+    "media_type": "tv",
+    "title": "Curses!",
+    "original_title": "Curses!",
+    "overview": "The Vanderhouvens are a typical family...except a curse recently turned Alex—their loving husband and father—to stone. In order to save him, his wife and kids set out on spine-tingling adventures to return ancient artifacts stolen by an ancestor.",
+    "poster_path": "/sB0pjty0yMjCXJG0X2I8zu8fM57.jpg",
+    "release_date": "2023-10-26",
+    "vote_average": 6.2,
+    "vote_count": 17,
+    "popularity": 3.1991,
+    "genre_ids": [
+      16,
+      10762,
+      10759,
+      10765,
+      10751
+    ]
+  },
+  {
+    "tmdb_id": 158307,
+    "media_type": "tv",
+    "title": "Ice Age: Scrat Tales",
+    "original_title": "Ice Age: Scrat Tales",
+    "overview": "Scrat experiences the ups and downs of fatherhood, as he and the adorable, mischievous Baby Scrat, alternately bond with each other and battle for ownership of the highly treasured Acorn.",
+    "poster_path": "/mTfYwY7DELH08SeO8LyUMe9Tvfr.jpg",
+    "release_date": "2022-04-13",
+    "vote_average": 7.3,
+    "vote_count": 179,
+    "popularity": 2.6371,
+    "genre_ids": [
+      16,
+      10751,
       35,
+      10762
+    ]
+  },
+  {
+    "tmdb_id": 11110,
+    "media_type": "tv",
+    "title": "Liberty's Kids",
+    "original_title": "Liberty's Kids",
+    "overview": "Liberty's Kids is an animated educational historical fiction television series produced by DIC Entertainment, originally broadcast on PBS Kids from September 2, 2002 to April 4, 2003, although PBS continued to air reruns until August 2004. The show has since been syndicated by DiC to affiliates of smaller television networks such as The CW and MyNetworkTV and some independent stations so that those stations can fulfill FCC educational and informational requirements. Since September 16, 2006, the series aired on CBS's new block called KOL Secret Slumber Party on CBS, then it was aired on KEWLopolis, which taking September 12, 2009. In 2008 it ran on The History Channel. The series is currently on the Cookie Jar Toons block on This TV and CBS's Cookie Jar TV. In 2012, Qubo announced the channel will air Liberty's Kids in fall 2012. The series was based on an idea by Kevin O'Donnell and developed for television by Kevin O'Donnell, Robby London, Mike Maliani, and Andy Heyward.",
+    "poster_path": "/uAJYUum6922FcIlLiOLbJGRqQTP.jpg",
+    "release_date": "2002-09-02",
+    "vote_average": 7.579,
+    "vote_count": 19,
+    "popularity": 2.8361,
+    "genre_ids": [
+      16,
+      10762,
+      10751,
+      10759,
+      10765,
+      10768
+    ]
+  },
+  {
+    "tmdb_id": 10548,
+    "media_type": "tv",
+    "title": "Transformers: Animated",
+    "original_title": "Transformers: Animated",
+    "overview": "The evil Decepticons have appeared in Detroit. With the all powerful Allspark, Megatron can use it to turn all of Earth's robots into Decepticons. However, Optimus Prime and his Autobots arrive and plan to stop Megatron and his evil plan in Transformers Animated.",
+    "poster_path": "/kZkn34WF6AIYlPP2w1iR6g0gcIZ.jpg",
+    "release_date": "2007-12-26",
+    "vote_average": 8.0,
+    "vote_count": 54,
+    "popularity": 3.9031,
+    "genre_ids": [
+      10759,
+      16,
+      10751,
+      10765,
+      10762
+    ]
+  },
+  {
+    "tmdb_id": 157221,
+    "media_type": "tv",
+    "title": "My Dad the Bounty Hunter",
+    "original_title": "My Dad the Bounty Hunter",
+    "overview": "An intergalactic bounty hunter takes dad duty to new extremes when his two kids accidentally hitch a ride with him to outer space and crash his mission.",
+    "poster_path": "/cWSPHOTFFf5hs77gamKeLDhxNvm.jpg",
+    "release_date": "2023-02-09",
+    "vote_average": 8.31,
+    "vote_count": 58,
+    "popularity": 2.9871,
+    "genre_ids": [
+      10759,
+      35,
+      16,
+      10751,
+      10762
+    ]
+  },
+  {
+    "tmdb_id": 44593,
+    "media_type": "tv",
+    "title": "Pac-Man and the Ghostly Adventures",
+    "original_title": "Pac-Man and the Ghostly Adventures",
+    "overview": "The fate of PacWorld lies with Pac and his loyal crew as they protect the Power Berries from falling into the sinister hands of Betrayus and his evil army of baddies.",
+    "poster_path": "/tdSMY8A4yNGPh5F7fJ9AglV1paX.jpg",
+    "release_date": "2013-06-15",
+    "vote_average": 7.3,
+    "vote_count": 134,
+    "popularity": 3.1769,
+    "genre_ids": [
+      16,
       10751,
       10762,
+      35,
+      10759,
       9648
     ]
   },
   {
-    "tmdb_id": 7869,
+    "tmdb_id": 138523,
     "media_type": "tv",
-    "title": "The Penguins of Madagascar",
-    "original_title": "The Penguins of Madagascar",
-    "overview": "The adventures of four penguins—Skipper, Kowalski, Private, and Rico, who perform various commando-like missions to protect their home in the Central Park Zoo. The penguins often have to deal with problems caused, or made worse, by their zoo neighbors, King Julien XIII (a ring-tailed lemur), Maurice (an aye-aye), and Mort (a mouse lemur).",
-    "poster_path": "/jfBSIu9r8Kb03ic6FrTb6O5zuyU.jpg",
-    "release_date": "2008-11-28",
-    "vote_average": 7.44,
-    "vote_count": 411,
-    "popularity": 17.9957,
-    "genre_ids": [
-      16,
-      35,
-      10751,
-      10762
-    ]
-  },
-  {
-    "tmdb_id": 79,
-    "media_type": "tv",
-    "title": "Dora the Explorer",
-    "original_title": "Dora the Explorer",
-    "overview": "A young girl named Dora goes on adventures with her red boot-wearing monkey named Boots.",
-    "poster_path": "/iaJNOSpEQgU4yePsbcC6yxneRNF.jpg",
-    "release_date": "2000-08-14",
-    "vote_average": 6.2,
-    "vote_count": 333,
-    "popularity": 16.7718,
-    "genre_ids": [
-      10759,
-      16,
-      10751,
-      10762
-    ]
-  },
-  {
-    "tmdb_id": 5687,
-    "media_type": "tv",
-    "title": "The Smurfs",
-    "original_title": "The Smurfs",
-    "overview": "Classic Saturday-morning cartoon series featuring magical blue elf-like creatures called Smurfs. The Smurfs, named for their personalities, inhabit a village of mushroom houses in an enchanted forest. These loveable creatures are led by Papa Smurf and live carefree... except for one major threat to their existance: Gargamel, an evil but inept wizard who lives in a stone-built house in the forest; and his feline companion, the equally nasty Azrael. ",
-    "poster_path": "/cezQyM5cO454vUdLiLOkv78K64D.jpg",
-    "release_date": "1981-09-12",
-    "vote_average": 6.968,
-    "vote_count": 550,
-    "popularity": 16.6292,
-    "genre_ids": [
-      16,
-      10751,
-      10765,
-      10762,
-      35
-    ]
-  },
-  {
-    "tmdb_id": 504,
-    "media_type": "tv",
-    "title": "The Ren & Stimpy Show",
-    "original_title": "The Ren & Stimpy Show",
-    "overview": "Ren and Stimpy are a mismatch made in animation heaven with nothing in common but a life-long friendship and an incredible knack for getting into trouble. Join them in their bizarre and gross world for some outlandish situations coupled with hilarious jokes.",
-    "poster_path": "/4plB7fMf1xob12ui7kpgnO3h4tJ.jpg",
-    "release_date": "1991-08-11",
-    "vote_average": 7.6,
-    "vote_count": 503,
-    "popularity": 12.157,
-    "genre_ids": [
-      16,
-      10765,
-      35,
-      10762,
-      10751
-    ]
-  },
-  {
-    "tmdb_id": 10938,
-    "media_type": "tv",
-    "title": "Bob the Builder",
-    "original_title": "Bob the Builder",
-    "overview": "Bob the Builder and his machine team are ready to tackle any project. Bob and the Can-Do Crew demonstrate the power of positive thinking, problem-solving, teamwork, and follow-through. The team always shows that “The Fun Is In Getting It Done!”",
-    "poster_path": "/jfIAxRMSLuMjczB0ezl8L9Ukzfi.jpg",
-    "release_date": "1999-04-12",
+    "title": "Thomas & Friends: All Engines Go!",
+    "original_title": "Thomas & Friends: All Engines Go!",
+    "overview": "In a reboot of the classic TV series, a younger Thomas The Tank Engine goes on adventures with all of his friends, as they work on the Island of Sodor.",
+    "poster_path": "/7R8ssJqWA2P1wfH2776oxh81FNe.jpg",
+    "release_date": "2021-08-23",
     "vote_average": 5.9,
-    "vote_count": 124,
-    "popularity": 11.8558,
-    "genre_ids": [
-      10762,
-      16,
-      10751
-    ]
-  },
-  {
-    "tmdb_id": 656,
-    "media_type": "tv",
-    "title": "Curious George",
-    "original_title": "Curious George",
-    "overview": "With the help of his friend “The Man in the Yellow Hat,” a curious little monkey named George sets out on adventures to learn about the world around him.",
-    "poster_path": "/AWQF9ZP7X5GqGUoXnyj1NSQjKo.jpg",
-    "release_date": "2006-09-04",
-    "vote_average": 7.2,
-    "vote_count": 125,
-    "popularity": 11.3488,
-    "genre_ids": [
-      16,
-      10751,
-      10762
-    ]
-  },
-  {
-    "tmdb_id": 64198,
-    "media_type": "tv",
-    "title": "Blaze and the Monster Machines",
-    "original_title": "Blaze and the Monster Machines",
-    "overview": "AJ is an 8-year-old techie who drives monster-truck Blaze, the top racer in Axle City. The two go on adventures that have them taking on problems involving science and math. Many predicaments they face are caused by Blaze's rival, Crusher, a tractor-trailer that will do anything to beat other vehicles to the finish line. The animated series is billed as the first TV show for preschoolers to comprehensively cover areas of science, technology, engineering and math. Each episode introduces different STEM concepts, including buoyancy and trajectory.",
-    "poster_path": "/5DzjYIdgoePjMlmS7RCyUYWhpIK.jpg",
-    "release_date": "2014-10-13",
-    "vote_average": 7.3,
-    "vote_count": 53,
-    "popularity": 11.3155,
-    "genre_ids": [
-      10762,
-      16,
-      10751,
-      35
-    ]
-  },
-  {
-    "tmdb_id": 32605,
-    "media_type": "tv",
-    "title": "The Looney Tunes Show",
-    "original_title": "The Looney Tunes Show",
-    "overview": "Bugs Bunny, Daffy Duck and the rest of the “Looney Tunes” characters are back with more adventures for a new generation of viewers. The animated series features roommates Bugs and Daffy moving out of the woods and into the suburbs, interacting with their neighbors, who happen to be other \"Looney Tunes\" favorites -- including Sylvester, Tweety, Porky Pig and Foghorn Leghorn.",
-    "poster_path": "/bZWdejWhkgJmXjdQ70DjiJS7v7O.jpg",
-    "release_date": "2011-05-03",
-    "vote_average": 8.1,
-    "vote_count": 541,
-    "popularity": 11.3036,
-    "genre_ids": [
-      16,
-      35,
-      10751,
-      10762
-    ]
-  },
-  {
-    "tmdb_id": 65417,
-    "media_type": "tv",
-    "title": "PJ Masks",
-    "original_title": "PJ Masks",
-    "overview": "Connor, Greg and Amaya are normal kids by day, but at night they activate their bracelets, which link into their pajamas and give them fantastic super powers, turning them into their alternate identities: the PJ Masks! The team consists of Catboy (Connor), Gekko (Greg) and Owlette (Amaya). Together, they go on adventures, solve mysteries, and learn valuable lessons. Watch the first six seasons of PJ Masks now on Disney+!",
-    "poster_path": "/sl4flhzM3uJAxfgQ9ibfEGbmn5I.jpg",
-    "release_date": "2015-09-18",
-    "vote_average": 6.4,
-    "vote_count": 67,
-    "popularity": 10.922,
-    "genre_ids": [
-      16,
-      10762,
-      10751,
-      10765,
-      10759
-    ]
-  },
-  {
-    "tmdb_id": 4429,
-    "media_type": "tv",
-    "title": "Timon and Pumbaa",
-    "original_title": "Timon and Pumbaa",
-    "overview": "Set after the events of the \"The Lion King,\" follow Timon and Pumbaa as they go on misadventures in the jungle, as well as across the globe in various.",
-    "poster_path": "/sn9PTOwI6ktLHZcysCrP8cqOw1b.jpg",
-    "release_date": "1995-09-08",
-    "vote_average": 7.2,
-    "vote_count": 649,
-    "popularity": 10.8268,
-    "genre_ids": [
-      16,
-      35,
-      10762,
-      10751
-    ]
-  },
-  {
-    "tmdb_id": 46928,
-    "media_type": "tv",
-    "title": "Sofia the First",
-    "original_title": "Sofia the First",
-    "overview": "Set in the storybook world of Enchancia, this is the story of Princess Sofia, an adventurous little girl who is learning how to adjust to royal life after her mom marries the king and she becomes a princess overnight.",
-    "poster_path": "/eZHmUO1OQRpVkAOdj9VwYCCyQew.jpg",
-    "release_date": "2013-01-11",
-    "vote_average": 7.2,
-    "vote_count": 537,
-    "popularity": 10.6056,
-    "genre_ids": [
-      10751,
-      16,
-      10762
-    ]
-  },
-  {
-    "tmdb_id": 93741,
-    "media_type": "tv",
-    "title": "Jurassic World Camp Cretaceous",
-    "original_title": "Jurassic World Camp Cretaceous",
-    "overview": "Six teens attending an adventure camp on the opposite side of Isla Nublar must band together to survive when dinosaurs wreak havoc on the island.",
-    "poster_path": "/nkCbCmlwjwT6QL44DqG7qE9ch8H.jpg",
-    "release_date": "2020-09-18",
-    "vote_average": 8.018,
-    "vote_count": 1888,
-    "popularity": 10.5385,
-    "genre_ids": [
-      16,
-      10762,
-      10759,
-      10751
-    ]
-  },
-  {
-    "tmdb_id": 2355,
-    "media_type": "tv",
-    "title": "Lilo & Stitch: The Series",
-    "original_title": "Lilo & Stitch: The Series",
-    "overview": "This animated series chronicles the further adventures of renegade scientist Dr. Jumba Jookiba's beloved Experiment 626, who is now living happily as Lilo's alien buddy Stitch. Jumba’s remaining experiments have landed all over Hawaii in the form of dehydrated pods. Lilo and Stitch’s mission is to catch Stitch’s \"cousins\" before they fall into the clutches of the evil Dr. Jacques von Hamsterviel!",
-    "poster_path": "/997mXFpYV2zdXK4EOctN3hgciaT.jpg",
-    "release_date": "2003-09-20",
-    "vote_average": 7.4,
-    "vote_count": 641,
-    "popularity": 10.3678,
-    "genre_ids": [
-      16,
-      10751,
-      35,
-      10759,
-      10765,
-      10762
-    ]
-  },
-  {
-    "tmdb_id": 237512,
-    "media_type": "tv",
-    "title": "Jurassic World: Chaos Theory",
-    "original_title": "Jurassic World: Chaos Theory",
-    "overview": "The Camp Cretaceous gang comes together to unravel a mystery when they discover a global conspiracy that brings danger to dinosaurs — and to themselves.",
-    "poster_path": "/c2Od0cY2IeayDj5osUxZSAD1QK.jpg",
-    "release_date": "2024-05-24",
-    "vote_average": 8.296,
-    "vote_count": 184,
-    "popularity": 10.2534,
-    "genre_ids": [
-      16,
-      10759,
-      10765,
-      10762,
-      10751
-    ]
-  },
-  {
-    "tmdb_id": 74280,
-    "media_type": "tv",
-    "title": "Hey Duggee",
-    "original_title": "Hey Duggee",
-    "overview": "Animated preschool series about a clubhouse that is run by a big dog called Duggee.",
-    "poster_path": "/y0r27LkhX6AZNqo2Q5FUYmwi5wz.jpg",
-    "release_date": "2014-12-17",
-    "vote_average": 8.0,
-    "vote_count": 18,
-    "popularity": 9.9622,
-    "genre_ids": [
-      16,
-      10762,
-      10751,
-      35
-    ]
-  },
-  {
-    "tmdb_id": 3902,
-    "media_type": "tv",
-    "title": "Shaun the Sheep",
-    "original_title": "Shaun the Sheep",
-    "overview": "Shaun the Sheep thinks and acts like a person in a barnyard, which usually gets him into trouble. The farmer's sheepdog, Bitzer, tries to keep Shaun and his friends out of trouble. The farmer is oblivious to the humanlike features of his flock, who are like one big, happy family.",
-    "poster_path": "/z2gPfTQd3I0JLWOAEdKYMQRLoun.jpg",
-    "release_date": "2007-03-05",
-    "vote_average": 7.644,
-    "vote_count": 270,
-    "popularity": 9.8169,
-    "genre_ids": [
-      10762,
-      16,
-      10751,
-      35
-    ]
-  },
-  {
-    "tmdb_id": 46262,
-    "media_type": "tv",
-    "title": "Doc McStuffins",
-    "original_title": "Doc McStuffins",
-    "overview": "A young African-American girl aspires to be a doctor like her mom.",
-    "poster_path": "/eeGWJaFkxX0vvOFFpNFXrh9QVxl.jpg",
-    "release_date": "2012-03-23",
-    "vote_average": 5.848,
-    "vote_count": 69,
-    "popularity": 9.7155,
-    "genre_ids": [
-      16,
-      10762,
-      10751
-    ]
-  },
-  {
-    "tmdb_id": 95543,
-    "media_type": "tv",
-    "title": "The Rocketeer",
-    "original_title": "The Rocketeer",
-    "overview": "Kit Secord receives a surprise package on her birthday revealing that she's next in line to become the Rocketeer, a legendary superhero who has the ability to fly with the help of a rocket-powered jet pack. Armed with her cool new gear and secret identity, Kit is ready to take flight and save the day with her gadget-minded best friend, Tesh, and airplane-mechanic uncle, Ambrose, who join her on epic adventures.",
-    "poster_path": "/jtXnWs7zOyde3VYEvz9eDWGPvZ7.jpg",
-    "release_date": "2019-11-08",
-    "vote_average": 8.063,
-    "vote_count": 16,
-    "popularity": 9.5925,
-    "genre_ids": [
-      16,
-      35,
-      10759,
-      10751,
-      10762
-    ]
-  },
-  {
-    "tmdb_id": 39107,
-    "media_type": "tv",
-    "title": "Bubble Guppies",
-    "original_title": "Bubble Guppies",
-    "overview": "The adventures of seven fish-tailed kids- Molly, Gil, Oona, Deema, Nonny, Goby, and Zooli!",
-    "poster_path": "/zJ50jTHpOY3wKmuxiONOL77t9DW.jpg",
-    "release_date": "2011-01-24",
-    "vote_average": 7.6,
-    "vote_count": 46,
-    "popularity": 9.3625,
-    "genre_ids": [
-      16,
-      10751,
-      10762
-    ]
-  },
-  {
-    "tmdb_id": 106009,
-    "media_type": "tv",
-    "title": "Numberblocks",
-    "original_title": "Numberblocks",
-    "overview": "Learn how much fun counting can be with the Numberblocks - a fun-loving group of numbers who work together to solve problems big and small.",
-    "poster_path": "/vt872bR11jYDRSzTSfLuOmb2SMt.jpg",
-    "release_date": "2016-01-23",
-    "vote_average": 9.0,
-    "vote_count": 16,
-    "popularity": 9.1929,
-    "genre_ids": [
-      10762,
-      16,
-      10751
-    ]
-  },
-  {
-    "tmdb_id": 2720,
-    "media_type": "tv",
-    "title": "TaleSpin",
-    "original_title": "TaleSpin",
-    "overview": "Baloo the Bear stars in an adventurous comedy of love and conflict with his friend Kit Cloudkicker. Rebecca Cunningham and her daughter Molly purchase Baloo's failing company and Baloo must fly transport runs to clear his debt while dodging Don Karnage and his sky pirates.",
-    "poster_path": "/gObO6CMSRbQNehvJyF4CwOHC5VI.jpg",
-    "release_date": "1990-09-09",
-    "vote_average": 7.443,
-    "vote_count": 202,
-    "popularity": 9.0018,
-    "genre_ids": [
-      10751,
-      16,
-      10762,
-      10759
-    ]
-  },
-  {
-    "tmdb_id": 232125,
-    "media_type": "tv",
-    "title": "I Am Groot",
-    "original_title": "I Am Groot",
-    "overview": "There's no guarding the galaxy from this mischievous toddler! Get ready as Baby Groot takes center stage in his very own collection of shorts, exploring his glory days growing up and getting into trouble among the stars.",
-    "poster_path": "/lYwFSsP4KsoRhOLhJvBFp3GEGEm.jpg",
-    "release_date": "2022-08-10",
-    "vote_average": 7.074,
-    "vote_count": 448,
-    "popularity": 8.8159,
-    "genre_ids": [
-      16,
-      35,
-      10751,
-      10765,
-      10762
-    ]
-  },
-  {
-    "tmdb_id": 2005,
-    "media_type": "tv",
-    "title": "The New Adventures of Winnie the Pooh",
-    "original_title": "The New Adventures of Winnie the Pooh",
-    "overview": "An American animated children's television series inspired by A. A. Milne's Winnie-the-Pooh stories.",
-    "poster_path": "/iJFbF43bN1HX5EZl4OFAVmJDl1u.jpg",
-    "release_date": "1988-09-10",
-    "vote_average": 7.71,
-    "vote_count": 257,
-    "popularity": 8.615,
-    "genre_ids": [
-      10751,
-      16,
-      35,
-      10762
-    ]
-  },
-  {
-    "tmdb_id": 2408,
-    "media_type": "tv",
-    "title": "The Wild Thornberrys",
-    "original_title": "The Wild Thornberrys",
-    "overview": "Travel the world with the Thornberrys and come face-to-face with blue sheep in Nepal, emus in Australia, marmots in Pakistan, flash floods in Siberia, Egyptian burial chambers, a runaway hot air balloon, a rock slide on the Karakoram Highway and more!",
-    "poster_path": "/6SHAvvwmOFJwFhbkAqa6MjsiO7P.jpg",
-    "release_date": "1998-09-01",
-    "vote_average": 7.0,
-    "vote_count": 281,
-    "popularity": 8.29,
-    "genre_ids": [
-      16,
-      35,
-      10759,
-      10762,
-      10751
-    ]
-  },
-  {
-    "tmdb_id": 40050,
-    "media_type": "tv",
-    "title": "Daniel Tiger's Neighborhood",
-    "original_title": "Daniel Tiger's Neighborhood",
-    "overview": "The life of 4-year-old Daniel Tiger and his friends as they learn fun and practical strategies and skills necessary for growing and learning.",
-    "poster_path": "/pUbHrEFTWegyhIxFmtpOpAQsbfT.jpg",
-    "release_date": "2012-09-03",
-    "vote_average": 7.1,
-    "vote_count": 28,
-    "popularity": 8.0477,
-    "genre_ids": [
-      16,
-      10751,
-      10762
-    ]
-  },
-  {
-    "tmdb_id": 64572,
-    "media_type": "tv",
-    "title": "Alvinnn!!! and The Chipmunks",
-    "original_title": "Alvinnn!!! and The Chipmunks",
-    "overview": "Everyone's favorite chipmunks -- Alvin, Simon and Theodore -- are back in this computer-animated version of the classic animated series. The brothers are famous rock stars who tour around the world with their best friends, the Chipettes.",
-    "poster_path": "/9s8yTj7UzE45qMFr3BLHGDq7nwG.jpg",
-    "release_date": "2015-08-03",
-    "vote_average": 7.3,
-    "vote_count": 61,
-    "popularity": 8.0219,
-    "genre_ids": [
-      16,
-      35,
-      10751,
-      10762
-    ]
-  },
-  {
-    "tmdb_id": 1931,
-    "media_type": "tv",
-    "title": "Disney's Adventures of the Gummi Bears",
-    "original_title": "Disney's Adventures of the Gummi Bears",
-    "overview": "Join the world’s sweetest heroes for high adventure in a mystical land of giants and wizards, ogres and dragons, and wondrous creatures both good and evil. Meet Gruffi, Zummi, Cubbi, Grammi, Tummi, Sunni, and all the legendary Gummis as they laugh, play, foil dastardly plots, and fight for what's right.",
-    "poster_path": "/mqbX2l5Te3yMdAjDxvs5kRk0bhN.jpg",
-    "release_date": "1985-09-14",
-    "vote_average": 7.449,
-    "vote_count": 253,
-    "popularity": 7.8954,
-    "genre_ids": [
-      16,
-      10751,
-      10762
-    ]
-  },
-  {
-    "tmdb_id": 34391,
-    "media_type": "tv",
-    "title": "Marvel's Ultimate Spider-Man",
-    "original_title": "Marvel's Ultimate Spider-Man",
-    "overview": "While being trained by S.H.I.E.L.D., Spider-Man battles evil with a new team of teen colleagues.",
-    "poster_path": "/jK3pc8XOQT8UgdvSjMFk8xLQOxE.jpg",
-    "release_date": "2012-04-01",
-    "vote_average": 7.679,
-    "vote_count": 1030,
-    "popularity": 7.8472,
-    "genre_ids": [
-      10762,
-      10759,
-      16,
-      35,
-      10751
-    ]
-  },
-  {
-    "tmdb_id": 2362,
-    "media_type": "tv",
-    "title": "The Jetsons",
-    "original_title": "The Jetsons",
-    "overview": "Meet George Jetson and his quirky family: wife Jane, son Elroy and daughter Judy. Living in the automated, push-button world of the future hasn't made life any easier for the harried husband and father, who gets into one comical misadventure after another!",
-    "poster_path": "/9e2wgxZpAu22yR77fRXzHwOtw9z.jpg",
-    "release_date": "1962-09-23",
-    "vote_average": 7.312,
-    "vote_count": 487,
-    "popularity": 7.7256,
-    "genre_ids": [
-      16,
-      35,
-      10751,
-      10762
-    ]
-  },
-  {
-    "tmdb_id": 117030,
-    "media_type": "tv",
-    "title": "We Baby Bears",
-    "original_title": "We Baby Bears",
-    "overview": "Follow Grizz, Panda and Ice Bear – as their younger baby selves – traveling in a magical box to fantastic new worlds searching for a place to call home. Along the way, they meet new friends, learn a few lessons and discover that “home” can mean wherever they are, as long as they’re together.",
-    "poster_path": "/cXJ1m6f8KORhoIcrPSOYap56aAe.jpg",
-    "release_date": "2022-01-01",
-    "vote_average": 7.245,
-    "vote_count": 274,
-    "popularity": 7.6928,
-    "genre_ids": [
-      16,
-      10751,
-      35,
-      10762
-    ]
-  },
-  {
-    "tmdb_id": 10219,
-    "media_type": "tv",
-    "title": "Handy Manny",
-    "original_title": "Handy Manny",
-    "overview": "Manny Garcia, a kind, generous, outgoing handyman and his eclectic mix of talking tools help the people of Sheet Rock Hills with repairs both large and small, while teaching kids how to confront and conquer everyday problems.",
-    "poster_path": "/7CCeh3UHSLedhi0wqz3dQmByaA6.jpg",
-    "release_date": "2006-09-16",
-    "vote_average": 6.4,
-    "vote_count": 42,
-    "popularity": 7.6536,
-    "genre_ids": [
-      16,
-      35,
-      10762,
-      10751
-    ]
-  },
-  {
-    "tmdb_id": 17463,
-    "media_type": "tv",
-    "title": "Kid vs. Kat",
-    "original_title": "Kid vs. Kat",
-    "overview": "Ten-year-old Coop Burtonburger's life takes a turn for the worse when his little sister, Millie, brings home a mysterious stray cat who, in reality, is an evil cybernetic alien in disguise. To make matters worse, neither his family nor anyone else believes him, except for his best friend, Dennis. Now, Coop risks his life every day as he attempts to foil the cat's diabolical schemes and prove to the world that the family pet is an evil mastermind.",
-    "poster_path": "/1f3DyCY4Xe6ZxN2blj0gNdWhS71.jpg",
-    "release_date": "2008-10-25",
-    "vote_average": 7.9,
-    "vote_count": 319,
-    "popularity": 7.5949,
-    "genre_ids": [
-      10759,
-      16,
-      35,
-      10765,
-      10751,
-      10762
-    ]
-  },
-  {
-    "tmdb_id": 77410,
-    "media_type": "tv",
-    "title": "Muppet Babies",
-    "original_title": "Muppet Babies",
-    "overview": "The reimagined playroom antics and wacky adventures of the young Kermit the Frog, Piggy, Fozzie Bear, Gonzo, Animal, Summer Penguin, and Miss Nanny.",
-    "poster_path": "/mKO39v4anUjh73s9NIIRp8HKlqm.jpg",
-    "release_date": "2018-03-23",
-    "vote_average": 5.7,
-    "vote_count": 15,
-    "popularity": 7.551,
-    "genre_ids": [
-      16,
-      35,
-      10751,
-      10762
-    ]
-  },
-  {
-    "tmdb_id": 926,
-    "media_type": "tv",
-    "title": "Scooby-Doo, Where Are You!",
-    "original_title": "Scooby-Doo, Where Are You!",
-    "overview": "Fred, Daphne, Velma, Shaggy, and the talking dog, Scooby-Doo, travel on the Mystery Machine van, in search of weird mysteries to solve.",
-    "poster_path": "/lTzUSCtXR77CmGmEHcaxpxu2b4h.jpg",
-    "release_date": "1969-09-13",
-    "vote_average": 7.832,
-    "vote_count": 788,
-    "popularity": 7.5057,
-    "genre_ids": [
-      16,
-      9648,
-      35,
-      10762,
-      10751
-    ]
-  },
-  {
-    "tmdb_id": 1615,
-    "media_type": "tv",
-    "title": "Chip 'n' Dale Rescue Rangers",
-    "original_title": "Chip 'n' Dale Rescue Rangers",
-    "overview": "Chip and Dale head a small, eccentric group of animal characters who monitor not only the human world, but the animal community as well, solving mysteries wherever they may be. The \"Rescue Rangers\" take the cases that fall through the cracks.",
-    "poster_path": "/44VE1LaaZq4bZhMDo6Yi29NO4H.jpg",
-    "release_date": "1989-03-04",
-    "vote_average": 7.6,
-    "vote_count": 530,
-    "popularity": 7.4821,
-    "genre_ids": [
-      16,
-      35,
-      10762,
-      10751,
-      10759
-    ]
-  },
-  {
-    "tmdb_id": 346,
-    "media_type": "tv",
-    "title": "American Dragon: Jake Long",
-    "original_title": "American Dragon: Jake Long",
-    "overview": "American Dragon is a coming of age comedy-action series about Jake Long, a 13-year-old Asian-American boy who strives to find balance in his life as a skateboard-grinding, New York 'tween while learning to master his mystical powers (in his secret identity) as the American Dragon, the protector and guardian of all magical creatures secretly living amidst the human world.",
-    "poster_path": "/ntsNm1IiARWtUgNY9SI7VRCLOVD.jpg",
-    "release_date": "2005-01-21",
-    "vote_average": 7.7,
-    "vote_count": 491,
-    "popularity": 7.4595,
-    "genre_ids": [
-      16,
-      35,
-      10759,
-      10751,
-      10762
-    ]
-  },
-  {
-    "tmdb_id": 69501,
-    "media_type": "tv",
-    "title": "Bing",
-    "original_title": "Bing",
-    "overview": "Bing is a young and lovable bunny learning about the big world around him, with the help of his friends. A warm and gentle animation, based on the bestselling books by Ted Dewan.",
-    "poster_path": "/2p7S8pkFQsmZjSLaCZmCphdLaXz.jpg",
-    "release_date": "2014-06-09",
-    "vote_average": 7.0,
     "vote_count": 9,
-    "popularity": 7.4501,
-    "genre_ids": [
-      10762,
-      16,
-      10751
-    ]
-  },
-  {
-    "tmdb_id": 1760,
-    "media_type": "tv",
-    "title": "As Told by Ginger",
-    "original_title": "As Told by Ginger",
-    "overview": "As Told by Ginger focuses on middle schooler Ginger Foutley who, with her friends, tries to become more than a social geek.",
-    "poster_path": "/6Kd09yYpf2qEYusPB9rtsidMnJu.jpg",
-    "release_date": "2000-10-25",
-    "vote_average": 6.745,
-    "vote_count": 92,
-    "popularity": 7.324,
-    "genre_ids": [
-      10751,
-      16,
-      35,
-      10762
-    ]
-  },
-  {
-    "tmdb_id": 2530,
-    "media_type": "tv",
-    "title": "Mr. Bean: The Animated Series",
-    "original_title": "Mr. Bean: The Animated Series",
-    "overview": "The animated daily trials and tribulations of clueless yet clever loner Mr Bean (aided by his best friend Teddy of course!) as he stumbles from one mishap to the next, always finding complex solutions to the simplest of problems.",
-    "poster_path": "/1V2PSez4pNZ9a4Bbomm7KZiQJ44.jpg",
-    "release_date": "2002-01-05",
-    "vote_average": 6.9,
-    "vote_count": 439,
-    "popularity": 7.2236,
-    "genre_ids": [
-      10762,
-      16,
-      35,
-      10751
-    ]
-  },
-  {
-    "tmdb_id": 67549,
-    "media_type": "tv",
-    "title": "Milo Murphy's Law",
-    "original_title": "Milo Murphy's Law",
-    "overview": "Milo Murphy is the personification of Murphy’s Law where anything that can go wrong will go wrong. Suffering from Extreme Hereditary Murphy’s Law condition (EHML), Milo always looks to make the best of the cards he’s been dealt and his endless optimism and enthusiasm can turn any catastrophe into a wild adventure. Together, he and his friends will learn that it’s all about a positive attitude and not to sweat the big stuff… and it’s all big stuff.",
-    "poster_path": "/cUoMoeOm2ALLtPrbP4WwEzj4lO3.jpg",
-    "release_date": "2016-10-03",
-    "vote_average": 7.44,
-    "vote_count": 92,
-    "popularity": 7.134,
-    "genre_ids": [
-      16,
-      10762,
-      10751,
-      35
-    ]
-  },
-  {
-    "tmdb_id": 9834,
-    "media_type": "tv",
-    "title": "Little Bear",
-    "original_title": "Little Bear",
-    "overview": "Follows a young bear as he goes on exciting adventures in the forest, gets into trouble and learns new things with his friends, including Emily, Duck, Hen, Cat, and Owl. His parents are Mother Bear, who is always there when he needs her, and Father Bear, a fisherman who is often at sea. Based on books by Else Holmelund Minarik.",
-    "poster_path": "/bLm7pkUAoi2AGsnPXrPnZ3ErlKs.jpg",
-    "release_date": "1995-11-06",
-    "vote_average": 6.8,
-    "vote_count": 49,
-    "popularity": 7.0376,
-    "genre_ids": [
-      16,
-      10751,
-      18,
-      10762
-    ]
-  },
-  {
-    "tmdb_id": 44931,
-    "media_type": "tv",
-    "title": "Superbook",
-    "original_title": "Superbook",
-    "overview": "Chris Quantum is your typical Middle School student -- except if you take into account one of his best friends is a robot named Gizmo. Add his best friend Joy Pepper into the mix and you have a recipe for adventure. The adventures begin for this trio when a mysterious device appears and takes them on journeys throughout the Bible. Travel back in time and get ready for the journey of a lifetime!",
-    "poster_path": "/4gxPU54vvA5ZGaICzwDXAQY5SvR.jpg",
-    "release_date": "2011-09-01",
-    "vote_average": 8.6,
-    "vote_count": 160,
-    "popularity": 6.8847,
+    "popularity": 2.9444,
     "genre_ids": [
       16,
       10762,
@@ -854,88 +201,16 @@
     ]
   },
   {
-    "tmdb_id": 95594,
+    "tmdb_id": 67059,
     "media_type": "tv",
-    "title": "Fast & Furious Spy Racers",
-    "original_title": "Fast & Furious Spy Racers",
-    "overview": "A government agency recruits teen driver Tony Toretto and his thrill-seeking friends to infiltrate a criminal street racing circuit as undercover spies.",
-    "poster_path": "/cI7zYWuYTmKEdXITcUKPzjc2EW5.jpg",
-    "release_date": "2019-12-26",
-    "vote_average": 6.977,
-    "vote_count": 2199,
-    "popularity": 6.7229,
-    "genre_ids": [
-      16,
-      10759,
-      10762,
-      10751
-    ]
-  },
-  {
-    "tmdb_id": 3579,
-    "media_type": "tv",
-    "title": "The Angry Beavers",
-    "original_title": "The Angry Beavers",
-    "overview": "The Angry Beavers is an American animated television series created by Mitch Schauer for the Nickelodeon channel. The series revolves around Daggett and Norbert Beaver, two young beaver brothers who have left their home to become bachelors in the forest near the fictional Wayouttatown, Oregon.",
-    "poster_path": "/9KYUA9tZrVNVXk2LTaYNMqGpHUj.jpg",
-    "release_date": "1997-04-19",
-    "vote_average": 6.9,
-    "vote_count": 244,
-    "popularity": 6.6371,
-    "genre_ids": [
-      16,
-      35,
-      10762,
-      10751
-    ]
-  },
-  {
-    "tmdb_id": 2153,
-    "media_type": "tv",
-    "title": "Arthur",
-    "original_title": "Arthur",
-    "overview": "The show revolves around the lives of 8-year-old Arthur Read, an anthropomorphic aardvark, his friends and family, and their daily interactions with each other.",
-    "poster_path": "/nYN8okmcsmhd4bGVcqifZ5OCumB.jpg",
-    "release_date": "1996-10-07",
-    "vote_average": 7.0,
-    "vote_count": 175,
-    "popularity": 6.5754,
-    "genre_ids": [
-      16,
-      35,
-      10762,
-      10751
-    ]
-  },
-  {
-    "tmdb_id": 14511,
-    "media_type": "tv",
-    "title": "WordGirl",
-    "original_title": "WordGirl",
-    "overview": "Disguised as mild-mannered fifth-grader Becky Botsford, WordGirl arrived on Earth when she and her monkey sidekick Captain Huggy Face crashed their spaceship. Now they fight crime and defend the town from a plethora of madcap villains and scoundrels, while at the same time enriching viewers' vocabulary usage.",
-    "poster_path": "/vDxyfOf1lHfETsol3uhrjf9tLfg.jpg",
-    "release_date": "2007-09-07",
-    "vote_average": 6.6,
-    "vote_count": 18,
-    "popularity": 6.4161,
-    "genre_ids": [
-      16,
-      10759,
-      10762,
-      10751
-    ]
-  },
-  {
-    "tmdb_id": 3090,
-    "media_type": "tv",
-    "title": "Little Einsteins",
-    "original_title": "Little Einsteins",
-    "overview": "A group of musically gifted and ethnically diverse children travel around the world in an artificially intelligent rocket named Rocket.",
-    "poster_path": "/gUT7dmvmmjfofgeCL2IShaRs2dz.jpg",
-    "release_date": "2005-10-09",
-    "vote_average": 7.061,
-    "vote_count": 66,
-    "popularity": 6.1605,
+    "title": "Word Party",
+    "original_title": "Word Party",
+    "overview": "Meet Bailey, Franny, Kip and Lulu. They're adorable baby animals, and they want you to join the party and help them learn!",
+    "poster_path": "/gNN502X3t2jLmBqmsc5oy0rC1ix.jpg",
+    "release_date": "2016-07-08",
+    "vote_average": 7.5,
+    "vote_count": 8,
+    "popularity": 2.7506,
     "genre_ids": [
       16,
       10751,
@@ -943,165 +218,16 @@
     ]
   },
   {
-    "tmdb_id": 3319,
+    "tmdb_id": 30773,
     "media_type": "tv",
-    "title": "Darkwing Duck",
-    "original_title": "Darkwing Duck",
-    "overview": "The adventures of superhero Darkwing Duck, aided by his sidekick Launchpad McQuack. In his secret identity of Drake Mallard, he lives in a suburban house with his adopted daughter Gosalyn, next door to the bafflingly dim-witted Muddlefoot family. A spin-off of DuckTales.",
-    "poster_path": "/1gJMSXS0gwM8gDJnzVSITcxbQc.jpg",
-    "release_date": "1991-09-06",
-    "vote_average": 7.4,
-    "vote_count": 320,
-    "popularity": 5.9527,
-    "genre_ids": [
-      10759,
-      16,
-      35,
-      10751,
-      10762
-    ]
-  },
-  {
-    "tmdb_id": 64783,
-    "media_type": "tv",
-    "title": "Dawn of the Croods",
-    "original_title": "Dawn of the Croods",
-    "overview": "The world's first family is back for more laughs as they discover sports, sleepovers and other wonders in a world of exotic creatures and adventures. This 2D animated cartoon is based on the 3D animated feature film, \"The Croods\".",
-    "poster_path": "/cyCAsMLGECvEAFDfKcxcWy7YTOW.jpg",
-    "release_date": "2015-12-24",
-    "vote_average": 7.4,
-    "vote_count": 96,
-    "popularity": 5.791,
-    "genre_ids": [
-      16,
-      10751,
-      10762,
-      35,
-      10759
-    ]
-  },
-  {
-    "tmdb_id": 131532,
-    "media_type": "tv",
-    "title": "Monster High",
-    "original_title": "Monster High",
-    "overview": "Based on the Monster High franchise, Clawdeen Wolf arrives at Monster High with a dark secret. With the help of her friends Draculaura and Frankie Stein, she is able to embrace her true monster heart and save the school from total destruction.",
-    "poster_path": "/t6M7K3YnUcbEeYHNIGeTjWo3LWz.jpg",
-    "release_date": "2022-10-06",
-    "vote_average": 7.7,
-    "vote_count": 53,
-    "popularity": 5.763,
-    "genre_ids": [
-      16,
-      10751,
-      10762,
-      35
-    ]
-  },
-  {
-    "tmdb_id": 67098,
-    "media_type": "tv",
-    "title": "Shimmer and Shine",
-    "original_title": "Shimmer and Shine",
-    "overview": "Twins genies, Shimmer and Shine, grant their human friend Leah three wishes every day - unintentional chaos follows.",
-    "poster_path": "/2zym6tVGMYugPWUHGEYko7FwO3y.jpg",
-    "release_date": "2015-05-11",
-    "vote_average": 6.25,
-    "vote_count": 16,
-    "popularity": 5.7361,
-    "genre_ids": [
-      16,
-      10751,
-      10762
-    ]
-  },
-  {
-    "tmdb_id": 4627,
-    "media_type": "tv",
-    "title": "The Replacements",
-    "original_title": "The Replacements",
-    "overview": "Two orphans, Riley and little brother Todd, answer an ad for Fleemco Replacement People and order new parents, a spy mother and daredevil father. As Riley and Todd go on adventures (or misadventures as it were), they team up with Conrad Fleem to replace any adult in their lives that they don't like, but they don't get to choose the replacements and sometimes their good intentions don't work out as they planned",
-    "poster_path": "/dEzojA3nQF5zhBGVRdx16EF8OZj.jpg",
-    "release_date": "2006-07-28",
-    "vote_average": 6.5,
-    "vote_count": 58,
-    "popularity": 5.6113,
-    "genre_ids": [
-      16,
-      10762,
-      10765,
-      10751,
-      35
-    ]
-  },
-  {
-    "tmdb_id": 72089,
-    "media_type": "tv",
-    "title": "Puppy Dog Pals",
-    "original_title": "Puppy Dog Pals",
-    "overview": "Fun-loving pug puppies, brothers Bingo and Rolly, have thrill-seeking appetites that take them on exhilarating adventures in their neighborhood and around the globe.",
-    "poster_path": "/Aa6Bo1lcuFxT3D1twy7DVX7pY03.jpg",
-    "release_date": "2017-04-14",
-    "vote_average": 5.658,
-    "vote_count": 19,
-    "popularity": 5.5892,
-    "genre_ids": [
-      16,
-      10762,
-      10751,
-      35,
-      18
-    ]
-  },
-  {
-    "tmdb_id": 10821,
-    "media_type": "tv",
-    "title": "Blue's Clues",
-    "original_title": "Blue's Clues",
-    "overview": "Blue's Clues is a colorful and learning series that is targeted at the younger crowd, but can be enjoyed by all. The host, Steve Burns, invites viewers daily into the Blue's Clues house to help him out, learn and have fun. The show is based around the host looking for three clues that Blue provides by labelling them with a pawprint to figure something out and in the process, having an adventure.",
-    "poster_path": "/7h7gD3n5MT7mQa3zho6JR1lCfh.jpg",
-    "release_date": "1996-09-08",
-    "vote_average": 7.7,
-    "vote_count": 260,
-    "popularity": 5.5729,
-    "genre_ids": [
-      10762,
-      35,
-      16,
-      10751
-    ]
-  },
-  {
-    "tmdb_id": 221504,
-    "media_type": "tv",
-    "title": "Unicorn Academy",
-    "original_title": "Unicorn Academy",
-    "overview": "When a dark force threatens to destroy Unicorn Island, a brave teen and her five schoolmates must rise up to protect their beloved magical academy.",
-    "poster_path": "/5aex9xH2Tq9G9m9WyhPJiyVOJol.jpg",
-    "release_date": "2023-11-02",
-    "vote_average": 7.9,
-    "vote_count": 50,
-    "popularity": 5.5224,
-    "genre_ids": [
-      16,
-      10762,
-      10765,
-      10759,
-      35,
-      10751
-    ]
-  },
-  {
-    "tmdb_id": 197429,
-    "media_type": "tv",
-    "title": "The Boss Baby: Back in the Crib",
-    "original_title": "The Boss Baby: Back in the Crib",
-    "overview": "Framed for a corporate crime, an adult Ted Templeton turns back into the Boss Baby to live undercover with his brother, Tim, posing as one of his kids.",
-    "poster_path": "/18f8ASmigtrQTm8MARHD8Af47db.jpg",
-    "release_date": "2022-05-19",
-    "vote_average": 7.425,
-    "vote_count": 159,
-    "popularity": 5.5153,
+    "title": "The Yogi Bear Show",
+    "original_title": "The Yogi Bear Show",
+    "overview": "From his home in Jellystone Park, Yogi Bear dreams of nothing more in life than to outwit as many unsuspecting tourists as he can and grab their prized picnic baskets all while staying one step ahead of the ever-exasperated Ranger Smith. Yogi's little buddy, Boo-Boo, tries to keep Yogi out of trouble but rarely succeeds. That's okay because not even Ranger Smith can stay mad for long at the lovable, irresistible Yogi Bear.",
+    "poster_path": "/alDnwQ75JZu3V3aoa4F5w7LoyL7.jpg",
+    "release_date": "1961-01-30",
+    "vote_average": 7.073,
+    "vote_count": 240,
+    "popularity": 2.8793,
     "genre_ids": [
       16,
       35,
@@ -1110,127 +236,33 @@
     ]
   },
   {
-    "tmdb_id": 61886,
+    "tmdb_id": 41997,
     "media_type": "tv",
-    "title": "The Adventures of Puss in Boots",
-    "original_title": "The Adventures of Puss in Boots",
-    "overview": "The world's greatest feline fighter, lover and milk connoisseur is back in this original series filled with daring adventures, great boots, and laugh-out-loud fun! The entire family will be entranced by Puss' fantastical CG world filled with new characters, exotic locations and mystical tales that make up the stuff of legends. There's nothing that can get in this celebrated swashbuckling kitty's way...except maybe a hairball.",
-    "poster_path": "/uHpUlyWCqXXUDY7zekQdJmf6QkP.jpg",
-    "release_date": "2015-01-16",
-    "vote_average": 7.1,
-    "vote_count": 87,
-    "popularity": 5.4321,
-    "genre_ids": [
-      16,
-      35,
-      10751,
-      10762
-    ]
-  },
-  {
-    "tmdb_id": 66149,
-    "media_type": "tv",
-    "title": "The Powerpuff Girls",
-    "original_title": "The Powerpuff Girls",
-    "overview": "Three colorful, sugarcoated kids trying to juggle school and save the world before bedtime.",
-    "poster_path": "/n8M0tl1V2QYRLbs3hPQfJgQgTgT.jpg",
-    "release_date": "2016-04-04",
-    "vote_average": 5.1,
-    "vote_count": 82,
-    "popularity": 5.3784,
-    "genre_ids": [
-      35,
-      16,
-      10759,
-      10762,
-      10751
-    ]
-  },
-  {
-    "tmdb_id": 233064,
-    "media_type": "tv",
-    "title": "Barbie: A Touch of Magic",
-    "original_title": "Barbie: A Touch of Magic",
-    "overview": "Enchanting adventures await when Malibu Barbie and Brooklyn Barbie meet a horse with magical powers — and she needs their help with a mysterious mission!",
-    "poster_path": "/zc90L8m9JUg04mDz5aagcOALZb8.jpg",
-    "release_date": "2023-07-27",
+    "title": "Minnie's Bow-Toons",
+    "original_title": "Minnie's Bow-Toons",
+    "overview": "Minnie Mouse has a passion for fashion, along with good friend Daisy Duck, of Minnie's Bow-tique, a specialty shop that sells only bows and bow ties.",
+    "poster_path": "/AvBcp9zYdXZJbt9O9QMiLqR4mZH.jpg",
+    "release_date": "2011-11-14",
     "vote_average": 6.0,
-    "vote_count": 8,
-    "popularity": 5.2072,
+    "vote_count": 16,
+    "popularity": 3.1222,
     "genre_ids": [
-      16,
-      10765,
       10762,
-      35,
+      16,
       10751
     ]
   },
   {
-    "tmdb_id": 543,
+    "tmdb_id": 14396,
     "media_type": "tv",
-    "title": "The Proud Family",
-    "original_title": "The Proud Family",
-    "overview": "Follow the adventures and misadventures of Penny, a 14-year-old African American girl who's doing her best to navigate through the early years of teen-dom. Penny's every encounter inevitably spirals into bigger than life situations filled with hi-jinks, hilarity and heart. Her quest to balance her home, school and social lives are further complicated by friends like the sassy Dijonay, Penny's nemesis LaCienega Boulevardez, her loving, if not over-protective parents and her hip-to-the-groove-granny, Suga Mama.",
-    "poster_path": "/wcfbfActZ9VZ3anFqe3YYNWOHsG.jpg",
-    "release_date": "2001-09-15",
-    "vote_average": 7.726,
-    "vote_count": 146,
-    "popularity": 5.1873,
-    "genre_ids": [
-      16,
-      35,
-      10762,
-      10751
-    ]
-  },
-  {
-    "tmdb_id": 676,
-    "media_type": "tv",
-    "title": "Tom and Jerry Tales",
-    "original_title": "Tom and Jerry Tales",
-    "overview": "Tom and Jerry Tales is an American animated television series featuring the cat-and-mouse duo Tom and Jerry.",
-    "poster_path": "/gthxkV1MHAwqsVNLIU93MDm3ApL.jpg",
-    "release_date": "2006-09-23",
-    "vote_average": 7.794,
-    "vote_count": 143,
-    "popularity": 5.1664,
-    "genre_ids": [
-      16,
-      10762,
-      35,
-      10751
-    ]
-  },
-  {
-    "tmdb_id": 1346,
-    "media_type": "tv",
-    "title": "Wow! Wow! Wubbzy!",
-    "original_title": "Wow! Wow! Wubbzy!",
-    "overview": "Happy-go-lucky Wubbzy bounces his way into wacky, fun-filled adventures in the town of Wuzzleburg with his best friends: inventor Widget, book-smart Walden, and sweet-as-can-be Daizy.",
-    "poster_path": "/uaPYHkMe5vwOseuPAVgSUwnvgWN.jpg",
-    "release_date": "2006-08-28",
-    "vote_average": 8.0,
-    "vote_count": 34,
-    "popularity": 5.1322,
-    "genre_ids": [
-      16,
-      10765,
-      35,
-      10762,
-      10751
-    ]
-  },
-  {
-    "tmdb_id": 113378,
-    "media_type": "tv",
-    "title": "Trolls: TrollsTopia",
-    "original_title": "Trolls: TrollsTopia",
-    "overview": "Now that Poppy knows there are other musical trolls scattered throughout the forest, she bottles up her endless positivity and invites delegates from every troll tribe in the forest to live together in harmony in a grand experiment she calls TrollsTopia!",
-    "poster_path": "/idpD7RzSNelzJqBBMFWZbzMfjUu.jpg",
-    "release_date": "2020-11-19",
-    "vote_average": 8.509,
-    "vote_count": 53,
-    "popularity": 5.0631,
+    "title": "The Adventures of Super Mario Bros. 3",
+    "original_title": "The Adventures of Super Mario Bros. 3",
+    "overview": "The Mario Bros., Princess Toadstool, and Toad protect the Mushroom Kingdom against the evil forces of Bowser and his seven Koopa Kids.",
+    "poster_path": "/qhOmMbTkQ8PtuB65YLUftVWRuvu.jpg",
+    "release_date": "1990-09-08",
+    "vote_average": 7.564,
+    "vote_count": 458,
+    "popularity": 2.3004,
     "genre_ids": [
       10751,
       16,
@@ -1238,305 +270,141 @@
     ]
   },
   {
-    "tmdb_id": 2675,
+    "tmdb_id": 226745,
     "media_type": "tv",
-    "title": "The Little Mermaid",
-    "original_title": "The Little Mermaid",
-    "overview": "Disney's The Little Mermaid is an American animated television series produced by Walt Disney Television Animation based on the 1989 Disney film of the same name. It features the adventures of Ariel as a mermaid prior to the events of the film. This series is the first Disney television series to be spun off from a major animated film. Some of the voice actors of the film reprise their roles in the series, among them Jodi Benson as Ariel, Samuel E. Wright as Sebastian, Kenneth Mars as King Triton, and Pat Carroll as Ursula.",
-    "poster_path": "/32Tb6HZc8yAWqHesMSMnMozr6pi.jpg",
-    "release_date": "1992-09-12",
-    "vote_average": 7.0,
-    "vote_count": 715,
-    "popularity": 5.0435,
+    "title": "Camp Snoopy",
+    "original_title": "Camp Snoopy",
+    "overview": "After discovering their troop is in danger of disbanding, Snoopy and the Beagle Scouts set off to the great outdoors to earn their badges. Meanwhile, Charlie Brown and friends enjoy their summer at Camp Spring Lake.",
+    "poster_path": "/faRUuhkOVlh47z46DNgZ7EaYu0f.jpg",
+    "release_date": "2024-06-13",
+    "vote_average": 7.8,
+    "vote_count": 24,
+    "popularity": 3.1907,
     "genre_ids": [
-      10751,
       16,
       10762,
-      10765
+      10751
     ]
   },
   {
-    "tmdb_id": 7248,
+    "tmdb_id": 68435,
     "media_type": "tv",
-    "title": "The Magic School Bus",
-    "original_title": "The Magic School Bus",
-    "overview": "An eccentric schoolteacher takes her class on wondrous educational field trips with the help of a magical school bus.",
-    "poster_path": "/3A70wxUpplD4V3IcL8WmNFBgAbV.jpg",
-    "release_date": "1994-09-10",
-    "vote_average": 7.6,
-    "vote_count": 122,
-    "popularity": 4.9385,
+    "title": "Skylanders Academy",
+    "original_title": "Skylanders Academy",
+    "overview": "Follow the heroic adventures of the Skylanders team, a group of heroes with unique elemental skills and personalities who travel the vast Skylands universe, protecting it from evil-doers and showing the next wave of Academy cadets how to do things the “Skylander way.”",
+    "poster_path": "/jh1RVeQaiT9qjWYm6DOyWkotnd9.jpg",
+    "release_date": "2016-10-28",
+    "vote_average": 6.4,
+    "vote_count": 33,
+    "popularity": 2.0577,
     "genre_ids": [
-      16,
-      10765,
-      10751,
+      10762,
       10759,
+      16,
+      10751
+    ]
+  },
+  {
+    "tmdb_id": 89092,
+    "media_type": "tv",
+    "title": "Barbie: Dreamhouse Adventures",
+    "original_title": "Barbie: Dreamhouse Adventures",
+    "overview": "Barbie, her sisters, friends and neighbour Ken share vlogs filmed in her Dreamhouse.",
+    "poster_path": "/6MraV12DdZjQEgQztjTQ2s9t5CK.jpg",
+    "release_date": "2018-05-03",
+    "vote_average": 7.771,
+    "vote_count": 131,
+    "popularity": 3.2568,
+    "genre_ids": [
+      16,
+      10751,
+      10762,
+      35
+    ]
+  },
+  {
+    "tmdb_id": 7736,
+    "media_type": "tv",
+    "title": "Martha Speaks",
+    "original_title": "Martha Speaks",
+    "overview": "Martha, a beloved family dog, is accidentally fed alphabet soup — this gives her the power of speech and the chance to speak her mind to anyone that will listen.",
+    "poster_path": "/vHL9EBFqyiT2d4oIxRxjwyg46dI.jpg",
+    "release_date": "2008-09-01",
+    "vote_average": 7.2,
+    "vote_count": 19,
+    "popularity": 2.247,
+    "genre_ids": [
+      16,
+      10762,
+      10751
+    ]
+  },
+  {
+    "tmdb_id": 124331,
+    "media_type": "tv",
+    "title": "Rainbow High",
+    "original_title": "Rainbow High",
+    "overview": "Legend says at the end of the rainbow, there's a pot of gold. But the truth is, it's something even more amazing. Only a chosen few with an eye for bold fashions can follow the rainbow to Rainbow High, the colorful fashion school where everyone learns to flaunt their true color.",
+    "poster_path": "/cQ3Mpj0MI4avOdpmGvonzjiVcmr.jpg",
+    "release_date": "2020-10-03",
+    "vote_average": 8.574,
+    "vote_count": 34,
+    "popularity": 2.5114,
+    "genre_ids": [
+      10762,
+      16,
+      18,
+      10751
+    ]
+  },
+  {
+    "tmdb_id": 7744,
+    "media_type": "tv",
+    "title": "Sid the Science Kid",
+    "original_title": "Sid the Science Kid",
+    "overview": "Sid is an \"inquisitive youngster\" who uses comedy to tackle questions kids have about basic scientific principles and why things work the way they do.",
+    "poster_path": "/7tXoGSNnqRodNMTvwYDsLJrXuRo.jpg",
+    "release_date": "2008-09-01",
+    "vote_average": 6.2,
+    "vote_count": 22,
+    "popularity": 2.502,
+    "genre_ids": [
+      16,
+      10751,
+      35,
       10762
     ]
   },
   {
-    "tmdb_id": 67106,
+    "tmdb_id": 224022,
     "media_type": "tv",
-    "title": "The Deep",
-    "original_title": "The Deep",
-    "overview": "The adventures of the Nekton family, a family of daring underwater explorers who live aboard a state-of-the-art submarine, The Aronnax, and explore uncharted areas of the earth's oceans to unravel the mysteries of the deep.",
-    "poster_path": "/3aoRvpHjuRmn76P2AVXZIBDoCdg.jpg",
-    "release_date": "2015-12-01",
-    "vote_average": 7.4,
-    "vote_count": 27,
-    "popularity": 4.9199,
+    "title": "PJ Masks: Power Heroes",
+    "original_title": "PJ Masks: Power Heroes",
+    "overview": "Connor, Greg and Amaya are normal kids by day, but at night they activate their bracelets, which link into their pajamas and give them fantastic super powers, turning them into their alternate identities: the PJ Masks! The team consists of Catboy (Connor), Gekko (Greg) and Owlette (Amaya). Together, they go on adventures, solve mysteries, and learn valuable lessons. Watch the first six seasons of PJ Masks now on Disney+!",
+    "poster_path": "/ce1dYgNIREapWRf8yNUhC08hh6g.jpg",
+    "release_date": "2023-04-19",
+    "vote_average": 9.1,
+    "vote_count": 22,
+    "popularity": 2.83,
     "genre_ids": [
+      16,
       10762,
       10751,
-      16,
+      10765,
       10759
     ]
   },
   {
-    "tmdb_id": 4568,
+    "tmdb_id": 88910,
     "media_type": "tv",
-    "title": "Pepper Ann",
-    "original_title": "Pepper Ann",
-    "overview": "The quirky adventures of Pepper Ann, a 12-year-old girl trying to get through life with her family and friends.",
-    "poster_path": "/605jNVI63jueuJTKg032F7U7xEj.jpg",
-    "release_date": "1997-09-13",
-    "vote_average": 6.6,
-    "vote_count": 39,
-    "popularity": 4.7104,
-    "genre_ids": [
-      16,
-      35,
-      10751,
-      10762
-    ]
-  },
-  {
-    "tmdb_id": 32896,
-    "media_type": "tv",
-    "title": "The Cat in the Hat Knows a Lot About That!",
-    "original_title": "The Cat in the Hat Knows a Lot About That!",
-    "overview": "The Cat in the Hat is back -- and this time, he's teaching Sally and her brother, Nick, some awfully nifty things to think about!",
-    "poster_path": "/97qKiavvmvpYNBR8mhH5e5YVOTw.jpg",
-    "release_date": "2010-09-06",
-    "vote_average": 8.1,
-    "vote_count": 8,
-    "popularity": 4.6885,
-    "genre_ids": [
-      16,
-      10751,
-      10762
-    ]
-  },
-  {
-    "tmdb_id": 2429,
-    "media_type": "tv",
-    "title": "Aaahh!!! Real Monsters",
-    "original_title": "Aaahh!!! Real Monsters",
-    "overview": "Three young monsters — Ickis, Oblina and Krumm — attends an institute for monsters under a city dump and learn to frighten humans.",
-    "poster_path": "/dEJ0Foy0DRX1r5fOkhxQkNY4Td0.jpg",
-    "release_date": "1994-10-29",
-    "vote_average": 7.783,
-    "vote_count": 417,
-    "popularity": 4.6715,
-    "genre_ids": [
-      16,
-      35,
-      10751,
-      10765,
-      10762
-    ]
-  },
-  {
-    "tmdb_id": 94107,
-    "media_type": "tv",
-    "title": "LEGO City Adventures",
-    "original_title": "LEGO City Adventures",
-    "overview": "Welcome to LEGO City, a modern metropolis filled with the fiercest firefighters, the cream of the crop cops, and so many Blockheads. Every citizen will assemble together for the most awesomely awesome adventures.",
-    "poster_path": "/6fBhyepVUkIxka9vLGtb3kH6QGf.jpg",
-    "release_date": "2019-06-22",
-    "vote_average": 7.237,
-    "vote_count": 38,
-    "popularity": 4.6503,
-    "genre_ids": [
-      16,
-      10759,
-      10751,
-      35,
-      10762
-    ]
-  },
-  {
-    "tmdb_id": 93260,
-    "media_type": "tv",
-    "title": "The Casagrandes",
-    "original_title": "The Casagrandes",
-    "overview": "The Casagrandes tells the story of Ronnie Anne, an independent, adventurous, 11-year-old who explores city life with her big, loving, multi-generational Mexican-American family.",
-    "poster_path": "/AarlHgaDolXnWQCFqiFLlpCKuwk.jpg",
-    "release_date": "2019-10-14",
-    "vote_average": 7.7,
-    "vote_count": 24,
-    "popularity": 4.5937,
-    "genre_ids": [
-      16,
-      10762,
-      35,
-      10751
-    ]
-  },
-  {
-    "tmdb_id": 3474,
-    "media_type": "tv",
-    "title": "Danger Mouse",
-    "original_title": "Danger Mouse",
-    "overview": "Danger Mouse, the world's greatest secret agent, and his side-kick Penfold work to foil the evil schemes of Baron Greenback.",
-    "poster_path": "/1MLDMC8tsf92h8H920TGemN0PUo.jpg",
-    "release_date": "1981-09-28",
-    "vote_average": 7.069,
-    "vote_count": 66,
-    "popularity": 4.5772,
-    "genre_ids": [
-      16,
-      10762,
-      35,
-      10751
-    ]
-  },
-  {
-    "tmdb_id": 13399,
-    "media_type": "tv",
-    "title": "Timothy Goes to School",
-    "original_title": "Timothy Goes to School",
-    "overview": "A raccoon named Timothy starts kindergarten, and meets many new people and friends. He helps others with their challenges and they would help Timothy on something he is struggling on. It features his everyday adventures while teaching kids how to behave in school and having a positive attitude - feeling good in school and learning more about the world.",
-    "poster_path": "/Boj6YBEUPhm8Y3hQ6MhXHZqa8x.jpg",
-    "release_date": "2000-09-05",
-    "vote_average": 6.7,
-    "vote_count": 7,
-    "popularity": 4.5437,
-    "genre_ids": [
-      16,
-      10762,
-      10751
-    ]
-  },
-  {
-    "tmdb_id": 73541,
-    "media_type": "tv",
-    "title": "Rusty Rivets",
-    "original_title": "Rusty Rivets",
-    "overview": "A boy and his best friend, a robotic dinosaur, use machine parts to create gadgets.",
-    "poster_path": "/c2yzJGmOMN0eIsowImAb7LuAOQ7.jpg",
-    "release_date": "2016-11-08",
-    "vote_average": 5.444,
-    "vote_count": 9,
-    "popularity": 4.5381,
-    "genre_ids": [
-      16,
-      10762,
-      10751,
-      35
-    ]
-  },
-  {
-    "tmdb_id": 65858,
-    "media_type": "tv",
-    "title": "LEGO Nexo Knights",
-    "original_title": "LEGO Nexo Knights",
-    "overview": "The adventure takes place in the futuristic Kingdom of Knighton. It focuses on the Nexo Knights as they journey to defeat Jestro the evil jester, the Book of Monsters, and their lava monster army. Clay leads the Nexo Knights, which include Macy, Lance, Aaron, and Axl. Together, under their mentor Merlok 2.0, they band together to defeat Jestro.",
-    "poster_path": "/d0e5dJ2FQhlwEhFX4cB0ijp5SMd.jpg",
-    "release_date": "2015-12-13",
-    "vote_average": 7.156,
-    "vote_count": 32,
-    "popularity": 4.5259,
-    "genre_ids": [
-      10759,
-      16,
-      10762,
-      35,
-      10751
-    ]
-  },
-  {
-    "tmdb_id": 96650,
-    "media_type": "tv",
-    "title": "The Adventures of Paddington",
-    "original_title": "The Adventures of Paddington",
-    "overview": "Journey to London for heart-warming adventures with beloved British bear Paddington in this CG-animated series, which centres on a younger Paddington as he writes letters to Aunt Lucy celebrating the new things he has discovered through the day’s exciting activities.",
-    "poster_path": "/8kueFMhO5zvrXgBtM8mdEOJRV2D.jpg",
-    "release_date": "2019-12-20",
-    "vote_average": 7.8,
-    "vote_count": 13,
-    "popularity": 4.4897,
-    "genre_ids": [
-      16,
-      10751,
-      10762
-    ]
-  },
-  {
-    "tmdb_id": 219056,
-    "media_type": "tv",
-    "title": "Frog and Toad",
-    "original_title": "Frog and Toad",
-    "overview": "Frog and Toad are not at all alike. Frog likes new adventures. Toad likes the comforts of home. Yet despite their differences, Frog and Toad are always there for each other—as best friends should be.",
-    "poster_path": "/jDWTTWNzieMiqNBVfXmTZG18J18.jpg",
-    "release_date": "2023-04-27",
-    "vote_average": 8.4,
-    "vote_count": 20,
-    "popularity": 4.4437,
-    "genre_ids": [
-      10762,
-      16,
-      10751
-    ]
-  },
-  {
-    "tmdb_id": 33835,
-    "media_type": "tv",
-    "title": "Strawberry Shortcake's Berry Bitty Adventures",
-    "original_title": "Strawberry Shortcake's Berry Bitty Adventures",
-    "overview": "Welcome to Berry Bitty City, a berry special little world under the leaves of a berry patch. It may be small, but Berry Bitty City is big on fun and adventure. It's where Strawberry Shortcake and all her friends live. Together, they prove that little girls can do berry big things. There's always something fun to do, and when someone needs help, her friends are always there to lend a hand.",
-    "poster_path": "/xweEe66HXnW5LAGanucy5ZOL6fu.jpg",
-    "release_date": "2010-10-10",
-    "vote_average": 8.571,
-    "vote_count": 28,
-    "popularity": 4.4318,
-    "genre_ids": [
-      16,
-      10751,
-      10762,
-      35
-    ]
-  },
-  {
-    "tmdb_id": 31623,
-    "media_type": "tv",
-    "title": "Team Umizoomi",
-    "original_title": "Team Umizoomi",
-    "overview": "They're mini, they're mighty and they're built for math! When someone has a problem in Umi City, Milli, Geo, and Bot use their mighty math powers to help save the day!",
-    "poster_path": "/y090DrGOIK5LyrCq3GeA8TZZ4lY.jpg",
-    "release_date": "2010-01-25",
-    "vote_average": 7.756,
-    "vote_count": 41,
-    "popularity": 4.3126,
-    "genre_ids": [
-      16,
-      10765,
-      10751,
-      10759,
-      10762
-    ]
-  },
-  {
-    "tmdb_id": 91433,
-    "media_type": "tv",
-    "title": "T.O.T.S.",
-    "original_title": "T.O.T.S.",
-    "overview": "A heartfelt animated comedy series for preschoolers exploring the hilarious adventures of best friends Pip and Freddy, a tenacious penguin and a kind-hearted flamingo, who are the only non-stork delivery birds in-training at Tiny Ones Transport Service (T.O.T.S.).",
-    "poster_path": "/4nLOFTtj7rVCtzKLlvvGw8rK264.jpg",
-    "release_date": "2019-06-14",
-    "vote_average": 7.3,
-    "vote_count": 15,
-    "popularity": 4.2695,
+    "title": "Gigantosaurus",
+    "original_title": "Gigantosaurus",
+    "overview": "Four curious young dinosaur friends explore the mystery of Gigantosaurus, the largest, fiercest dinosaur of all, facing their individual fears and working together to solve problems during their many adventures.",
+    "poster_path": "/9QE0FexhD5IZ6IaTyHLYzRMYUot.jpg",
+    "release_date": "2019-01-18",
+    "vote_average": 5.917,
+    "vote_count": 12,
+    "popularity": 2.3954,
     "genre_ids": [
       10762,
       10751,
@@ -1544,107 +412,126 @@
     ]
   },
   {
-    "tmdb_id": 86957,
+    "tmdb_id": 97854,
     "media_type": "tv",
-    "title": "Green Eggs and Ham",
-    "original_title": "Green Eggs and Ham",
-    "overview": "Guy-Am-I, an inventor, and his friend Sam-I-Am go on a cross-country trip that would test the limits of their friendship. As they learn to try new things, they find out what adventure brings.",
-    "poster_path": "/sPbNUuCOD2ilcVWf5yjjkMqyoxs.jpg",
-    "release_date": "2019-11-08",
-    "vote_average": 8.023,
-    "vote_count": 65,
-    "popularity": 4.2272,
+    "title": "Ricky Zoom",
+    "original_title": "Ricky Zoom",
+    "overview": "Little red rescue motorbike Ricky Zoom, along with his loyal and enthusiastic bike buddies Loop, Scootio and DJ, race around the sports track, try new stunts at the park, and zoom into adventures.",
+    "poster_path": "/zRliSLR2LqCe56Z474lt8dfuqiJ.jpg",
+    "release_date": "2019-09-02",
+    "vote_average": 6.0,
+    "vote_count": 6,
+    "popularity": 2.773,
     "genre_ids": [
+      16,
       10762,
       10751,
-      16,
-      35,
-      10759
+      35
     ]
   },
   {
-    "tmdb_id": 114502,
+    "tmdb_id": 136752,
     "media_type": "tv",
-    "title": "Cars on the Road",
-    "original_title": "Cars on the Road",
-    "overview": "Lightning McQueen and his best friend Mater head east from Radiator Springs on a cross-country road trip to meet up with Mater’s sister.",
-    "poster_path": "/6QXirTPUQecr1BAEfgVSXPD1np0.jpg",
-    "release_date": "2022-09-08",
-    "vote_average": 7.4,
-    "vote_count": 293,
-    "popularity": 4.0835,
+    "title": "Dogs in Space",
+    "original_title": "Dogs in Space",
+    "overview": "In the not-so-distant future, genetically enhanced dogs are sent across the universe in search of a new home for the human race. It’s a giant cosmic game of fetch, as the canines seek a planet that will save humanity and - more importantly - let them return to their beloved owners.",
+    "poster_path": "/wyrX626w311nbLfmG2JXewUjmFi.jpg",
+    "release_date": "2021-11-18",
+    "vote_average": 7.6,
+    "vote_count": 64,
+    "popularity": 2.632,
     "genre_ids": [
+      35,
+      16,
+      10759,
       10751,
-      35,
-      10762,
-      16,
-      10759
+      10765,
+      10762
     ]
   },
   {
-    "tmdb_id": 15641,
+    "tmdb_id": 82747,
     "media_type": "tv",
-    "title": "The Mighty B!",
-    "original_title": "The Mighty B!",
-    "overview": "The Mighty B! is an American animated television series co-created by Amy Poehler, Cynthia True and Erik Wiese for Nickelodeon. The series centers on Bessie Higgenbottom, an ambitious Honeybee girl scout who believes she will become The Mighty B if she collects every Honeybee badge. Bessie lives in San Francisco with her single mother Hilary, brother Ben and dog Happy. Poehler provides the voice of Bessie, who is loosely based on a character Poehler played on the improvisational comedy troupes Second City and Upright Citizens Brigade.",
-    "poster_path": "/si9HifHah69ZnAONP1xE4OAlaIp.jpg",
-    "release_date": "2008-04-26",
-    "vote_average": 6.4,
-    "vote_count": 39,
-    "popularity": 4.0629,
+    "title": "Kung Fu Panda: The Paws of Destiny",
+    "original_title": "Kung Fu Panda: The Paws of Destiny",
+    "overview": "As the Dragon Master, Po has endured his fair share of epic challenges but nothing could prepare him for his greatest one yet-as a Kung Fu teacher to a group of rambunctious kids from Panda Village who have been imbued with a mysterious and powerful chi energy. Together they embark on amazing adventures, battle ferocious villains, and become legends!",
+    "poster_path": "/x4yvmIVuXxYKfTlgRtSJnGC1Izs.jpg",
+    "release_date": "2018-11-15",
+    "vote_average": 7.245,
+    "vote_count": 877,
+    "popularity": 1.8622,
     "genre_ids": [
       16,
-      35,
+      10762,
+      10751,
+      10759,
+      35
+    ]
+  },
+  {
+    "tmdb_id": 62475,
+    "media_type": "tv",
+    "title": "Heidi",
+    "original_title": "Heidi",
+    "overview": "A plucky young orphan sent to live with her grandfather in the mountains discovers wonder and adventure around every corner.",
+    "poster_path": "/gw0dxuL9roVp2rCYx3y5jFHE7Cf.jpg",
+    "release_date": "2015-04-06",
+    "vote_average": 7.167,
+    "vote_count": 51,
+    "popularity": 2.7234,
+    "genre_ids": [
+      16,
+      10751,
+      10762,
+      18
+    ]
+  },
+  {
+    "tmdb_id": 81980,
+    "media_type": "tv",
+    "title": "Popples",
+    "original_title": "Popples",
+    "overview": "The adorable Best Popple Pals love helping their friends and neighbors, but every time they do it seems to backfire in hilarious ways.",
+    "poster_path": "/7EKJm70SYDWAZXzcpg2vn9t1eI5.jpg",
+    "release_date": "2015-10-30",
+    "vote_average": 7.0,
+    "vote_count": 7,
+    "popularity": 1.9331,
+    "genre_ids": [
+      16,
       10762,
       10751
     ]
   },
   {
-    "tmdb_id": 32388,
+    "tmdb_id": 292323,
     "media_type": "tv",
-    "title": "Ben & Holly's Little Kingdom",
-    "original_title": "Ben & Holly's Little Kingdom",
-    "overview": "The friendship between fairy princess Holly and Ben Elf in an enchanted magical kingdom of elves and fairies.",
-    "poster_path": "/iJfBAzPNojxE3LTcUhrev7TR0eH.jpg",
-    "release_date": "2009-05-04",
-    "vote_average": 5.636,
-    "vote_count": 22,
-    "popularity": 3.9144,
+    "title": "The Chosen Adventures",
+    "original_title": "The Chosen Adventures",
+    "overview": "Curious nine-year-old Abby and her bestie Joshua explore Galilee with their animal pals, Sheep and Pigeon, when they encounter a fun and kindly Teacher.",
+    "poster_path": "/ma3l76nAJYaORESgyEKugbehaiT.jpg",
+    "release_date": "2025-10-17",
+    "vote_average": 7.7,
+    "vote_count": 7,
+    "popularity": 1.793,
     "genre_ids": [
-      10762,
       16,
-      35,
-      10751
+      10751,
+      10762,
+      18
     ]
   },
   {
-    "tmdb_id": 973,
+    "tmdb_id": 46866,
     "media_type": "tv",
-    "title": "The Book of Pooh",
-    "original_title": "The Book of Pooh",
-    "overview": "The Book of Pooh is an American television series that aired on the Disney Channel. It is the third television series to feature the characters from the Disney franchise based on A. A. Milne's works; the other two were the live-action Welcome to Pooh Corner and the animated The New Adventures of Winnie the Pooh which ran from 1988-1991. It premiered on February 9, 2001, and completed its run on July 8, 2003. The show is produced by Shadow Projects, and Playhouse Disney. This is the first Pooh show where Jim Cummings voices Tigger filling in for the late Paul Winchell.\n\nIt was shown in U.K on a Channel 5 Block known as 'Milkshake!' as well as Playhouse Disney. It's run on Milkshake! ended around 2006 to 2007.",
-    "poster_path": "/vnXwJlVXCqyRE0qQn4Af102k183.jpg",
-    "release_date": "2001-01-22",
-    "vote_average": 6.955,
-    "vote_count": 22,
-    "popularity": 3.8041,
-    "genre_ids": [
-      10762,
-      16,
-      10751
-    ]
-  },
-  {
-    "tmdb_id": 345,
-    "media_type": "tv",
-    "title": "My Little Pony",
-    "original_title": "My Little Pony",
-    "overview": "Ponyland is the home of all your favorite classic Little Ponies. Together, they live a life of games, songs and harmony with allies like the Bushwoolies and Furbobs. But, occasionally, there are problems in Ponyland and the Little Ponies of Paradise Estate must face evil witches, goblins, Stone Backs, Grundles and more!",
-    "poster_path": "/tkVztC8YKR8JSIHgwRWD5boViBJ.jpg",
-    "release_date": "1986-09-15",
-    "vote_average": 6.1,
+    "title": "Sarah & Duck",
+    "original_title": "Sarah & Duck",
+    "overview": "Sarah is a 7-year-old girl with big eyes and a green hat. She lives with her best friend, a quacky, slightly manic fowl appropriately named Duck. Each episode features the pair setting out on simple but exciting adventures as they explore the world in their own imaginative way.",
+    "poster_path": "/u4SwnXjUFDiyRPPBc4st9TGQefm.jpg",
+    "release_date": "2013-02-18",
+    "vote_average": 7.8,
     "vote_count": 16,
-    "popularity": 3.6459,
+    "popularity": 2.1359,
     "genre_ids": [
       16,
       10762,
@@ -1652,87 +539,487 @@
     ]
   },
   {
-    "tmdb_id": 1458,
+    "tmdb_id": 30958,
     "media_type": "tv",
-    "title": "Franklin",
-    "original_title": "Franklin",
-    "overview": "Franklin is an Canadian educational animated television series, based on the Franklin the Turtle books by Brenda Clark and Paulette Bourgeois. The television series was named after its main character, Franklin the Turtle. It was produced by PolyGram Television, Alphanim, LuxAnimation, Nelvana, Neurones Enterprises, Reader's Digest for Young Families, TF1, Funbag Animation Studios, Europool, Mini TFO, and Family Channel, and syndicated by Summit Entertainment.",
-    "poster_path": "/ep0ol2okz8IB8T0LxhfJMXvJ3Mk.jpg",
-    "release_date": "1997-11-03",
-    "vote_average": 6.7,
-    "vote_count": 110,
-    "popularity": 3.5973,
+    "title": "Charlie and Lola",
+    "original_title": "Charlie and Lola",
+    "overview": "Charlie and Lola is a British animated television series based on the Charlie and Lola books written by Lauren Child. It aired from 2005–2008. The animation uses a collage style that emulates the style of the original books.",
+    "poster_path": "/78XSc7oUweLLpmjCJ9q59y2Mi8e.jpg",
+    "release_date": "2005-11-07",
+    "vote_average": 6.779,
+    "vote_count": 34,
+    "popularity": 1.8731,
     "genre_ids": [
-      16,
       10762,
+      16,
       10751
     ]
   },
   {
-    "tmdb_id": 3428,
+    "tmdb_id": 130688,
     "media_type": "tv",
-    "title": "Super Robot Monkey Team Hyperforce Go!",
-    "original_title": "Super Robot Monkey Team Hyperforce Go!",
-    "overview": "Super Robot Monkey Team Hyperforce Go! is an American/Japanese animated television series, and was created by Ciro Nieli, one of the directors of Teen Titans, with animation being done by a Japanese studio known as The Answer Studio. Set mainly on the fictional planet of Shuggazoom, the series follows the adventures of five cyborg monkeys and a human boy named Chiro as they struggle to protect their planet - and the rest of the universe - from the forces of evil.\n\nAs is obvious from the visual appearance of the show, there is a significant anime influence present, despite being produced for American television. It was also influenced by Star Trek, Super Sentai, Voltron, and Star Wars. The show also contains various references to pop culture, a notable example being the episode \"Season of the Skull\", which is a parody of the 1970s thriller The Wicker Man.",
-    "poster_path": "/gcTY3iHLC1wm9wB4pKn2vvCxCfK.jpg",
-    "release_date": "2004-09-18",
+    "title": "Sharkdog",
+    "original_title": "Sharkdog",
+    "overview": "10 year old Max and his best friend Sharkdog - half shark, half dog, all appetite. Blissfully unaware of his own strength, stealth and general sharkiness, Sharkdog often leaves a trail of chaos in his wake.",
+    "poster_path": "/cdkeBd7XZ6CmSE1a36rGG4bjqbb.jpg",
+    "release_date": "2021-09-03",
+    "vote_average": 8.4,
+    "vote_count": 21,
+    "popularity": 2.0689,
+    "genre_ids": [
+      16,
+      35,
+      10751,
+      10762
+    ]
+  },
+  {
+    "tmdb_id": 69173,
+    "media_type": "tv",
+    "title": "Oddbods (Shorts)",
+    "original_title": "Oddbods (Shorts)",
+    "overview": "Animated series about a couple of odd little beings.",
+    "poster_path": "/6DkseP0FAzsqGS80rPxAMXIWBMN.jpg",
+    "release_date": "2015-11-02",
+    "vote_average": 5.6,
+    "vote_count": 9,
+    "popularity": 2.2397,
+    "genre_ids": [
+      16,
+      10751,
+      35,
+      10762
+    ]
+  },
+  {
+    "tmdb_id": 34905,
+    "media_type": "tv",
+    "title": "Pearlie",
+    "original_title": "Pearlie",
+    "overview": "Pearlie is a tiny fairy with a big heart, and equally big plans. With the help of her two best friends - outback fairy Opal and lazy right-hand elf Jasper - she's in charge of taking care of her home, Jubilee Park, and all the residents that live there. Standing in her way is her jealous cousin Saphira, who plots to get her fired.",
+    "poster_path": "/93fy4Owwqh10daL209FNf11lOep.jpg",
+    "release_date": "2009-11-02",
+    "vote_average": 6.167,
+    "vote_count": 6,
+    "popularity": 1.8367,
+    "genre_ids": [
+      16,
+      35,
+      10762,
+      10751,
+      10765
+    ]
+  },
+  {
+    "tmdb_id": 217658,
+    "media_type": "tv",
+    "title": "Shape Island",
+    "original_title": "Shape Island",
+    "overview": "On a charming island, Square, Triangle, and Circle seek adventure and connection while learning how to navigate each other's differences.",
+    "poster_path": "/bJu8gM5eso8It2uPNbvGV7A95VN.jpg",
+    "release_date": "2023-01-19",
+    "vote_average": 6.9,
+    "vote_count": 15,
+    "popularity": 2.5504,
+    "genre_ids": [
+      10762,
+      10751,
+      16
+    ]
+  },
+  {
+    "tmdb_id": 14165,
+    "media_type": "tv",
+    "title": "Ruby Gloom",
+    "original_title": "Ruby Gloom",
+    "overview": "Ruby Gloom is a Canadian children's show that revolves around the titular character, Ruby, who has a unique perspective on the world. While some kids might be afraid of the dark, Ruby embraces it and finds joy in the company of strange and quirky characters like Doom Kitty, Skull Boy, Misery, Boo Boo, and Mr. Buns. Together, they navigate various adventures and challenges. The series is based on an apparel franchise of the same name. The show was produced by Nelvana and began airing on October 13, 2006 in Canada on the network YTV. It features the voices of Sarah Gadon, Emily Hampshire, Peter Keleghan, and Adrian Truss.",
+    "poster_path": "/tnUpRoi4Z9BYthmjM9CCRwPR5vN.jpg",
+    "release_date": "2006-10-13",
     "vote_average": 7.2,
-    "vote_count": 50,
-    "popularity": 3.5161,
+    "vote_count": 12,
+    "popularity": 4.5397,
+    "genre_ids": [
+      10751,
+      16,
+      10765,
+      35,
+      10762
+    ]
+  },
+  {
+    "tmdb_id": 133355,
+    "media_type": "tv",
+    "title": "A Tale Dark & Grimm",
+    "original_title": "A Tale Dark & Grimm",
+    "overview": "Follow Hansel and Gretel as they walk out of their own story into a winding and wickedly witty tale full of strange — and scary — surprises.",
+    "poster_path": "/iiek30wIfp96UR07jkCdrtlOx4x.jpg",
+    "release_date": "2021-10-08",
+    "vote_average": 7.1,
+    "vote_count": 36,
+    "popularity": 1.5979,
+    "genre_ids": [
+      10762,
+      10759,
+      16,
+      35,
+      10751
+    ]
+  },
+  {
+    "tmdb_id": 4665,
+    "media_type": "tv",
+    "title": "The Berenstain Bears",
+    "original_title": "The Berenstain Bears",
+    "overview": "We follow a family of bears, known as the Berenstain Bears, as they figure out life together. With friendly neighbors and close friends, the journey is never boring. Inspired by the book series written by Stan and Jan Berenstain.",
+    "poster_path": "/cRA1KVomv7d9avL7UpdPBJmASrv.jpg",
+    "release_date": "2003-01-06",
+    "vote_average": 6.6,
+    "vote_count": 18,
+    "popularity": 2.2408,
+    "genre_ids": [
+      10751,
+      35,
+      16,
+      10762
+    ]
+  },
+  {
+    "tmdb_id": 13350,
+    "media_type": "tv",
+    "title": "Jacob Two-Two",
+    "original_title": "Jacob Two-Two",
+    "overview": "Jacob Two-Two is a Canadian animated TV series based on a trilogy of books written by Mordecai Richler that first aired on Canadian children's channel YTV and aired on the French Canadian VRAK.TV as Jacob Jacob, in Spanish on Telemundo as Jacobo Dos Dos and in Portuguese on Canal Panda from Portugal as Jacob Dois Dois It also aired on ZigZap in the Poland and on Canal Futura from Brazil as 'Jacó Dois Dois'. It was produced by Nelvana; before being put on hiatus in 2005, it has 61 episodes. In the United States, the show aired on qubo, a 24 hour children's television channel in 2006. It also aired on Jetix UK from April 14, 2007 and on CITV in the UK from Spring 2006. The series is set in the Canadian city of Montreal and follows Jacob Two-Two and his friends on their wild adventures, most of which are one-shots that are resolved in a single episode.",
+    "poster_path": "/eI8t3akmgheC3xNJ2WXik8qtVzK.jpg",
+    "release_date": "2003-09-07",
+    "vote_average": 7.143,
+    "vote_count": 14,
+    "popularity": 1.9757,
+    "genre_ids": [
+      16,
+      35,
+      10762,
+      10751
+    ]
+  },
+  {
+    "tmdb_id": 211638,
+    "media_type": "tv",
+    "title": "Barbie Dreamhouse Adventures: Go Team Roberts",
+    "original_title": "Barbie Dreamhouse Adventures: Go Team Roberts",
+    "overview": "As the Roberts family heads to Costa Rica to investigate a mermaid legend, Barbie takes on a summer job at a water park run by a devious boss.",
+    "poster_path": "/jeYIRekZ6jTBUiEoefj4qEsttvI.jpg",
+    "release_date": "2019-11-01",
+    "vote_average": 8.2,
+    "vote_count": 16,
+    "popularity": 2.0979,
+    "genre_ids": [
+      16,
+      10751,
+      10762,
+      35
+    ]
+  },
+  {
+    "tmdb_id": 1585,
+    "media_type": "tv",
+    "title": "Dragon Tales",
+    "original_title": "Dragon Tales",
+    "overview": "Two siblings, Max and Emmy, find an enchanted dragon scale capable of transporting them to a whimsical fantasy land inhabited by colorful anthropomorphic dragons by reciting a rhyme. They befriend four friendly dragons Cassie, Ord, Zak, Wheezie and Quetzal.",
+    "poster_path": "/pwAe79bXMfzjD4l4s2k1ZFXq8T2.jpg",
+    "release_date": "1999-09-06",
+    "vote_average": 7.4,
+    "vote_count": 55,
+    "popularity": 1.8136,
+    "genre_ids": [
+      10762,
+      16,
+      10765,
+      35,
+      10751,
+      18
+    ]
+  },
+  {
+    "tmdb_id": 129604,
+    "media_type": "tv",
+    "title": "Ada Twist, Scientist",
+    "original_title": "Ada Twist, Scientist",
+    "overview": "Pint-sized scientist Ada Twist and her two best friends are asking big questions — and working together to discover the truth about everything!",
+    "poster_path": "/vHoHuYdtCkQlj8UtqePjnvUZf80.jpg",
+    "release_date": "2021-09-28",
+    "vote_average": 6.2,
+    "vote_count": 12,
+    "popularity": 2.1631,
+    "genre_ids": [
+      10762,
+      16,
+      35,
+      10751
+    ]
+  },
+  {
+    "tmdb_id": 73673,
+    "media_type": "tv",
+    "title": "LEGO Elves: Secrets of Elvendale",
+    "original_title": "LEGO Elves: Secrets of Elvendale",
+    "overview": "Armed with a powerful amulet, a teenage guardian is tasked with protecting her little sister -- and all of Elvendale. Based on the popular web series.",
+    "poster_path": "/yvq2hsm66dvDs4qTevZiDd3ij0t.jpg",
+    "release_date": "2017-09-01",
+    "vote_average": 7.4,
+    "vote_count": 32,
+    "popularity": 1.7486,
+    "genre_ids": [
+      16,
+      10762,
+      10765,
+      10751
+    ]
+  },
+  {
+    "tmdb_id": 107422,
+    "media_type": "tv",
+    "title": "Alien TV",
+    "original_title": "Alien TV",
+    "overview": "Alien reporters Ixbee, Pixbee and Squee travel to a lovely but odd planet called Earth, where they attempt to make sense of humans and their hobbies.",
+    "poster_path": "/qqSDgXn18t1j3OUPem92vfUd7CU.jpg",
+    "release_date": "2020-08-21",
+    "vote_average": 6.6,
+    "vote_count": 91,
+    "popularity": 1.5884,
+    "genre_ids": [
+      16,
+      35,
+      10751,
+      10762
+    ]
+  },
+  {
+    "tmdb_id": 1518,
+    "media_type": "tv",
+    "title": "The Weird Al Show",
+    "original_title": "The Weird Al Show",
+    "overview": "his Saturday morning hit brings Weird Al’s signature warped comedy, original songs, spoofs, offbeat animation, and a motley crew of surprise guests.",
+    "poster_path": "/rBoDRkqkZuliQYQRxKPFfEcA3zC.jpg",
+    "release_date": "1997-09-13",
+    "vote_average": 6.4,
+    "vote_count": 9,
+    "popularity": 1.8417,
+    "genre_ids": [
+      16,
+      35,
+      10762,
+      10751
+    ]
+  },
+  {
+    "tmdb_id": 3747,
+    "media_type": "tv",
+    "title": "Archie's Weird Mysteries",
+    "original_title": "Archie's Weird Mysteries",
+    "overview": "Things are getting weird in Riverdale, home of all-American boy and high school newspaper reporter, Archie Andrews. Ever since an experiment in the high school physics lab went awry, Riverdale has become a magnet for the stuff of which B-movies are made.",
+    "poster_path": "/6i0FAD2YCXdcOzQur90mThIYHiW.jpg",
+    "release_date": "1999-10-02",
+    "vote_average": 6.435,
+    "vote_count": 23,
+    "popularity": 1.6716,
+    "genre_ids": [
+      16,
+      35,
+      10751,
+      9648,
+      10765,
+      10762
+    ]
+  },
+  {
+    "tmdb_id": 63054,
+    "media_type": "tv",
+    "title": "Lost in Oz",
+    "original_title": "Lost in Oz",
+    "overview": "When 12-year-old Dorothy Gale discovers her mother's mysterious journal in her Kansas home, she and her dog, Toto, are transported into a bustling, modern Emerald City. Disoriented and determined to get home, Dorothy embarks on an epic journey with West, a young witch, and Ojo, a giant Munchkin, to seek the magic she needs - as Oz faces its greatest magic crisis. Based on L. Frank Baum's books.",
+    "poster_path": "/bYPm31BjQed8fqbly7BFPjsOjLH.jpg",
+    "release_date": "2015-06-26",
+    "vote_average": 6.2,
+    "vote_count": 17,
+    "popularity": 1.7793,
+    "genre_ids": [
+      16,
+      10751,
+      10765,
+      10762,
+      35
+    ]
+  },
+  {
+    "tmdb_id": 33347,
+    "media_type": "tv",
+    "title": "Angelina Ballerina: The Next Steps",
+    "original_title": "Angelina Ballerina: The Next Steps",
+    "overview": "Join Angelina Ballerina as she finds her way in her new school, puts together her own show and tries to land a leading role in the Mouskinov Ballet. Prepare to pirouette along with everyone's favorite ballerina in these sparkling stories!",
+    "poster_path": "/7CvBWJXqJWYqjFJmdJGqlEfQYn.jpg",
+    "release_date": "2009-09-05",
+    "vote_average": 7.5,
+    "vote_count": 6,
+    "popularity": 1.8355,
+    "genre_ids": [
+      10751,
+      16,
+      10762
+    ]
+  },
+  {
+    "tmdb_id": 57605,
+    "media_type": "tv",
+    "title": "Tree Fu Tom",
+    "original_title": "Tree Fu Tom",
+    "overview": "Tom appears to be a normal boy, but Tree Fu transforms him into a superhero.",
+    "poster_path": "/xHkGjUWkq4FHuyc5ioU6zU34tTx.jpg",
+    "release_date": "2012-03-05",
+    "vote_average": 5.5,
+    "vote_count": 6,
+    "popularity": 1.3966,
+    "genre_ids": [
+      16,
+      10762,
+      10751
+    ]
+  },
+  {
+    "tmdb_id": 71986,
+    "media_type": "tv",
+    "title": "Danger & Eggs",
+    "original_title": "Danger & Eggs",
+    "overview": "Follows the endless adventures of a fearless, teal-haired girl named D.D. Danger and her ever cautious best friend, a giant talking egg named Phillip. Together, join this buddy system as they explore an underground laboratory, meet a tech-savvy raccoon, and find moments of heart in the smallest bite of broccoli.",
+    "poster_path": "/3ZugH9DMsxLzhdp81cXLCziQgVq.jpg",
+    "release_date": "2017-06-30",
+    "vote_average": 6.1,
+    "vote_count": 7,
+    "popularity": 1.6855,
+    "genre_ids": [
+      10751,
+      16,
+      10762
+    ]
+  },
+  {
+    "tmdb_id": 91656,
+    "media_type": "tv",
+    "title": "Twelve Forever",
+    "original_title": "Twelve Forever",
+    "overview": "Reggie's dream is to be a kid forever. Her dream is so powerful that it creates its own fantasy world of perpetual youth.",
+    "poster_path": "/xJocMECVkXeBw0gRyjE5FEeiAmT.jpg",
+    "release_date": "2019-07-29",
+    "vote_average": 6.708,
+    "vote_count": 24,
+    "popularity": 1.9064,
+    "genre_ids": [
+      16,
+      10759,
+      35,
+      10751,
+      10762
+    ]
+  },
+  {
+    "tmdb_id": 205192,
+    "media_type": "tv",
+    "title": "E.B. White's Charlotte's Web",
+    "original_title": "E.B. White's Charlotte's Web",
+    "overview": "When farm pig Wilbur learns he is being raised for slaughter, barn spider Charlotte writes messages in her web to convince the farmer to let him live.",
+    "poster_path": "/aQAgKexRAQFednLUtJyyLBW1yU6.jpg",
+    "release_date": "2025-10-02",
+    "vote_average": 6.833,
+    "vote_count": 6,
+    "popularity": 1.4863,
+    "genre_ids": [
+      10751,
+      16,
+      18,
+      10762
+    ]
+  },
+  {
+    "tmdb_id": 14298,
+    "media_type": "tv",
+    "title": "WordWorld",
+    "original_title": "WordWorld",
+    "overview": "WordWorld is an Emmy Award-winning children's television series partially funded by the United States Department of Education as part of the Ready to Learn literacy initiative targeted to 3- to 7-year olds. The show airs in 10 languages and 90 countries, including in the United States. The television series, created by Don Moody and Jacqueline Moody, stars Dog and his WordFriends. In each episode, Dog and/or one of his friends embarks on a series of adventures where the only way to save the day is to build or un-build words. The show's novelty is that when a word is built correctly, it morphs into the thing it represents, which gives instant meaning to the word. WordWorld has been translated into popular mobile applications, Internet-based games, magnetic plush and other toys.\n\nWordWorld currently airs in 90 countries and 10 languages. It premiered September 3, 2007 on PBS Kids and is currently in its third season, with 84 11-minute episodes. WordWorld currently broadcasts on PBS Kids it is produced for WTTW Chicago.",
+    "poster_path": "/w4gQJBRZ70fOqyUNy0bzTHaTEam.jpg",
+    "release_date": "2007-09-03",
+    "vote_average": 7.8,
+    "vote_count": 6,
+    "popularity": 1.56,
+    "genre_ids": [
+      16,
+      10751,
+      10762
+    ]
+  },
+  {
+    "tmdb_id": 4489,
+    "media_type": "tv",
+    "title": "Josie and the Pussycats",
+    "original_title": "Josie and the Pussycats",
+    "overview": "Josie and the Pussycats is an American animated television series, based upon the Archie Comics comic book series of the same name created by Dan DeCarlo. Produced for Saturday morning television by Hanna-Barbera Productions, sixteen episodes of Josie and the Pussycats aired on CBS during the 1970-71 television season, and were rerun during the 1971-72 season. In 1972, the show was re-conceptualized as Josie and the Pussycats in Outer Space, sixteen episodes of which aired on CBS during the 1972-73 season and were rerun the following season. Reruns of the original series alternated between CBS, ABC, and NBC from 1974 through 1976. This brought its national Saturday morning TV run on three networks to six years.\n\nJosie and the Pussycats featured an all-girl pop music band that toured the world with their entourage, getting mixed up in strange adventures, spy capers, and mysteries. On the small-screen, the group consisted of level-headed lead singer and guitarist Josie, intelligent tambourinist Valerie, and air-headed blonde drummer Melody. Other characters included their cowardly manager Alexander Cabot III, his conniving sister Alexandra, her cat Sebastian, and muscular roadie Alan.",
+    "poster_path": "/y5CjUqhmxHqulHBZ37hwPXBCoCP.jpg",
+    "release_date": "1970-09-12",
+    "vote_average": 7.121,
+    "vote_count": 66,
+    "popularity": 1.8842,
+    "genre_ids": [
+      16,
+      10762,
+      10751,
+      35
+    ]
+  },
+  {
+    "tmdb_id": 97959,
+    "media_type": "tv",
+    "title": "Care Bears: Unlock the Magic",
+    "original_title": "Care Bears: Unlock the Magic",
+    "overview": "A group of lovable, huggable BFFs go on adventures and live that sweet Care Bear life. When a new adventure takes them to a strange new world, the bears have to lean on each other more than ever. Through friendship, courage and a little belly badge magic, the Care Bears continue their mission to spread caring and sharing to the world.",
+    "poster_path": "/kRW940X9egNY5RLzSYTfd3OOPSt.jpg",
+    "release_date": "2019-01-28",
+    "vote_average": 8.0,
+    "vote_count": 8,
+    "popularity": 1.3696,
+    "genre_ids": [
+      16,
+      10751,
+      10762
+    ]
+  },
+  {
+    "tmdb_id": 80391,
+    "media_type": "tv",
+    "title": "Matt Hatter Chronicles",
+    "original_title": "Matt Hatter Chronicles",
+    "overview": "When ordinary schoolboy, Matt Hatter, discovers a hidden portal in his family's movie theatre, he is transported to a mirror dimension where he becomes defender of the Multiverse. With his friends Roxie and Gomez, the new Hatter Hero must battle Super Villains, defend the realms, and save his Grandpa!",
+    "poster_path": "/s3s7cCeVEYWSZgHGdQL5v9yPcHe.jpg",
+    "release_date": "2011-10-31",
+    "vote_average": 7.9,
+    "vote_count": 8,
+    "popularity": 1.5084,
     "genre_ids": [
       16,
       10762,
       10759,
-      10751,
       10765,
-      35
+      10751
     ]
   },
   {
-    "tmdb_id": 14766,
+    "tmdb_id": 2659,
     "media_type": "tv",
-    "title": "Super Why!",
-    "original_title": "Super Why!",
-    "overview": "Super Why! or The Reading Adventures of Super Why! is a CGI animated show developed by Angela C. Santomero and Samantha Freeman Alpert. The TV series is produced by New York City-based Out of the Blue Enterprises and Toronto-based DHX Media through its Decode Entertainment division. The show debuted on PBS stations on September 3, 2007. The series airs on PBS Kids and PBS Kids Sprout in the USA, Kids' CBC in Canada. Thai PBS from Thailand broadcasts the shortened version, the episodes are 5 years behind the U.S.",
-    "poster_path": "/lJttSVfKx56a2wN2pg2yR4IHzwy.jpg",
-    "release_date": "2007-09-03",
-    "vote_average": 6.8,
-    "vote_count": 17,
-    "popularity": 3.4581,
-    "genre_ids": [
-      16,
-      10751,
-      10762
-    ]
-  },
-  {
-    "tmdb_id": 9970,
-    "media_type": "tv",
-    "title": "Franny's Feet",
-    "original_title": "Franny's Feet",
-    "overview": "Franny Fantootsie tries on shoes brought to her grandfather's shop for repair, and each pair takes her on magical adventures all over the world. From tropical shores to the North Pole, Franny meets new people and animal friends with every step.",
-    "poster_path": "/4TOCge6NsMOrCIQYMmudDbTpepc.jpg",
-    "release_date": "2003-07-08",
-    "vote_average": 7.2,
-    "vote_count": 6,
-    "popularity": 3.4559,
-    "genre_ids": [
-      16,
-      10751,
-      10762
-    ]
-  },
-  {
-    "tmdb_id": 132983,
-    "media_type": "tv",
-    "title": "Octonauts: Above & Beyond",
-    "original_title": "Octonauts: Above & Beyond",
-    "overview": "The Octonauts expand their exploration beyond the sea -- and onto land! With new rides and new friends, they'll protect any habitats and animals at risk.",
-    "poster_path": "/1V7IYlTVyGmjwiEH9SvPZREzfom.jpg",
-    "release_date": "2021-09-07",
-    "vote_average": 8.8,
-    "vote_count": 15,
-    "popularity": 3.4288,
+    "title": "Maggie and the Ferocious Beast",
+    "original_title": "Maggie and the Ferocious Beast",
+    "overview": "A precocious 5-year-old named Maggie conjures up an imaginary land where she and her favorite toys, Hamilton Hocks and Ferocious Beast, can play and have adventures. The Ferocious Beast is anything but ferocious, though he is large, with red spots and three horns on his head.",
+    "poster_path": "/8JXNloRV5B8s9iw94TwT3KKSCXO.jpg",
+    "release_date": "2000-06-05",
+    "vote_average": 7.1,
+    "vote_count": 9,
+    "popularity": 1.188,
     "genre_ids": [
       16,
       10762,
@@ -1740,16 +1027,122 @@
     ]
   },
   {
-    "tmdb_id": 2009,
+    "tmdb_id": 118534,
     "media_type": "tv",
-    "title": "Rocket Power",
-    "original_title": "Rocket Power",
-    "overview": "The daily lives of four friends who enjoy extreme sports, surfing, and getting into some crazy situations.",
-    "poster_path": "/2As5aMc84mtTurD2DfDLytNLhkh.jpg",
-    "release_date": "1999-08-16",
-    "vote_average": 7.7,
-    "vote_count": 306,
-    "popularity": 3.3889,
+    "title": "Jane",
+    "original_title": "Jane",
+    "overview": "Budding environmentalist Jane is a 9-year-old on a quest to save endangered animals. Using her powerful imagination, Jane takes her best friends David and Greybeard the chimpanzee on epic adventures to help protect wild animals all around the world.",
+    "poster_path": "/9EuDaqFRui2nVqE4CixB7Umx9AO.jpg",
+    "release_date": "2023-04-13",
+    "vote_average": 6.7,
+    "vote_count": 35,
+    "popularity": 1.4924,
+    "genre_ids": [
+      10762,
+      10751,
+      16
+    ]
+  },
+  {
+    "tmdb_id": 14826,
+    "media_type": "tv",
+    "title": "Ni Hao, Kai-Lan",
+    "original_title": "Ni Hao, Kai-Lan",
+    "overview": "Six-year-old Kai-Lan and her animal pals face kid-sized hurdles, learn about getting along and teach young viewers a few words of Chinese along the way.",
+    "poster_path": "/kqg9C1IDHKemsvir12cqXpIB5gM.jpg",
+    "release_date": "2007-11-05",
+    "vote_average": 8.0,
+    "vote_count": 15,
+    "popularity": 1.4817,
+    "genre_ids": [
+      16,
+      10762,
+      10751
+    ]
+  },
+  {
+    "tmdb_id": 223,
+    "media_type": "tv",
+    "title": "Being Ian",
+    "original_title": "Being Ian",
+    "overview": "Being Ian is a Canadian animated series produced by Studio B Productions, Corus Entertainment and Nelvana, focusing on 12-year-old Ian Kelley, who aspires to become a filmmaker. It originally aired from January 1, 2005 to April 22, 2007.\n\nThe series is created by and based on the early life of actor/writer Ian James Corlett. It is set in the city of Burnaby, British Columbia. Produced in 2004, it debuted January 4, 2005 on YTV. The series aired in the United States on Qubo from September 19, 2009 - October 24, 2009.",
+    "poster_path": "/ve16Upv0vQ8kAPMCscGDC859Cor.jpg",
+    "release_date": "2005-04-26",
+    "vote_average": 7.25,
+    "vote_count": 12,
+    "popularity": 1.1637,
+    "genre_ids": [
+      10762,
+      16,
+      10751,
+      9648
+    ]
+  },
+  {
+    "tmdb_id": 57748,
+    "media_type": "tv",
+    "title": "Henry Hugglemonster",
+    "original_title": "Henry Hugglemonster",
+    "overview": "Henry Hugglemonster is the story of a mischievous 5-year-old monster named Henry who loves adventures, discoveries, and being with his family. Each day brings new opportunities for Henry to explore his feelings and learn important life lessons about working with others, showing kindness, and getting along with siblings. Henry finds love and support from his parents, Daddo and Momma; and his brothers and sisters, Cobby , Summer, and Ivor.",
+    "poster_path": "/kX46kPCAXScko5SVYM7k1uDdgzu.jpg",
+    "release_date": "2013-10-01",
+    "vote_average": 7.0,
+    "vote_count": 17,
+    "popularity": 6.1756,
+    "genre_ids": [
+      10762,
+      16,
+      10751
+    ]
+  },
+  {
+    "tmdb_id": 544,
+    "media_type": "tv",
+    "title": "KaBlam!",
+    "original_title": "KaBlam!",
+    "overview": "KaBlam! is a sketch comedy television series that ran from 1996 to 2000. It features a collection of short films in several different styles of animation, bridged by the characters of Henry and June, who introduce the shorts, and have adventures of their own. The show ended its three-year run nine months short of four years on January 22, 2000.",
+    "poster_path": "/qdWa6JE3nsVoqfSga4aGTSiuFmf.jpg",
+    "release_date": "1996-10-11",
+    "vote_average": 7.0,
+    "vote_count": 28,
+    "popularity": 1.8954,
+    "genre_ids": [
+      10762,
+      35,
+      10765,
+      16,
+      10751,
+      9648
+    ]
+  },
+  {
+    "tmdb_id": 68820,
+    "media_type": "tv",
+    "title": "LEGO Friends",
+    "original_title": "LEGO Friends",
+    "overview": "Five Best Friends Go on Many Fun Lego adventures.",
+    "poster_path": "/b855aXC8IWQQq6TmHuAwlpmQUVv.jpg",
+    "release_date": "2012-05-05",
+    "vote_average": 7.0,
+    "vote_count": 5,
+    "popularity": 1.1325,
+    "genre_ids": [
+      16,
+      10762,
+      10751
+    ]
+  },
+  {
+    "tmdb_id": 133620,
+    "media_type": "tv",
+    "title": "Karma’s World",
+    "original_title": "Karma’s World",
+    "overview": "Talented singer and high school student Karma juggles rap dreams and rhyme schemes, using her talent, ambition and big heart to solve all kinds of problems.",
+    "poster_path": "/xWoTBTcWicfHnB7hRq1EDKdV1Mw.jpg",
+    "release_date": "2021-10-15",
+    "vote_average": 7.2,
+    "vote_count": 88,
+    "popularity": 1.267,
     "genre_ids": [
       16,
       35,
@@ -1758,34 +1151,107 @@
     ]
   },
   {
-    "tmdb_id": 1863,
+    "tmdb_id": 231725,
     "media_type": "tv",
-    "title": "Quack Pack",
-    "original_title": "Quack Pack",
-    "overview": "This cartoon follows on from the 1980’s cartoon “Ducktales”, continuing the adventures of Huey, Dewey and Louie. Now 12 year olds and living with their uncle Donald Duck, the three spend their time playing practical jokes on their hapless uncle and otherwise getting into trouble.",
-    "poster_path": "/d6VewnlRManLlOzV06jPUb08Hgf.jpg",
-    "release_date": "1996-09-02",
-    "vote_average": 6.886,
-    "vote_count": 70,
-    "popularity": 3.3489,
+    "title": "Mermaid Magic",
+    "original_title": "Mermaid Magic",
+    "overview": "To save her kingdom, a determined young mermaid princess and her friends must join forces with the creatures that scare them the most — humans.",
+    "poster_path": "/gsegitK9AnY1Lrgc7xsQuZvktIc.jpg",
+    "release_date": "2024-08-22",
+    "vote_average": 6.4,
+    "vote_count": 17,
+    "popularity": 1.4005,
     "genre_ids": [
       16,
       10762,
+      10759,
+      35,
       10751,
-      35
+      10765
     ]
   },
   {
-    "tmdb_id": 75523,
+    "tmdb_id": 139612,
     "media_type": "tv",
-    "title": "101 Dalmatian Street",
-    "original_title": "101 Dalmatian Street",
-    "overview": "Follow the adventures of eldest siblings Dolly and Dylan, their Mum Delilah and Dad Doug, and their 97 younger brothers and sisters as they embark on urban adventures and extreme sibling rivalry. Together, the pups explore growing up and finding their own spot inside the biggest, messiest, furriest blended family ever.",
-    "poster_path": "/5meA7Ik8h9t2Bd3VR7Pw85pXECV.jpg",
-    "release_date": "2019-03-18",
-    "vote_average": 7.4,
-    "vote_count": 28,
-    "popularity": 3.3257,
+    "title": "Mickey Mouse: Mixed-Up Adventures",
+    "original_title": "Mickey Mouse: Mixed-Up Adventures",
+    "overview": "Hot Dog! Get mixed-up with Mickey and all of his pals in his new house in Hot Dog Hills!",
+    "poster_path": "/18ik0uXxg6xuxSf7xrf0pfG1Dnm.jpg",
+    "release_date": "2019-10-14",
+    "vote_average": 5.6,
+    "vote_count": 12,
+    "popularity": 1.1503,
+    "genre_ids": [
+      16,
+      35,
+      10762,
+      10751
+    ]
+  },
+  {
+    "tmdb_id": 101400,
+    "media_type": "tv",
+    "title": "Spirit Riding Free: Riding Academy",
+    "original_title": "Spirit Riding Free: Riding Academy",
+    "overview": "In a small Western town a young girl from the city forms a tight bond with wild horse Spirit while having adventures with her friends.",
+    "poster_path": "/1P73hdMxOmxeWySMA8RDvmS1dQ4.jpg",
+    "release_date": "2020-03-20",
+    "vote_average": 8.3,
+    "vote_count": 19,
+    "popularity": 1.2237,
+    "genre_ids": [
+      10762,
+      16,
+      10751,
+      10759
+    ]
+  },
+  {
+    "tmdb_id": 10421,
+    "media_type": "tv",
+    "title": "Alf Tales",
+    "original_title": "Alf Tales",
+    "overview": "ALF Tales is an animated American series that ran on the NBC television network on Saturdays from August 1988 to December 1989. The show was a spinoff from the series ALF: The Animated Series. The show had characters from that series play various characters from fairy tales. The fairy tale was usually altered for comedic effect in a manner relational to Fractured Fairy Tales.\n\nEach story typically spoofs a film genre, such as the \"Cinderella\" episode done as an Elvis movie. Some episodes featured a \"fourth wall\" effect where ALF is backstage preparing for the episode, and Rob Cowan would appear drawn as a TV executive to try to brief ALF on how to improve this episode. For instance Cowan once told ALF who was readying for a medieval themed episode that \"less than 2% of our audience lives in the Dark Ages\".",
+    "poster_path": "/27aujEROj1TWXfKEPkxVqeEnRJJ.jpg",
+    "release_date": "1988-09-10",
+    "vote_average": 7.1,
+    "vote_count": 8,
+    "popularity": 1.0799,
+    "genre_ids": [
+      10762,
+      35,
+      16,
+      10751
+    ]
+  },
+  {
+    "tmdb_id": 13871,
+    "media_type": "tv",
+    "title": "The Koala Brothers",
+    "original_title": "The Koala Brothers",
+    "overview": "The Koala Brothers, Frank and Buster, live in the Australian Outback, where their mission in life is to help their friends.",
+    "poster_path": "/wY8rYjBURMpCBtAwR7PuLJVMaJT.jpg",
+    "release_date": "2003-10-01",
+    "vote_average": 6.8,
+    "vote_count": 8,
+    "popularity": 0.9982,
+    "genre_ids": [
+      10751,
+      16,
+      10762
+    ]
+  },
+  {
+    "tmdb_id": 3656,
+    "media_type": "tv",
+    "title": "Horseland",
+    "original_title": "Horseland",
+    "overview": "Horseland is an American animated series produced by DIC Entertainment. It is a comic mischief program following events in the lives of a group of children riding at Horseland, an equestrian school and stables. Their adventures include riding, and raising and entering their horses in competitions. The show premiered on September 16, 2006 as part of CBS's new Saturday morning cartoon block, KOL Secret Slumber Party on CBS. Concurrent with the series, the online virtual pet game that it was based upon was updated to complement the show by launching a new \"Junior version\" of the game based on the program and featuring its various characters and locations. After three seasons, the show's original run ended on CBS on September 19, 2009.",
+    "poster_path": "/xN6bWeZ7Ft7W5XQkDIKMmbA439v.jpg",
+    "release_date": "2006-09-16",
+    "vote_average": 8.5,
+    "vote_count": 11,
+    "popularity": 1.3216,
     "genre_ids": [
       16,
       10751,
@@ -1793,16 +1259,106 @@
     ]
   },
   {
-    "tmdb_id": 109930,
+    "tmdb_id": 10779,
     "media_type": "tv",
-    "title": "The Wonderful World of Mickey Mouse",
-    "original_title": "The Wonderful World of Mickey Mouse",
-    "overview": "It's nothing but fun and excitement for Mickey and his best pals – Minnie, Donald, Daisy, Goofy and Pluto - as they embark on their greatest adventures yet, navigating the curveballs of a wild and zany world where the magic of Disney makes the impossible possible.",
-    "poster_path": "/8F1V4ve64YPmyRZZ5u0jh7KCIID.jpg",
-    "release_date": "2020-11-18",
+    "title": "Action Pack",
+    "original_title": "Action Pack",
+    "overview": "The heroic kids of the Action Academy take on the bad guys with their hearts, their wits and their superpowers, and bring out the best in them.",
+    "poster_path": "/uuDysbuWHcg2Xt5a0JsqAxeGH1X.jpg",
+    "release_date": "2022-01-04",
+    "vote_average": 7.6,
+    "vote_count": 12,
+    "popularity": 1.0036,
+    "genre_ids": [
+      16,
+      10751,
+      10762,
+      10759
+    ]
+  },
+  {
+    "tmdb_id": 87547,
+    "media_type": "tv",
+    "title": "LEGO Friends: Girls on a Mission",
+    "original_title": "LEGO Friends: Girls on a Mission",
+    "overview": "Meet Andrea, Mia, Emma, Olivia and Stephanie. They're five best friends. And they're on a heroic mission: to save Heartlake City from wily swindlers.",
+    "poster_path": "/ucWzrdR7Ac4WVzx6FMFRNukNUqe.jpg",
+    "release_date": "2018-03-16",
+    "vote_average": 6.5,
+    "vote_count": 25,
+    "popularity": 1.1126,
+    "genre_ids": [
+      16,
+      10762,
+      10751
+    ]
+  },
+  {
+    "tmdb_id": 70784,
+    "media_type": "tv",
+    "title": "Marvel's Rocket & Groot",
+    "original_title": "Marvel's Rocket & Groot",
+    "overview": "Before becoming Guardians of the Galaxy, Rocket and Groot were bounty hunters trying to get a ship.",
+    "poster_path": "/2rCNP3beEllDgMHhqHFzMbQRFf9.jpg",
+    "release_date": "2017-03-10",
+    "vote_average": 6.79,
+    "vote_count": 31,
+    "popularity": 1.068,
+    "genre_ids": [
+      10762,
+      16,
+      10759,
+      10765,
+      35,
+      10751
+    ]
+  },
+  {
+    "tmdb_id": 28624,
+    "media_type": "tv",
+    "title": "Angelina Ballerina",
+    "original_title": "Angelina Ballerina",
+    "overview": "Set in Chipping Cheddar, a place similiar to 1920s London, Angelina Ballerina features Angelina Mouseling, a bold little mouse with big dreams - she hopes to become the greatest ballerina in Mouseland.",
+    "poster_path": "/n2kJrN9ZEHjZom2SKqPVL1uL2Pc.jpg",
+    "release_date": "2001-05-04",
+    "vote_average": 7.25,
+    "vote_count": 8,
+    "popularity": 1.1025,
+    "genre_ids": [
+      16,
+      10751,
+      10762,
+      10759
+    ]
+  },
+  {
+    "tmdb_id": 285603,
+    "media_type": "tv",
+    "title": "The Peanuts Classics",
+    "original_title": "The Peanuts Classics",
+    "overview": "The gang’s all here! Experience the nostalgia and joy of these iconic specials going back more than 50 years. Tag along with Charlie Brown, Snoopy, Linus, Lucy, and their pals for the early days of their antics and adventures.",
+    "poster_path": "/mSNSAV5dEsv9YqxVlBf6KYqcME.jpg",
+    "release_date": "1966-06-08",
+    "vote_average": 10.0,
+    "vote_count": 5,
+    "popularity": 0.7965,
+    "genre_ids": [
+      16,
+      10762,
+      10751
+    ]
+  },
+  {
+    "tmdb_id": 274382,
+    "media_type": "tv",
+    "title": "Wonder Pets: In the City",
+    "original_title": "Wonder Pets: In the City",
+    "overview": "Team up for heroic adventures with Izzy the Guinea Pig, Tate the Snake, and Zuri the Bunny—a trio of opera-singing New York City classroom pets—as they answer calls from animals in need all around the world.",
+    "poster_path": "/hgugRSvdi2zH1buV68d3Yj13Jwu.jpg",
+    "release_date": "2024-12-12",
     "vote_average": 7.5,
-    "vote_count": 100,
-    "popularity": 3.2907,
+    "vote_count": 8,
+    "popularity": 0.9619,
     "genre_ids": [
       16,
       10751,
@@ -1810,21 +1366,436 @@
     ]
   },
   {
-    "tmdb_id": 1010823,
+    "tmdb_id": 4510,
+    "media_type": "tv",
+    "title": "Starla and the Jewel Riders",
+    "original_title": "Starla and the Jewel Riders",
+    "overview": "Princess Gwenevere and the Jewel Riders is an American fantasy themed cartoon television series produced by Bohbot Productions and Hasbro with association with Hong Ying Animation in 1995. Each episode was constructed as an animated minimusical, aimed at children aged four and older. Internationally syndicated by Bohbot Entertainment, the international version has the title character renamed to Starla.",
+    "poster_path": "/othykVl9W71h0RwhGQd3exEV9BD.jpg",
+    "release_date": "1995-09-10",
+    "vote_average": 6.0,
+    "vote_count": 5,
+    "popularity": 0.8977,
+    "genre_ids": [
+      16,
+      10765,
+      10759,
+      10751,
+      10762
+    ]
+  },
+  {
+    "tmdb_id": 79516,
+    "media_type": "tv",
+    "title": "Doozers",
+    "original_title": "Doozers",
+    "overview": "The little green builders from Jim Henson' Fraggle Rock are back in their own show. The show follows four young Doozers, as they build and invent to solve problems.",
+    "poster_path": "/cjkdSkGNCzYOnwQwNBRMWdtkbm4.jpg",
+    "release_date": "2014-07-18",
+    "vote_average": 7.2,
+    "vote_count": 8,
+    "popularity": 1.1487,
+    "genre_ids": [
+      16,
+      10762,
+      10751
+    ]
+  },
+  {
+    "tmdb_id": 133529,
+    "media_type": "tv",
+    "title": "The Gumball Chronicles",
+    "original_title": "The Gumball Chronicles",
+    "overview": "The Gumball Chronicles is a spinoff mini-series based on The Amazing World of Gumball. The series predominantly consists of clips recycled from previous episodes but features some new content.",
+    "poster_path": "/5Qukre5usOvrt27knGlVuQngT9I.jpg",
+    "release_date": "2020-10-05",
+    "vote_average": 9.271,
+    "vote_count": 59,
+    "popularity": 1.0065,
+    "genre_ids": [
+      10762,
+      10751,
+      16
+    ]
+  },
+  {
+    "tmdb_id": 70082,
+    "media_type": "tv",
+    "title": "Wishenpoof!",
+    "original_title": "Wishenpoof!",
+    "overview": "Bianca is just like any other little girl, except for one teensy little thing. Bianca has Wish Magic, so she can make wishes come true. Whether she's at home in Wish World, at the Willow Tree with her fairy friends, or at school with her non-fairy friends, Bianca and her hilarious teddy bear sidekick Bob navigate day-to-day problems with a little help from Bianca's mom and of course, wish magic!",
+    "poster_path": "/x0t766RHwnK0Z3W9FLl3xzL53WB.jpg",
+    "release_date": "2015-08-13",
+    "vote_average": 5.0,
+    "vote_count": 6,
+    "popularity": 0.9111,
+    "genre_ids": [
+      10762,
+      10751,
+      16,
+      10765
+    ]
+  },
+  {
+    "tmdb_id": 1084242,
     "media_type": "movie",
-    "title": "Magnum Opus",
-    "original_title": "Magnum Opus",
-    "overview": "Groot sets out to paint a family portrait of himself and the Guardians, only to discover just how messy the artistic process can be.",
-    "poster_path": "/8p8JsKokKbuNCn9yBirAg1oEwGd.jpg",
-    "release_date": "2022-07-18",
-    "vote_average": 7.243,
-    "vote_count": 278,
-    "popularity": 1.6315,
+    "title": "Zootopia 2",
+    "original_title": "Zootopia 2",
+    "overview": "After cracking the biggest case in Zootopia's history, rookie cops Judy Hopps and Nick Wilde find themselves on the twisting trail of a great mystery when Gary De'Snake arrives and turns the animal metropolis upside down. To crack the case, Judy and Nick must go undercover to unexpected new parts of town, where their growing partnership is tested like never before.",
+    "poster_path": "/bjUWGw0Ao0qVWxagN3VCwBJHVo6.jpg",
+    "release_date": "2025-11-26",
+    "vote_average": 7.597,
+    "vote_count": 1121,
+    "popularity": 196.6992,
+    "genre_ids": [
+      16,
+      35,
+      12,
+      10751,
+      9648
+    ]
+  },
+  {
+    "tmdb_id": 269149,
+    "media_type": "movie",
+    "title": "Zootopia",
+    "original_title": "Zootopia",
+    "overview": "Determined to prove herself, Officer Judy Hopps, the first bunny on Zootopia's police force, jumps at the chance to crack her first case - even if it means partnering with scam-artist fox Nick Wilde to solve the mystery.",
+    "poster_path": "/hlK0e0wAQ3VLuJcsfIYPvb4JVud.jpg",
+    "release_date": "2016-02-11",
+    "vote_average": 7.758,
+    "vote_count": 17528,
+    "popularity": 38.6214,
+    "genre_ids": [
+      16,
+      12,
+      10751,
+      35
+    ]
+  },
+  {
+    "tmdb_id": 991494,
+    "media_type": "movie",
+    "title": "The SpongeBob Movie: Search for SquarePants",
+    "original_title": "The SpongeBob Movie: Search for SquarePants",
+    "overview": "Desperate to be a big guy, SpongeBob sets out to prove his bravery to Mr. Krabs by following The Flying Dutchman – a mysterious swashbuckling ghost pirate – on a seafaring adventure that takes him to the deepest depths of the deep sea, where no Sponge has gone before.",
+    "poster_path": "/pDWYW9v8fmJdA7N0I1MOdQA3ETq.jpg",
+    "release_date": "2025-12-16",
+    "vote_average": 6.6,
+    "vote_count": 70,
+    "popularity": 32.2322,
     "genre_ids": [
       16,
       10751,
+      35,
+      12,
+      14
+    ]
+  },
+  {
+    "tmdb_id": 354912,
+    "media_type": "movie",
+    "title": "Coco",
+    "original_title": "Coco",
+    "overview": "Despite his family’s baffling generations-old ban on music, Miguel dreams of becoming an accomplished musician like his idol, Ernesto de la Cruz. Desperate to prove his talent, Miguel finds himself in the stunning and colorful Land of the Dead following a mysterious chain of events. Along the way, he meets charming trickster Hector, and together, they set off on an extraordinary journey to unlock the real story behind Miguel's family history.",
+    "poster_path": "/6Ryitt95xrO8KXuqRGm1fUuNwqF.jpg",
+    "release_date": "2017-10-27",
+    "vote_average": 8.199,
+    "vote_count": 20570,
+    "popularity": 27.2928,
+    "genre_ids": [
+      10751,
+      16,
+      10402,
+      12
+    ]
+  },
+  {
+    "tmdb_id": 1241982,
+    "media_type": "movie",
+    "title": "Moana 2",
+    "original_title": "Moana 2",
+    "overview": "After receiving an unexpected call from her wayfinding ancestors, Moana journeys alongside Maui and a new crew to the far seas of Oceania and into dangerous, long-lost waters for an adventure unlike anything she's ever faced.",
+    "poster_path": "/aLVkiINlIeCkcZIzb7XHzPYgO6L.jpg",
+    "release_date": "2024-11-21",
+    "vote_average": 7.008,
+    "vote_count": 2890,
+    "popularity": 23.6689,
+    "genre_ids": [
+      16,
+      12,
+      10751,
+      35,
+      14
+    ]
+  },
+  {
+    "tmdb_id": 1175942,
+    "media_type": "movie",
+    "title": "The Bad Guys 2",
+    "original_title": "The Bad Guys 2",
+    "overview": "The now-reformed Bad Guys are trying (very, very hard) to be good, but instead find themselves hijacked into a high-stakes, globe-trotting heist, masterminded by a new team of criminals they never saw coming: The Bad Girls.",
+    "poster_path": "/c1msaKf1wyuKcmLjjJd6rIBPFcd.jpg",
+    "release_date": "2025-07-24",
+    "vote_average": 7.708,
+    "vote_count": 624,
+    "popularity": 23.737,
+    "genre_ids": [
+      10751,
+      35,
+      80,
+      12,
+      16
+    ]
+  },
+  {
+    "tmdb_id": 756397,
+    "media_type": "movie",
+    "title": "Hitpig!",
+    "original_title": "Hitpig!",
+    "overview": "A porcine bounty hunter accepts his next hit: Pickles, a naive, ebullient elephant. Though he initially sets out to capture the perky pachyderm, the unlikely pair find themselves crisscrossing the globe on an adventure that brings out the best in both of them.",
+    "poster_path": "/bYa20LYAZ3Q7lKXtLYybo0yWWTN.jpg",
+    "release_date": "2024-11-01",
+    "vote_average": 6.6,
+    "vote_count": 37,
+    "popularity": 25.9001,
+    "genre_ids": [
+      16,
+      35,
+      12,
+      10751
+    ]
+  },
+  {
+    "tmdb_id": 38757,
+    "media_type": "movie",
+    "title": "Tangled",
+    "original_title": "Tangled",
+    "overview": "Feisty teenager Rapunzel, who has long and magical hair, wants to go and see sky lanterns on her eighteenth birthday, but she's bound to a tower by her overprotective mother. She strikes a deal with Flynn Rider, a charming wanted thief, and the duo set off on an action-packed escapade.",
+    "poster_path": "/ym7Kst6a4uodryxqbGOxmewF235.jpg",
+    "release_date": "2010-11-24",
+    "vote_average": 7.6,
+    "vote_count": 12120,
+    "popularity": 23.6562,
+    "genre_ids": [
+      16,
+      10751,
+      12
+    ]
+  },
+  {
+    "tmdb_id": 1022789,
+    "media_type": "movie",
+    "title": "Inside Out 2",
+    "original_title": "Inside Out 2",
+    "overview": "Teenager Riley's mind headquarters is undergoing a sudden demolition to make room for something entirely unexpected: new Emotions! Joy, Sadness, Anger, Fear and Disgust, who’ve long been running a successful operation by all accounts, aren’t sure how to feel when Anxiety shows up. And it looks like she’s not alone.",
+    "poster_path": "/vpnVM9B6NMmQpWeZvzLvDESb2QY.jpg",
+    "release_date": "2024-06-11",
+    "vote_average": 7.547,
+    "vote_count": 6395,
+    "popularity": 22.4564,
+    "genre_ids": [
+      16,
+      12,
+      35,
+      10751
+    ]
+  },
+  {
+    "tmdb_id": 808,
+    "media_type": "movie",
+    "title": "Shrek",
+    "original_title": "Shrek",
+    "overview": "It ain't easy bein' green -- especially if you're a likable (albeit smelly) ogre named Shrek. On a mission to retrieve a gorgeous princess from the clutches of a fire-breathing dragon, Shrek teams up with an unlikely compatriot -- a wisecracking donkey.",
+    "poster_path": "/iB64vpL3dIObOtMZgX3RqdVdQDc.jpg",
+    "release_date": "2001-05-18",
+    "vote_average": 7.755,
+    "vote_count": 18290,
+    "popularity": 21.6632,
+    "genre_ids": [
+      16,
+      35,
+      14,
+      12,
+      10751
+    ]
+  },
+  {
+    "tmdb_id": 863,
+    "media_type": "movie",
+    "title": "Toy Story 2",
+    "original_title": "Toy Story 2",
+    "overview": "Andy heads off to Cowboy Camp, leaving his toys to their own devices. Things shift into high gear when an obsessive toy collector named Al McWhiggen, owner of Al's Toy Barn kidnaps Woody. Andy's toys mount a daring rescue mission, Buzz Lightyear meets his match and Woody has to decide where he and his heart truly belong.",
+    "poster_path": "/4rbcp3ng8n1MKHjpeqW0L7Fnpzz.jpg",
+    "release_date": "1999-10-30",
+    "vote_average": 7.604,
+    "vote_count": 14570,
+    "popularity": 20.4033,
+    "genre_ids": [
+      16,
+      35,
+      10751
+    ]
+  },
+  {
+    "tmdb_id": 109445,
+    "media_type": "movie",
+    "title": "Frozen",
+    "original_title": "Frozen",
+    "overview": "Young princess Anna of Arendelle dreams about finding true love at her sister Elsa’s coronation. Fate takes her on a dangerous journey in an attempt to end the eternal winter that has fallen over the kingdom. She's accompanied by ice delivery man Kristoff, his reindeer Sven, and snowman Olaf. On an adventure where she will find out what friendship, courage, family, and true love really means.",
+    "poster_path": "/itAKcobTYGpYT8Phwjd8c9hleTo.jpg",
+    "release_date": "2013-11-20",
+    "vote_average": 7.248,
+    "vote_count": 17285,
+    "popularity": 18.8177,
+    "genre_ids": [
+      16,
+      10751,
+      12,
+      14
+    ]
+  },
+  {
+    "tmdb_id": 519182,
+    "media_type": "movie",
+    "title": "Despicable Me 4",
+    "original_title": "Despicable Me 4",
+    "overview": "Gru and Lucy and their girls—Margo, Edith and Agnes—welcome a new member to the Gru family, Gru Jr., who is intent on tormenting his dad. Gru also faces a new nemesis in Maxime Le Mal and his femme fatale girlfriend Valentina, forcing the family to go on the run.",
+    "poster_path": "/wWba3TaojhK7NdycRhoQpsG0FaH.jpg",
+    "release_date": "2024-06-20",
+    "vote_average": 7.0,
+    "vote_count": 3033,
+    "popularity": 18.279,
+    "genre_ids": [
+      10751,
+      35,
+      16,
+      878
+    ]
+  },
+  {
+    "tmdb_id": 297270,
+    "media_type": "movie",
+    "title": "Tinker Bell and the Legend of the NeverBeast",
+    "original_title": "Tinker Bell and the Legend of the NeverBeast",
+    "overview": "An ancient myth of a massive creature sparks the curiosity of Tinker Bell and her good friend Fawn, an animal fairy who’s not afraid to break the rules to help an animal in need. But this creature is not welcome in Pixie Hollow — and the scout fairies are determined to capture the mysterious beast, who they fear will destroy their home. Fawn must convince her fairy friends to risk everything to rescue the NeverBeast.",
+    "poster_path": "/3S0mmmpYStB3GqodRghcfOt81wQ.jpg",
+    "release_date": "2014-12-12",
+    "vote_average": 7.358,
+    "vote_count": 1163,
+    "popularity": 17.1663,
+    "genre_ids": [
+      12,
+      16,
+      10751
+    ]
+  },
+  {
+    "tmdb_id": 502356,
+    "media_type": "movie",
+    "title": "The Super Mario Bros. Movie",
+    "original_title": "The Super Mario Bros. Movie",
+    "overview": "While working underground to fix a water main, Brooklyn plumbers—and brothers—Mario and Luigi are transported down a mysterious pipe and wander into a magical new world. But when the brothers are separated, Mario embarks on an epic quest to find Luigi.",
+    "poster_path": "/qNBAXBIQlnOThrVvA6mA2B5ggV6.jpg",
+    "release_date": "2023-04-05",
+    "vote_average": 7.599,
+    "vote_count": 10200,
+    "popularity": 17.2514,
+    "genre_ids": [
+      10751,
+      35,
+      12,
+      16,
+      14
+    ]
+  },
+  {
+    "tmdb_id": 1022787,
+    "media_type": "movie",
+    "title": "Elio",
+    "original_title": "Elio",
+    "overview": "Elio, a space fanatic with an active imagination, finds himself on a cosmic misadventure where he must form new bonds with eccentric alien lifeforms, navigate a crisis of intergalactic proportions and somehow discover who he is truly meant to be.",
+    "poster_path": "/7z8jDiTZZco9moIKpTUImFtTy7o.jpg",
+    "release_date": "2025-06-18",
+    "vote_average": 6.975,
+    "vote_count": 788,
+    "popularity": 17.5779,
+    "genre_ids": [
+      10751,
+      35,
+      12,
+      16,
+      878
+    ]
+  },
+  {
+    "tmdb_id": 585,
+    "media_type": "movie",
+    "title": "Monsters, Inc.",
+    "original_title": "Monsters, Inc.",
+    "overview": "Lovable Sulley and his wisecracking sidekick Mike Wazowski are the top scare team at Monsters, Inc., the scream-processing factory in Monstropolis. When a little girl named Boo wanders into their world, it's the monsters who are scared silly, and it's up to Sulley and Mike to keep her out of sight and get her back home.",
+    "poster_path": "/wFSpyMsp7H0ttERbxY7Trlv8xry.jpg",
+    "release_date": "2001-11-01",
+    "vote_average": 7.847,
+    "vote_count": 19387,
+    "popularity": 17.8669,
+    "genre_ids": [
+      16,
+      35,
+      10751
+    ]
+  },
+  {
+    "tmdb_id": 1184918,
+    "media_type": "movie",
+    "title": "The Wild Robot",
+    "original_title": "The Wild Robot",
+    "overview": "After a shipwreck, an intelligent robot called Roz is stranded on an uninhabited island. To survive the harsh environment, Roz bonds with the island's animals and cares for an orphaned baby goose.",
+    "poster_path": "/wTnV3PCVW5O92JMrFvvrRcV39RU.jpg",
+    "release_date": "2024-09-12",
+    "vote_average": 8.315,
+    "vote_count": 5655,
+    "popularity": 17.498,
+    "genre_ids": [
+      16,
       878,
-      35
+      10751,
+      12,
+      18
+    ]
+  },
+  {
+    "tmdb_id": 23566,
+    "media_type": "movie",
+    "title": "Barbie and the Three Musketeers",
+    "original_title": "Barbie and the Three Musketeers",
+    "overview": "Corinne is a young country girl who heads to Paris to pursue her big dream – to become a female musketeer! Never could she imagine she would meet three other girls who secretly share the same dream! Using their special talents, the girls work together as a team to foil a plot and save the prince. It's all for one and one for all!",
+    "poster_path": "/zR0ts7zL2P1kQIQXYlnS4KCqqmu.jpg",
+    "release_date": "2009-09-15",
+    "vote_average": 7.3,
+    "vote_count": 717,
+    "popularity": 15.0041,
+    "genre_ids": [
+      16,
+      10751
+    ]
+  },
+  {
+    "tmdb_id": 8587,
+    "media_type": "movie",
+    "title": "The Lion King",
+    "original_title": "The Lion King",
+    "overview": "Young lion prince Simba, eager to one day become king of the Pride Lands, grows up under the watchful eye of his father Mufasa; all the while his villainous uncle Scar conspires to take the throne for himself. Amid betrayal and tragedy, Simba must confront his past and find his rightful place in the Circle of Life.",
+    "poster_path": "/sKCr78MXSLixwmZ8DyJLrpMsd15.jpg",
+    "release_date": "1994-06-15",
+    "vote_average": 8.255,
+    "vote_count": 19295,
+    "popularity": 15.9546,
+    "genre_ids": [
+      10751,
+      16,
+      18,
+      12
     ]
   }
 ]
