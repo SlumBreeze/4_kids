@@ -25,18 +25,21 @@ export const ShowCard: React.FC<ShowCardProps> = ({ show, onClick }) => {
   return (
     <div className={`${styles.card} ${cardStyle}`} onClick={onClick}>
       <div className={styles.imageContainer}>
-        <img src={show.coverImage} alt={show.title} className={styles.image} />
+        <img
+          src={show.coverImage}
+          alt={show.title}
+          className={styles.image}
+          loading="lazy"
+        />
         <div className={styles.ratingBadge}>{badgeText}</div>
       </div>
       <div className={styles.content}>
         <h3 className={styles.title}>{show.title}</h3>
-        <p className={styles.meta}>
-          {ageString} | {show.tags[0]}
-        </p>
-        <p className={styles.synopsis}>{show.synopsis}</p>
-
-        <div className={styles.reasoning}>
-          <strong>Our Take:</strong> {show.reasoning}
+        <div className={styles.meta}>
+          <span className={styles.ageTag}>{ageString}</span>
+          {show.tags.length > 0 && (
+            <span className={styles.genreTag}>{show.tags[0]}</span>
+          )}
         </div>
       </div>
     </div>

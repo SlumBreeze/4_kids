@@ -130,7 +130,7 @@
   font-size: 1.2rem;
 }
 
-@media (max-width: 900px) {
+@media (max-width: 1024px) {
   .hero-section {
     flex-direction: column-reverse;
     text-align: center;

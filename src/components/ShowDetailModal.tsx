@@ -2,6 +2,7 @@ import React, { useEffect } from "react";
 import { Show } from "../types";
 import { formatAgeRange } from "../utils/format";
 import styles from "./ShowDetailModal.module.css";
+import { platformLogos, platformAliases } from "../constants/platforms";
 
 interface ShowDetailModalProps {
   show: Show | null;
@@ -32,144 +33,11 @@ export const ShowDetailModal: React.FC<ShowDetailModalProps> = ({
     High: { bg: "#F3E5F5", color: "#7B1FA2", text: "🚀 High Stimulation" },
   }[stimLevel];
 
-  const platformLogos: Record<
-    string,
-    { name: string; file: string }
-  > = {
-    netflix: { name: "Netflix", file: "/assets/providers/netflix.png" },
-    disneyplus: { name: "Disney+", file: "/assets/providers/disneyplus.png" },
-    hulu: { name: "Hulu", file: "/assets/providers/hulu.png" },
-    primevideo: { name: "Prime Video", file: "/assets/providers/primevideo.png" },
-    hbomax: { name: "HBO Max", file: "/assets/providers/hbomax.png" },
-    peacock: { name: "Peacock", file: "/assets/providers/peacock.png" },
-    appletv: { name: "Apple TV+", file: "/assets/providers/appletv.png" },
-    paramountplus: {
-      name: "Paramount+",
-      file: "/assets/providers/paramountplus.png",
-    },
-    youtubekids: {
-      name: "YouTube Kids",
-      file: "/assets/providers/youtubekids.png",
-    },
-    roku: { name: "Roku Channel", file: "/assets/providers/roku.png" },
-    tubi: { name: "Tubi", file: "/assets/providers/tubi.png" },
-    plutotv: { name: "Pluto TV", file: "/assets/providers/plutotv.png" },
-    sling: { name: "Sling TV", file: "/assets/providers/sling.png" },
-    crunchyroll: {
-      name: "Crunchyroll",
-      file: "/assets/providers/crunchyroll.png",
-    },
-    funimation: {
-      name: "Funimation",
-      file: "/assets/providers/funimation.png",
-    },
-    noggin: { name: "Noggin", file: "/assets/providers/noggin.png" },
-    pbskids: { name: "PBS Kids", file: "/assets/providers/pbskids.png" },
-    nickjr: { name: "Nick Jr.", file: "/assets/providers/nickjr.png" },
-    cartoonnetwork: {
-      name: "Cartoon Network",
-      file: "/assets/providers/cartoonnetwork.png",
-    },
-    disneyjunior: {
-      name: "Disney Junior",
-      file: "/assets/providers/disneyjunior.png",
-    },
-    boomerang: {
-      name: "Boomerang",
-      file: "/assets/providers/boomerang.png",
-    },
-    discoveryplus: {
-      name: "Discovery+",
-      file: "/assets/providers/discoveryplus.png",
-    },
-    kidoodle: { name: "Kidoodle.TV", file: "/assets/providers/kidoodle.png" },
-    vudu: { name: "Vudu Kids", file: "/assets/providers/vudu.png" },
-    xumo: { name: "Xumo", file: "/assets/providers/xumo.png" },
-    kanopy: { name: "Kanopy Kids", file: "/assets/providers/kanopy.png" },
-    shoutfactory: {
-      name: "Shout! Factory TV",
-      file: "/assets/providers/shoutfactory.png",
-    },
-    sundancenow: {
-      name: "Sundance Now",
-      file: "/assets/providers/sundancenow.png",
-    },
-    freevee: { name: "Freevee", file: "/assets/providers/freevee.png" },
-    yippee: { name: "Yippee TV", file: "/assets/providers/yippee.png" },
-    happykids: {
-      name: "HappyKids TV",
-      file: "/assets/providers/happykids.png",
-    },
-    hopster: { name: "Hopster", file: "/assets/providers/hopster.png" },
-    sesameworkshop: {
-      name: "Sesame Workshop",
-      file: "/assets/providers/sesameworkshop.png",
-    },
-    pbs: { name: "PBS", file: "/assets/providers/pbs.png" },
-    familyjr: {
-      name: "FAMILY Jr.",
-      file: "/assets/providers/familyjr.png",
-    },
-    retrotv: { name: "RetroTV", file: "/assets/providers/retrotv.png" },
-    tinypop: { name: "Tiny Pop", file: "/assets/providers/tinypop.png" },
-    babytv: { name: "BabyTV", file: "/assets/providers/babytv.png" },
-    toongoggles: {
-      name: "Toon Goggles",
-      file: "/assets/providers/toongoggles.png",
-    },
-    kidzbop: { name: "Kidz Bop TV", file: "/assets/providers/kidzbop.png" },
-    wildbrain: {
-      name: "WildBrain TV",
-      file: "/assets/providers/wildbrain.png",
-    },
-    nicktoons: { name: "Nicktoons", file: "/assets/providers/nicktoons.png" },
-    discoveryfamily: {
-      name: "Discovery Family",
-      file: "/assets/providers/discoveryfamily.png",
-    },
-    cartoonito: {
-      name: "Cartoonito",
-      file: "/assets/providers/cartoonito.png",
-    },
-    cbs: { name: "CBS", file: "/assets/providers/cbs.png" },
-  };
-
-  const platformAliases: Record<string, string> = {
-    "amazonprimevideo": "primevideo",
-    "primevideo": "primevideo",
-    "amazonprime": "primevideo",
-    "prime": "primevideo",
-    "hbo max": "hbomax",
-    "hbomax": "hbomax",
-    "max": "hbomax",
-    "paramount plus": "paramountplus",
-    "paramount+": "paramountplus",
-    "cbs all access": "paramountplus",
-    "imdbtv": "freevee",
-    "imdb tv": "freevee",
-    "disney plus": "disneyplus",
-    "disney+": "disneyplus",
-    "disney+ kids zone": "disneyplus",
-    "peacock kids": "peacock",
-    "hbo family on max": "hbomax",
-    "youtube kids": "youtubekids",
-    "the roku channel": "roku",
-    "pbs kids": "pbskids",
-    "cartoon network app": "cartoonnetwork",
-    "nick jr": "nickjr",
-    "nick jr.": "nickjr",
-    "discovery family": "discoveryfamily",
-    "sesame workshop on pbs kids": "sesameworkshop",
-    "pbs passport": "pbs",
-    "family jr.": "familyjr",
-    "family jr": "familyjr",
-    "retro tv kids blocks": "retrotv",
-    "tiny pop": "tinypop",
-    "cbs kids": "cbs",
-  };
-
   const normalizePlatform = (platform: string) =>
-    platform.trim().toLowerCase().replace(/[^a-z0-9+ ]/g, "");
+    platform
+      .trim()
+      .toLowerCase()
+      .replace(/[^a-z0-9+ ]/g, "");
 
   const resolvePlatform = (platform: string) => {
     const normalized = normalizePlatform(platform);
@@ -190,11 +58,13 @@ export const ShowDetailModal: React.FC<ShowDetailModalProps> = ({
         </button>
 
         <div className={styles.header}>
-          <img
-            src={show.coverImage}
-            alt={show.title}
-            className={styles.coverImage}
-          />
+          <div className={styles.imageContainer}>
+            <img
+              src={show.coverImage}
+              alt={show.title}
+              className={styles.coverImage}
+            />
+          </div>
 
           <div className={styles.headerInfo}>
             <div className={styles.badges}>
@@ -231,6 +101,7 @@ export const ShowDetailModal: React.FC<ShowDetailModalProps> = ({
               </span>
             </div>
 
+            {/* Moved Cast here for better layout balance if needed, but keeping original structure mostly */}
             <div className={styles.tags}>
               {show.tags.map((tag) => (
                 <span key={tag} className={styles.tag}>
@@ -253,6 +124,7 @@ export const ShowDetailModal: React.FC<ShowDetailModalProps> = ({
                       <span
                         key={`${platform}-${meta.name}`}
                         className={styles.platformChip}
+                        title={meta.name} // Added tooltip
                         aria-label={`${meta.name} logo`}
                       >
                         <img
