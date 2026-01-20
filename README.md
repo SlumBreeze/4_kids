@@ -27,8 +27,53 @@ npm run preview  # preview the production build locally
 npm run lint     # run ESLint
 ```
 
-## Data Scraper (Add a Show)
-The scraper prompts you through an IMDb search, fetches details, and updates `src/data/shows.json`.
+## Data Ingestion
+
+### TMDB Batch Pipeline (Recommended)
+The TMDB pipeline automatically discovers, enriches, and assesses hundreds of kids' shows from TMDB with AI-powered safety ratings.
+
+**Prerequisites:**
+```bash
+# Install Python dependencies
+python -m pip install -r scripts/requirements.txt
+
+# TMDB API key should already be in .env
+# If not, add it: TMDB_API_KEY=your_key_here
+```
+
+**Run the Pipeline:**
+```bash
+# Stage 1: Discover content from TMDB (~2 min)
+python scripts/tmdb/1_discover.py
+
+# Stage 2: Enrich with full metadata (~5 min, rate-limited)
+python scripts/tmdb/2_enrich.py
+
+# Stage 3: AI safety assessment (~3 min)
+python scripts/tmdb/3_assess.py
+
+# Stage 4: Human review (interactive, user-paced)
+python scripts/tmdb/4_review.py
+
+# Stage 5: Import approved shows to shows.json (~5 sec)
+python scripts/tmdb/5_import.py
+```
+
+**Pipeline Features:**
+- Discovers 100+ kids shows from Netflix, Disney+, Hulu
+- AI-powered safety ratings and age recommendations
+- Interactive CLI review queue with accept/edit/reject options
+- Tracks TMDB ID and streaming platform availability
+- Resumable from any stage (each stage saves to staging files)
+
+**Staging Files:**
+- `scripts/data/tmdb_staging/1_discovered.json` - Raw TMDB results
+- `scripts/data/tmdb_staging/2_enriched.json` - Full metadata + IMDb IDs
+- `scripts/data/tmdb_staging/3_assessed.json` - AI safety assessments
+- `scripts/data/tmdb_staging/4_reviewed.json` - Human-approved items
+
+### Manual Data Scraper (Legacy, for single shows)
+The legacy IMDb scraper prompts you through a manual search and updates `src/data/shows.json`.
 
 1) Install Python dependencies:
 ```bash

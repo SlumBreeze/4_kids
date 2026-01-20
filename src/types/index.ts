@@ -13,11 +13,13 @@ export type StimulationLevel = "Low" | "Medium" | "High";
 
 export interface Show {
   id: string;
+  tmdbId?: string; // NEW: TMDB ID for future updates
   title: string;
   synopsis: string;
   coverImage: string; // URL mock
   cast: string[];
   tags: ContentTag[];
+  platforms?: string[]; // NEW: Streaming platforms
   featured?: boolean;
   rating: SafetyRating;
   reasoning: string; // "Why" it's good or bad

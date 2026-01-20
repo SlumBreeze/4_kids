@@ -1,0 +1,4366 @@
+[
+  {
+    "enriched": {
+      "tmdb_id": 3022,
+      "media_type": "tv",
+      "title": "Rugrats",
+      "synopsis": "Focuses on a group of toddlers, most prominently Tommy, Chuckie, Phil, Lil, and Angelica, and their day-to-day lives, usually involving common life experiences that become adventures in the babies' imaginations. Adults in the series are almost always unaware of what the children are up to; however, this only provides more room for the babies to explore and discover their surroundings.",
+      "cover_image_url": "https://image.tmdb.org/t/p/w500/wmsINbZuEBLNP2Z26Xffx5NHJpW.jpg",
+      "imdb_id": "tt0101188",
+      "release_year": "1991–2004",
+      "runtime": "",
+      "cast": [
+        "E. G. Daily",
+        "Kath Soucie",
+        "Cheryl Chase"
+      ],
+      "genres": [
+        "Family",
+        "Animation",
+        "Kids",
+        "Comedy"
+      ],
+      "certification": "TV-Y7",
+      "platforms": [
+        "Paramount Plus Apple TV Channel ",
+        "Paramount+ Amazon Channel",
+        "Paramount Plus Essential",
+        "Paramount Plus Premium",
+        "Hoopla"
+      ],
+      "popularity": 26.33,
+      "vote_average": 7.614
+    },
+    "assessment": {
+      "rating": "Safe",
+      "min_age": 4.0,
+      "max_age": 10.0,
+      "stimulation_level": "Medium",
+      "has_lgbtq": false,
+      "has_violence": true,
+      "has_scary": true,
+      "is_educational": true,
+      "reasoning": "This show is safe as it features low-stakes conflicts rooted in imaginative play and childhood misunderstandings. It contains mild, frequent slapstick violence and very minimal scary elements related to the babies' magnified fears. It is suitable for preschoolers and early elementary children learning about social dynamics."
+    },
+    "flagged_for_review": true
+  },
+  {
+    "enriched": {
+      "tmdb_id": 4630,
+      "media_type": "tv",
+      "title": "The Fairly OddParents",
+      "synopsis": "The zany, fast-paced adventures of a 10-year-old boy and his fairy godparents, who inadvertently create havoc as they grant wishes for their pint-sized charge.",
+      "cover_image_url": "https://image.tmdb.org/t/p/w500/3ryMj7tIvVtiXyI2tLvHYTjOjq4.jpg",
+      "imdb_id": "tt0235918",
+      "release_year": "2001–2017",
+      "runtime": "12 min",
+      "cast": [
+        "Tara Strong",
+        "Susanne Blakeslee",
+        "Daran Norris"
+      ],
+      "genres": [
+        "Animation",
+        "Comedy",
+        "Sci-Fi & Fantasy",
+        "Kids",
+        "Family"
+      ],
+      "certification": "TV-Y7",
+      "platforms": [
+        "Netflix",
+        "Paramount Plus Apple TV Channel ",
+        "Paramount+ Amazon Channel",
+        "Paramount+ Roku Premium Channel",
+        "Netflix Standard with Ads",
+        "Paramount Plus Essential",
+        "Paramount Plus Premium"
+      ],
+      "popularity": 25.1288,
+      "vote_average": 7.6
+    },
+    "assessment": {
+      "rating": "Caution",
+      "min_age": 7.0,
+      "max_age": 12.0,
+      "stimulation_level": "High",
+      "has_lgbtq": false,
+      "has_violence": true,
+      "has_scary": true,
+      "is_educational": true,
+      "reasoning": "This show is rated TV-Y7 due to its extremely fast pacing, loud noises, and constant use of slapstick and cartoon violence resulting from failed magical wishes. While intended as comedy, the chaotic scenarios and aggressive antagonists (like Vicky or Crocker) may be overstimulating or moderately frightening for children under seven. The series does contain lessons regarding responsibility and wish fulfillment, but its primary function is high-energy entertainment."
+    },
+    "flagged_for_review": true
+  },
+  {
+    "enriched": {
+      "tmdb_id": 607,
+      "media_type": "tv",
+      "title": "The Powerpuff Girls",
+      "synopsis": "The Powerpuff Girls is a animated television series about Blossom, Bubbles, and Buttercup, three kindergarten-aged girls with superpowers, as well as their \"father\", the brainy scientist Professor Utonium, who all live in the fictional city of Townsville, USA. The girls are frequently called upon by the town's childlike and naive mayor to help fight nearby criminals using their powers.",
+      "cover_image_url": "https://image.tmdb.org/t/p/w500/4CMPCuP6ihU5UvTStv23aGEEMuC.jpg",
+      "imdb_id": "tt0175058",
+      "release_year": "1998–2005",
+      "runtime": "12 min",
+      "cast": [
+        "Cathy Cavadini",
+        "Tara Strong",
+        "E. G. Daily"
+      ],
+      "genres": [
+        "Action & Adventure",
+        "Animation",
+        "Comedy",
+        "Kids",
+        "Family"
+      ],
+      "certification": "TV-Y7",
+      "platforms": [
+        "YouTube TV"
+      ],
+      "popularity": 20.4637,
+      "vote_average": 7.5
+    },
+    "assessment": {
+      "rating": "Caution",
+      "min_age": 6.0,
+      "max_age": 12.0,
+      "stimulation_level": "High",
+      "has_lgbtq": false,
+      "has_violence": true,
+      "has_scary": false,
+      "is_educational": false,
+      "reasoning": "The show earns a Caution rating due to continuous, high-energy cartoon violence, featuring intense fights, laser beams, and explosive confrontations against numerous villains. Its extremely fast pacing, vibrant colors, and loud sound design result in a high stimulation level suitable for a TV-Y7 audience. However, the violence is highly stylized, non-graphic, and framed within a comedic context."
+    },
+    "flagged_for_review": true
+  },
+  {
+    "enriched": {
+      "tmdb_id": 63401,
+      "media_type": "tv",
+      "title": "We Bare Bears",
+      "synopsis": "Three brother bears awkwardly attempt to find their place in civilized  society, whether they're looking for food, trying to make human friends,  or scheming to become famous on the internet. Grizzly, Panda and Ice  Bear stack atop one another when they leave their cave and explore the  hipster environs of the San Francisco Bay Area, and it's clear the  siblings have a lot to learn about a technologically driven world. By  their side on many adventures are best friend Chloe (the only human  character in the cast), fame-obsessed panda Nom Nom, and Charlie, aka  Bigfoot.",
+      "cover_image_url": "https://image.tmdb.org/t/p/w500/3xWzlLZ0kAD6SkVZTekFM9lxZyP.jpg",
+      "imdb_id": "tt4839610",
+      "release_year": "2015–2019",
+      "runtime": "11 min",
+      "cast": [
+        "Eric Edelstein",
+        "Demetri Martin",
+        "Bobby Moynihan"
+      ],
+      "genres": [
+        "Family",
+        "Comedy",
+        "Animation",
+        "Kids"
+      ],
+      "certification": "TV-Y7",
+      "platforms": [
+        "Hulu",
+        "YouTube TV"
+      ],
+      "popularity": 19.7936,
+      "vote_average": 7.723
+    },
+    "assessment": {
+      "rating": "Safe",
+      "min_age": 7.0,
+      "max_age": 14.0,
+      "stimulation_level": "Medium",
+      "has_lgbtq": false,
+      "has_violence": true,
+      "has_scary": false,
+      "is_educational": true,
+      "reasoning": "We Bare Bears is a wholesome, character-driven comedy appropriate for its TV-Y7 rating. While it contains frequent cartoon slapstick and comedic peril (fighting/falling), it lacks genuinely scary or intense violent content. The show teaches strong themes of brotherhood, social acceptance, and navigating modern life."
+    },
+    "flagged_for_review": false
+  },
+  {
+    "enriched": {
+      "tmdb_id": 68073,
+      "media_type": "tv",
+      "title": "The Loud House",
+      "synopsis": "Welcome to the Loud House, where life can get pretty crazy. One boy, TEN girls?! Lincoln Loud wouldn’t change it for the world!",
+      "cover_image_url": "https://image.tmdb.org/t/p/w500/v0xMCeZIkgBUQtiije0IDc8ReHr.jpg",
+      "imdb_id": "tt4859164",
+      "release_year": "2016–Present",
+      "runtime": "11 min",
+      "cast": [
+        "Cristina Pucelli",
+        "Grey DeLisle",
+        "Liliana Mumy"
+      ],
+      "genres": [
+        "Animation",
+        "Comedy",
+        "Family",
+        "Kids",
+        "Mystery"
+      ],
+      "certification": "TV-Y7",
+      "platforms": [
+        "Netflix",
+        "fuboTV",
+        "Paramount Plus Apple TV Channel ",
+        "Paramount+ Amazon Channel",
+        "Paramount+ Roku Premium Channel",
+        "Philo",
+        "Netflix Standard with Ads",
+        "Paramount Plus Essential",
+        "Paramount Plus Premium",
+        "Hoopla",
+        "Spectrum On Demand"
+      ],
+      "popularity": 19.2199,
+      "vote_average": 7.846
+    },
+    "assessment": {
+      "rating": "Unsafe",
+      "min_age": 7.0,
+      "max_age": 14.0,
+      "stimulation_level": "High",
+      "has_lgbtq": true,
+      "has_violence": true,
+      "has_scary": false,
+      "is_educational": true,
+      "reasoning": "This show is rated 'Unsafe' due to the presence of recurring LGBTQ+ themes and characters (Clyde's two fathers), adhering to the strict provided guideline. It features high stimulation, rapid-fire cartoon comedy, and frequent slapstick violence inherent to a large family sitcom. The program is suitable for children 7 and up, focusing on lessons about compromise and family dynamics."
+    },
+    "flagged_for_review": true
+  },
+  {
+    "enriched": {
+      "tmdb_id": 7869,
+      "media_type": "tv",
+      "title": "The Penguins of Madagascar",
+      "synopsis": "The adventures of four penguins—Skipper, Kowalski, Private, and Rico, who perform various commando-like missions to protect their home in the Central Park Zoo. The penguins often have to deal with problems caused, or made worse, by their zoo neighbors, King Julien XIII (a ring-tailed lemur), Maurice (an aye-aye), and Mort (a mouse lemur).",
+      "cover_image_url": "https://image.tmdb.org/t/p/w500/jfBSIu9r8Kb03ic6FrTb6O5zuyU.jpg",
+      "imdb_id": "tt0892700",
+      "release_year": "2008–2013",
+      "runtime": "11 min",
+      "cast": [
+        "Tom McGrath",
+        "Jeff Bennett",
+        "James Patrick Stuart"
+      ],
+      "genres": [
+        "Animation",
+        "Comedy",
+        "Family",
+        "Kids"
+      ],
+      "certification": "TV-Y7",
+      "platforms": [
+        "Paramount+ Roku Premium Channel"
+      ],
+      "popularity": 17.9957,
+      "vote_average": 7.44
+    },
+    "assessment": {
+      "rating": "Caution",
+      "min_age": 6.0,
+      "max_age": 13.0,
+      "stimulation_level": "High",
+      "has_lgbtq": false,
+      "has_violence": true,
+      "has_scary": false,
+      "is_educational": true,
+      "reasoning": "The rating is Caution due to its high stimulation level, featuring fast-paced action, intense sound effects, and frequent stylized, slapstick violence related to the penguins' commando missions. While not genuinely frightening, the complex plots and aggressive interactions are best suited for children aged 6 and up, though the show promotes themes of teamwork and problem-solving."
+    },
+    "flagged_for_review": true
+  },
+  {
+    "enriched": {
+      "tmdb_id": 79,
+      "media_type": "tv",
+      "title": "Dora the Explorer",
+      "synopsis": "A young girl named Dora goes on adventures with her red boot-wearing monkey named Boots.",
+      "cover_image_url": "https://image.tmdb.org/t/p/w500/iaJNOSpEQgU4yePsbcC6yxneRNF.jpg",
+      "imdb_id": "tt0235917",
+      "release_year": "2000–Present",
+      "runtime": "30 min",
+      "cast": [
+        "Kathleen Herles",
+        "Marc Weiner",
+        "Caitlin Sanchez"
+      ],
+      "genres": [
+        "Action & Adventure",
+        "Animation",
+        "Family",
+        "Kids"
+      ],
+      "certification": "TV-Y",
+      "platforms": [
+        "Amazon Prime Video",
+        "fuboTV",
+        "Paramount Plus Apple TV Channel ",
+        "Paramount+ Amazon Channel",
+        "Paramount+ Roku Premium Channel",
+        "Amazon Prime Video with Ads",
+        "Paramount Plus Essential",
+        "Paramount Plus Premium"
+      ],
+      "popularity": 16.7718,
+      "vote_average": 6.2
+    },
+    "assessment": {
+      "rating": "Safe",
+      "min_age": 2.0,
+      "max_age": 6.0,
+      "stimulation_level": "Medium",
+      "has_lgbtq": false,
+      "has_violence": false,
+      "has_scary": false,
+      "is_educational": true,
+      "reasoning": "This show is explicitly educational, designed for preschoolers, teaching Spanish vocabulary, counting, and problem-solving. Certified TV-Y, it contains no violence, scary imagery, or mature themes, making it very safe and appropriate for young children."
+    },
+    "flagged_for_review": false
+  },
+  {
+    "enriched": {
+      "tmdb_id": 5687,
+      "media_type": "tv",
+      "title": "The Smurfs",
+      "synopsis": "Classic Saturday-morning cartoon series featuring magical blue elf-like creatures called Smurfs. The Smurfs, named for their personalities, inhabit a village of mushroom houses in an enchanted forest. These loveable creatures are led by Papa Smurf and live carefree... except for one major threat to their existance: Gargamel, an evil but inept wizard who lives in a stone-built house in the forest; and his feline companion, the equally nasty Azrael. ",
+      "cover_image_url": "https://image.tmdb.org/t/p/w500/cezQyM5cO454vUdLiLOkv78K64D.jpg",
+      "imdb_id": "tt0081933",
+      "release_year": "1981–1989",
+      "runtime": "11 min",
+      "cast": [
+        "Don Messick",
+        "Lucille Bliss",
+        "Frank Welker"
+      ],
+      "genres": [
+        "Animation",
+        "Family",
+        "Sci-Fi & Fantasy",
+        "Kids",
+        "Comedy"
+      ],
+      "certification": "TV-Y",
+      "platforms": [
+        "YouTube TV",
+        "Philo",
+        "FilmBox+",
+        "Tubi TV"
+      ],
+      "popularity": 16.6292,
+      "vote_average": 6.968
+    },
+    "assessment": {
+      "rating": "Safe",
+      "min_age": 3.0,
+      "max_age": 9.0,
+      "stimulation_level": "Medium",
+      "has_lgbtq": false,
+      "has_violence": true,
+      "has_scary": false,
+      "is_educational": true,
+      "reasoning": "The Smurfs is a TV-Y cartoon featuring mild, highly stylized slapstick violence and cartoonish conflict between the Smurfs and the inept wizard Gargamel. The narrative strongly emphasizes positive social values such as cooperation, friendship, and morality. It is appropriate for very young audiences and contains no truly frightening or intense imagery."
+    },
+    "flagged_for_review": true
+  },
+  {
+    "enriched": {
+      "tmdb_id": 504,
+      "media_type": "tv",
+      "title": "The Ren & Stimpy Show",
+      "synopsis": "Ren and Stimpy are a mismatch made in animation heaven with nothing in common but a life-long friendship and an incredible knack for getting into trouble. Join them in their bizarre and gross world for some outlandish situations coupled with hilarious jokes.",
+      "cover_image_url": "https://image.tmdb.org/t/p/w500/4plB7fMf1xob12ui7kpgnO3h4tJ.jpg",
+      "imdb_id": "tt0101178",
+      "release_year": "1991–1995",
+      "runtime": "11 min",
+      "cast": [
+        "Billy West"
+      ],
+      "genres": [
+        "Animation",
+        "Sci-Fi & Fantasy",
+        "Comedy",
+        "Kids",
+        "Family"
+      ],
+      "certification": "TV-Y7",
+      "platforms": [
+        "Paramount Plus Apple TV Channel ",
+        "Paramount+ Amazon Channel",
+        "Paramount+ Roku Premium Channel",
+        "Paramount Plus Essential",
+        "Paramount Plus Premium"
+      ],
+      "popularity": 12.157,
+      "vote_average": 7.6
+    },
+    "assessment": {
+      "rating": "Caution",
+      "min_age": 8.0,
+      "max_age": 99.0,
+      "stimulation_level": "High",
+      "has_lgbtq": false,
+      "has_violence": true,
+      "has_scary": true,
+      "is_educational": false,
+      "reasoning": "This show is rated 'Caution' due to its intense, surreal, and often grotesque violence (slapstick and body horror) and frequent use of bizarre, frightening imagery unsuitable for young children. The high stimulation level, coupled with gross-out humor, requires a maturity level generally attained around age 8 or older."
+    },
+    "flagged_for_review": true
+  },
+  {
+    "enriched": {
+      "tmdb_id": 10938,
+      "media_type": "tv",
+      "title": "Bob the Builder",
+      "synopsis": "Bob the Builder and his machine team are ready to tackle any project. Bob and the Can-Do Crew demonstrate the power of positive thinking, problem-solving, teamwork, and follow-through. The team always shows that “The Fun Is In Getting It Done!”",
+      "cover_image_url": "https://image.tmdb.org/t/p/w500/jfIAxRMSLuMjczB0ezl8L9Ukzfi.jpg",
+      "imdb_id": "tt0262151",
+      "release_year": "1999–2011",
+      "runtime": "10 min",
+      "cast": [
+        "Greg Proops",
+        "Rupert Degas",
+        "Lorelei King"
+      ],
+      "genres": [
+        "Kids",
+        "Animation",
+        "Family"
+      ],
+      "certification": "TV-Y",
+      "platforms": [
+        "Pure Flix",
+        "Kidstream Amazon Channel",
+        "Sensical Amazon Channel",
+        "Paramount Plus Essential",
+        "Hoopla",
+        "Pluto TV"
+      ],
+      "popularity": 11.8558,
+      "vote_average": 5.9
+    },
+    "assessment": {
+      "rating": "Safe",
+      "min_age": 2.0,
+      "max_age": 7.0,
+      "stimulation_level": "Low",
+      "has_lgbtq": false,
+      "has_violence": false,
+      "has_scary": false,
+      "is_educational": true,
+      "reasoning": "Bob the Builder is extremely safe and wholesome, featuring gentle narratives centered on construction and cooperation. It highly promotes educational values like teamwork, problem-solving, and positive thinking, making it ideal for the preschool demographic."
+    },
+    "flagged_for_review": false
+  },
+  {
+    "enriched": {
+      "tmdb_id": 656,
+      "media_type": "tv",
+      "title": "Curious George",
+      "synopsis": "With the help of his friend “The Man in the Yellow Hat,” a curious little monkey named George sets out on adventures to learn about the world around him.",
+      "cover_image_url": "https://image.tmdb.org/t/p/w500/AWQF9ZP7X5GqGUoXnyj1NSQjKo.jpg",
+      "imdb_id": "tt0449545",
+      "release_year": "2006–Present",
+      "runtime": "12 min",
+      "cast": [
+        "Frank Welker",
+        "Jeff Bennett",
+        "Rino Romano"
+      ],
+      "genres": [
+        "Animation",
+        "Family",
+        "Kids"
+      ],
+      "certification": "TV-Y",
+      "platforms": [
+        "Hulu",
+        "Peacock Premium",
+        "Peacock Premium Plus"
+      ],
+      "popularity": 11.3488,
+      "vote_average": 7.2
+    },
+    "assessment": {
+      "rating": "Safe",
+      "min_age": 1.5,
+      "max_age": 7.0,
+      "stimulation_level": "Medium",
+      "has_lgbtq": false,
+      "has_violence": false,
+      "has_scary": false,
+      "is_educational": true,
+      "reasoning": "Curious George is rated Safe as it contains no violence, scary imagery, or complex themes, aligning with its TV-Y rating. The series is highly educational, focusing on early STEM concepts, problem-solving, and socio-emotional learning, making it appropriate for toddlers and early elementary school children."
+    },
+    "flagged_for_review": false
+  },
+  {
+    "enriched": {
+      "tmdb_id": 64198,
+      "media_type": "tv",
+      "title": "Blaze and the Monster Machines",
+      "synopsis": "AJ is an 8-year-old techie who drives monster-truck Blaze, the top racer in Axle City. The two go on adventures that have them taking on problems involving science and math. Many predicaments they face are caused by Blaze's rival, Crusher, a tractor-trailer that will do anything to beat other vehicles to the finish line. The animated series is billed as the first TV show for preschoolers to comprehensively cover areas of science, technology, engineering and math. Each episode introduces different STEM concepts, including buoyancy and trajectory.",
+      "cover_image_url": "https://image.tmdb.org/t/p/w500/5DzjYIdgoePjMlmS7RCyUYWhpIK.jpg",
+      "imdb_id": "tt4458594",
+      "release_year": "2014–Present",
+      "runtime": "23 min",
+      "cast": [
+        "Nolan North",
+        "Kevin Michael Richardson",
+        "Nat Faxon"
+      ],
+      "genres": [
+        "Kids",
+        "Animation",
+        "Family",
+        "Comedy"
+      ],
+      "certification": "TV-G",
+      "platforms": [
+        "Amazon Prime Video",
+        "fuboTV",
+        "Paramount Plus Apple TV Channel ",
+        "Paramount+ Amazon Channel",
+        "Paramount+ Roku Premium Channel",
+        "YouTube TV",
+        "Philo",
+        "Amazon Prime Video with Ads",
+        "Paramount Plus Essential",
+        "Paramount Plus Premium",
+        "Hoopla",
+        "Spectrum On Demand"
+      ],
+      "popularity": 11.3155,
+      "vote_average": 7.3
+    },
+    "assessment": {
+      "rating": "Safe",
+      "min_age": 2.0,
+      "max_age": 7.0,
+      "stimulation_level": "High",
+      "has_lgbtq": false,
+      "has_violence": false,
+      "has_scary": false,
+      "is_educational": true,
+      "reasoning": "This program is certified TV-G and highly educational, focusing on introducing STEM concepts (Science, Technology, Engineering, Math) to preschoolers. Conflict is limited to competitive, non-violent racing between monster trucks and schemes that are quickly resolved. It is free of frightening imagery or adult themes."
+    },
+    "flagged_for_review": false
+  },
+  {
+    "enriched": {
+      "tmdb_id": 32605,
+      "media_type": "tv",
+      "title": "The Looney Tunes Show",
+      "synopsis": "Bugs Bunny, Daffy Duck and the rest of the “Looney Tunes” characters are back with more adventures for a new generation of viewers. The animated series features roommates Bugs and Daffy moving out of the woods and into the suburbs, interacting with their neighbors, who happen to be other \"Looney Tunes\" favorites -- including Sylvester, Tweety, Porky Pig and Foghorn Leghorn.",
+      "cover_image_url": "https://image.tmdb.org/t/p/w500/bZWdejWhkgJmXjdQ70DjiJS7v7O.jpg",
+      "imdb_id": "tt1726839",
+      "release_year": "2011–2014",
+      "runtime": "22 min",
+      "cast": [
+        "Jeff Bergman",
+        "Bob Bergen",
+        "Kristen Wiig"
+      ],
+      "genres": [
+        "Animation",
+        "Comedy",
+        "Family",
+        "Kids"
+      ],
+      "certification": "TV-PG",
+      "platforms": [
+        "Tubi TV"
+      ],
+      "popularity": 11.3036,
+      "vote_average": 8.1
+    },
+    "assessment": {
+      "rating": "Caution",
+      "min_age": 6.0,
+      "max_age": 99.0,
+      "stimulation_level": "High",
+      "has_lgbtq": false,
+      "has_violence": true,
+      "has_scary": false,
+      "is_educational": false,
+      "reasoning": "This show is rated TV-PG due to frequent comedic slapstick violence, including explosions, falling objects, and high-impact physical gags typical of Looney Tunes. While non-realistic, the pervasive aggressive cartoon action warrants caution for viewers under 6. The sitcom format relies heavily on dialogue and relationship humor that older children will appreciate."
+    },
+    "flagged_for_review": true
+  },
+  {
+    "enriched": {
+      "tmdb_id": 65417,
+      "media_type": "tv",
+      "title": "PJ Masks",
+      "synopsis": "Connor, Greg and Amaya are normal kids by day, but at night they activate their bracelets, which link into their pajamas and give them fantastic super powers, turning them into their alternate identities: the PJ Masks! The team consists of Catboy (Connor), Gekko (Greg) and Owlette (Amaya). Together, they go on adventures, solve mysteries, and learn valuable lessons. Watch the first six seasons of PJ Masks now on Disney+!",
+      "cover_image_url": "https://image.tmdb.org/t/p/w500/sl4flhzM3uJAxfgQ9ibfEGbmn5I.jpg",
+      "imdb_id": "tt4148744",
+      "release_year": "2015–Present",
+      "runtime": "12 min",
+      "cast": [
+        "Addison Holley",
+        "Benjamin Hum",
+        "Evan O'Donnell"
+      ],
+      "genres": [
+        "Animation",
+        "Kids",
+        "Family",
+        "Sci-Fi & Fantasy",
+        "Action & Adventure"
+      ],
+      "certification": "TV-Y",
+      "platforms": [
+        "Netflix",
+        "Disney Plus",
+        "Netflix Kids",
+        "Netflix Standard with Ads",
+        "The Roku Channel",
+        "Toon Goggles"
+      ],
+      "popularity": 10.922,
+      "vote_average": 6.4
+    },
+    "assessment": {
+      "rating": "Safe",
+      "min_age": 3.0,
+      "max_age": 7.0,
+      "stimulation_level": "Medium",
+      "has_lgbtq": false,
+      "has_violence": true,
+      "has_scary": false,
+      "is_educational": true,
+      "reasoning": "PJ Masks is a TV-Y rated show featuring stylized superhero action where characters use powers to stop mischievous villains. The content is action-packed but maintains a moderate pace appropriate for preschoolers and focuses heavily on teaching lessons about teamwork and friendship. Violence is minimal, highly stylized, and non-aggressive."
+    },
+    "flagged_for_review": true
+  },
+  {
+    "enriched": {
+      "tmdb_id": 4429,
+      "media_type": "tv",
+      "title": "Timon and Pumbaa",
+      "synopsis": "Set after the events of the \"The Lion King,\" follow Timon and Pumbaa as they go on misadventures in the jungle, as well as across the globe in various.",
+      "cover_image_url": "https://image.tmdb.org/t/p/w500/sn9PTOwI6ktLHZcysCrP8cqOw1b.jpg",
+      "imdb_id": "tt0112197",
+      "release_year": "1995–1999",
+      "runtime": "",
+      "cast": [
+        "Ernie Sabella",
+        "Kevin Schon",
+        "Corey Burton"
+      ],
+      "genres": [
+        "Animation",
+        "Comedy",
+        "Kids",
+        "Family"
+      ],
+      "certification": "TV-Y",
+      "platforms": [
+        "Disney Plus"
+      ],
+      "popularity": 10.8268,
+      "vote_average": 7.2
+    },
+    "assessment": {
+      "rating": "Safe",
+      "min_age": 3.0,
+      "max_age": 10.0,
+      "stimulation_level": "Medium",
+      "has_lgbtq": false,
+      "has_violence": true,
+      "has_scary": false,
+      "is_educational": true,
+      "reasoning": "The series is a lighthearted comedy certified TV-Y, featuring frequent but non-threatening slapstick violence common to classic cartoons. It promotes positive themes like friendship and loyalty. The content is suitable for preschoolers through early elementary school."
+    },
+    "flagged_for_review": true
+  },
+  {
+    "enriched": {
+      "tmdb_id": 46928,
+      "media_type": "tv",
+      "title": "Sofia the First",
+      "synopsis": "Set in the storybook world of Enchancia, this is the story of Princess Sofia, an adventurous little girl who is learning how to adjust to royal life after her mom marries the king and she becomes a princess overnight.",
+      "cover_image_url": "https://image.tmdb.org/t/p/w500/eZHmUO1OQRpVkAOdj9VwYCCyQew.jpg",
+      "imdb_id": "tt2136138",
+      "release_year": "2013–2018",
+      "runtime": "23 min",
+      "cast": [
+        "Ariel Winter"
+      ],
+      "genres": [
+        "Family",
+        "Animation",
+        "Kids"
+      ],
+      "certification": "TV-Y",
+      "platforms": [
+        "Disney Plus",
+        "fuboTV",
+        "DisneyNOW"
+      ],
+      "popularity": 10.6056,
+      "vote_average": 7.2
+    },
+    "assessment": {
+      "rating": "Safe",
+      "min_age": 3.0,
+      "max_age": 7.0,
+      "stimulation_level": "Medium",
+      "has_lgbtq": false,
+      "has_violence": true,
+      "has_scary": true,
+      "is_educational": true,
+      "reasoning": "Sofia the First is rated TV-Y and is highly suitable for its target preschool audience, emphasizing positive social-emotional learning and values like kindness and courage. While it includes mild magical peril and action sequences involving villains like Cedric, the content is minimal, non-graphic, and appropriate for young viewers, confirming its status as a Safe choice."
+    },
+    "flagged_for_review": true
+  },
+  {
+    "enriched": {
+      "tmdb_id": 93741,
+      "media_type": "tv",
+      "title": "Jurassic World Camp Cretaceous",
+      "synopsis": "Six teens attending an adventure camp on the opposite side of Isla Nublar must band together to survive when dinosaurs wreak havoc on the island.",
+      "cover_image_url": "https://image.tmdb.org/t/p/w500/nkCbCmlwjwT6QL44DqG7qE9ch8H.jpg",
+      "imdb_id": "tt10436228",
+      "release_year": "2020–2022",
+      "runtime": "24 min",
+      "cast": [
+        "Jameela Jamil",
+        "Glen Powell",
+        "Kausar Mohammed"
+      ],
+      "genres": [
+        "Animation",
+        "Kids",
+        "Action & Adventure",
+        "Family"
+      ],
+      "certification": "TV-PG",
+      "platforms": [
+        "Netflix",
+        "Netflix Standard with Ads"
+      ],
+      "popularity": 10.5385,
+      "vote_average": 8.018
+    },
+    "assessment": {
+      "rating": "Unsafe",
+      "min_age": 9.0,
+      "max_age": 14.0,
+      "stimulation_level": "High",
+      "has_lgbtq": true,
+      "has_violence": true,
+      "has_scary": true,
+      "is_educational": false,
+      "reasoning": "This show is rated Unsafe primarily due to the presence of confirmed LGBTQ+ representation. It also features intense, sustained peril, action violence, and frightening dinosaur encounters, making it suitable only for older children (9+) accustomed to survival thrillers."
+    },
+    "flagged_for_review": true
+  },
+  {
+    "enriched": {
+      "tmdb_id": 2355,
+      "media_type": "tv",
+      "title": "Lilo & Stitch: The Series",
+      "synopsis": "This animated series chronicles the further adventures of renegade scientist Dr. Jumba Jookiba's beloved Experiment 626, who is now living happily as Lilo's alien buddy Stitch. Jumba’s remaining experiments have landed all over Hawaii in the form of dehydrated pods. Lilo and Stitch’s mission is to catch Stitch’s \"cousins\" before they fall into the clutches of the evil Dr. Jacques von Hamsterviel!",
+      "cover_image_url": "https://image.tmdb.org/t/p/w500/997mXFpYV2zdXK4EOctN3hgciaT.jpg",
+      "imdb_id": "tt0364774",
+      "release_year": "2003–2006",
+      "runtime": "",
+      "cast": [
+        "Daveigh Chase",
+        "Chris Sanders",
+        "David Ogden Stiers"
+      ],
+      "genres": [
+        "Animation",
+        "Family",
+        "Comedy",
+        "Action & Adventure",
+        "Sci-Fi & Fantasy",
+        "Kids"
+      ],
+      "certification": "TV-G",
+      "platforms": [
+        "Disney Plus"
+      ],
+      "popularity": 10.3678,
+      "vote_average": 7.4
+    },
+    "assessment": {
+      "rating": "Caution",
+      "min_age": 4.0,
+      "max_age": 10.0,
+      "stimulation_level": "High",
+      "has_lgbtq": false,
+      "has_violence": true,
+      "has_scary": false,
+      "is_educational": true,
+      "reasoning": "This series is highly stimulating with fast-paced action, frequent chases, and sci-fi violence (lasers, explosions, cartoon combat) as Lilo and Stitch battle Jumba's experiments and Gantu. While the violence is slapstick and comedic (TV-G), the sheer volume of chaotic action necessitates a 'Caution' rating for younger viewers due to intensity. The show promotes positive themes of family ('Ohana') and acceptance."
+    },
+    "flagged_for_review": true
+  },
+  {
+    "enriched": {
+      "tmdb_id": 237512,
+      "media_type": "tv",
+      "title": "Jurassic World: Chaos Theory",
+      "synopsis": "The Camp Cretaceous gang comes together to unravel a mystery when they discover a global conspiracy that brings danger to dinosaurs — and to themselves.",
+      "cover_image_url": "https://image.tmdb.org/t/p/w500/c2Od0cY2IeayDj5osUxZSAD1QK.jpg",
+      "imdb_id": "tt29899148",
+      "release_year": "2024–2025",
+      "runtime": "24 min",
+      "cast": [
+        "Sean Giambrone"
+      ],
+      "genres": [
+        "Animation",
+        "Action & Adventure",
+        "Sci-Fi & Fantasy",
+        "Kids",
+        "Family"
+      ],
+      "certification": "TV-Y7",
+      "platforms": [
+        "Netflix",
+        "Netflix Standard with Ads"
+      ],
+      "popularity": 10.2534,
+      "vote_average": 8.296
+    },
+    "assessment": {
+      "rating": "Caution",
+      "min_age": 7.0,
+      "max_age": 13.0,
+      "stimulation_level": "High",
+      "has_lgbtq": false,
+      "has_violence": true,
+      "has_scary": true,
+      "is_educational": false,
+      "reasoning": "This TV-Y7 certified series contains intense action sequences, high stakes peril, and scary imagery related to dangerous, large dinosaurs. It features moderate violence and suspense, requiring children to be at least 7 years old to handle the high-energy threat and survival themes."
+    },
+    "flagged_for_review": true
+  },
+  {
+    "enriched": {
+      "tmdb_id": 74280,
+      "media_type": "tv",
+      "title": "Hey Duggee",
+      "synopsis": "Animated preschool series about a clubhouse that is run by a big dog called Duggee.",
+      "cover_image_url": "https://image.tmdb.org/t/p/w500/y0r27LkhX6AZNqo2Q5FUYmwi5wz.jpg",
+      "imdb_id": "tt4291050",
+      "release_year": "2014–Present",
+      "runtime": "7 min",
+      "cast": [
+        "Alexander Armstrong",
+        "Sander Jones"
+      ],
+      "genres": [
+        "Animation",
+        "Kids",
+        "Family",
+        "Comedy"
+      ],
+      "certification": "TV-Y",
+      "platforms": [
+        "Netflix",
+        "Amazon Prime Video",
+        "Peacock Premium",
+        "Netflix Kids",
+        "Netflix Standard with Ads",
+        "Amazon Prime Video with Ads",
+        "Peacock Premium Plus",
+        "The Roku Channel",
+        "Tubi TV"
+      ],
+      "popularity": 9.9622,
+      "vote_average": 8.0
+    },
+    "assessment": {
+      "rating": "Safe",
+      "min_age": 2.0,
+      "max_age": 7.0,
+      "stimulation_level": "Low",
+      "has_lgbtq": false,
+      "has_violence": false,
+      "has_scary": false,
+      "is_educational": true,
+      "reasoning": "Hey Duggee is a highly gentle, TV-Y rated preschool program that emphasizes learning life skills, empathy, and cooperation through the earning of ‘badges.’ The show features low stimulation, no scary content, and no violence, making it extremely suitable for toddlers and young children."
+    },
+    "flagged_for_review": false
+  },
+  {
+    "enriched": {
+      "tmdb_id": 3902,
+      "media_type": "tv",
+      "title": "Shaun the Sheep",
+      "synopsis": "Shaun the Sheep thinks and acts like a person in a barnyard, which usually gets him into trouble. The farmer's sheepdog, Bitzer, tries to keep Shaun and his friends out of trouble. The farmer is oblivious to the humanlike features of his flock, who are like one big, happy family.",
+      "cover_image_url": "https://image.tmdb.org/t/p/w500/z2gPfTQd3I0JLWOAEdKYMQRLoun.jpg",
+      "imdb_id": "tt0983983",
+      "release_year": "2007–Present",
+      "runtime": "7 min",
+      "cast": [],
+      "genres": [
+        "Kids",
+        "Animation",
+        "Family",
+        "Comedy"
+      ],
+      "certification": "TV-G",
+      "platforms": [
+        "Amazon Prime Video",
+        "Amazon Prime Video with Ads",
+        "Kidstream Amazon Channel",
+        "Toon Goggles",
+        "Tubi TV"
+      ],
+      "popularity": 9.8169,
+      "vote_average": 7.644
+    },
+    "assessment": {
+      "rating": "Safe",
+      "min_age": 2.0,
+      "max_age": 99.0,
+      "stimulation_level": "Medium",
+      "has_lgbtq": false,
+      "has_violence": false,
+      "has_scary": false,
+      "is_educational": true,
+      "reasoning": "This TV-G stop-motion series relies on dialogue-free slapstick comedy and promotes themes of cooperation and problem-solving. While it features mild physical humor (chases, falls), the content is gentle and never threatening or frightening. It is highly suitable for all ages."
+    },
+    "flagged_for_review": false
+  },
+  {
+    "enriched": {
+      "tmdb_id": 46262,
+      "media_type": "tv",
+      "title": "Doc McStuffins",
+      "synopsis": "A young African-American girl aspires to be a doctor like her mom.",
+      "cover_image_url": "https://image.tmdb.org/t/p/w500/eeGWJaFkxX0vvOFFpNFXrh9QVxl.jpg",
+      "imdb_id": "tt1710295",
+      "release_year": "2012–Present",
+      "runtime": "",
+      "cast": [
+        "Kiara Muhammad",
+        "Kimberly Brooks",
+        "Gary Anthony Williams"
+      ],
+      "genres": [
+        "Animation",
+        "Kids",
+        "Family"
+      ],
+      "certification": "TV-G",
+      "platforms": [
+        "Disney Plus",
+        "Hulu",
+        "fuboTV",
+        "YouTube TV",
+        "DisneyNOW",
+        "Amazon Prime Video"
+      ],
+      "popularity": 9.7155,
+      "vote_average": 5.848
+    },
+    "assessment": {
+      "rating": "Safe",
+      "min_age": 2.0,
+      "max_age": 6.0,
+      "stimulation_level": "Medium",
+      "has_lgbtq": false,
+      "has_violence": false,
+      "has_scary": false,
+      "is_educational": true,
+      "reasoning": "This series is safe for toddlers and preschoolers, centering on empathy, health, and hygiene education. The pacing is gentle, and there is absolutely no violence, scary imagery, or complex themes. It actively works to alleviate children's anxiety about visiting the doctor."
+    },
+    "flagged_for_review": false
+  },
+  {
+    "enriched": {
+      "tmdb_id": 95543,
+      "media_type": "tv",
+      "title": "The Rocketeer",
+      "synopsis": "Kit Secord receives a surprise package on her birthday revealing that she's next in line to become the Rocketeer, a legendary superhero who has the ability to fly with the help of a rocket-powered jet pack. Armed with her cool new gear and secret identity, Kit is ready to take flight and save the day with her gadget-minded best friend, Tesh, and airplane-mechanic uncle, Ambrose, who join her on epic adventures.",
+      "cover_image_url": "https://image.tmdb.org/t/p/w500/jtXnWs7zOyde3VYEvz9eDWGPvZ7.jpg",
+      "imdb_id": "tt8068852",
+      "release_year": "2019–2020",
+      "runtime": "24 min",
+      "cast": [
+        "Kitana Turnbull",
+        "Frank Welker",
+        "Maria Bamford"
+      ],
+      "genres": [
+        "Animation",
+        "Comedy",
+        "Action & Adventure",
+        "Family",
+        "Kids"
+      ],
+      "certification": "TV-Y",
+      "platforms": [
+        "Disney Plus"
+      ],
+      "popularity": 9.5925,
+      "vote_average": 8.063
+    },
+    "assessment": {
+      "rating": "Safe",
+      "min_age": 2.0,
+      "max_age": 6.0,
+      "stimulation_level": "Medium",
+      "has_lgbtq": false,
+      "has_violence": true,
+      "has_scary": false,
+      "is_educational": true,
+      "reasoning": "The TV-Y rating ensures the action and adventure themes are presented in a mild, cartoonish manner suitable for preschoolers. The show focuses heavily on saving the day and utilizing gadgets, which results in low-level, non-threatening cartoon conflict. It promotes positive values like teamwork, friendship, and basic problem-solving without intense violence or frightening imagery."
+    },
+    "flagged_for_review": true
+  },
+  {
+    "enriched": {
+      "tmdb_id": 39107,
+      "media_type": "tv",
+      "title": "Bubble Guppies",
+      "synopsis": "The adventures of seven fish-tailed kids- Molly, Gil, Oona, Deema, Nonny, Goby, and Zooli!",
+      "cover_image_url": "https://image.tmdb.org/t/p/w500/zJ50jTHpOY3wKmuxiONOL77t9DW.jpg",
+      "imdb_id": "tt0965404",
+      "release_year": "2011–Present",
+      "runtime": "25 min",
+      "cast": [
+        "Brianna Gentilella",
+        "Frank Welker",
+        "Josiah Gaffney"
+      ],
+      "genres": [
+        "Animation",
+        "Family",
+        "Kids"
+      ],
+      "certification": "TV-Y",
+      "platforms": [
+        "Amazon Prime Video",
+        "Paramount Plus Apple TV Channel ",
+        "Paramount+ Amazon Channel",
+        "Paramount+ Roku Premium Channel",
+        "YouTube TV",
+        "Philo",
+        "Amazon Prime Video with Ads",
+        "Noggin Amazon Channel",
+        "Paramount Plus Essential",
+        "Paramount Plus Premium",
+        "Hoopla"
+      ],
+      "popularity": 9.3625,
+      "vote_average": 7.6
+    },
+    "assessment": {
+      "rating": "Safe",
+      "min_age": 2.0,
+      "max_age": 7.0,
+      "stimulation_level": "Medium",
+      "has_lgbtq": false,
+      "has_violence": false,
+      "has_scary": false,
+      "is_educational": true,
+      "reasoning": "Bubble Guppies is a musical, educational series rated TV-Y, specifically designed for toddlers and preschoolers. The content is gentle, focusing on basic concepts (math, science, social skills) without any violence, scary imagery, or mature themes, making it highly safe."
+    },
+    "flagged_for_review": false
+  },
+  {
+    "enriched": {
+      "tmdb_id": 106009,
+      "media_type": "tv",
+      "title": "Numberblocks",
+      "synopsis": "Learn how much fun counting can be with the Numberblocks - a fun-loving group of numbers who work together to solve problems big and small.",
+      "cover_image_url": "https://image.tmdb.org/t/p/w500/vt872bR11jYDRSzTSfLuOmb2SMt.jpg",
+      "imdb_id": "tt7978538",
+      "release_year": "2016–Present",
+      "runtime": "5 min",
+      "cast": [],
+      "genres": [
+        "Kids",
+        "Animation",
+        "Family"
+      ],
+      "certification": "TV-Y",
+      "platforms": [
+        "Netflix",
+        "Netflix Kids",
+        "Netflix Standard with Ads",
+        "Amebatv Amazon Channel",
+        "Hopster Amazon Channel",
+        "Kidstream Amazon Channel"
+      ],
+      "popularity": 9.1929,
+      "vote_average": 9.0
+    },
+    "assessment": {
+      "rating": "Safe",
+      "min_age": 2.0,
+      "max_age": 7.0,
+      "stimulation_level": "Medium",
+      "has_lgbtq": false,
+      "has_violence": false,
+      "has_scary": false,
+      "is_educational": true,
+      "reasoning": "Numberblocks is a TV-Y certified, highly educational program designed to teach foundational mathematical concepts (counting, arithmetic) to young children. It contains no violence, scary imagery, or mature themes, making it an extremely safe choice for preschoolers and early elementary students."
+    },
+    "flagged_for_review": false
+  },
+  {
+    "enriched": {
+      "tmdb_id": 2720,
+      "media_type": "tv",
+      "title": "TaleSpin",
+      "synopsis": "Baloo the Bear stars in an adventurous comedy of love and conflict with his friend Kit Cloudkicker. Rebecca Cunningham and her daughter Molly purchase Baloo's failing company and Baloo must fly transport runs to clear his debt while dodging Don Karnage and his sky pirates.",
+      "cover_image_url": "https://image.tmdb.org/t/p/w500/gObO6CMSRbQNehvJyF4CwOHC5VI.jpg",
+      "imdb_id": "tt0098924",
+      "release_year": "1990–1991",
+      "runtime": "30 min",
+      "cast": [
+        "Ed Gilbert",
+        "Sally Struthers"
+      ],
+      "genres": [
+        "Family",
+        "Animation",
+        "Kids",
+        "Action & Adventure"
+      ],
+      "certification": "TV-Y7",
+      "platforms": [
+        "Disney Plus"
+      ],
+      "popularity": 9.0018,
+      "vote_average": 7.443
+    },
+    "assessment": {
+      "rating": "Caution",
+      "min_age": 7.0,
+      "max_age": 12.0,
+      "stimulation_level": "High",
+      "has_lgbtq": false,
+      "has_violence": true,
+      "has_scary": true,
+      "is_educational": true,
+      "reasoning": "This show receives a Caution rating due to its high level of stimulation and frequent stylized violence involving aerial dogfights and sky pirates. The plots involve moderate complexity around business ownership and debt management, making it best suited for children aged 7 and older."
+    },
+    "flagged_for_review": true
+  },
+  {
+    "enriched": {
+      "tmdb_id": 232125,
+      "media_type": "tv",
+      "title": "I Am Groot",
+      "synopsis": "There's no guarding the galaxy from this mischievous toddler! Get ready as Baby Groot takes center stage in his very own collection of shorts, exploring his glory days growing up and getting into trouble among the stars.",
+      "cover_image_url": "https://image.tmdb.org/t/p/w500/lYwFSsP4KsoRhOLhJvBFp3GEGEm.jpg",
+      "imdb_id": "tt13623148",
+      "release_year": "2022–2023",
+      "runtime": "",
+      "cast": [
+        "Vin Diesel"
+      ],
+      "genres": [
+        "Animation",
+        "Comedy",
+        "Family",
+        "Sci-Fi & Fantasy",
+        "Kids"
+      ],
+      "certification": "TV-G",
+      "platforms": [
+        "Disney Plus"
+      ],
+      "popularity": 8.8159,
+      "vote_average": 7.074
+    },
+    "assessment": {
+      "rating": "Safe",
+      "min_age": 3.0,
+      "max_age": 9.0,
+      "stimulation_level": "Medium",
+      "has_lgbtq": false,
+      "has_violence": true,
+      "has_scary": false,
+      "is_educational": false,
+      "reasoning": "The series is rated TV-G and features short, comedic animated segments primarily appealing to young children and families. While some episodes contain mild fantasy violence (e.g., Groot fighting small creatures or droids), it is entirely slapstick and non-graphic. The overall tone is playful and safe for preschoolers and early elementary viewers."
+    },
+    "flagged_for_review": true
+  },
+  {
+    "enriched": {
+      "tmdb_id": 2005,
+      "media_type": "tv",
+      "title": "The New Adventures of Winnie the Pooh",
+      "synopsis": "An American animated children's television series inspired by A. A. Milne's Winnie-the-Pooh stories.",
+      "cover_image_url": "https://image.tmdb.org/t/p/w500/iJFbF43bN1HX5EZl4OFAVmJDl1u.jpg",
+      "imdb_id": "tt0165052",
+      "release_year": "1988–1991",
+      "runtime": "23 min",
+      "cast": [
+        "John Fiedler",
+        "Jim Cummings",
+        "Ken Sansom"
+      ],
+      "genres": [
+        "Family",
+        "Animation",
+        "Comedy",
+        "Kids"
+      ],
+      "certification": "TV-Y",
+      "platforms": [
+        "Disney Plus"
+      ],
+      "popularity": 8.615,
+      "vote_average": 7.71
+    },
+    "assessment": {
+      "rating": "Safe",
+      "min_age": 2.0,
+      "max_age": 9.0,
+      "stimulation_level": "Low",
+      "has_lgbtq": false,
+      "has_violence": false,
+      "has_scary": false,
+      "is_educational": true,
+      "reasoning": "This classic series is certified TV-Y and is highly gentle, focusing on friendship and simple problem-solving in the Hundred Acre Wood. It features minimal conflict, slow pacing, and teaches valuable lessons about kindness and emotional health, making it very safe for preschoolers."
+    },
+    "flagged_for_review": false
+  },
+  {
+    "enriched": {
+      "tmdb_id": 2408,
+      "media_type": "tv",
+      "title": "The Wild Thornberrys",
+      "synopsis": "Travel the world with the Thornberrys and come face-to-face with blue sheep in Nepal, emus in Australia, marmots in Pakistan, flash floods in Siberia, Egyptian burial chambers, a runaway hot air balloon, a rock slide on the Karakoram Highway and more!",
+      "cover_image_url": "https://image.tmdb.org/t/p/w500/6SHAvvwmOFJwFhbkAqa6MjsiO7P.jpg",
+      "imdb_id": "tt0167743",
+      "release_year": "1998–2004",
+      "runtime": "23 min",
+      "cast": [
+        "Lacey Chabert",
+        "Jodi Carlisle",
+        "Tim Curry"
+      ],
+      "genres": [
+        "Animation",
+        "Comedy",
+        "Action & Adventure",
+        "Kids",
+        "Family"
+      ],
+      "certification": "TV-Y7",
+      "platforms": [
+        "Paramount Plus Apple TV Channel ",
+        "Paramount+ Amazon Channel",
+        "Paramount+ Roku Premium Channel",
+        "Paramount Plus Essential",
+        "Paramount Plus Premium"
+      ],
+      "popularity": 8.29,
+      "vote_average": 7.0
+    },
+    "assessment": {
+      "rating": "Caution",
+      "min_age": 7.0,
+      "max_age": 12.0,
+      "stimulation_level": "High",
+      "has_lgbtq": false,
+      "has_violence": true,
+      "has_scary": true,
+      "is_educational": true,
+      "reasoning": "The show is rated Caution (TV-Y7) due to moderate violence and scary content, primarily involving intense peril, dangerous animal encounters, and survival scenarios like flash floods and rock slides. It is highly educational, focusing on geography, wildlife, and cultures, but the high stimulation and suspenseful action sequences make it best suited for children aged 7 and up."
+    },
+    "flagged_for_review": true
+  },
+  {
+    "enriched": {
+      "tmdb_id": 40050,
+      "media_type": "tv",
+      "title": "Daniel Tiger's Neighborhood",
+      "synopsis": "The life of 4-year-old Daniel Tiger and his friends as they learn fun and practical strategies and skills necessary for growing and learning.",
+      "cover_image_url": "https://image.tmdb.org/t/p/w500/pUbHrEFTWegyhIxFmtpOpAQsbfT.jpg",
+      "imdb_id": "tt2014553",
+      "release_year": "2012–Present",
+      "runtime": "28 min",
+      "cast": [
+        "Amariah Faulkner",
+        "Addison Holley",
+        "Heather Bambrick"
+      ],
+      "genres": [
+        "Animation",
+        "Family",
+        "Kids"
+      ],
+      "certification": "TV-G",
+      "platforms": [
+        "YouTube TV",
+        "PBS Kids Amazon Channel",
+        "Hoopla"
+      ],
+      "popularity": 8.0477,
+      "vote_average": 7.1
+    },
+    "assessment": {
+      "rating": "Safe",
+      "min_age": 2.0,
+      "max_age": 6.0,
+      "stimulation_level": "Low",
+      "has_lgbtq": false,
+      "has_violence": false,
+      "has_scary": false,
+      "is_educational": true,
+      "reasoning": "This TV-G certified program is highly focused on gentle social-emotional learning and practical life skills for preschoolers. The show maintains extremely low conflict, slow pacing, and uses repetitive songs to teach concepts, ensuring it is non-scary and appropriate for toddlers and young children. It contains no violence or objectionable themes."
+    },
+    "flagged_for_review": false
+  },
+  {
+    "enriched": {
+      "tmdb_id": 64572,
+      "media_type": "tv",
+      "title": "Alvinnn!!! and The Chipmunks",
+      "synopsis": "Everyone's favorite chipmunks -- Alvin, Simon and Theodore -- are back in this computer-animated version of the classic animated series. The brothers are famous rock stars who tour around the world with their best friends, the Chipettes.",
+      "cover_image_url": "https://image.tmdb.org/t/p/w500/9s8yTj7UzE45qMFr3BLHGDq7nwG.jpg",
+      "imdb_id": "tt3496230",
+      "release_year": "2015–2022",
+      "runtime": "11 min",
+      "cast": [
+        "Justin Long",
+        "Matthew Gray Gubler",
+        "Jesse McCartney"
+      ],
+      "genres": [
+        "Animation",
+        "Comedy",
+        "Family",
+        "Kids"
+      ],
+      "certification": "TV-Y7",
+      "platforms": [
+        "Netflix",
+        "Paramount+ Roku Premium Channel",
+        "Netflix Kids",
+        "Netflix Standard with Ads"
+      ],
+      "popularity": 8.0219,
+      "vote_average": 7.3
+    },
+    "assessment": {
+      "rating": "Safe",
+      "min_age": 6.0,
+      "max_age": 10.0,
+      "stimulation_level": "High",
+      "has_lgbtq": false,
+      "has_violence": true,
+      "has_scary": false,
+      "is_educational": true,
+      "reasoning": "This is a high-energy comedy featuring slapstick violence and mischievous behavior, typical for a TV-Y7 animation. The content focuses on friendship, responsibility, and celebrity antics, without involving frightening imagery or intense peril. Its fast pace and loud rock music contribute to a high stimulation level, making it suitable for older children."
+    },
+    "flagged_for_review": true
+  },
+  {
+    "enriched": {
+      "tmdb_id": 1931,
+      "media_type": "tv",
+      "title": "Disney's Adventures of the Gummi Bears",
+      "synopsis": "Join the world’s sweetest heroes for high adventure in a mystical land of giants and wizards, ogres and dragons, and wondrous creatures both good and evil. Meet Gruffi, Zummi, Cubbi, Grammi, Tummi, Sunni, and all the legendary Gummis as they laugh, play, foil dastardly plots, and fight for what's right.",
+      "cover_image_url": "https://image.tmdb.org/t/p/w500/mqbX2l5Te3yMdAjDxvs5kRk0bhN.jpg",
+      "imdb_id": "tt0088528",
+      "release_year": "1985–1991",
+      "runtime": "11 min",
+      "cast": [
+        "June Foray",
+        "Lorenzo Music",
+        "Katie Leigh"
+      ],
+      "genres": [
+        "Animation",
+        "Family",
+        "Kids"
+      ],
+      "certification": "TV-Y7",
+      "platforms": [
+        "Disney Plus"
+      ],
+      "popularity": 7.8954,
+      "vote_average": 7.449
+    },
+    "assessment": {
+      "rating": "Caution",
+      "min_age": 6.0,
+      "max_age": 10.0,
+      "stimulation_level": "Medium",
+      "has_lgbtq": false,
+      "has_violence": true,
+      "has_scary": true,
+      "is_educational": true,
+      "reasoning": "This show is rated Caution due to moderate levels of fantasy violence and peril associated with fighting ogres, dragons, and evil wizards, which aligns with its TV-Y7 rating. While the tone is lighthearted and the violence is cartoonish, the recurring themes of danger and conflict necessitate a minimum age of six. The series does promote positive themes like teamwork and bravery."
+    },
+    "flagged_for_review": true
+  },
+  {
+    "enriched": {
+      "tmdb_id": 34391,
+      "media_type": "tv",
+      "title": "Marvel's Ultimate Spider-Man",
+      "synopsis": "While being trained by S.H.I.E.L.D., Spider-Man battles evil with a new team of teen colleagues.",
+      "cover_image_url": "https://image.tmdb.org/t/p/w500/jK3pc8XOQT8UgdvSjMFk8xLQOxE.jpg",
+      "imdb_id": "tt1722512",
+      "release_year": "2012–2017",
+      "runtime": "21 min",
+      "cast": [
+        "Drake Bell",
+        "Misty Lee",
+        "J.K. Simmons"
+      ],
+      "genres": [
+        "Kids",
+        "Action & Adventure",
+        "Animation",
+        "Comedy",
+        "Family"
+      ],
+      "certification": "TV-Y7",
+      "platforms": [
+        "Disney Plus"
+      ],
+      "popularity": 7.8472,
+      "vote_average": 7.679
+    },
+    "assessment": {
+      "rating": "Caution",
+      "min_age": 7.0,
+      "max_age": 12.0,
+      "stimulation_level": "High",
+      "has_lgbtq": false,
+      "has_violence": true,
+      "has_scary": true,
+      "is_educational": true,
+      "reasoning": "This show receives a Caution rating due to its status as a high-energy action cartoon featuring frequent combat, explosions, and mildly frightening villains, fitting its TV-Y7 certification. The show uses slapstick comedy to balance the action, but the constant fighting and high stimulation level necessitate a minimum age of 7. It reinforces positive values like responsibility and teamwork."
+    },
+    "flagged_for_review": true
+  },
+  {
+    "enriched": {
+      "tmdb_id": 2362,
+      "media_type": "tv",
+      "title": "The Jetsons",
+      "synopsis": "Meet George Jetson and his quirky family: wife Jane, son Elroy and daughter Judy. Living in the automated, push-button world of the future hasn't made life any easier for the harried husband and father, who gets into one comical misadventure after another!",
+      "cover_image_url": "https://image.tmdb.org/t/p/w500/9e2wgxZpAu22yR77fRXzHwOtw9z.jpg",
+      "imdb_id": "tt0055683",
+      "release_year": "1962–1987",
+      "runtime": "30 min",
+      "cast": [
+        "George O'Hanlon",
+        "Penny Singleton",
+        "Daws Butler"
+      ],
+      "genres": [
+        "Animation",
+        "Comedy",
+        "Family",
+        "Kids"
+      ],
+      "certification": "TV-G",
+      "platforms": [
+        "Hulu"
+      ],
+      "popularity": 7.7256,
+      "vote_average": 7.312
+    },
+    "assessment": {
+      "rating": "Safe",
+      "min_age": 3.0,
+      "max_age": 99.0,
+      "stimulation_level": "Medium",
+      "has_lgbtq": false,
+      "has_violence": false,
+      "has_scary": false,
+      "is_educational": true,
+      "reasoning": "The Jetsons is a classic TV-G animated comedy featuring harmless, non-aggressive cartoon slapstick centered on family mishaps and technology failures. There are no scary themes or intense violence, making it highly suitable for young children. It offers light lessons about family life and dealing with technology."
+    },
+    "flagged_for_review": false
+  },
+  {
+    "enriched": {
+      "tmdb_id": 117030,
+      "media_type": "tv",
+      "title": "We Baby Bears",
+      "synopsis": "Follow Grizz, Panda and Ice Bear – as their younger baby selves – traveling in a magical box to fantastic new worlds searching for a place to call home. Along the way, they meet new friends, learn a few lessons and discover that “home” can mean wherever they are, as long as they’re together.",
+      "cover_image_url": "https://image.tmdb.org/t/p/w500/cXJ1m6f8KORhoIcrPSOYap56aAe.jpg",
+      "imdb_id": "tt13303478",
+      "release_year": "2022–Present",
+      "runtime": "12 min",
+      "cast": [
+        "Max Mitchell",
+        "Demetri Martin",
+        "Connor Andrade"
+      ],
+      "genres": [
+        "Animation",
+        "Family",
+        "Comedy",
+        "Kids"
+      ],
+      "certification": "TV-G",
+      "platforms": [
+        "HBO Max",
+        "HBO Max Amazon Channel",
+        "YouTube TV",
+        "Philo",
+        "Cartoon Network Amazon Channel"
+      ],
+      "popularity": 7.6928,
+      "vote_average": 7.245
+    },
+    "assessment": {
+      "rating": "Safe",
+      "min_age": 3.0,
+      "max_age": 9.0,
+      "stimulation_level": "Medium",
+      "has_lgbtq": false,
+      "has_violence": true,
+      "has_scary": false,
+      "is_educational": true,
+      "reasoning": "This TV-G rated animated series focuses on positive social-emotional themes like friendship and belonging, making it highly safe for young viewers. Content features frequent cartoon slapstick and mild peril consistent with its adventure format, but the tone remains light and non-frightening."
+    },
+    "flagged_for_review": true
+  },
+  {
+    "enriched": {
+      "tmdb_id": 10219,
+      "media_type": "tv",
+      "title": "Handy Manny",
+      "synopsis": "Manny Garcia, a kind, generous, outgoing handyman and his eclectic mix of talking tools help the people of Sheet Rock Hills with repairs both large and small, while teaching kids how to confront and conquer everyday problems.",
+      "cover_image_url": "https://image.tmdb.org/t/p/w500/7CCeh3UHSLedhi0wqz3dQmByaA6.jpg",
+      "imdb_id": "tt0451460",
+      "release_year": "2006–2016",
+      "runtime": "12 min",
+      "cast": [
+        "Wilmer Valderrama",
+        "Carlos Alazraqui",
+        "Dee Bradley Baker"
+      ],
+      "genres": [
+        "Animation",
+        "Comedy",
+        "Kids",
+        "Family"
+      ],
+      "certification": "TV-Y",
+      "platforms": [
+        "Disney Plus"
+      ],
+      "popularity": 7.6536,
+      "vote_average": 6.4
+    },
+    "assessment": {
+      "rating": "Safe",
+      "min_age": 2.0,
+      "max_age": 7.0,
+      "stimulation_level": "Medium",
+      "has_lgbtq": false,
+      "has_violence": false,
+      "has_scary": false,
+      "is_educational": true,
+      "reasoning": "Handy Manny is a TV-Y certified program designed for young children, focusing on kindness, community service, and basic problem-solving skills. The show contains no violence, scary imagery, or mature themes, making it highly appropriate for toddlers and preschoolers. Its moderate pacing and positive messaging classify it as a safe and beneficial viewing choice."
+    },
+    "flagged_for_review": false
+  },
+  {
+    "enriched": {
+      "tmdb_id": 17463,
+      "media_type": "tv",
+      "title": "Kid vs. Kat",
+      "synopsis": "Ten-year-old Coop Burtonburger's life takes a turn for the worse when his little sister, Millie, brings home a mysterious stray cat who, in reality, is an evil cybernetic alien in disguise. To make matters worse, neither his family nor anyone else believes him, except for his best friend, Dennis. Now, Coop risks his life every day as he attempts to foil the cat's diabolical schemes and prove to the world that the family pet is an evil mastermind.",
+      "cover_image_url": "https://image.tmdb.org/t/p/w500/1f3DyCY4Xe6ZxN2blj0gNdWhS71.jpg",
+      "imdb_id": "tt1307224",
+      "release_year": "2008–2011",
+      "runtime": "22 min",
+      "cast": [
+        "Brian Drummond",
+        "Kathleen Barr",
+        "Trevor Devall"
+      ],
+      "genres": [
+        "Action & Adventure",
+        "Animation",
+        "Comedy",
+        "Sci-Fi & Fantasy",
+        "Family",
+        "Kids"
+      ],
+      "certification": "TV-Y7",
+      "platforms": [
+        "Amazon Prime Video",
+        "Amazon Prime Video with Ads",
+        "Thirteen",
+        "Hoopla",
+        "The Roku Channel",
+        "Pluto TV",
+        "Tubi TV"
+      ],
+      "popularity": 7.5949,
+      "vote_average": 7.9
+    },
+    "assessment": {
+      "rating": "Caution",
+      "min_age": 7.0,
+      "max_age": 12.0,
+      "stimulation_level": "High",
+      "has_lgbtq": false,
+      "has_violence": true,
+      "has_scary": true,
+      "is_educational": false,
+      "reasoning": "The show receives a Caution rating due to its action-adventure focus, which involves frequent cartoon violence, slapstick peril, and intense daily conflicts between the protagonist and the alien cat. The stimulation level is high, featuring fast-paced action sequences and suspenseful sci-fi schemes suitable for children aged 7 and up. The primary scary element stems from the constant threat posed by the evil alien mastermind."
+    },
+    "flagged_for_review": true
+  },
+  {
+    "enriched": {
+      "tmdb_id": 77410,
+      "media_type": "tv",
+      "title": "Muppet Babies",
+      "synopsis": "The reimagined playroom antics and wacky adventures of the young Kermit the Frog, Piggy, Fozzie Bear, Gonzo, Animal, Summer Penguin, and Miss Nanny.",
+      "cover_image_url": "https://image.tmdb.org/t/p/w500/mKO39v4anUjh73s9NIIRp8HKlqm.jpg",
+      "imdb_id": "tt6337766",
+      "release_year": "2018–2022",
+      "runtime": "22 min",
+      "cast": [
+        "Jenny Slate",
+        "Dee Bradley Baker",
+        "Eric Bauza"
+      ],
+      "genres": [
+        "Animation",
+        "Comedy",
+        "Family",
+        "Kids"
+      ],
+      "certification": "TV-Y",
+      "platforms": [
+        "Disney Plus",
+        "Sensical Amazon Channel"
+      ],
+      "popularity": 7.551,
+      "vote_average": 5.7
+    },
+    "assessment": {
+      "rating": "Safe",
+      "min_age": 2.0,
+      "max_age": 7.0,
+      "stimulation_level": "Medium",
+      "has_lgbtq": false,
+      "has_violence": false,
+      "has_scary": false,
+      "is_educational": true,
+      "reasoning": "Muppet Babies is rated TV-Y and is designed for the preschool demographic, focusing on themes of friendship, creativity, and imaginative play. The content is gentle, relying on slapstick humor and fantasy adventures without real threats or frightening imagery. It is highly educational in teaching social-emotional skills and problem-solving."
+    },
+    "flagged_for_review": false
+  },
+  {
+    "enriched": {
+      "tmdb_id": 926,
+      "media_type": "tv",
+      "title": "Scooby-Doo, Where Are You!",
+      "synopsis": "Fred, Daphne, Velma, Shaggy, and the talking dog, Scooby-Doo, travel on the Mystery Machine van, in search of weird mysteries to solve.",
+      "cover_image_url": "https://image.tmdb.org/t/p/w500/lTzUSCtXR77CmGmEHcaxpxu2b4h.jpg",
+      "imdb_id": "tt0063950",
+      "release_year": "1969–1978",
+      "runtime": "22 min",
+      "cast": [
+        "Casey Kasem",
+        "Don Messick",
+        "Frank Welker"
+      ],
+      "genres": [
+        "Animation",
+        "Mystery",
+        "Comedy",
+        "Kids",
+        "Family"
+      ],
+      "certification": "TV-G",
+      "platforms": [
+        "Tubi TV"
+      ],
+      "popularity": 7.5057,
+      "vote_average": 7.832
+    },
+    "assessment": {
+      "rating": "Safe",
+      "min_age": 3.0,
+      "max_age": 12.0,
+      "stimulation_level": "Medium",
+      "has_lgbtq": false,
+      "has_violence": false,
+      "has_scary": true,
+      "is_educational": true,
+      "reasoning": "The show features suspenseful plots involving 'monsters' and dark settings, qualifying it as having scary elements. However, the consistent resolution (unmasking a human culprit) and heavy reliance on slapstick comedy prevent genuine horror or intense violence. It promotes critical thinking and teamwork, making it a safe choice for young viewers accustomed to light suspense."
+    },
+    "flagged_for_review": false
+  },
+  {
+    "enriched": {
+      "tmdb_id": 1615,
+      "media_type": "tv",
+      "title": "Chip 'n' Dale Rescue Rangers",
+      "synopsis": "Chip and Dale head a small, eccentric group of animal characters who monitor not only the human world, but the animal community as well, solving mysteries wherever they may be. The \"Rescue Rangers\" take the cases that fall through the cracks.",
+      "cover_image_url": "https://image.tmdb.org/t/p/w500/44VE1LaaZq4bZhMDo6Yi29NO4H.jpg",
+      "imdb_id": "tt0096557",
+      "release_year": "1989–1990",
+      "runtime": "22 min",
+      "cast": [
+        "Corey Burton",
+        "Tress MacNeille",
+        "Jim Cummings"
+      ],
+      "genres": [
+        "Animation",
+        "Comedy",
+        "Kids",
+        "Family",
+        "Action & Adventure"
+      ],
+      "certification": "TV-Y7",
+      "platforms": [
+        "Disney Plus"
+      ],
+      "popularity": 7.4821,
+      "vote_average": 7.6
+    },
+    "assessment": {
+      "rating": "Caution",
+      "min_age": 5.0,
+      "max_age": 12.0,
+      "stimulation_level": "Medium",
+      "has_lgbtq": false,
+      "has_violence": true,
+      "has_scary": false,
+      "is_educational": true,
+      "reasoning": "The show is rated Caution due to the frequent, albeit cartoonish, action, violence, and perilous situations encountered while solving mysteries. It emphasizes teamwork and problem-solving, making it suitable for children aged 5 and up who can handle moderate animated conflict."
+    },
+    "flagged_for_review": true
+  },
+  {
+    "enriched": {
+      "tmdb_id": 346,
+      "media_type": "tv",
+      "title": "American Dragon: Jake Long",
+      "synopsis": "American Dragon is a coming of age comedy-action series about Jake Long, a 13-year-old Asian-American boy who strives to find balance in his life as a skateboard-grinding, New York 'tween while learning to master his mystical powers (in his secret identity) as the American Dragon, the protector and guardian of all magical creatures secretly living amidst the human world.",
+      "cover_image_url": "https://image.tmdb.org/t/p/w500/ntsNm1IiARWtUgNY9SI7VRCLOVD.jpg",
+      "imdb_id": "tt0429305",
+      "release_year": "2005–2007",
+      "runtime": "22 min",
+      "cast": [
+        "Dante Basco",
+        "Keone Young",
+        "John DiMaggio"
+      ],
+      "genres": [
+        "Animation",
+        "Comedy",
+        "Action & Adventure",
+        "Family",
+        "Kids"
+      ],
+      "certification": "TV-G",
+      "platforms": [
+        "Disney Plus"
+      ],
+      "popularity": 7.4595,
+      "vote_average": 7.7
+    },
+    "assessment": {
+      "rating": "Caution",
+      "min_age": 7.0,
+      "max_age": 14.0,
+      "stimulation_level": "High",
+      "has_lgbtq": false,
+      "has_violence": true,
+      "has_scary": false,
+      "is_educational": true,
+      "reasoning": "This show features frequent, high-stakes cartoon violence and combat sequences typical of action-adventure animation, justifying a 'Caution' rating despite its TV-G certification. The themes focus on responsibility, cultural identity, and morality, making it appropriate for viewers aged 7 and up who can handle fast pacing and fantasy fights."
+    },
+    "flagged_for_review": true
+  },
+  {
+    "enriched": {
+      "tmdb_id": 69501,
+      "media_type": "tv",
+      "title": "Bing",
+      "synopsis": "Bing is a young and lovable bunny learning about the big world around him, with the help of his friends. A warm and gentle animation, based on the bestselling books by Ted Dewan.",
+      "cover_image_url": "https://image.tmdb.org/t/p/w500/2p7S8pkFQsmZjSLaCZmCphdLaXz.jpg",
+      "imdb_id": "tt3789822",
+      "release_year": "2014–Present",
+      "runtime": "7 min",
+      "cast": [
+        "Mark Rylance",
+        "Elliot Kerley",
+        "Eve Bentley"
+      ],
+      "genres": [
+        "Kids",
+        "Animation",
+        "Family"
+      ],
+      "certification": "TV-Y",
+      "platforms": [
+        "Amazon Prime Video",
+        "Amazon Prime Video with Ads"
+      ],
+      "popularity": 7.4501,
+      "vote_average": 7.0
+    },
+    "assessment": {
+      "rating": "Safe",
+      "min_age": 1.5,
+      "max_age": 6.0,
+      "stimulation_level": "Low",
+      "has_lgbtq": false,
+      "has_violence": false,
+      "has_scary": false,
+      "is_educational": true,
+      "reasoning": "Bing is a highly safe, low-stimulation show designed for toddlers, focusing on common socio-emotional challenges and conflict resolution in a very gentle manner. The content is consistently warm, avoids violence or scary elements, and is suitable for children starting at 18 months."
+    },
+    "flagged_for_review": false
+  },
+  {
+    "enriched": {
+      "tmdb_id": 1760,
+      "media_type": "tv",
+      "title": "As Told by Ginger",
+      "synopsis": "As Told by Ginger focuses on middle schooler Ginger Foutley who, with her friends, tries to become more than a social geek.",
+      "cover_image_url": "https://image.tmdb.org/t/p/w500/6Kd09yYpf2qEYusPB9rtsidMnJu.jpg",
+      "imdb_id": "tt0235911",
+      "release_year": "2000–2006",
+      "runtime": "24 min",
+      "cast": [
+        "Melissa Disney",
+        "Aspen Miller",
+        "Liz Georges"
+      ],
+      "genres": [
+        "Family",
+        "Animation",
+        "Comedy",
+        "Kids"
+      ],
+      "certification": "TV-Y7",
+      "platforms": [
+        "Paramount Plus Apple TV Channel ",
+        "Paramount Plus",
+        "Paramount+ Amazon Channel",
+        "Paramount+ Roku Premium Channel"
+      ],
+      "popularity": 7.324,
+      "vote_average": 6.745
+    },
+    "assessment": {
+      "rating": "Safe",
+      "min_age": 7.0,
+      "max_age": 14.0,
+      "stimulation_level": "Medium",
+      "has_lgbtq": false,
+      "has_violence": false,
+      "has_scary": false,
+      "is_educational": true,
+      "reasoning": "This show focuses on complex social and emotional themes like middle school struggles, friendships, and identity, but it contains minimal violence or scary content. It is rated TV-Y7 due to the maturity of the issues discussed, such as peer pressure and crushes, making it appropriate for older elementary schoolers."
+    },
+    "flagged_for_review": false
+  },
+  {
+    "enriched": {
+      "tmdb_id": 2530,
+      "media_type": "tv",
+      "title": "Mr. Bean: The Animated Series",
+      "synopsis": "The animated daily trials and tribulations of clueless yet clever loner Mr Bean (aided by his best friend Teddy of course!) as he stumbles from one mishap to the next, always finding complex solutions to the simplest of problems.",
+      "cover_image_url": "https://image.tmdb.org/t/p/w500/1V2PSez4pNZ9a4Bbomm7KZiQJ44.jpg",
+      "imdb_id": "tt0280277",
+      "release_year": "2002–Present",
+      "runtime": "11 min",
+      "cast": [
+        "Rowan Atkinson",
+        "Sally Grace",
+        "Matilda Ziegler"
+      ],
+      "genres": [
+        "Kids",
+        "Animation",
+        "Comedy",
+        "Family"
+      ],
+      "certification": "TV-G",
+      "platforms": [
+        "Amazon Prime Video",
+        "Amazon Prime Video with Ads",
+        "The Roku Channel",
+        "Fandango at Home Free",
+        "Pluto TV",
+        "Amazon Prime Video Free with Ads",
+        "Tubi TV"
+      ],
+      "popularity": 7.2236,
+      "vote_average": 6.9
+    },
+    "assessment": {
+      "rating": "Safe",
+      "min_age": 3.0,
+      "max_age": 99.0,
+      "stimulation_level": "Medium",
+      "has_lgbtq": false,
+      "has_violence": true,
+      "has_scary": false,
+      "is_educational": false,
+      "reasoning": "The series focuses on visual slapstick and physical comedy, featuring frequent cartoonish violence, minor accidents, and property damage. This content is highly stylized and non-graphic, adhering to a TV-G standard. It is generally safe for young viewers due to the comedic context and lack of frightening or mature themes."
+    },
+    "flagged_for_review": true
+  },
+  {
+    "enriched": {
+      "tmdb_id": 67549,
+      "media_type": "tv",
+      "title": "Milo Murphy's Law",
+      "synopsis": "Milo Murphy is the personification of Murphy’s Law where anything that can go wrong will go wrong. Suffering from Extreme Hereditary Murphy’s Law condition (EHML), Milo always looks to make the best of the cards he’s been dealt and his endless optimism and enthusiasm can turn any catastrophe into a wild adventure. Together, he and his friends will learn that it’s all about a positive attitude and not to sweat the big stuff… and it’s all big stuff.",
+      "cover_image_url": "https://image.tmdb.org/t/p/w500/cUoMoeOm2ALLtPrbP4WwEzj4lO3.jpg",
+      "imdb_id": "tt5439480",
+      "release_year": "2016–2019",
+      "runtime": "12 min",
+      "cast": [
+        "'Weird Al' Yankovic",
+        "Sabrina Carpenter",
+        "Mekai Curtis"
+      ],
+      "genres": [
+        "Animation",
+        "Kids",
+        "Family",
+        "Comedy"
+      ],
+      "certification": "TV-Y7",
+      "platforms": [
+        "Disney Plus"
+      ],
+      "popularity": 7.134,
+      "vote_average": 7.44
+    },
+    "assessment": {
+      "rating": "Caution",
+      "min_age": 6.0,
+      "max_age": 12.0,
+      "stimulation_level": "High",
+      "has_lgbtq": false,
+      "has_violence": true,
+      "has_scary": false,
+      "is_educational": true,
+      "reasoning": "This show is rated Caution due to its high-energy pacing, intense stimulation, and frequent slapstick violence/peril associated with the constant catastrophes stemming from Murphy's Law. However, the themes are highly positive, focusing on extreme optimism and resilience in the face of chaos, making it suitable for children ages 6 and up who can handle high-stakes cartoon action."
+    },
+    "flagged_for_review": true
+  },
+  {
+    "enriched": {
+      "tmdb_id": 9834,
+      "media_type": "tv",
+      "title": "Little Bear",
+      "synopsis": "Follows a young bear as he goes on exciting adventures in the forest, gets into trouble and learns new things with his friends, including Emily, Duck, Hen, Cat, and Owl. His parents are Mother Bear, who is always there when he needs her, and Father Bear, a fisherman who is often at sea. Based on books by Else Holmelund Minarik.",
+      "cover_image_url": "https://image.tmdb.org/t/p/w500/bLm7pkUAoi2AGsnPXrPnZ3ErlKs.jpg",
+      "imdb_id": "tt0245637",
+      "release_year": "1995–2001",
+      "runtime": "8 min",
+      "cast": [
+        "Kristin Fairlie",
+        "Jennifer Martini",
+        "Amos Crawley"
+      ],
+      "genres": [
+        "Animation",
+        "Family",
+        "Drama",
+        "Kids"
+      ],
+      "certification": "TV-Y",
+      "platforms": [
+        "Paramount Plus Apple TV Channel ",
+        "Paramount+ Amazon Channel",
+        "Paramount+ Roku Premium Channel",
+        "Paramount Plus Essential",
+        "Paramount Plus Premium"
+      ],
+      "popularity": 7.0376,
+      "vote_average": 6.8
+    },
+    "assessment": {
+      "rating": "Safe",
+      "min_age": 1.5,
+      "max_age": 7.0,
+      "stimulation_level": "Low",
+      "has_lgbtq": false,
+      "has_violence": false,
+      "has_scary": false,
+      "is_educational": true,
+      "reasoning": "Little Bear is a classic, gentle series featuring slow pacing, soft visuals, and a strong focus on social-emotional learning. Rated TV-Y, it contains no violence, scary imagery, or complex conflict, making it ideal for toddlers and young preschoolers."
+    },
+    "flagged_for_review": false
+  },
+  {
+    "enriched": {
+      "tmdb_id": 44931,
+      "media_type": "tv",
+      "title": "Superbook",
+      "synopsis": "Chris Quantum is your typical Middle School student -- except if you take into account one of his best friends is a robot named Gizmo. Add his best friend Joy Pepper into the mix and you have a recipe for adventure. The adventures begin for this trio when a mysterious device appears and takes them on journeys throughout the Bible. Travel back in time and get ready for the journey of a lifetime!",
+      "cover_image_url": "https://image.tmdb.org/t/p/w500/4gxPU54vvA5ZGaICzwDXAQY5SvR.jpg",
+      "imdb_id": "tt1740717",
+      "release_year": "2011–2021",
+      "runtime": "26 min",
+      "cast": [
+        "Nicole Oliver",
+        "Colin Murdock",
+        "Sam Vincent"
+      ],
+      "genres": [
+        "Animation",
+        "Kids",
+        "Family"
+      ],
+      "certification": "TV-G",
+      "platforms": [
+        "Amazon Prime Video",
+        "Pure Flix",
+        "Amazon Prime Video with Ads",
+        "Yipee Kids TV Amazon Channel"
+      ],
+      "popularity": 6.8847,
+      "vote_average": 8.6
+    },
+    "assessment": {
+      "rating": "Safe",
+      "min_age": 4.0,
+      "max_age": 11.0,
+      "stimulation_level": "Medium",
+      "has_lgbtq": false,
+      "has_violence": true,
+      "has_scary": false,
+      "is_educational": true,
+      "reasoning": "Superbook is TV-G rated and focuses on animated biblical narratives intended to teach moral values and history. While it includes sanitized action related to historical conflicts and dramatic peril (e.g., battles), the content is non-graphic and lacks scary imagery or concerning themes. It is suitable for general audiences."
+    },
+    "flagged_for_review": true
+  },
+  {
+    "enriched": {
+      "tmdb_id": 95594,
+      "media_type": "tv",
+      "title": "Fast & Furious Spy Racers",
+      "synopsis": "A government agency recruits teen driver Tony Toretto and his thrill-seeking friends to infiltrate a criminal street racing circuit as undercover spies.",
+      "cover_image_url": "https://image.tmdb.org/t/p/w500/cI7zYWuYTmKEdXITcUKPzjc2EW5.jpg",
+      "imdb_id": "tt8322592",
+      "release_year": "2019–2021",
+      "runtime": "25 min",
+      "cast": [
+        "Tyler Posey",
+        "Camille Ramsey",
+        "Luke Youngblood"
+      ],
+      "genres": [
+        "Animation",
+        "Action & Adventure",
+        "Kids",
+        "Family"
+      ],
+      "certification": "TV-Y7",
+      "platforms": [
+        "Netflix"
+      ],
+      "popularity": 6.7229,
+      "vote_average": 6.977
+    },
+    "assessment": {
+      "rating": "Caution",
+      "min_age": 7.0,
+      "max_age": 12.0,
+      "stimulation_level": "High",
+      "has_lgbtq": false,
+      "has_violence": true,
+      "has_scary": false,
+      "is_educational": false,
+      "reasoning": "This show is rated TV-Y7 due to moderate animated violence, intense action sequences (high-speed racing and espionage), and peril that may be overwhelming for younger viewers. The high stimulation level and thematic focus on criminal circuits make it best suited for children aged 7 and up."
+    },
+    "flagged_for_review": true
+  },
+  {
+    "enriched": {
+      "tmdb_id": 3579,
+      "media_type": "tv",
+      "title": "The Angry Beavers",
+      "synopsis": "The Angry Beavers is an American animated television series created by Mitch Schauer for the Nickelodeon channel. The series revolves around Daggett and Norbert Beaver, two young beaver brothers who have left their home to become bachelors in the forest near the fictional Wayouttatown, Oregon.",
+      "cover_image_url": "https://image.tmdb.org/t/p/w500/9KYUA9tZrVNVXk2LTaYNMqGpHUj.jpg",
+      "imdb_id": "tt0131664",
+      "release_year": "1997–2001",
+      "runtime": "10 min",
+      "cast": [
+        "Richard Steven Horvitz",
+        "Nick Bakay",
+        "John Garry"
+      ],
+      "genres": [
+        "Animation",
+        "Comedy",
+        "Kids",
+        "Family"
+      ],
+      "certification": "TV-Y7",
+      "platforms": [
+        "Paramount Plus Apple TV Channel ",
+        "Paramount+ Amazon Channel",
+        "Paramount+ Roku Premium Channel",
+        "Paramount Plus Essential",
+        "Paramount Plus Premium"
+      ],
+      "popularity": 6.6371,
+      "vote_average": 6.9
+    },
+    "assessment": {
+      "rating": "Caution",
+      "min_age": 7.0,
+      "max_age": 14.0,
+      "stimulation_level": "High",
+      "has_lgbtq": false,
+      "has_violence": true,
+      "has_scary": false,
+      "is_educational": false,
+      "reasoning": "This show is rated Caution due to its chaotic, high-energy slapstick violence and frequent aggressive sibling conflict. The fast pace, loud shouting, and absurd humor are best suited for children aged seven and older who can easily distinguish cartoon antics from real behavior."
+    },
+    "flagged_for_review": true
+  },
+  {
+    "enriched": {
+      "tmdb_id": 2153,
+      "media_type": "tv",
+      "title": "Arthur",
+      "synopsis": "The show revolves around the lives of 8-year-old Arthur Read, an anthropomorphic aardvark, his friends and family, and their daily interactions with each other.",
+      "cover_image_url": "https://image.tmdb.org/t/p/w500/nYN8okmcsmhd4bGVcqifZ5OCumB.jpg",
+      "imdb_id": "tt0169414",
+      "release_year": "1996–2022",
+      "runtime": "13 min",
+      "cast": [
+        "Bruce Dinsmore",
+        "Jodie Resther",
+        "Daniel Brochu"
+      ],
+      "genres": [
+        "Animation",
+        "Comedy",
+        "Kids",
+        "Family"
+      ],
+      "certification": "TV-Y",
+      "platforms": [
+        "PBS Kids Amazon Channel"
+      ],
+      "popularity": 6.5754,
+      "vote_average": 7.0
+    },
+    "assessment": {
+      "rating": "Unsafe",
+      "min_age": 3.0,
+      "max_age": 10.0,
+      "stimulation_level": "Medium",
+      "has_lgbtq": true,
+      "has_violence": false,
+      "has_scary": false,
+      "is_educational": true,
+      "reasoning": "Arthur is highly educational, focusing on social-emotional learning, reading, and non-violent conflict resolution suitable for preschoolers and early elementary students. The pacing is moderate, and there is no scary content. The 'Unsafe' rating is applied solely due to the presence of explicit LGBTQ+ representation (a character's same-sex marriage) as mandated by the strict rating guidelines."
+    },
+    "flagged_for_review": true
+  },
+  {
+    "enriched": {
+      "tmdb_id": 14511,
+      "media_type": "tv",
+      "title": "WordGirl",
+      "synopsis": "Disguised as mild-mannered fifth-grader Becky Botsford, WordGirl arrived on Earth when she and her monkey sidekick Captain Huggy Face crashed their spaceship. Now they fight crime and defend the town from a plethora of madcap villains and scoundrels, while at the same time enriching viewers' vocabulary usage.",
+      "cover_image_url": "https://image.tmdb.org/t/p/w500/vDxyfOf1lHfETsol3uhrjf9tLfg.jpg",
+      "imdb_id": "tt1128052",
+      "release_year": "2007–2015",
+      "runtime": "12 min",
+      "cast": [
+        "Ryan Raddatz"
+      ],
+      "genres": [
+        "Animation",
+        "Action & Adventure",
+        "Kids",
+        "Family"
+      ],
+      "certification": "TV-Y7",
+      "platforms": [
+        "PBS Kids Amazon Channel",
+        "Spectrum On Demand"
+      ],
+      "popularity": 6.4161,
+      "vote_average": 6.6
+    },
+    "assessment": {
+      "rating": "Safe",
+      "min_age": 5.0,
+      "max_age": 10.0,
+      "stimulation_level": "Medium",
+      "has_lgbtq": false,
+      "has_violence": true,
+      "has_scary": false,
+      "is_educational": true,
+      "reasoning": "WordGirl is a highly educational series focused on vocabulary enrichment, utilizing a fun superhero premise suitable for early elementary children. Although it contains action and stylized fighting against comical villains, the violence is minimal, comedic, and non-graphic. The show's focus on learning and positive character models makes it a very safe and recommended program."
+    },
+    "flagged_for_review": true
+  },
+  {
+    "enriched": {
+      "tmdb_id": 3090,
+      "media_type": "tv",
+      "title": "Little Einsteins",
+      "synopsis": "A group of musically gifted and ethnically diverse children travel around the world in an artificially intelligent rocket named Rocket.",
+      "cover_image_url": "https://image.tmdb.org/t/p/w500/gUT7dmvmmjfofgeCL2IShaRs2dz.jpg",
+      "imdb_id": "tt0756522",
+      "release_year": "2005–2009",
+      "runtime": "24 min",
+      "cast": [
+        "Natalia Wojcik",
+        "Jesse Schwartz",
+        "Erica Huang"
+      ],
+      "genres": [
+        "Animation",
+        "Family",
+        "Kids"
+      ],
+      "certification": "TV-Y",
+      "platforms": [
+        "Disney Plus",
+        "fuboTV",
+        "YouTube TV",
+        "DisneyNOW"
+      ],
+      "popularity": 6.1605,
+      "vote_average": 7.061
+    },
+    "assessment": {
+      "rating": "Safe",
+      "min_age": 2.0,
+      "max_age": 7.0,
+      "stimulation_level": "Medium",
+      "has_lgbtq": false,
+      "has_violence": false,
+      "has_scary": false,
+      "is_educational": true,
+      "reasoning": "Little Einsteins is a classic educational preschool show focused on music, art history, and geography. Content is extremely gentle and non-violent, suitable even for very young viewers (TV-Y). The interactive 'missions' and structured format make it highly age-appropriate and safe."
+    },
+    "flagged_for_review": false
+  },
+  {
+    "enriched": {
+      "tmdb_id": 3319,
+      "media_type": "tv",
+      "title": "Darkwing Duck",
+      "synopsis": "The adventures of superhero Darkwing Duck, aided by his sidekick Launchpad McQuack. In his secret identity of Drake Mallard, he lives in a suburban house with his adopted daughter Gosalyn, next door to the bafflingly dim-witted Muddlefoot family. A spin-off of DuckTales.",
+      "cover_image_url": "https://image.tmdb.org/t/p/w500/1gJMSXS0gwM8gDJnzVSITcxbQc.jpg",
+      "imdb_id": "tt0101076",
+      "release_year": "1991–1992",
+      "runtime": "22 min",
+      "cast": [
+        "Jim Cummings",
+        "Christine Cavanaugh",
+        "Terence McGovern"
+      ],
+      "genres": [
+        "Action & Adventure",
+        "Animation",
+        "Comedy",
+        "Family",
+        "Kids"
+      ],
+      "certification": "TV-Y7",
+      "platforms": [
+        "Disney Plus"
+      ],
+      "popularity": 5.9527,
+      "vote_average": 7.4
+    },
+    "assessment": {
+      "rating": "Caution",
+      "min_age": 6.0,
+      "max_age": 12.0,
+      "stimulation_level": "High",
+      "has_lgbtq": false,
+      "has_violence": true,
+      "has_scary": false,
+      "is_educational": true,
+      "reasoning": "This is a high-energy action-comedy centered on superhero vs. villain conflicts. While the violence is frequent and intense, it is entirely cartoonish, slapstick, and non-graphic, warranting a 'Caution' rating suitable for older children (6+).\nIt addresses complex themes like adoption and parental responsibility alongside teaching classic moral values."
+    },
+    "flagged_for_review": true
+  },
+  {
+    "enriched": {
+      "tmdb_id": 64783,
+      "media_type": "tv",
+      "title": "Dawn of the Croods",
+      "synopsis": "The world's first family is back for more laughs as they discover sports, sleepovers and other wonders in a world of exotic creatures and adventures. This 2D animated cartoon is based on the 3D animated feature film, \"The Croods\".",
+      "cover_image_url": "https://image.tmdb.org/t/p/w500/cyCAsMLGECvEAFDfKcxcWy7YTOW.jpg",
+      "imdb_id": "tt5193172",
+      "release_year": "2015–2017",
+      "runtime": "23 min",
+      "cast": [
+        "Dan Milano",
+        "Cree Summer",
+        "Stephanie Lemelin"
+      ],
+      "genres": [
+        "Animation",
+        "Family",
+        "Kids",
+        "Comedy",
+        "Action & Adventure"
+      ],
+      "certification": "TV-Y7",
+      "platforms": [
+        "Netflix"
+      ],
+      "popularity": 5.791,
+      "vote_average": 7.4
+    },
+    "assessment": {
+      "rating": "Caution",
+      "min_age": 6.0,
+      "max_age": 10.0,
+      "stimulation_level": "Medium",
+      "has_lgbtq": false,
+      "has_violence": true,
+      "has_scary": true,
+      "is_educational": true,
+      "reasoning": "The Caution rating reflects the TV-Y7 certification, which includes frequent cartoon violence, slapstick humor, and mild peril from exotic prehistoric creatures inherent to the action/adventure genre. The core narrative focuses on family values and problem-solving, making it suitable for children ages 6 and up."
+    },
+    "flagged_for_review": true
+  },
+  {
+    "enriched": {
+      "tmdb_id": 131532,
+      "media_type": "tv",
+      "title": "Monster High",
+      "synopsis": "Based on the Monster High franchise, Clawdeen Wolf arrives at Monster High with a dark secret. With the help of her friends Draculaura and Frankie Stein, she is able to embrace her true monster heart and save the school from total destruction.",
+      "cover_image_url": "https://image.tmdb.org/t/p/w500/t6M7K3YnUcbEeYHNIGeTjWo3LWz.jpg",
+      "imdb_id": "tt14118188",
+      "release_year": "2022–Present",
+      "runtime": "23 min",
+      "cast": [
+        "Gabrielle Nevaeh",
+        "iris menas",
+        "Courtney Lin"
+      ],
+      "genres": [
+        "Animation",
+        "Family",
+        "Kids",
+        "Comedy"
+      ],
+      "certification": "TV-Y7",
+      "platforms": [
+        "Paramount+ Amazon Channel",
+        "Paramount+ Roku Premium Channel"
+      ],
+      "popularity": 5.763,
+      "vote_average": 7.7
+    },
+    "assessment": {
+      "rating": "Unsafe",
+      "min_age": 7.0,
+      "max_age": 13.0,
+      "stimulation_level": "High",
+      "has_lgbtq": true,
+      "has_violence": true,
+      "has_scary": true,
+      "is_educational": true,
+      "reasoning": "The rating is determined as 'Unsafe' due to the presence of LGBTQ+ themes, including explicitly non-binary main characters, aligning with strict safety guidelines provided. The show also features moderate fantasy violence and stylized 'scary' elements appropriate for its TV-Y7 target audience, focusing heavily on themes of acceptance and friendship."
+    },
+    "flagged_for_review": true
+  },
+  {
+    "enriched": {
+      "tmdb_id": 67098,
+      "media_type": "tv",
+      "title": "Shimmer and Shine",
+      "synopsis": "Twins genies, Shimmer and Shine, grant their human friend Leah three wishes every day - unintentional chaos follows.",
+      "cover_image_url": "https://image.tmdb.org/t/p/w500/2zym6tVGMYugPWUHGEYko7FwO3y.jpg",
+      "imdb_id": "tt4494948",
+      "release_year": "2015–2020",
+      "runtime": "11 min",
+      "cast": [
+        "Alina Foley",
+        "Isabella Crovetti",
+        "Eva Bella"
+      ],
+      "genres": [
+        "Animation",
+        "Family",
+        "Kids"
+      ],
+      "certification": "TV-Y",
+      "platforms": [
+        "Paramount Plus Apple TV Channel ",
+        "Paramount+ Amazon Channel",
+        "Paramount+ Roku Premium Channel",
+        "Paramount Plus Essential",
+        "Paramount Plus Premium",
+        "Hoopla"
+      ],
+      "popularity": 5.7361,
+      "vote_average": 6.25
+    },
+    "assessment": {
+      "rating": "Safe",
+      "min_age": 2.0,
+      "max_age": 7.0,
+      "stimulation_level": "High",
+      "has_lgbtq": false,
+      "has_violence": false,
+      "has_scary": false,
+      "is_educational": true,
+      "reasoning": "This TV-Y rated show focuses on lighthearted magical mishaps and friendship lessons, presenting minimal risk to young viewers. It contains no violence or scary imagery, but the bright colors and fast pacing of the genie magic sequences result in a high stimulation level."
+    },
+    "flagged_for_review": false
+  },
+  {
+    "enriched": {
+      "tmdb_id": 4627,
+      "media_type": "tv",
+      "title": "The Replacements",
+      "synopsis": "Two orphans, Riley and little brother Todd, answer an ad for Fleemco Replacement People and order new parents, a spy mother and daredevil father. As Riley and Todd go on adventures (or misadventures as it were), they team up with Conrad Fleem to replace any adult in their lives that they don't like, but they don't get to choose the replacements and sometimes their good intentions don't work out as they planned",
+      "cover_image_url": "https://image.tmdb.org/t/p/w500/dEzojA3nQF5zhBGVRdx16EF8OZj.jpg",
+      "imdb_id": "tt0816401",
+      "release_year": "2006–2009",
+      "runtime": "",
+      "cast": [
+        "Grey DeLisle",
+        "Nancy Cartwright",
+        "Daran Norris"
+      ],
+      "genres": [
+        "Animation",
+        "Kids",
+        "Sci-Fi & Fantasy",
+        "Family",
+        "Comedy"
+      ],
+      "certification": "TV-G",
+      "platforms": [
+        "Disney Plus"
+      ],
+      "popularity": 5.6113,
+      "vote_average": 6.5
+    },
+    "assessment": {
+      "rating": "Safe",
+      "min_age": 5.0,
+      "max_age": 11.0,
+      "stimulation_level": "High",
+      "has_lgbtq": false,
+      "has_violence": true,
+      "has_scary": false,
+      "is_educational": true,
+      "reasoning": "This TV-G cartoon features fast-paced, high-energy comedic adventures involving mild fantasy violence and slapstick. The central theme explores the consequences of decisions (replacing adults) and navigating unintended outcomes, offering social and emotional lessons. It is safe and appropriate for elementary school-aged children."
+    },
+    "flagged_for_review": true
+  },
+  {
+    "enriched": {
+      "tmdb_id": 72089,
+      "media_type": "tv",
+      "title": "Puppy Dog Pals",
+      "synopsis": "Fun-loving pug puppies, brothers Bingo and Rolly, have thrill-seeking appetites that take them on exhilarating adventures in their neighborhood and around the globe.",
+      "cover_image_url": "https://image.tmdb.org/t/p/w500/Aa6Bo1lcuFxT3D1twy7DVX7pY03.jpg",
+      "imdb_id": "tt6688750",
+      "release_year": "2017–2023",
+      "runtime": "12 min",
+      "cast": [
+        "Harland Williams",
+        "Jessica DiCicco",
+        "Elisha Williams"
+      ],
+      "genres": [
+        "Animation",
+        "Kids",
+        "Family",
+        "Comedy",
+        "Drama"
+      ],
+      "certification": "TV-Y",
+      "platforms": [
+        "Disney Plus",
+        "fuboTV",
+        "YouTube TV",
+        "DisneyNOW"
+      ],
+      "popularity": 5.5892,
+      "vote_average": 5.658
+    },
+    "assessment": {
+      "rating": "Safe",
+      "min_age": 1.5,
+      "max_age": 7.0,
+      "stimulation_level": "High",
+      "has_lgbtq": false,
+      "has_violence": false,
+      "has_scary": false,
+      "is_educational": true,
+      "reasoning": "This show is rated Safe, as it is a TV-Y program focused entirely on fun, positive, and non-violent adventures. It uses high visual stimulation and energetic pacing to engage preschool audiences without introducing any scary elements or mature themes. The series promotes positive values such as teamwork, curiosity, and problem-solving."
+    },
+    "flagged_for_review": false
+  },
+  {
+    "enriched": {
+      "tmdb_id": 10821,
+      "media_type": "tv",
+      "title": "Blue's Clues",
+      "synopsis": "Blue's Clues is a colorful and learning series that is targeted at the younger crowd, but can be enjoyed by all. The host, Steve Burns, invites viewers daily into the Blue's Clues house to help him out, learn and have fun. The show is based around the host looking for three clues that Blue provides by labelling them with a pawprint to figure something out and in the process, having an adventure.",
+      "cover_image_url": "https://image.tmdb.org/t/p/w500/7h7gD3n5MT7mQa3zho6JR1lCfh.jpg",
+      "imdb_id": "tt0163929",
+      "release_year": "1996–2007",
+      "runtime": "30 min",
+      "cast": [
+        "Steve Burns",
+        "Donovan Patton",
+        "Traci Paige Johnson"
+      ],
+      "genres": [
+        "Kids",
+        "Comedy",
+        "Animation",
+        "Family"
+      ],
+      "certification": "TV-Y",
+      "platforms": [
+        "Paramount Plus Apple TV Channel ",
+        "Paramount+ Amazon Channel",
+        "Paramount+ Roku Premium Channel",
+        "Paramount Plus Essential",
+        "Paramount Plus Premium"
+      ],
+      "popularity": 5.5729,
+      "vote_average": 7.7
+    },
+    "assessment": {
+      "rating": "Safe",
+      "min_age": 1.5,
+      "max_age": 6.0,
+      "stimulation_level": "Medium",
+      "has_lgbtq": false,
+      "has_violence": false,
+      "has_scary": false,
+      "is_educational": true,
+      "reasoning": "This TV-Y rated series is designed specifically for preschoolers, featuring extremely gentle pacing, highly positive interactions, and a focus on problem-solving and basic concepts. It contains no violence, scary imagery, or complex themes, making it one of the safest programs available for young toddlers and children."
+    },
+    "flagged_for_review": false
+  },
+  {
+    "enriched": {
+      "tmdb_id": 221504,
+      "media_type": "tv",
+      "title": "Unicorn Academy",
+      "synopsis": "When a dark force threatens to destroy Unicorn Island, a brave teen and her five schoolmates must rise up to protect their beloved magical academy.",
+      "cover_image_url": "https://image.tmdb.org/t/p/w500/5aex9xH2Tq9G9m9WyhPJiyVOJol.jpg",
+      "imdb_id": "tt27423738",
+      "release_year": "2023–Present",
+      "runtime": "",
+      "cast": [],
+      "genres": [
+        "Animation",
+        "Kids",
+        "Sci-Fi & Fantasy",
+        "Action & Adventure",
+        "Comedy",
+        "Family"
+      ],
+      "certification": "TV-Y7",
+      "platforms": [
+        "Netflix",
+        "Netflix Standard with Ads",
+        "Amebatv Amazon Channel",
+        "Kartoon Channel Amazon Channel",
+        "Kidstream Amazon Channel",
+        "The Roku Channel"
+      ],
+      "popularity": 5.5224,
+      "vote_average": 7.9
+    },
+    "assessment": {
+      "rating": "Caution",
+      "min_age": 6.0,
+      "max_age": 12.0,
+      "stimulation_level": "High",
+      "has_lgbtq": false,
+      "has_violence": true,
+      "has_scary": true,
+      "is_educational": true,
+      "reasoning": "This show is rated TV-Y7 and contains action and fantasy combat as teens must fight a 'dark force' to protect their magical island. The content includes moderate peril and suspense, making it suitable for older children who can handle action sequences and high stimulation."
+    },
+    "flagged_for_review": true
+  },
+  {
+    "enriched": {
+      "tmdb_id": 197429,
+      "media_type": "tv",
+      "title": "The Boss Baby: Back in the Crib",
+      "synopsis": "Framed for a corporate crime, an adult Ted Templeton turns back into the Boss Baby to live undercover with his brother, Tim, posing as one of his kids.",
+      "cover_image_url": "https://image.tmdb.org/t/p/w500/18f8ASmigtrQTm8MARHD8Af47db.jpg",
+      "imdb_id": "tt19361940",
+      "release_year": "2022–Present",
+      "runtime": "",
+      "cast": [
+        "JP Karliak",
+        "Mary Faber"
+      ],
+      "genres": [
+        "Animation",
+        "Comedy",
+        "Family",
+        "Kids"
+      ],
+      "certification": "TV-Y7",
+      "platforms": [
+        "Netflix"
+      ],
+      "popularity": 5.5153,
+      "vote_average": 7.425
+    },
+    "assessment": {
+      "rating": "Caution",
+      "min_age": 6.0,
+      "max_age": 11.0,
+      "stimulation_level": "High",
+      "has_lgbtq": false,
+      "has_violence": true,
+      "has_scary": false,
+      "is_educational": true,
+      "reasoning": "This show is rated Caution (TV-Y7) due to its high-energy pace, complex narrative involving corporate espionage, and moderate slapstick action sequences. While not intensely violent or scary, the rapid cuts and plot sophistication make it less suitable for very young viewers. The content focuses on themes of family, responsibility, and teamwork."
+    },
+    "flagged_for_review": true
+  },
+  {
+    "enriched": {
+      "tmdb_id": 61886,
+      "media_type": "tv",
+      "title": "The Adventures of Puss in Boots",
+      "synopsis": "The world's greatest feline fighter, lover and milk connoisseur is back in this original series filled with daring adventures, great boots, and laugh-out-loud fun! The entire family will be entranced by Puss' fantastical CG world filled with new characters, exotic locations and mystical tales that make up the stuff of legends. There's nothing that can get in this celebrated swashbuckling kitty's way...except maybe a hairball.",
+      "cover_image_url": "https://image.tmdb.org/t/p/w500/uHpUlyWCqXXUDY7zekQdJmf6QkP.jpg",
+      "imdb_id": "tt3807034",
+      "release_year": "2015–2018",
+      "runtime": "30 min",
+      "cast": [
+        "Eric Bauza",
+        "Grey DeLisle",
+        "Jayma Mays"
+      ],
+      "genres": [
+        "Animation",
+        "Comedy",
+        "Family",
+        "Kids"
+      ],
+      "certification": "TV-Y7",
+      "platforms": [
+        "Peacock Premium",
+        "Peacock Premium Plus"
+      ],
+      "popularity": 5.4321,
+      "vote_average": 7.1
+    },
+    "assessment": {
+      "rating": "Caution",
+      "min_age": 7.0,
+      "max_age": 12.0,
+      "stimulation_level": "High",
+      "has_lgbtq": false,
+      "has_violence": true,
+      "has_scary": false,
+      "is_educational": false,
+      "reasoning": "This show is rated TV-Y7 because it is an action-adventure series featuring moderate fantasy violence, including frequent sword fights and combat sequences inherent to the swashbuckling plot. The show maintains a highly energetic, fast-paced comedic tone, making it engaging but potentially overstimulating for younger viewers. It does not contain educational content or explicit scary/horror elements."
+    },
+    "flagged_for_review": true
+  },
+  {
+    "enriched": {
+      "tmdb_id": 66149,
+      "media_type": "tv",
+      "title": "The Powerpuff Girls",
+      "synopsis": "Three colorful, sugarcoated kids trying to juggle school and save the world before bedtime.",
+      "cover_image_url": "https://image.tmdb.org/t/p/w500/n8M0tl1V2QYRLbs3hPQfJgQgTgT.jpg",
+      "imdb_id": "tt4718304",
+      "release_year": "2016–2019",
+      "runtime": "11 min",
+      "cast": [
+        "Amanda Leighton",
+        "Kristen Li",
+        "Natalie Palamides"
+      ],
+      "genres": [
+        "Comedy",
+        "Animation",
+        "Action & Adventure",
+        "Kids",
+        "Family"
+      ],
+      "certification": "TV-Y7",
+      "platforms": [
+        "Hulu",
+        "YouTube TV"
+      ],
+      "popularity": 5.3784,
+      "vote_average": 5.1
+    },
+    "assessment": {
+      "rating": "Caution",
+      "min_age": 6.0,
+      "max_age": 11.0,
+      "stimulation_level": "High",
+      "has_lgbtq": false,
+      "has_violence": true,
+      "has_scary": false,
+      "is_educational": true,
+      "reasoning": "This show is rated Caution due to the frequent, high-energy stylized violence required to defeat various monsters and villains. The fast pacing, loud action sequences, and high stimulation level may be overwhelming for younger children. However, it imparts positive lessons on teamwork, friendship, and civic responsibility."
+    },
+    "flagged_for_review": true
+  },
+  {
+    "enriched": {
+      "tmdb_id": 233064,
+      "media_type": "tv",
+      "title": "Barbie: A Touch of Magic",
+      "synopsis": "Enchanting adventures await when Malibu Barbie and Brooklyn Barbie meet a horse with magical powers — and she needs their help with a mysterious mission!",
+      "cover_image_url": "https://image.tmdb.org/t/p/w500/zc90L8m9JUg04mDz5aagcOALZb8.jpg",
+      "imdb_id": "tt28692268",
+      "release_year": "2023–Present",
+      "runtime": "",
+      "cast": [],
+      "genres": [
+        "Animation",
+        "Sci-Fi & Fantasy",
+        "Kids",
+        "Comedy",
+        "Family"
+      ],
+      "certification": "TV-Y7",
+      "platforms": [
+        "Netflix",
+        "Netflix Standard with Ads",
+        "Hoopla"
+      ],
+      "popularity": 5.2072,
+      "vote_average": 6.0
+    },
+    "assessment": {
+      "rating": "Safe",
+      "min_age": 5.0,
+      "max_age": 9.0,
+      "stimulation_level": "High",
+      "has_lgbtq": false,
+      "has_violence": false,
+      "has_scary": false,
+      "is_educational": true,
+      "reasoning": "This TV-Y7 animated series features light fantasy and adventure focused on friendship, cooperation, and magic. Content is vibrant and high-energy but lacks intense violence, horror, or explicit mature themes, making it safe for elementary-aged viewers."
+    },
+    "flagged_for_review": false
+  },
+  {
+    "enriched": {
+      "tmdb_id": 543,
+      "media_type": "tv",
+      "title": "The Proud Family",
+      "synopsis": "Follow the adventures and misadventures of Penny, a 14-year-old African American girl who's doing her best to navigate through the early years of teen-dom. Penny's every encounter inevitably spirals into bigger than life situations filled with hi-jinks, hilarity and heart. Her quest to balance her home, school and social lives are further complicated by friends like the sassy Dijonay, Penny's nemesis LaCienega Boulevardez, her loving, if not over-protective parents and her hip-to-the-groove-granny, Suga Mama.",
+      "cover_image_url": "https://image.tmdb.org/t/p/w500/wcfbfActZ9VZ3anFqe3YYNWOHsG.jpg",
+      "imdb_id": "tt0293737",
+      "release_year": "2001–2005",
+      "runtime": "22 min",
+      "cast": [
+        "Kyla Pratt",
+        "Tommy Davidson",
+        "Tara Strong"
+      ],
+      "genres": [
+        "Animation",
+        "Comedy",
+        "Kids",
+        "Family"
+      ],
+      "certification": "TV-G",
+      "platforms": [
+        "Disney Plus"
+      ],
+      "popularity": 5.1873,
+      "vote_average": 7.726
+    },
+    "assessment": {
+      "rating": "Safe",
+      "min_age": 7.0,
+      "max_age": 14.0,
+      "stimulation_level": "High",
+      "has_lgbtq": false,
+      "has_violence": true,
+      "has_scary": false,
+      "is_educational": true,
+      "reasoning": "This TV-G animated comedy primarily focuses on family dynamics and life lessons, making it suitable for tweens and young teens. Violence is limited to frequent, non-graphic, high-energy slapstick typical of animated family comedies. The show is highly engaging and teaches valuable lessons about friendship and responsibility."
+    },
+    "flagged_for_review": false
+  },
+  {
+    "enriched": {
+      "tmdb_id": 676,
+      "media_type": "tv",
+      "title": "Tom and Jerry Tales",
+      "synopsis": "Tom and Jerry Tales is an American animated television series featuring the cat-and-mouse duo Tom and Jerry.",
+      "cover_image_url": "https://image.tmdb.org/t/p/w500/gthxkV1MHAwqsVNLIU93MDm3ApL.jpg",
+      "imdb_id": "tt0780438",
+      "release_year": "2006–2008",
+      "runtime": "7 min",
+      "cast": [],
+      "genres": [
+        "Animation",
+        "Kids",
+        "Comedy",
+        "Family"
+      ],
+      "certification": "TV-Y",
+      "platforms": [
+        "Netflix",
+        "Netflix Standard with Ads"
+      ],
+      "popularity": 5.1664,
+      "vote_average": 7.794
+    },
+    "assessment": {
+      "rating": "Caution",
+      "min_age": 3.0,
+      "max_age": 10.0,
+      "stimulation_level": "High",
+      "has_lgbtq": false,
+      "has_violence": true,
+      "has_scary": false,
+      "is_educational": false,
+      "reasoning": "This series is highly stimulating and features constant, aggressive slapstick violence (chasing, hitting, explosions) that, while comedic and non-graphic, warrants caution for the youngest viewers. The TV-Y certification reflects its widespread acceptance, but the sustained high energy and fighting place it under a 'Caution' rating for assessment purposes."
+    },
+    "flagged_for_review": true
+  },
+  {
+    "enriched": {
+      "tmdb_id": 1346,
+      "media_type": "tv",
+      "title": "Wow! Wow! Wubbzy!",
+      "synopsis": "Happy-go-lucky Wubbzy bounces his way into wacky, fun-filled adventures in the town of Wuzzleburg with his best friends: inventor Widget, book-smart Walden, and sweet-as-can-be Daizy.",
+      "cover_image_url": "https://image.tmdb.org/t/p/w500/uaPYHkMe5vwOseuPAVgSUwnvgWN.jpg",
+      "imdb_id": "tt0762067",
+      "release_year": "2006–2010",
+      "runtime": "12 min",
+      "cast": [
+        "Grey DeLisle",
+        "Lara Jill Miller",
+        "Carlos Alazraqui"
+      ],
+      "genres": [
+        "Animation",
+        "Sci-Fi & Fantasy",
+        "Comedy",
+        "Kids",
+        "Family"
+      ],
+      "certification": "TV-Y",
+      "platforms": [
+        "Plex",
+        "Plex Channel",
+        "The Roku Channel",
+        "Fandango at Home Free"
+      ],
+      "popularity": 5.1322,
+      "vote_average": 8.0
+    },
+    "assessment": {
+      "rating": "Safe",
+      "min_age": 2.0,
+      "max_age": 6.0,
+      "stimulation_level": "Medium",
+      "has_lgbtq": false,
+      "has_violence": false,
+      "has_scary": false,
+      "is_educational": true,
+      "reasoning": "This TV-Y rated series is very safe, featuring lighthearted comedy and non-threatening adventures suitable for preschoolers. It contains no scary or violent elements, focusing instead on teaching positive social-emotional skills like friendship, sharing, and problem-solving."
+    },
+    "flagged_for_review": false
+  },
+  {
+    "enriched": {
+      "tmdb_id": 113378,
+      "media_type": "tv",
+      "title": "Trolls: TrollsTopia",
+      "synopsis": "Now that Poppy knows there are other musical trolls scattered throughout the forest, she bottles up her endless positivity and invites delegates from every troll tribe in the forest to live together in harmony in a grand experiment she calls TrollsTopia!",
+      "cover_image_url": "https://image.tmdb.org/t/p/w500/idpD7RzSNelzJqBBMFWZbzMfjUu.jpg",
+      "imdb_id": "tt11714932",
+      "release_year": "2020–2022",
+      "runtime": "12 min",
+      "cast": [
+        "Amanda Leighton",
+        "Megan Hilty",
+        "Lauren C. Mayhew"
+      ],
+      "genres": [
+        "Family",
+        "Animation",
+        "Kids"
+      ],
+      "certification": "TV-Y7",
+      "platforms": [
+        "Hulu"
+      ],
+      "popularity": 5.0631,
+      "vote_average": 8.509
+    },
+    "assessment": {
+      "rating": "Safe",
+      "min_age": 5.0,
+      "max_age": 9.0,
+      "stimulation_level": "High",
+      "has_lgbtq": false,
+      "has_violence": true,
+      "has_scary": false,
+      "is_educational": true,
+      "reasoning": "This animated series is visually hyper-stimulated with bright colors, loud music, and fast pacing, making it suitable for children 5 and older. While it contains slapstick comedic violence, it promotes strong educational themes of diversity, cooperation, and emotional intelligence. The content is considered safe due to the lack of scary elements, intense aggression, or explicit mature themes."
+    },
+    "flagged_for_review": true
+  },
+  {
+    "enriched": {
+      "tmdb_id": 2675,
+      "media_type": "tv",
+      "title": "The Little Mermaid",
+      "synopsis": "Disney's The Little Mermaid is an American animated television series produced by Walt Disney Television Animation based on the 1989 Disney film of the same name. It features the adventures of Ariel as a mermaid prior to the events of the film. This series is the first Disney television series to be spun off from a major animated film. Some of the voice actors of the film reprise their roles in the series, among them Jodi Benson as Ariel, Samuel E. Wright as Sebastian, Kenneth Mars as King Triton, and Pat Carroll as Ursula.",
+      "cover_image_url": "https://image.tmdb.org/t/p/w500/32Tb6HZc8yAWqHesMSMnMozr6pi.jpg",
+      "imdb_id": "tt0103477",
+      "release_year": "1992–1994",
+      "runtime": "22 min",
+      "cast": [
+        "Jodi Benson",
+        "Jim Cummings",
+        "Samuel E. Wright"
+      ],
+      "genres": [
+        "Family",
+        "Animation",
+        "Kids",
+        "Sci-Fi & Fantasy"
+      ],
+      "certification": "TV-G",
+      "platforms": [
+        "Disney Plus",
+        "Amebatv Amazon Channel",
+        "Spectrum On Demand",
+        "OnDemandKorea"
+      ],
+      "popularity": 5.0435,
+      "vote_average": 7.0
+    },
+    "assessment": {
+      "rating": "Caution",
+      "min_age": 3.0,
+      "max_age": 10.0,
+      "stimulation_level": "Medium",
+      "has_lgbtq": false,
+      "has_violence": true,
+      "has_scary": true,
+      "is_educational": true,
+      "reasoning": "The show is rated Caution due to episodic peril and stylized action sequences typical of Disney adventure cartoons, often involving confrontations with Ursula or deep-sea dangers. While certified TV-G, young viewers should be able to handle mild suspense and fantasy conflict, and the series promotes positive themes like curiosity and bravery."
+    },
+    "flagged_for_review": true
+  },
+  {
+    "enriched": {
+      "tmdb_id": 7248,
+      "media_type": "tv",
+      "title": "The Magic School Bus",
+      "synopsis": "An eccentric schoolteacher takes her class on wondrous educational field trips with the help of a magical school bus.",
+      "cover_image_url": "https://image.tmdb.org/t/p/w500/3A70wxUpplD4V3IcL8WmNFBgAbV.jpg",
+      "imdb_id": "tt0108847",
+      "release_year": "1994–1997",
+      "runtime": "25 min",
+      "cast": [
+        "Lily Tomlin",
+        "Daniel DeSanto",
+        "Stuart Stone"
+      ],
+      "genres": [
+        "Animation",
+        "Sci-Fi & Fantasy",
+        "Family",
+        "Action & Adventure",
+        "Kids"
+      ],
+      "certification": "TV-Y",
+      "platforms": [
+        "Netflix",
+        "Peacock Premium",
+        "Netflix Kids",
+        "Netflix Standard with Ads",
+        "Hoopla",
+        "The Roku Channel",
+        "Tubi TV"
+      ],
+      "popularity": 4.9385,
+      "vote_average": 7.6
+    },
+    "assessment": {
+      "rating": "Safe",
+      "min_age": 3.0,
+      "max_age": 10.0,
+      "stimulation_level": "Medium",
+      "has_lgbtq": false,
+      "has_violence": false,
+      "has_scary": false,
+      "is_educational": true,
+      "reasoning": "The Magic School Bus is certified TV-Y and is highly educational, focusing entirely on science and exploration. It features a bright, energetic tone with no instances of violence, scary content, or complex social themes, making it a reliably safe choice for young children."
+    },
+    "flagged_for_review": false
+  },
+  {
+    "enriched": {
+      "tmdb_id": 67106,
+      "media_type": "tv",
+      "title": "The Deep",
+      "synopsis": "The adventures of the Nekton family, a family of daring underwater explorers who live aboard a state-of-the-art submarine, The Aronnax, and explore uncharted areas of the earth's oceans to unravel the mysteries of the deep.",
+      "cover_image_url": "https://image.tmdb.org/t/p/w500/3aoRvpHjuRmn76P2AVXZIBDoCdg.jpg",
+      "imdb_id": "tt4991910",
+      "release_year": "2015–Present",
+      "runtime": "21 min",
+      "cast": [
+        "Vincent Tong",
+        "Ashleigh Ball",
+        "Michael Dobson"
+      ],
+      "genres": [
+        "Kids",
+        "Family",
+        "Animation",
+        "Action & Adventure"
+      ],
+      "certification": "TV-Y",
+      "platforms": [
+        "Hopster Amazon Channel",
+        "Sensical Amazon Channel",
+        "The Roku Channel"
+      ],
+      "popularity": 4.9199,
+      "vote_average": 7.4
+    },
+    "assessment": {
+      "rating": "Safe",
+      "min_age": 5.0,
+      "max_age": 10.0,
+      "stimulation_level": "Medium",
+      "has_lgbtq": false,
+      "has_violence": true,
+      "has_scary": true,
+      "is_educational": true,
+      "reasoning": "This TV-Y rated action/adventure series is safe, focusing on family cooperation and marine science. While episodes feature suspenseful encounters with large sea creatures and minor action violence related to dangers, the content remains developmentally appropriate for elementary school audiences."
+    },
+    "flagged_for_review": true
+  },
+  {
+    "enriched": {
+      "tmdb_id": 4568,
+      "media_type": "tv",
+      "title": "Pepper Ann",
+      "synopsis": "The quirky adventures of Pepper Ann, a 12-year-old girl trying to get through life with her family and friends.",
+      "cover_image_url": "https://image.tmdb.org/t/p/w500/605jNVI63jueuJTKg032F7U7xEj.jpg",
+      "imdb_id": "tt0128890",
+      "release_year": "1997–2000",
+      "runtime": "",
+      "cast": [
+        "Kathleen Wilhoite",
+        "Danny Cooksey",
+        "Clea Lewis"
+      ],
+      "genres": [
+        "Animation",
+        "Comedy",
+        "Family",
+        "Kids"
+      ],
+      "certification": "TV-Y",
+      "platforms": [
+        "Disney Plus"
+      ],
+      "popularity": 4.7104,
+      "vote_average": 6.6
+    },
+    "assessment": {
+      "rating": "Safe",
+      "min_age": 5.0,
+      "max_age": 14.0,
+      "stimulation_level": "Medium",
+      "has_lgbtq": false,
+      "has_violence": false,
+      "has_scary": false,
+      "is_educational": true,
+      "reasoning": "This TV-Y cartoon focuses on social-emotional learning and navigating pre-teen life with high energy and humor. It contains minimal slapstick violence and no scary or mature themes, making it a safe choice for elementary and middle school viewers."
+    },
+    "flagged_for_review": false
+  },
+  {
+    "enriched": {
+      "tmdb_id": 32896,
+      "media_type": "tv",
+      "title": "The Cat in the Hat Knows a Lot About That!",
+      "synopsis": "The Cat in the Hat is back -- and this time, he's teaching Sally and her brother, Nick, some awfully nifty things to think about!",
+      "cover_image_url": "https://image.tmdb.org/t/p/w500/97qKiavvmvpYNBR8mhH5e5YVOTw.jpg",
+      "imdb_id": "tt1699440",
+      "release_year": "2010–Present",
+      "runtime": "30 min",
+      "cast": [
+        "Martin Short",
+        "DeAndray Hamilton",
+        "Halle Nunes"
+      ],
+      "genres": [
+        "Animation",
+        "Family",
+        "Kids"
+      ],
+      "certification": "TV-Y",
+      "platforms": [
+        "Amazon Prime Video",
+        "Amazon Prime Video with Ads",
+        "Hoopla",
+        "Fandango at Home Free",
+        "Pluto TV",
+        "Cineverse",
+        "Tubi TV"
+      ],
+      "popularity": 4.6885,
+      "vote_average": 8.1
+    },
+    "assessment": {
+      "rating": "Safe",
+      "min_age": 2.0,
+      "max_age": 6.0,
+      "stimulation_level": "Medium",
+      "has_lgbtq": false,
+      "has_violence": false,
+      "has_scary": false,
+      "is_educational": true,
+      "reasoning": "This TV-Y rated animated series is highly educational, focusing on science concepts and exploration for preschoolers. It features gentle content, imaginative journeys, and is completely devoid of violence, scary imagery, or complex themes, making it very safe for young children."
+    },
+    "flagged_for_review": false
+  },
+  {
+    "enriched": {
+      "tmdb_id": 2429,
+      "media_type": "tv",
+      "title": "Aaahh!!! Real Monsters",
+      "synopsis": "Three young monsters — Ickis, Oblina and Krumm — attends an institute for monsters under a city dump and learn to frighten humans.",
+      "cover_image_url": "https://image.tmdb.org/t/p/w500/dEJ0Foy0DRX1r5fOkhxQkNY4Td0.jpg",
+      "imdb_id": "tt0108684",
+      "release_year": "1994–1997",
+      "runtime": "11 min",
+      "cast": [
+        "Charlie Adler",
+        "Christine Cavanaugh",
+        "David Eccles"
+      ],
+      "genres": [
+        "Animation",
+        "Comedy",
+        "Family",
+        "Sci-Fi & Fantasy",
+        "Kids"
+      ],
+      "certification": "TV-Y",
+      "platforms": [
+        "Paramount Plus Apple TV Channel ",
+        "Paramount+ Amazon Channel",
+        "Paramount+ Roku Premium Channel",
+        "Paramount Plus Essential",
+        "Paramount Plus Premium"
+      ],
+      "popularity": 4.6715,
+      "vote_average": 7.783
+    },
+    "assessment": {
+      "rating": "Caution",
+      "min_age": 5.0,
+      "max_age": 10.0,
+      "stimulation_level": "High",
+      "has_lgbtq": false,
+      "has_violence": true,
+      "has_scary": true,
+      "is_educational": false,
+      "reasoning": "The show is built around stylized, grotesque monster imagery and the comedic theme of learning to frighten humans. Although the content is TV-Y certified and heavily reliant on humor, the constant exposure to spooky concepts and visual gags warrants a Caution rating for very sensitive or younger preschoolers. There is frequent physical comedy and mild, non-lethal monster violence associated with training."
+    },
+    "flagged_for_review": true
+  },
+  {
+    "enriched": {
+      "tmdb_id": 94107,
+      "media_type": "tv",
+      "title": "LEGO City Adventures",
+      "synopsis": "Welcome to LEGO City, a modern metropolis filled with the fiercest firefighters, the cream of the crop cops, and so many Blockheads. Every citizen will assemble together for the most awesomely awesome adventures.",
+      "cover_image_url": "https://image.tmdb.org/t/p/w500/6fBhyepVUkIxka9vLGtb3kH6QGf.jpg",
+      "imdb_id": "tt10332322",
+      "release_year": "2019–2022",
+      "runtime": "15 min",
+      "cast": [],
+      "genres": [
+        "Animation",
+        "Action & Adventure",
+        "Family",
+        "Comedy",
+        "Kids"
+      ],
+      "certification": "TV-Y7",
+      "platforms": [
+        "Netflix",
+        "Peacock Premium",
+        "Netflix Kids",
+        "Netflix Standard with Ads",
+        "Peacock Premium Plus",
+        "Paramount Plus Essential",
+        "Pluto TV"
+      ],
+      "popularity": 4.6503,
+      "vote_average": 7.237
+    },
+    "assessment": {
+      "rating": "Safe",
+      "min_age": 6.0,
+      "max_age": 10.0,
+      "stimulation_level": "High",
+      "has_lgbtq": false,
+      "has_violence": true,
+      "has_scary": false,
+      "is_educational": true,
+      "reasoning": "The show is rated TV-Y7 and features frequent action and fantasy violence, but this content is highly stylized, slapstick, and comedic, typical of LEGO media. Due to the lack of realistic peril or frightening imagery, and its focus on positive themes like teamwork and community service, the overall content is considered safe for children ages 6 and up."
+    },
+    "flagged_for_review": true
+  },
+  {
+    "enriched": {
+      "tmdb_id": 93260,
+      "media_type": "tv",
+      "title": "The Casagrandes",
+      "synopsis": "The Casagrandes tells the story of Ronnie Anne, an independent, adventurous, 11-year-old who explores city life with her big, loving, multi-generational Mexican-American family.",
+      "cover_image_url": "https://image.tmdb.org/t/p/w500/AarlHgaDolXnWQCFqiFLlpCKuwk.jpg",
+      "imdb_id": "tt9165462",
+      "release_year": "2019–2022",
+      "runtime": "22 min",
+      "cast": [
+        "Lexi Sexton",
+        "Izabella Alvarez",
+        "Carlos PenaVega"
+      ],
+      "genres": [
+        "Animation",
+        "Kids",
+        "Comedy",
+        "Family"
+      ],
+      "certification": "TV-Y7",
+      "platforms": [
+        "Paramount Plus Apple TV Channel ",
+        "Paramount+ Amazon Channel",
+        "Paramount+ Roku Premium Channel",
+        "Paramount Plus Essential",
+        "Paramount Plus Premium"
+      ],
+      "popularity": 4.5937,
+      "vote_average": 7.7
+    },
+    "assessment": {
+      "rating": "Unsafe",
+      "min_age": 6.0,
+      "max_age": 12.0,
+      "stimulation_level": "High",
+      "has_lgbtq": true,
+      "has_violence": true,
+      "has_scary": false,
+      "is_educational": true,
+      "reasoning": "This TV-Y7 animated comedy features slapstick violence and fast-paced storylines focusing on themes of family unity and cultural heritage. The show's universe includes LGBTQ+ representation, which under the strict provided guidelines requires an 'Unsafe' rating. The content is otherwise typical of high-energy children's programming suitable for elementary school ages."
+    },
+    "flagged_for_review": true
+  },
+  {
+    "enriched": {
+      "tmdb_id": 3474,
+      "media_type": "tv",
+      "title": "Danger Mouse",
+      "synopsis": "Danger Mouse, the world's greatest secret agent, and his side-kick Penfold work to foil the evil schemes of Baron Greenback.",
+      "cover_image_url": "https://image.tmdb.org/t/p/w500/1MLDMC8tsf92h8H920TGemN0PUo.jpg",
+      "imdb_id": "tt0081848",
+      "release_year": "1981–1992",
+      "runtime": "20 min",
+      "cast": [
+        "David Jason",
+        "Terry Scott",
+        "Edward Kelsey"
+      ],
+      "genres": [
+        "Animation",
+        "Kids",
+        "Comedy",
+        "Family"
+      ],
+      "certification": "TV-Y",
+      "platforms": [
+        "Netflix",
+        "Amazon Prime Video",
+        "Netflix Kids",
+        "Netflix Standard with Ads",
+        "Amazon Prime Video with Ads",
+        "Plex",
+        "Plex Channel",
+        "The Roku Channel",
+        "Amazon Prime Video Free with Ads",
+        "Tubi TV"
+      ],
+      "popularity": 4.5772,
+      "vote_average": 7.069
+    },
+    "assessment": {
+      "rating": "Safe",
+      "min_age": 4.0,
+      "max_age": 10.0,
+      "stimulation_level": "Medium",
+      "has_lgbtq": false,
+      "has_violence": true,
+      "has_scary": false,
+      "is_educational": false,
+      "reasoning": "The rating is Safe because the show features mild, highly stylized cartoon violence (chases, gadgets, non-lethal explosions) typical of slapstick comedy. It is a TV-Y production focusing on humorous spy parody and teamwork, containing no scary or LGBTQ+ themes."
+    },
+    "flagged_for_review": true
+  },
+  {
+    "enriched": {
+      "tmdb_id": 13399,
+      "media_type": "tv",
+      "title": "Timothy Goes to School",
+      "synopsis": "A raccoon named Timothy starts kindergarten, and meets many new people and friends. He helps others with their challenges and they would help Timothy on something he is struggling on. It features his everyday adventures while teaching kids how to behave in school and having a positive attitude - feeling good in school and learning more about the world.",
+      "cover_image_url": "https://image.tmdb.org/t/p/w500/Boj6YBEUPhm8Y3hQ6MhXHZqa8x.jpg",
+      "imdb_id": "tt0364890",
+      "release_year": "2000–2001",
+      "runtime": "30 min",
+      "cast": [
+        "Alyson Court",
+        "Rob Stefaniuk",
+        "Max Morrow"
+      ],
+      "genres": [
+        "Animation",
+        "Kids",
+        "Family"
+      ],
+      "certification": "TV-Y",
+      "platforms": [
+        "Amazon Prime Video",
+        "Pure Flix",
+        "Amazon Prime Video with Ads",
+        "Pluto TV",
+        "Tubi TV"
+      ],
+      "popularity": 4.5437,
+      "vote_average": 6.7
+    },
+    "assessment": {
+      "rating": "Safe",
+      "min_age": 3.0,
+      "max_age": 7.0,
+      "stimulation_level": "Low",
+      "has_lgbtq": false,
+      "has_violence": false,
+      "has_scary": false,
+      "is_educational": true,
+      "reasoning": "This show is rated Safe, as it is a gentle, low-stimulation program designed specifically for preschoolers (TV-Y) navigating the transition to kindergarten. It emphasizes positive social behaviors, emotional development, and friendship skills without featuring any intense or scary content. The series is highly educational, teaching children how to handle everyday challenges constructively."
+    },
+    "flagged_for_review": false
+  },
+  {
+    "enriched": {
+      "tmdb_id": 73541,
+      "media_type": "tv",
+      "title": "Rusty Rivets",
+      "synopsis": "A boy and his best friend, a robotic dinosaur, use machine parts to create gadgets.",
+      "cover_image_url": "https://image.tmdb.org/t/p/w500/c2yzJGmOMN0eIsowImAb7LuAOQ7.jpg",
+      "imdb_id": "tt5742760",
+      "release_year": "2016–Present",
+      "runtime": "11 min",
+      "cast": [
+        "Kyle Breitkopf",
+        "Ava Preston",
+        "Samuel Faraci"
+      ],
+      "genres": [
+        "Animation",
+        "Kids",
+        "Family",
+        "Comedy"
+      ],
+      "certification": "TV-Y",
+      "platforms": [
+        "Hoopla"
+      ],
+      "popularity": 4.5381,
+      "vote_average": 5.444
+    },
+    "assessment": {
+      "rating": "Safe",
+      "min_age": 2.0,
+      "max_age": 7.0,
+      "stimulation_level": "Medium",
+      "has_lgbtq": false,
+      "has_violence": false,
+      "has_scary": false,
+      "is_educational": true,
+      "reasoning": "Rated TV-Y, this show is highly safe for young viewers, focusing on STEM concepts like engineering and creative problem-solving. Content is designed to be gentle, containing no violence, scary imagery, or complex themes suitable for preschool audiences."
+    },
+    "flagged_for_review": false
+  },
+  {
+    "enriched": {
+      "tmdb_id": 65858,
+      "media_type": "tv",
+      "title": "LEGO Nexo Knights",
+      "synopsis": "The adventure takes place in the futuristic Kingdom of Knighton. It focuses on the Nexo Knights as they journey to defeat Jestro the evil jester, the Book of Monsters, and their lava monster army. Clay leads the Nexo Knights, which include Macy, Lance, Aaron, and Axl. Together, under their mentor Merlok 2.0, they band together to defeat Jestro.",
+      "cover_image_url": "https://image.tmdb.org/t/p/w500/d0e5dJ2FQhlwEhFX4cB0ijp5SMd.jpg",
+      "imdb_id": "tt5127574",
+      "release_year": "2015–Present",
+      "runtime": "22 min",
+      "cast": [
+        "Alessandro Juliani",
+        "Vincent Tong",
+        "Giles Panton"
+      ],
+      "genres": [
+        "Action & Adventure",
+        "Animation",
+        "Kids",
+        "Comedy",
+        "Family"
+      ],
+      "certification": null,
+      "platforms": [
+        "Hoopla",
+        "Pluto TV",
+        "Tubi TV"
+      ],
+      "popularity": 4.5259,
+      "vote_average": 7.156
+    },
+    "assessment": {
+      "rating": "Caution",
+      "min_age": 5.0,
+      "max_age": 12.0,
+      "stimulation_level": "High",
+      "has_lgbtq": false,
+      "has_violence": true,
+      "has_scary": true,
+      "is_educational": true,
+      "reasoning": "This show is rated Caution due to persistent fantasy combat involving knights fighting a monster army, resulting in high stimulation and moderate action violence. The action is cartoonish and non-gory, making it appropriate for children aged 5 and older who enjoy fast-paced adventure themes."
+    },
+    "flagged_for_review": true
+  },
+  {
+    "enriched": {
+      "tmdb_id": 96650,
+      "media_type": "tv",
+      "title": "The Adventures of Paddington",
+      "synopsis": "Journey to London for heart-warming adventures with beloved British bear Paddington in this CG-animated series, which centres on a younger Paddington as he writes letters to Aunt Lucy celebrating the new things he has discovered through the day’s exciting activities.",
+      "cover_image_url": "https://image.tmdb.org/t/p/w500/8kueFMhO5zvrXgBtM8mdEOJRV2D.jpg",
+      "imdb_id": "tt7772600",
+      "release_year": "2019–Present",
+      "runtime": "11 min",
+      "cast": [
+        "Ben Whishaw",
+        "Morwenna Banks",
+        "Darren Boyd"
+      ],
+      "genres": [
+        "Animation",
+        "Family",
+        "Kids"
+      ],
+      "certification": "TV-Y",
+      "platforms": [
+        "Paramount Plus Essential"
+      ],
+      "popularity": 4.4897,
+      "vote_average": 7.8
+    },
+    "assessment": {
+      "rating": "Safe",
+      "min_age": 2.0,
+      "max_age": 7.0,
+      "stimulation_level": "Medium",
+      "has_lgbtq": false,
+      "has_violence": false,
+      "has_scary": false,
+      "is_educational": true,
+      "reasoning": "This TV-Y rated series is designed for young children, focusing on gentle, pro-social adventures and positive discoveries. It teaches values, manners, and friendship through simple, low-stakes narratives. There is no complex conflict, violence, or frightening imagery."
+    },
+    "flagged_for_review": false
+  },
+  {
+    "enriched": {
+      "tmdb_id": 219056,
+      "media_type": "tv",
+      "title": "Frog and Toad",
+      "synopsis": "Frog and Toad are not at all alike. Frog likes new adventures. Toad likes the comforts of home. Yet despite their differences, Frog and Toad are always there for each other—as best friends should be.",
+      "cover_image_url": "https://image.tmdb.org/t/p/w500/jDWTTWNzieMiqNBVfXmTZG18J18.jpg",
+      "imdb_id": "tt2197822",
+      "release_year": "2023–Present",
+      "runtime": "23 min",
+      "cast": [
+        "Nat Faxon",
+        "Kevin Michael Richardson"
+      ],
+      "genres": [
+        "Kids",
+        "Animation",
+        "Family"
+      ],
+      "certification": "TV-Y",
+      "platforms": [
+        "Apple TV",
+        "Amazon Prime Video",
+        "Amazon Prime Video with Ads",
+        "Apple TV Amazon Channel"
+      ],
+      "popularity": 4.4437,
+      "vote_average": 8.4
+    },
+    "assessment": {
+      "rating": "Safe",
+      "min_age": 2.0,
+      "max_age": 8.0,
+      "stimulation_level": "Low",
+      "has_lgbtq": false,
+      "has_violence": false,
+      "has_scary": false,
+      "is_educational": true,
+      "reasoning": "This TV-Y rated show is extremely safe, featuring gentle pacing, soft animation, and low-stakes conflicts appropriate for toddlers and preschoolers. The content focuses entirely on positive social-emotional themes like friendship, patience, and empathy, lacking any violence, frightening imagery, or intense action."
+    },
+    "flagged_for_review": false
+  },
+  {
+    "enriched": {
+      "tmdb_id": 33835,
+      "media_type": "tv",
+      "title": "Strawberry Shortcake's Berry Bitty Adventures",
+      "synopsis": "Welcome to Berry Bitty City, a berry special little world under the leaves of a berry patch. It may be small, but Berry Bitty City is big on fun and adventure. It's where Strawberry Shortcake and all her friends live. Together, they prove that little girls can do berry big things. There's always something fun to do, and when someone needs help, her friends are always there to lend a hand.",
+      "cover_image_url": "https://image.tmdb.org/t/p/w500/xweEe66HXnW5LAGanucy5ZOL6fu.jpg",
+      "imdb_id": "tt1815377",
+      "release_year": "2010–Present",
+      "runtime": "22 min",
+      "cast": [
+        "Anna Cummer",
+        "Rebecca Shoichet",
+        "Andrea Libman"
+      ],
+      "genres": [
+        "Animation",
+        "Family",
+        "Kids",
+        "Comedy"
+      ],
+      "certification": "TV-Y",
+      "platforms": [
+        "Paramount Plus Apple TV Channel ",
+        "Paramount+ Amazon Channel",
+        "Paramount+ Roku Premium Channel",
+        "Philo",
+        "Shahid VIP",
+        "Paramount Plus Essential",
+        "Paramount Plus Premium",
+        "Hoopla",
+        "Spectrum On Demand",
+        "Plex",
+        "Plex Channel",
+        "The Roku Channel",
+        "Pluto TV",
+        "VIX "
+      ],
+      "popularity": 4.4318,
+      "vote_average": 8.571
+    },
+    "assessment": {
+      "rating": "Safe",
+      "min_age": 2.0,
+      "max_age": 7.0,
+      "stimulation_level": "Medium",
+      "has_lgbtq": false,
+      "has_violence": false,
+      "has_scary": false,
+      "is_educational": true,
+      "reasoning": "This TV-Y rated series focuses on positive social-emotional lessons, promoting friendship, helping others, and community values in a gentle setting. The show contains no violence, scary imagery, or mature themes, making it highly appropriate for toddlers and preschoolers."
+    },
+    "flagged_for_review": false
+  },
+  {
+    "enriched": {
+      "tmdb_id": 31623,
+      "media_type": "tv",
+      "title": "Team Umizoomi",
+      "synopsis": "They're mini, they're mighty and they're built for math! When someone has a problem in Umi City, Milli, Geo, and Bot use their mighty math powers to help save the day!",
+      "cover_image_url": "https://image.tmdb.org/t/p/w500/y090DrGOIK5LyrCq3GeA8TZZ4lY.jpg",
+      "imdb_id": "tt1594381",
+      "release_year": "2010–Present",
+      "runtime": "24 min",
+      "cast": [
+        "Donovan Patton",
+        "PT Walkley",
+        "Madeleine Yen"
+      ],
+      "genres": [
+        "Animation",
+        "Sci-Fi & Fantasy",
+        "Family",
+        "Action & Adventure",
+        "Kids"
+      ],
+      "certification": "TV-Y",
+      "platforms": [
+        "Paramount Plus Apple TV Channel ",
+        "Paramount+ Amazon Channel",
+        "Paramount+ Roku Premium Channel",
+        "Philo",
+        "Paramount Plus Essential",
+        "Paramount Plus Premium"
+      ],
+      "popularity": 4.3126,
+      "vote_average": 7.756
+    },
+    "assessment": {
+      "rating": "Safe",
+      "min_age": 3.0,
+      "max_age": 6.0,
+      "stimulation_level": "Medium",
+      "has_lgbtq": false,
+      "has_violence": false,
+      "has_scary": false,
+      "is_educational": true,
+      "reasoning": "Team Umizoomi is a highly safe, educational program specifically designed for preschoolers (TV-Y). Its core focus is teaching early mathematical concepts through colorful animation and interactive problem-solving. The show contains no violence, scary imagery, or mature themes, making it excellent for its target demographic."
+    },
+    "flagged_for_review": false
+  },
+  {
+    "enriched": {
+      "tmdb_id": 91433,
+      "media_type": "tv",
+      "title": "T.O.T.S.",
+      "synopsis": "A heartfelt animated comedy series for preschoolers exploring the hilarious adventures of best friends Pip and Freddy, a tenacious penguin and a kind-hearted flamingo, who are the only non-stork delivery birds in-training at Tiny Ones Transport Service (T.O.T.S.).",
+      "cover_image_url": "https://image.tmdb.org/t/p/w500/4nLOFTtj7rVCtzKLlvvGw8rK264.jpg",
+      "imdb_id": "tt8266218",
+      "release_year": "2019–Present",
+      "runtime": "22 min",
+      "cast": [
+        "Christian J. Simon",
+        "Vanessa Williams",
+        "Megan Hilty"
+      ],
+      "genres": [
+        "Kids",
+        "Family",
+        "Animation"
+      ],
+      "certification": "TV-Y",
+      "platforms": [
+        "Disney Plus"
+      ],
+      "popularity": 4.2695,
+      "vote_average": 7.3
+    },
+    "assessment": {
+      "rating": "Safe",
+      "min_age": 2.0,
+      "max_age": 7.0,
+      "stimulation_level": "Medium",
+      "has_lgbtq": false,
+      "has_violence": false,
+      "has_scary": false,
+      "is_educational": true,
+      "reasoning": "T.O.T.S. is certified TV-Y and is designed for the preschool demographic, focusing on themes of friendship, responsibility, and empathy. The show contains only very mild slapstick comedy and is entirely free of violence, scary imagery, or mature thematic content. It promotes positive social-emotional learning through its problem-solving adventures."
+    },
+    "flagged_for_review": false
+  },
+  {
+    "enriched": {
+      "tmdb_id": 86957,
+      "media_type": "tv",
+      "title": "Green Eggs and Ham",
+      "synopsis": "Guy-Am-I, an inventor, and his friend Sam-I-Am go on a cross-country trip that would test the limits of their friendship. As they learn to try new things, they find out what adventure brings.",
+      "cover_image_url": "https://image.tmdb.org/t/p/w500/sPbNUuCOD2ilcVWf5yjjkMqyoxs.jpg",
+      "imdb_id": "tt4651448",
+      "release_year": "2019–2022",
+      "runtime": "28 min",
+      "cast": [
+        "Adam Devine",
+        "Michael Douglas",
+        "Ilana Glazer"
+      ],
+      "genres": [
+        "Kids",
+        "Family",
+        "Animation",
+        "Comedy",
+        "Action & Adventure"
+      ],
+      "certification": "TV-Y7",
+      "platforms": [
+        "Netflix",
+        "Pure Flix",
+        "Netflix Standard with Ads"
+      ],
+      "popularity": 4.2272,
+      "vote_average": 8.023
+    },
+    "assessment": {
+      "rating": "Safe",
+      "min_age": 7.0,
+      "max_age": 99.0,
+      "stimulation_level": "High",
+      "has_lgbtq": false,
+      "has_violence": true,
+      "has_scary": false,
+      "is_educational": true,
+      "reasoning": "The show is rated Safe, suitable for its TV-Y7 audience, as it avoids graphic violence, scary imagery, and LGBTQ+ themes. While it is highly stimulating and features frequent cartoon action, chases, and peril, these elements are handled humorously in line with the comedy and adventure genres. The narrative focuses positively on valuable themes such as friendship, trust, and the importance of trying new things."
+    },
+    "flagged_for_review": false
+  },
+  {
+    "enriched": {
+      "tmdb_id": 114502,
+      "media_type": "tv",
+      "title": "Cars on the Road",
+      "synopsis": "Lightning McQueen and his best friend Mater head east from Radiator Springs on a cross-country road trip to meet up with Mater’s sister.",
+      "cover_image_url": "https://image.tmdb.org/t/p/w500/6QXirTPUQecr1BAEfgVSXPD1np0.jpg",
+      "imdb_id": "tt11981568",
+      "release_year": "2022",
+      "runtime": "",
+      "cast": [
+        "Owen Wilson",
+        "Larry the Cable Guy"
+      ],
+      "genres": [
+        "Family",
+        "Comedy",
+        "Kids",
+        "Animation",
+        "Action & Adventure"
+      ],
+      "certification": "TV-G",
+      "platforms": [
+        "Disney Plus"
+      ],
+      "popularity": 4.0835,
+      "vote_average": 7.4
+    },
+    "assessment": {
+      "rating": "Safe",
+      "min_age": 3.0,
+      "max_age": 99.0,
+      "stimulation_level": "High",
+      "has_lgbtq": false,
+      "has_violence": true,
+      "has_scary": false,
+      "is_educational": true,
+      "reasoning": "This TV-G animated series is rated Safe, focusing on slapstick comedy and friendship during a high-paced road trip. Action sequences involve cartoony crashes and high-speed chases typical of the franchise, but the violence is non-threatening and non-frightening. The show is suitable for all ages, promoting themes of loyalty and exploration."
+    },
+    "flagged_for_review": true
+  },
+  {
+    "enriched": {
+      "tmdb_id": 15641,
+      "media_type": "tv",
+      "title": "The Mighty B!",
+      "synopsis": "The Mighty B! is an American animated television series co-created by Amy Poehler, Cynthia True and Erik Wiese for Nickelodeon. The series centers on Bessie Higgenbottom, an ambitious Honeybee girl scout who believes she will become The Mighty B if she collects every Honeybee badge. Bessie lives in San Francisco with her single mother Hilary, brother Ben and dog Happy. Poehler provides the voice of Bessie, who is loosely based on a character Poehler played on the improvisational comedy troupes Second City and Upright Citizens Brigade.",
+      "cover_image_url": "https://image.tmdb.org/t/p/w500/si9HifHah69ZnAONP1xE4OAlaIp.jpg",
+      "imdb_id": "tt0917551",
+      "release_year": "2008–2011",
+      "runtime": "23 min",
+      "cast": [
+        "Andy Richter",
+        "Amy Poehler",
+        "Matt Besser"
+      ],
+      "genres": [
+        "Animation",
+        "Comedy",
+        "Kids",
+        "Family"
+      ],
+      "certification": "TV-Y7",
+      "platforms": [
+        "Paramount Plus Apple TV Channel ",
+        "Paramount+ Amazon Channel",
+        "Paramount+ Roku Premium Channel",
+        "Paramount Plus Essential",
+        "Paramount Plus Premium"
+      ],
+      "popularity": 4.0629,
+      "vote_average": 6.4
+    },
+    "assessment": {
+      "rating": "Safe",
+      "min_age": 6.0,
+      "max_age": 11.0,
+      "stimulation_level": "High",
+      "has_lgbtq": false,
+      "has_violence": true,
+      "has_scary": false,
+      "is_educational": true,
+      "reasoning": "This show is rated TV-Y7 due to its high-energy pacing, loud characters, and frequent slapstick cartoon violence, but the content is fundamentally safe and comedic. It reinforces positive values like ambition and perseverance while featuring purely non-graphic, comedic mishaps suitable for the intended age group."
+    },
+    "flagged_for_review": true
+  },
+  {
+    "enriched": {
+      "tmdb_id": 32388,
+      "media_type": "tv",
+      "title": "Ben & Holly's Little Kingdom",
+      "synopsis": "The friendship between fairy princess Holly and Ben Elf in an enchanted magical kingdom of elves and fairies.",
+      "cover_image_url": "https://image.tmdb.org/t/p/w500/iJfBAzPNojxE3LTcUhrev7TR0eH.jpg",
+      "imdb_id": "tt1436544",
+      "release_year": "2009–Present",
+      "runtime": "11 min",
+      "cast": [
+        "Sian Taylor",
+        "Preston Nyman",
+        "David Graham"
+      ],
+      "genres": [
+        "Kids",
+        "Animation",
+        "Comedy",
+        "Family"
+      ],
+      "certification": "TV-Y",
+      "platforms": [
+        "The Roku Channel",
+        "Toon Goggles"
+      ],
+      "popularity": 3.9144,
+      "vote_average": 5.636
+    },
+    "assessment": {
+      "rating": "Safe",
+      "min_age": 2.0,
+      "max_age": 7.0,
+      "stimulation_level": "Low",
+      "has_lgbtq": false,
+      "has_violence": false,
+      "has_scary": false,
+      "is_educational": true,
+      "reasoning": "This TV-Y rated show is very gentle, relying on simple fantasy plots and friendship dynamics between the main characters. Conflict is minimal, non-aggressive, and quickly resolved using comical magic. It contains no scary or mature themes."
+    },
+    "flagged_for_review": false
+  },
+  {
+    "enriched": {
+      "tmdb_id": 973,
+      "media_type": "tv",
+      "title": "The Book of Pooh",
+      "synopsis": "The Book of Pooh is an American television series that aired on the Disney Channel. It is the third television series to feature the characters from the Disney franchise based on A. A. Milne's works; the other two were the live-action Welcome to Pooh Corner and the animated The New Adventures of Winnie the Pooh which ran from 1988-1991. It premiered on February 9, 2001, and completed its run on July 8, 2003. The show is produced by Shadow Projects, and Playhouse Disney. This is the first Pooh show where Jim Cummings voices Tigger filling in for the late Paul Winchell.\n\nIt was shown in U.K on a Channel 5 Block known as 'Milkshake!' as well as Playhouse Disney. It's run on Milkshake! ended around 2006 to 2007.",
+      "cover_image_url": "https://image.tmdb.org/t/p/w500/vnXwJlVXCqyRE0qQn4Af102k183.jpg",
+      "imdb_id": "tt0274240",
+      "release_year": "2001–2004",
+      "runtime": "30 min",
+      "cast": [
+        "Jim Cummings",
+        "John Fiedler",
+        "Kath Soucie"
+      ],
+      "genres": [
+        "Kids",
+        "Animation",
+        "Family"
+      ],
+      "certification": null,
+      "platforms": [
+        "Disney Plus"
+      ],
+      "popularity": 3.8041,
+      "vote_average": 6.955
+    },
+    "assessment": {
+      "rating": "Safe",
+      "min_age": 2.0,
+      "max_age": 7.0,
+      "stimulation_level": "Medium",
+      "has_lgbtq": false,
+      "has_violence": false,
+      "has_scary": false,
+      "is_educational": true,
+      "reasoning": "The Book of Pooh is a Playhouse Disney series designed specifically for preschoolers, featuring comforting characters and very gentle, low-conflict narratives. The show focuses on friendship, problem-solving, and social-emotional skills, containing no violence or frightening imagery."
+    },
+    "flagged_for_review": false
+  },
+  {
+    "enriched": {
+      "tmdb_id": 345,
+      "media_type": "tv",
+      "title": "My Little Pony",
+      "synopsis": "Ponyland is the home of all your favorite classic Little Ponies. Together, they live a life of games, songs and harmony with allies like the Bushwoolies and Furbobs. But, occasionally, there are problems in Ponyland and the Little Ponies of Paradise Estate must face evil witches, goblins, Stone Backs, Grundles and more!",
+      "cover_image_url": "https://image.tmdb.org/t/p/w500/tkVztC8YKR8JSIHgwRWD5boViBJ.jpg",
+      "imdb_id": "tt0184761",
+      "release_year": "1986–1987",
+      "runtime": "15 min",
+      "cast": [
+        "Jennifer Darling",
+        "David Mendenhall",
+        "Mona Marshall"
+      ],
+      "genres": [
+        "Animation",
+        "Kids",
+        "Family"
+      ],
+      "certification": "TV-Y",
+      "platforms": [
+        "Amazon Prime Video",
+        "Amazon Prime Video with Ads",
+        "Plex",
+        "Plex Channel",
+        "The Roku Channel",
+        "Tubi TV"
+      ],
+      "popularity": 3.6459,
+      "vote_average": 6.1
+    },
+    "assessment": {
+      "rating": "Safe",
+      "min_age": 3.0,
+      "max_age": 9.0,
+      "stimulation_level": "Medium",
+      "has_lgbtq": false,
+      "has_violence": true,
+      "has_scary": true,
+      "is_educational": true,
+      "reasoning": "This 80s series is certified TV-Y and focuses on themes of friendship and cooperation. While it contains mild fantasy conflict (goblins, witches), the violence is non-gory and the threats are resolved in a gentle manner, making it safe for young viewers. There are no LGBTQ+ themes."
+    },
+    "flagged_for_review": true
+  },
+  {
+    "enriched": {
+      "tmdb_id": 1458,
+      "media_type": "tv",
+      "title": "Franklin",
+      "synopsis": "Franklin is an Canadian educational animated television series, based on the Franklin the Turtle books by Brenda Clark and Paulette Bourgeois. The television series was named after its main character, Franklin the Turtle. It was produced by PolyGram Television, Alphanim, LuxAnimation, Nelvana, Neurones Enterprises, Reader's Digest for Young Families, TF1, Funbag Animation Studios, Europool, Mini TFO, and Family Channel, and syndicated by Summit Entertainment.",
+      "cover_image_url": "https://image.tmdb.org/t/p/w500/ep0ol2okz8IB8T0LxhfJMXvJ3Mk.jpg",
+      "imdb_id": "tt0203254",
+      "release_year": "1997–2004",
+      "runtime": "11 min",
+      "cast": [
+        "Richard Newman",
+        "Cole Caplan",
+        "Marc McMulkin"
+      ],
+      "genres": [
+        "Animation",
+        "Kids",
+        "Family"
+      ],
+      "certification": "TV-Y",
+      "platforms": [
+        "Pure Flix",
+        "Amebatv Amazon Channel",
+        "Kartoon Channel Amazon Channel",
+        "Great American Pure Flix Amazon Channel",
+        "Sensical Amazon Channel",
+        "Plex Channel",
+        "VIX "
+      ],
+      "popularity": 3.5973,
+      "vote_average": 6.7
+    },
+    "assessment": {
+      "rating": "Safe",
+      "min_age": 3.0,
+      "max_age": 7.0,
+      "stimulation_level": "Low",
+      "has_lgbtq": false,
+      "has_violence": false,
+      "has_scary": false,
+      "is_educational": true,
+      "reasoning": "Franklin is a gentle, TV-Y educational series focusing on social and emotional development for preschoolers. It features slow pacing and soft visuals, containing no violence, scary imagery, or mature themes suitable for young viewers."
+    },
+    "flagged_for_review": false
+  },
+  {
+    "enriched": {
+      "tmdb_id": 3428,
+      "media_type": "tv",
+      "title": "Super Robot Monkey Team Hyperforce Go!",
+      "synopsis": "Super Robot Monkey Team Hyperforce Go! is an American/Japanese animated television series, and was created by Ciro Nieli, one of the directors of Teen Titans, with animation being done by a Japanese studio known as The Answer Studio. Set mainly on the fictional planet of Shuggazoom, the series follows the adventures of five cyborg monkeys and a human boy named Chiro as they struggle to protect their planet - and the rest of the universe - from the forces of evil.\n\nAs is obvious from the visual appearance of the show, there is a significant anime influence present, despite being produced for American television. It was also influenced by Star Trek, Super Sentai, Voltron, and Star Wars. The show also contains various references to pop culture, a notable example being the episode \"Season of the Skull\", which is a parody of the 1970s thriller The Wicker Man.",
+      "cover_image_url": "https://image.tmdb.org/t/p/w500/gcTY3iHLC1wm9wB4pKn2vvCxCfK.jpg",
+      "imdb_id": "tt0423746",
+      "release_year": "2004–2006",
+      "runtime": "30 min",
+      "cast": [
+        "Greg Cipes",
+        "Kevin Michael Richardson",
+        "Corey Feldman"
+      ],
+      "genres": [
+        "Animation",
+        "Kids",
+        "Action & Adventure",
+        "Family",
+        "Sci-Fi & Fantasy",
+        "Comedy"
+      ],
+      "certification": "TV-Y7",
+      "platforms": [
+        "Disney Plus"
+      ],
+      "popularity": 3.5161,
+      "vote_average": 7.2
+    },
+    "assessment": {
+      "rating": "Caution",
+      "min_age": 7.0,
+      "max_age": 12.0,
+      "stimulation_level": "High",
+      "has_lgbtq": false,
+      "has_violence": true,
+      "has_scary": true,
+      "is_educational": false,
+      "reasoning": "Rated TV-Y7, this show features intense sci-fi action, fast pacing, and frequent combat between the Hyperforce and large evil forces (like The Skeleton King). The Super Sentai and anime influences mean high stimulation, moderate fantasy violence, and some scary villains/suspense, necessitating a Caution rating for younger viewers."
+    },
+    "flagged_for_review": true
+  },
+  {
+    "enriched": {
+      "tmdb_id": 14766,
+      "media_type": "tv",
+      "title": "Super Why!",
+      "synopsis": "Super Why! or The Reading Adventures of Super Why! is a CGI animated show developed by Angela C. Santomero and Samantha Freeman Alpert. The TV series is produced by New York City-based Out of the Blue Enterprises and Toronto-based DHX Media through its Decode Entertainment division. The show debuted on PBS stations on September 3, 2007. The series airs on PBS Kids and PBS Kids Sprout in the USA, Kids' CBC in Canada. Thai PBS from Thailand broadcasts the shortened version, the episodes are 5 years behind the U.S.",
+      "cover_image_url": "https://image.tmdb.org/t/p/w500/lJttSVfKx56a2wN2pg2yR4IHzwy.jpg",
+      "imdb_id": "tt1105469",
+      "release_year": "2007–2016",
+      "runtime": "24 min",
+      "cast": [
+        "Tajja Isen",
+        "Johnny Orlando",
+        "T.J. McGibbon"
+      ],
+      "genres": [
+        "Animation",
+        "Family",
+        "Kids"
+      ],
+      "certification": "TV-Y",
+      "platforms": [
+        "YouTube TV",
+        "PBS Kids Amazon Channel"
+      ],
+      "popularity": 3.4581,
+      "vote_average": 6.8
+    },
+    "assessment": {
+      "rating": "Safe",
+      "min_age": 3.0,
+      "max_age": 6.0,
+      "stimulation_level": "Medium",
+      "has_lgbtq": false,
+      "has_violence": false,
+      "has_scary": false,
+      "is_educational": true,
+      "reasoning": "The show is rated Safe (TV-Y) as it is specifically designed for preschool children, focusing heavily on literacy, phonics, and reading skills. It features gentle CGI, moderate pacing, and lacks any concerning content such as violence, scary imagery, or complex social themes, making it highly appropriate for its target audience."
+    },
+    "flagged_for_review": false
+  },
+  {
+    "enriched": {
+      "tmdb_id": 9970,
+      "media_type": "tv",
+      "title": "Franny's Feet",
+      "synopsis": "Franny Fantootsie tries on shoes brought to her grandfather's shop for repair, and each pair takes her on magical adventures all over the world. From tropical shores to the North Pole, Franny meets new people and animal friends with every step.",
+      "cover_image_url": "https://image.tmdb.org/t/p/w500/4TOCge6NsMOrCIQYMmudDbTpepc.jpg",
+      "imdb_id": "tt0380111",
+      "release_year": "2003–2009",
+      "runtime": "30 min",
+      "cast": [
+        "George Buza",
+        "Phoebe McAuley"
+      ],
+      "genres": [
+        "Animation",
+        "Family",
+        "Kids"
+      ],
+      "certification": "TV-Y",
+      "platforms": [
+        "Hoopla",
+        "The Roku Channel",
+        "Tubi TV"
+      ],
+      "popularity": 3.4559,
+      "vote_average": 7.2
+    },
+    "assessment": {
+      "rating": "Safe",
+      "min_age": 2.0,
+      "max_age": 7.0,
+      "stimulation_level": "Medium",
+      "has_lgbtq": false,
+      "has_violence": false,
+      "has_scary": false,
+      "is_educational": true,
+      "reasoning": "This TV-Y rated show is highly educational, focusing on geography, culture, and problem-solving through gentle, imaginative adventures suitable for preschoolers. The content is consistently non-violent and free of scary or complex thematic elements, earning a 'Safe' rating."
+    },
+    "flagged_for_review": false
+  },
+  {
+    "enriched": {
+      "tmdb_id": 132983,
+      "media_type": "tv",
+      "title": "Octonauts: Above & Beyond",
+      "synopsis": "The Octonauts expand their exploration beyond the sea -- and onto land! With new rides and new friends, they'll protect any habitats and animals at risk.",
+      "cover_image_url": "https://image.tmdb.org/t/p/w500/1V7IYlTVyGmjwiEH9SvPZREzfom.jpg",
+      "imdb_id": "tt15211330",
+      "release_year": "2021–Present",
+      "runtime": "",
+      "cast": [],
+      "genres": [
+        "Animation",
+        "Kids",
+        "Family"
+      ],
+      "certification": "TV-Y",
+      "platforms": [
+        "Netflix",
+        "Netflix Kids",
+        "Netflix Standard with Ads"
+      ],
+      "popularity": 3.4288,
+      "vote_average": 8.8
+    },
+    "assessment": {
+      "rating": "Safe",
+      "min_age": 3.0,
+      "max_age": 7.0,
+      "stimulation_level": "Medium",
+      "has_lgbtq": false,
+      "has_violence": false,
+      "has_scary": false,
+      "is_educational": true,
+      "reasoning": "The show is rated TV-Y and maintains a positive, low-conflict structure centered around environmental education and animal rescue. Its focus on teamwork and problem-solving makes it safe and highly suitable for preschoolers and young school-aged children, containing no frightening or violent elements."
+    },
+    "flagged_for_review": false
+  },
+  {
+    "enriched": {
+      "tmdb_id": 2009,
+      "media_type": "tv",
+      "title": "Rocket Power",
+      "synopsis": "The daily lives of four friends who enjoy extreme sports, surfing, and getting into some crazy situations.",
+      "cover_image_url": "https://image.tmdb.org/t/p/w500/2As5aMc84mtTurD2DfDLytNLhkh.jpg",
+      "imdb_id": "tt0244926",
+      "release_year": "1999–2004",
+      "runtime": "24 min",
+      "cast": [
+        "Shayna Fox",
+        "John Kassir",
+        "Joseph Ashton"
+      ],
+      "genres": [
+        "Animation",
+        "Comedy",
+        "Family",
+        "Kids"
+      ],
+      "certification": "TV-Y7",
+      "platforms": [
+        "Paramount Plus Apple TV Channel ",
+        "Paramount+ Amazon Channel",
+        "Paramount+ Roku Premium Channel",
+        "Paramount Plus Essential",
+        "Paramount Plus Premium"
+      ],
+      "popularity": 3.3889,
+      "vote_average": 7.7
+    },
+    "assessment": {
+      "rating": "Safe",
+      "min_age": 7.0,
+      "max_age": 12.0,
+      "stimulation_level": "High",
+      "has_lgbtq": false,
+      "has_violence": true,
+      "has_scary": false,
+      "is_educational": true,
+      "reasoning": "Rocket Power is highly stimulating due to its focus on fast-paced extreme sports action, frequent wipeouts, and competitive spirit. While it features slapstick violence (falls/minor injuries) and encourages risk-taking, the overall tone is comedic and promotes positive values like persistence and teamwork. It is safely targeted at children aged 7 and older (TV-Y7)."
+    },
+    "flagged_for_review": false
+  },
+  {
+    "enriched": {
+      "tmdb_id": 1863,
+      "media_type": "tv",
+      "title": "Quack Pack",
+      "synopsis": "This cartoon follows on from the 1980’s cartoon “Ducktales”, continuing the adventures of Huey, Dewey and Louie. Now 12 year olds and living with their uncle Donald Duck, the three spend their time playing practical jokes on their hapless uncle and otherwise getting into trouble.",
+      "cover_image_url": "https://image.tmdb.org/t/p/w500/d6VewnlRManLlOzV06jPUb08Hgf.jpg",
+      "imdb_id": "tt0136658",
+      "release_year": "1996",
+      "runtime": "",
+      "cast": [
+        "Tony Anselmo",
+        "Jeannie Elias",
+        "E. G. Daily"
+      ],
+      "genres": [
+        "Animation",
+        "Kids",
+        "Family",
+        "Comedy"
+      ],
+      "certification": "TV-Y7",
+      "platforms": [
+        "Disney Plus"
+      ],
+      "popularity": 3.3489,
+      "vote_average": 6.886
+    },
+    "assessment": {
+      "rating": "Caution",
+      "min_age": 7.0,
+      "max_age": 12.0,
+      "stimulation_level": "High",
+      "has_lgbtq": false,
+      "has_violence": true,
+      "has_scary": false,
+      "is_educational": false,
+      "reasoning": "This show receives a Caution rating due to its high-energy pacing and focus on moderate cartoon slapstick violence, chaos, and themes of teenage mischief and disobedience. It is appropriate for children aged 7 and older who can distinguish between high-octane cartoon violence and reality. The series contains no scary elements or LGBTQ+ representation."
+    },
+    "flagged_for_review": true
+  },
+  {
+    "enriched": {
+      "tmdb_id": 75523,
+      "media_type": "tv",
+      "title": "101 Dalmatian Street",
+      "synopsis": "Follow the adventures of eldest siblings Dolly and Dylan, their Mum Delilah and Dad Doug, and their 97 younger brothers and sisters as they embark on urban adventures and extreme sibling rivalry. Together, the pups explore growing up and finding their own spot inside the biggest, messiest, furriest blended family ever.",
+      "cover_image_url": "https://image.tmdb.org/t/p/w500/5meA7Ik8h9t2Bd3VR7Pw85pXECV.jpg",
+      "imdb_id": "tt7019028",
+      "release_year": "2019",
+      "runtime": "10 min",
+      "cast": [
+        "Margot Powell",
+        "Michaela Dietz",
+        "Josh Brener"
+      ],
+      "genres": [
+        "Animation",
+        "Family",
+        "Kids"
+      ],
+      "certification": "TV-Y7",
+      "platforms": [
+        "Disney Plus"
+      ],
+      "popularity": 3.3257,
+      "vote_average": 7.4
+    },
+    "assessment": {
+      "rating": "Safe",
+      "min_age": 6.0,
+      "max_age": 10.0,
+      "stimulation_level": "High",
+      "has_lgbtq": false,
+      "has_violence": true,
+      "has_scary": false,
+      "is_educational": true,
+      "reasoning": "This show is rated TV-Y7, featuring fast-paced slapstick comedy centered on family dynamics and mild urban adventures. It contains frequent sibling rivalry and cartoon violence, but no frightening imagery or serious peril. The content promotes themes of teamwork and responsibility."
+    },
+    "flagged_for_review": true
+  },
+  {
+    "enriched": {
+      "tmdb_id": 109930,
+      "media_type": "tv",
+      "title": "The Wonderful World of Mickey Mouse",
+      "synopsis": "It's nothing but fun and excitement for Mickey and his best pals – Minnie, Donald, Daisy, Goofy and Pluto - as they embark on their greatest adventures yet, navigating the curveballs of a wild and zany world where the magic of Disney makes the impossible possible.",
+      "cover_image_url": "https://image.tmdb.org/t/p/w500/8F1V4ve64YPmyRZZ5u0jh7KCIID.jpg",
+      "imdb_id": "tt13089270",
+      "release_year": "2020–2021",
+      "runtime": "7 min",
+      "cast": [
+        "Chris Diamantopoulos",
+        "Kaitlyn Robrock",
+        "Bill Farmer"
+      ],
+      "genres": [
+        "Animation",
+        "Family",
+        "Kids"
+      ],
+      "certification": "TV-G",
+      "platforms": [
+        "Disney Plus"
+      ],
+      "popularity": 3.2907,
+      "vote_average": 7.5
+    },
+    "assessment": {
+      "rating": "Safe",
+      "min_age": 2.0,
+      "max_age": 99.0,
+      "stimulation_level": "High",
+      "has_lgbtq": false,
+      "has_violence": true,
+      "has_scary": false,
+      "is_educational": false,
+      "reasoning": "This show holds a TV-G rating and features classic, non-threatening cartoon slapstick violence (e.g., physical comedy, angry outbursts) common in the genre. While the fast-paced animation, bright colors, and zany scenarios result in high visual and auditory stimulation, the content itself is emotionally safe. The series is suitable for all ages but may be overwhelming for infants due to the pace."
+    },
+    "flagged_for_review": true
+  },
+  {
+    "enriched": {
+      "tmdb_id": 1010823,
+      "media_type": "movie",
+      "title": "Magnum Opus",
+      "synopsis": "Groot sets out to paint a family portrait of himself and the Guardians, only to discover just how messy the artistic process can be.",
+      "cover_image_url": "https://image.tmdb.org/t/p/w500/8p8JsKokKbuNCn9yBirAg1oEwGd.jpg",
+      "imdb_id": "tt21316870",
+      "release_year": "2022",
+      "runtime": "5 min",
+      "cast": [
+        "Vin Diesel",
+        "Bradley Cooper",
+        "Fred Tatasciore"
+      ],
+      "genres": [
+        "Animation",
+        "Family",
+        "Science Fiction",
+        "Comedy"
+      ],
+      "certification": "G",
+      "platforms": [],
+      "popularity": 1.6315,
+      "vote_average": 7.243
+    },
+    "assessment": {
+      "rating": "Safe",
+      "min_age": 3.0,
+      "max_age": 99.0,
+      "stimulation_level": "High",
+      "has_lgbtq": false,
+      "has_violence": true,
+      "has_scary": false,
+      "is_educational": false,
+      "reasoning": "This is a G-rated animated comedy short focusing on visual gags and slapstick humor involving the chaotic process of art creation. Any violence is purely cartoonish and tied to the 'messiness' of the sci-fi setting, making the content safe and non-frightening for young children. The fast cuts, bright colors, and high energy place its stimulation level as high, appealing to a broad audience of Marvel fans."
+    },
+    "flagged_for_review": true
+  }
+]
