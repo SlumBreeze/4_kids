@@ -21,7 +21,7 @@ function App() {
   const [selectedShow, setSelectedShow] = useState<Show | null>(null);
   const homePicks = useMemo(() => {
     const base = filterShows(mockShows, "").filter(
-      (show) => show.rating !== "Unsafe",
+      (show) => show.rating === "Safe",
     );
     const shuffled = [...base].sort(() => Math.random() - 0.5);
     return shuffled.slice(0, 6);

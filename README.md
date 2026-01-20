@@ -60,17 +60,31 @@ python scripts/tmdb/5_import.py
 ```
 
 **Pipeline Features:**
-- Discovers 100+ kids shows from Netflix, Disney+, Hulu
+- Targets ~100 TV shows and ~30 movies per run (popular US market)
+- Discovers across all US providers by default (optionally filter via `TMDB_WATCH_PROVIDERS`)
 - AI-powered safety ratings and age recommendations
 - Interactive CLI review queue with accept/edit/reject options
 - Tracks TMDB ID and streaming platform availability
 - Resumable from any stage (each stage saves to staging files)
+ - Stage 5 can replace existing shows by IMDb ID (and falls back to title match)
 
 **Staging Files:**
 - `scripts/data/tmdb_staging/1_discovered.json` - Raw TMDB results
 - `scripts/data/tmdb_staging/2_enriched.json` - Full metadata + IMDb IDs
 - `scripts/data/tmdb_staging/3_assessed.json` - AI safety assessments
 - `scripts/data/tmdb_staging/4_reviewed.json` - Human-approved items
+
+**Provider Logos (UI):**
+```bash
+# Downloads provider logos into public/assets/providers
+# Requires LOGO_DEV_API_KEY in your environment or .env
+python scripts/tmdb/download_provider_logos.py
+```
+
+**Optional Reset (clean slate):**
+```bash
+python scripts/tmdb/reset.py
+```
 
 ### Manual Data Scraper (Legacy, for single shows)
 The legacy IMDb scraper prompts you through a manual search and updates `src/data/shows.json`.
