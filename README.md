@@ -58,7 +58,7 @@ python scripts/tmdb/1_discover.py
 python scripts/tmdb/2_enrich.py
 
 # Stage 3: AI safety assessment (~3 min)
-python scripts/tmdb/3_assess.py
+python scripts/tmdb/3_assess.pyp
 
 # Stage 4: Human review (interactive, user-paced)
 python scripts/tmdb/4_review.py

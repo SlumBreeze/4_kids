@@ -35,7 +35,7 @@ SHOWS_FILE = os.path.join(ROOT_DIR, "src", "data", "shows.json")
 TV_DISCOVERY_FILTERS = {
     'with_watch_monetization_types': 'flatrate|free|ads',
     'watch_region': 'US',
-    'with_genres': '16,10751,10762',  # Animation, Family, Kids
+    'with_genres': '16|10751|10762',  # Animation OR Family OR Kids
     'vote_count.gte': 5,
     'vote_average.gte': 5.0,
     'with_original_language': 'en',
@@ -45,7 +45,7 @@ TV_DISCOVERY_FILTERS = {
 MOVIE_DISCOVERY_FILTERS = {
     'certification_country': 'US',
     # 'certification': 'G,PG', # Relaxing to let AI Safety (Stage 3) decide. Prevents missing unrated/mis-tagged gems.
-    'with_genres': '16,10751',  # Animation, Family
+    'with_genres': '16|10751',  # Animation OR Family
     'vote_count.gte': 5,        # Lowered from 10 to match TV
     'vote_average.gte': 5.0,
     'with_original_language': 'en',

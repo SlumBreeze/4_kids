@@ -92,14 +92,31 @@ def main():
         return
 
     client = TMDBClient(TMDB_API_KEY, TMDB_BASE_URL, TMDB_IMAGE_BASE)
-    enriched_items = []
 
-    for item in track(discovered_items, description="Fetching details"):
+    # Load existing enriched items for resumability
+    existing_enriched = load_json(ENRICHED_FILE) or []
+    enriched_items = [EnrichedItem.from_dict(item) for item in existing_enriched]
+    enriched_ids = {item.tmdb_id for item in enriched_items}
+
+    remaining_items = [item for item in discovered_items if item.tmdb_id not in enriched_ids]
+
+    if not remaining_items:
+        console.print("[green]All discovered items already enriched. Nothing to do.[/]")
+        return
+
+    if len(enriched_items) > 0:
+        console.print(f"[yellow]Resuming: {len(enriched_items)} already enriched, {len(remaining_items)} remaining.[/]\n")
+
+    for index, item in enumerate(track(remaining_items, description="Fetching details"), start=1):
         enriched = enrich_item(client, item)
         if enriched:
             enriched_items.append(enriched)
 
-    console.print(f"\n[green]Successfully enriched: {len(enriched_items)}/{len(discovered_items)}[/]")
+        # Save progress periodically
+        if index % 10 == 0:
+            save_json(ENRICHED_FILE, [entry.to_dict() for entry in enriched_items])
+
+    console.print(f"\n[green]Successfully enriched: {len(enriched_items)} total[/]")
 
     # Save to staging
     save_json(ENRICHED_FILE, [item.to_dict() for item in enriched_items])

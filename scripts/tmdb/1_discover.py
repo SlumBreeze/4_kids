@@ -141,17 +141,19 @@ def main():
     # We increase target count because many will be skipped
     tv_items = discover_content(
         client, 'tv', TV_DISCOVERY_FILTERS,
-        target_count=80,
+        target_count=400,
         existing_ids=existing_ids,
-        legacy_titles=legacy_titles
+        legacy_titles=legacy_titles,
+        max_pages=500
     )
 
     # Discover movies
     movie_items = discover_content(
         client, 'movie', MOVIE_DISCOVERY_FILTERS,
-        target_count=20,
+        target_count=100,
         existing_ids=existing_ids,
-        legacy_titles=legacy_titles
+        legacy_titles=legacy_titles,
+        max_pages=500
     )
 
     # Combine and save

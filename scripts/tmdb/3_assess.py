@@ -8,6 +8,7 @@ from shared.models import EnrichedItem, AIAssessment, AssessedItem
 
 console = Console()
 SAVE_EVERY = 1
+BATCH_LIMIT = 500 # Max items to process in one run (set to 0 for unlimited)
 
 def item_key(enriched: EnrichedItem) -> str:
     """Stable key for resume logic."""
@@ -82,7 +83,12 @@ def main():
         console.print("[green]All items already assessed. Nothing to do.[/]")
         return
 
-    console.print(f"[cyan]Resuming: {len(assessed_items)} already assessed, {len(remaining_items)} remaining.[/]\n")
+    # Apply batch limit
+    if BATCH_LIMIT > 0 and len(remaining_items) > BATCH_LIMIT:
+        console.print(f"[yellow]Batch limit active: Processing {BATCH_LIMIT} of {len(remaining_items)} remaining items.[/]")
+        remaining_items = remaining_items[:BATCH_LIMIT]
+    else:
+        console.print(f"[cyan]Resuming: {len(assessed_items)} already assessed, {len(remaining_items)} remaining.[/]\n")
 
     for index, item in enumerate(track(remaining_items, description="AI Assessment"), start=1):
         assessed = assess_item(client, item)
