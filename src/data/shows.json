@@ -701,31 +701,36 @@
     "featured": false
   },
   {
-    "id": "tt8741368",
-    "tmdbId": "124920",
+    "id": "tt0101188",
+    "tmdbId": "3022",
     "title": "Rugrats",
-    "synopsis": "A reinvention of the beloved 90s cartoon, Rugrats follows a group of adventurous babies as they discover the big world around them. Lead by Tommy Pickles, this toddler crew explores the world from their pint-sized and wildly imaginative perspective.",
-    "coverImage": "https://image.tmdb.org/t/p/w500/bk5bqkQVYC32lozZO6Z0ZLw32jv.jpg",
+    "synopsis": "Focuses on a group of toddlers, most prominently Tommy, Chuckie, Phil, Lil, and Angelica, and their day-to-day lives, usually involving common life experiences that become adventures in the babies' imaginations. Adults in the series are almost always unaware of what the children are up to; however, this only provides more room for the babies to explore and discover their surroundings.",
+    "coverImage": "https://image.tmdb.org/t/p/w500/wmsINbZuEBLNP2Z26Xffx5NHJpW.jpg",
     "cast": [
       "E. G. Daily",
-      "Nancy Cartwright",
+      "Kath Soucie",
       "Cheryl Chase"
     ],
     "tags": [
       "Educational",
-      "LGBTQ+ Themes"
+      "Violence",
+      "Scary Imagery"
     ],
     "platforms": [
-      "fuboTV"
+      "Paramount Plus Apple TV Channel ",
+      "Paramount+ Amazon Channel",
+      "Paramount Plus Essential",
+      "Paramount Plus Premium",
+      "Hoopla"
     ],
-    "rating": "Unsafe",
-    "reasoning": "The 2021 iteration of Rugrats maintains a tone suitable for young elementary-aged children, focusing on imaginative play and problem-solving themes. However, per the safety guidelines provided, the explicit inclusion of an LGBTQ+ character (Betty DeVille) classifies the content as 'Unsafe.' The animation uses high stimulation with fast pacing and bright CGI visuals.",
-    "ageRecommendation": "6-10",
-    "minAge": 6.0,
-    "maxAge": 10.0,
-    "releaseYear": "2021–Present",
-    "runtime": "12 min",
-    "stimulationLevel": "High",
+    "rating": "Safe",
+    "reasoning": "Rugrats is a classic animated comedy centered on the imaginative play of toddlers, making common experiences into grand adventures. While it features frequent slapstick violence, roughhousing, and mild suspense stemming from the babies' misinterpretations of the adult world, the tone is overwhelmingly comedic and focuses on themes of courage, friendship, and problem-solving. It is a Safe viewing option for school-aged children.",
+    "ageRecommendation": "4-9",
+    "minAge": 4.0,
+    "maxAge": 9.0,
+    "releaseYear": "1991–2004",
+    "runtime": "",
+    "stimulationLevel": "Medium",
     "featured": false
   },
   {
@@ -2623,18 +2628,17 @@
     "featured": false
   },
   {
-    "id": "tt5971474",
-    "tmdbId": "447277",
+    "id": "tt0097757",
+    "tmdbId": "10144",
     "title": "The Little Mermaid",
-    "synopsis": "The youngest of King Triton’s daughters, and the most defiant, Ariel longs to find out more about the world beyond the sea, and while visiting the surface, falls for the dashing Prince Eric. With mermaids forbidden to interact with humans, Ariel makes a deal with the evil sea witch, Ursula, which gives her a chance to experience life on land, but ultimately places her life – and her father’s crown – in jeopardy.",
-    "coverImage": "https://image.tmdb.org/t/p/w500/ym1dxyOk4jFcSl4Q2zmRrA5BEEN.jpg",
+    "synopsis": "This colorful adventure tells the story of an impetuous mermaid princess named Ariel who falls in love with the very human Prince Eric and puts everything on the line for the chance to be with him. Memorable songs and characters -- including the villainous sea witch Ursula.",
+    "coverImage": "https://image.tmdb.org/t/p/w500/plcZXvI310FkbwIptvd6rqk63LP.jpg",
     "cast": [
-      "Halle Bailey",
-      "Jonah Hauer-King",
-      "Melissa McCarthy"
+      "Jodi Benson",
+      "Samuel E. Wright",
+      "Pat Carroll"
     ],
     "tags": [
-      "Educational",
       "Violence",
       "Scary Imagery"
     ],
@@ -2642,12 +2646,12 @@
       "Disney Plus"
     ],
     "rating": "Caution",
-    "reasoning": "The film is rated PG due to fantasy action, intense peril (shipwreck, Ursula’s transformations), and suspenseful confrontation scenes. The high stimulation level and scary imagery during the climax, featuring a massive, dark villain, necessitate caution for young viewers.",
-    "ageRecommendation": "6-18",
-    "minAge": 6.0,
+    "reasoning": "The Little Mermaid is rated Caution primarily due to the intense climax involving the frightening, massive sea witch Ursula, which may scare younger viewers. The film contains fantasy violence during the final battle and suspenseful moments involving dark magic and near-drowning. It is appropriate for children aged 5 and older who can handle mild peril and villainous threats.",
+    "ageRecommendation": "5-18",
+    "minAge": 5.0,
     "maxAge": 18.0,
-    "releaseYear": "2023",
-    "runtime": "2 hr 15 min",
+    "releaseYear": "1989",
+    "runtime": "1 hr 23 min",
     "stimulationLevel": "High",
     "featured": false
   },
@@ -2870,37 +2874,39 @@
     "featured": false
   },
   {
-    "id": "tt4196822",
-    "tmdbId": "64092",
+    "id": "tt0081848",
+    "tmdbId": "3474",
     "title": "Danger Mouse",
-    "synopsis": "Danger Mouse is back saving London, saving the World and, most importantly, saving Penfold in brand new and fantastically absurd, energetic adventures.",
-    "coverImage": "https://image.tmdb.org/t/p/w500/cnWr5XFOPaiIwJfx2MCj3MEQtsL.jpg",
+    "synopsis": "Danger Mouse, the world's greatest secret agent, and his side-kick Penfold work to foil the evil schemes of Baron Greenback.",
+    "coverImage": "https://image.tmdb.org/t/p/w500/1MLDMC8tsf92h8H920TGemN0PUo.jpg",
     "cast": [
-      "Alexander Armstrong",
-      "Kevin Eldon",
-      "Ed Gaughan"
+      "David Jason",
+      "Terry Scott",
+      "Edward Kelsey"
     ],
     "tags": [
       "Violence"
     ],
     "platforms": [
       "Netflix",
+      "Amazon Prime Video",
+      "Netflix Kids",
       "Netflix Standard with Ads",
-      "The CW",
+      "Amazon Prime Video with Ads",
       "Plex",
       "Plex Channel",
       "The Roku Channel",
-      "Fandango at Home Free",
+      "Amazon Prime Video Free with Ads",
       "Tubi TV"
     ],
     "rating": "Safe",
-    "reasoning": "This show is rated TV-G and features stylized, non-realistic cartoon action and violence typical of secret agent comedies. The high energy and rapid pacing provide strong stimulation, but the content remains lighthearted and appropriate for most primary school-aged children.",
-    "ageRecommendation": "4-12",
-    "minAge": 4.0,
-    "maxAge": 12.0,
-    "releaseYear": "2015–Present",
-    "runtime": "11 min",
-    "stimulationLevel": "High",
+    "reasoning": "Danger Mouse is a highly comedic action-adventure featuring slapstick violence, cartoon explosions, and frequent confrontations between the hero and villain. The tone is consistently lighthearted and silly, ensuring that the action remains non-threatening and appropriate for its TV-Y rating.",
+    "ageRecommendation": "3-10",
+    "minAge": 3.0,
+    "maxAge": 10.0,
+    "releaseYear": "1981–1992",
+    "runtime": "20 min",
+    "stimulationLevel": "Medium",
     "featured": false
   },
   {
@@ -4314,31 +4320,25 @@
     "featured": false
   },
   {
-    "id": "tt0107099",
-    "tmdbId": "74902",
+    "id": "tt4346362",
+    "tmdbId": "62475",
     "title": "Heidi",
-    "synopsis": "After charming her reclusive grandfather and falling in love with the beautiful mountain he calls home, Heidi is uprooted and sent to Frankfurt where she befriends Klara, a young girl confined to a wheelchair.",
-    "coverImage": "https://image.tmdb.org/t/p/w500/8AgGpuktVJamxvjHnRmCGmjURu7.jpg",
-    "cast": [
-      "Noley Thornton",
-      "Jason Robards",
-      "Ben Brazier"
-    ],
+    "synopsis": "A plucky young orphan sent to live with her grandfather in the mountains discovers wonder and adventure around every corner.",
+    "coverImage": "https://image.tmdb.org/t/p/w500/gw0dxuL9roVp2rCYx3y5jFHE7Cf.jpg",
+    "cast": [],
     "tags": [
       "Educational"
     ],
     "platforms": [
-      "Amazon Prime Video",
-      "Amazon Prime Video with Ads",
-      "Amazon Prime Video Free with Ads"
+      "Yipee Kids TV Amazon Channel"
     ],
     "rating": "Safe",
-    "reasoning": "This is a gentle family drama promoting positive themes like friendship, compassion, and the importance of home. It contains minimal dramatic tension (homesickness, separation) suitable for young audiences, but lacks violence or frightening imagery.",
-    "ageRecommendation": "5-18",
-    "minAge": 5.0,
-    "maxAge": 18.0,
-    "releaseYear": "1993",
-    "runtime": "1 hr 36 min",
+    "reasoning": "Heidi is a gentle, character-driven adaptation of a classic novel, certified TV-Y and appropriate for preschool and early elementary viewers. The program focuses on positive themes of nature, resilience, and family love, presenting drama without violence or frightening content. It is rated Safe due to the absence of scary elements or mature themes.",
+    "ageRecommendation": "3-8",
+    "minAge": 3.0,
+    "maxAge": 8.0,
+    "releaseYear": "2015–Present",
+    "runtime": "25 min",
     "stimulationLevel": "Medium",
     "featured": false
   },
@@ -4628,15 +4628,15 @@
     "featured": false
   },
   {
-    "id": "tt0233033",
-    "tmdbId": "10318",
+    "id": "tt34475386",
+    "tmdbId": "4665",
     "title": "The Berenstain Bears",
-    "synopsis": "An animated television series based on Stan and Jan Berenstain's Berenstain Bears children's book series.",
-    "coverImage": "https://image.tmdb.org/t/p/w500/d6ZV08jRKuhQxazDvcHADCsuOUk.jpg",
+    "synopsis": "We follow a family of bears, known as the Berenstain Bears, as they figure out life together. With friendly neighbors and close friends, the journey is never boring. Inspired by the book series written by Stan and Jan Berenstain.",
+    "coverImage": "https://image.tmdb.org/t/p/w500/cRA1KVomv7d9avL7UpdPBJmASrv.jpg",
     "cast": [
-      "David Mendenhall",
-      "Brian Cummings",
-      "Christina Lange"
+      "Camilla Scott",
+      "Ben Campbell",
+      "Michael Cera"
     ],
     "tags": [
       "Educational"
@@ -4645,12 +4645,12 @@
       "PBS Kids Amazon Channel"
     ],
     "rating": "Safe",
-    "reasoning": "This show is a classic, gentle series focused heavily on teaching fundamental life lessons, manners, and values. It features extremely low stimulation, no scary or violent content, and is highly suitable for preschool and early elementary viewers.",
-    "ageRecommendation": "3-8",
+    "reasoning": "This TV-Y rated series is centered on teaching basic life lessons and positive moral values, consistent with the original books. The show maintains a gentle, slow pace with minimal conflict, no scary imagery, and focuses on prosocial behavior. It is a highly safe and appropriate choice for preschool and early elementary aged children.",
+    "ageRecommendation": "3-7",
     "minAge": 3.0,
-    "maxAge": 8.0,
-    "releaseYear": "1985–1987",
-    "runtime": "30 min",
+    "maxAge": 7.0,
+    "releaseYear": "2003–2004",
+    "runtime": "22 min",
     "stimulationLevel": "Low",
     "featured": false
   },
@@ -5886,12 +5886,16 @@
     "featured": false
   },
   {
-    "id": "tt13622956",
-    "tmdbId": "114463",
-    "title": "Zootopia+",
-    "synopsis": "Head back to the mammal metropolis to dive deeper into the lives of a slew of intriguing residents.",
-    "coverImage": "https://image.tmdb.org/t/p/w500/inzPPPr2BsE92m4rHhQn3sf2yPk.jpg",
-    "cast": [],
+    "id": "tt2948356",
+    "tmdbId": "269149",
+    "title": "Zootopia",
+    "synopsis": "Determined to prove herself, Officer Judy Hopps, the first bunny on Zootopia's police force, jumps at the chance to crack her first case - even if it means partnering with scam-artist fox Nick Wilde to solve the mystery.",
+    "coverImage": "https://image.tmdb.org/t/p/w500/hlK0e0wAQ3VLuJcsfIYPvb4JVud.jpg",
+    "cast": [
+      "Ginnifer Goodwin",
+      "Jason Bateman",
+      "Idris Elba"
+    ],
     "tags": [
       "Educational",
       "Violence",
@@ -5901,12 +5905,12 @@
       "Disney Plus"
     ],
     "rating": "Caution",
-    "reasoning": "This show is rated TV-PG due to typical animated action and adventure sequences, including chases and mild peril common in the Zootopia universe. While highly educational regarding themes of prejudice and community, the moderate violence and suspense place it in the Caution category, best suited for children aged 8 and up.",
-    "ageRecommendation": "8-18",
-    "minAge": 8.0,
+    "reasoning": "The film contains moderate animated violence, intense chases, and suspenseful/scary sequences involving animals turning \"savage,\" necessitating a Caution rating. The thematic depth regarding prejudice and discrimination is highly educational but requires cognitive maturity, making it best suited for children aged 6 and above.",
+    "ageRecommendation": "6-18",
+    "minAge": 6.0,
     "maxAge": 18.0,
-    "releaseYear": "2022",
-    "runtime": "",
+    "releaseYear": "2016",
+    "runtime": "1 hr 49 min",
     "stimulationLevel": "High",
     "featured": false
   },
@@ -6410,15 +6414,15 @@
     "featured": false
   },
   {
-    "id": "tt6105098",
-    "tmdbId": "420818",
+    "id": "tt0110357",
+    "tmdbId": "8587",
     "title": "The Lion King",
-    "synopsis": "Simba idolizes his father, King Mufasa, and takes to heart his own royal destiny. But not everyone in the kingdom celebrates the new cub's arrival. Scar, Mufasa's brother—and former heir to the throne—has plans of his own. The battle for Pride Rock is ravaged with betrayal, tragedy and drama, ultimately resulting in Simba's exile. With help from a curious pair of newfound friends, Simba will have to figure out how to grow up and take back what is rightfully his.",
-    "coverImage": "https://image.tmdb.org/t/p/w500/dzBtMocZuJbjLOXvrl4zGYigDzh.jpg",
+    "synopsis": "Young lion prince Simba, eager to one day become king of the Pride Lands, grows up under the watchful eye of his father Mufasa; all the while his villainous uncle Scar conspires to take the throne for himself. Amid betrayal and tragedy, Simba must confront his past and find his rightful place in the Circle of Life.",
+    "coverImage": "https://image.tmdb.org/t/p/w500/sKCr78MXSLixwmZ8DyJLrpMsd15.jpg",
     "cast": [
-      "Chiwetel Ejiofor",
-      "John Oliver",
-      "Donald Glover"
+      "Matthew Broderick",
+      "Moira Kelly",
+      "Nathan Lane"
     ],
     "tags": [
       "Educational",
@@ -6429,12 +6433,12 @@
       "Disney Plus"
     ],
     "rating": "Caution",
-    "reasoning": "Rated PG, this film contains intense dramatic violence, scenes of tragedy (Mufasa's death), and frightening imagery (the stampede, Scar's dark reign). It requires emotional maturity to process themes of grief, betrayal, and exile, making it best suited for children aged six and up.",
+    "reasoning": "This film earns a Caution rating due to its high emotional drama and intense themes, specifically the betrayal, the traumatic death of a parent figure (Mufasa), and the stylized but intense final fight. Sequences like the wildebeest stampede and Scar's dark plotting can be frightening for children under six. However, it is highly educational regarding responsibility, moral courage, and the cycle of life.",
     "ageRecommendation": "6-18",
     "minAge": 6.0,
     "maxAge": 18.0,
-    "releaseYear": "2019",
-    "runtime": "1 hr 58 min",
+    "releaseYear": "1994",
+    "runtime": "1 hr 29 min",
     "stimulationLevel": "High",
     "featured": false
   },
@@ -6998,15 +7002,15 @@
     "featured": false
   },
   {
-    "id": "tt26743210",
-    "tmdbId": "1087192",
+    "id": "tt0892769",
+    "tmdbId": "10191",
     "title": "How to Train Your Dragon",
-    "synopsis": "On the rugged isle of Berk, where Vikings and dragons have been bitter enemies for generations, Hiccup stands apart, defying centuries of tradition when he befriends Toothless, a feared Night Fury dragon. Their unlikely bond reveals the true nature of dragons, challenging the very foundations of Viking society.",
-    "coverImage": "https://image.tmdb.org/t/p/w500/q5pXRYTycaeW6dEgsCrd4mYPmxM.jpg",
+    "synopsis": "As the son of a Viking leader on the cusp of manhood, shy Hiccup Horrendous Haddock III faces a rite of passage: he must kill a dragon to prove his warrior mettle. But after downing a feared dragon, he realizes that he no longer wants to destroy it, and instead befriends the beast – which he names Toothless – much to the chagrin of his warrior father.",
+    "coverImage": "https://image.tmdb.org/t/p/w500/ygGmAO60t8GyqUo9xYeYxSZAR3b.jpg",
     "cast": [
-      "Mason Thames",
-      "Nico Parker",
-      "Gerard Butler"
+      "Jay Baruchel",
+      "Gerard Butler",
+      "Craig Ferguson"
     ],
     "tags": [
       "Educational",
@@ -7015,15 +7019,16 @@
     ],
     "platforms": [
       "Peacock Premium",
-      "Peacock Premium Plus"
+      "Peacock Premium Plus",
+      "The Roku Channel"
     ],
     "rating": "Caution",
-    "reasoning": "The PG certification reflects moderate action and peril due to intense Viking vs. dragon conflict, resulting in high stimulation and potentially frightening imagery. While promoting strong educational themes like empathy and challenging prejudice, the violence and suspense warrant a 'Caution' rating for younger viewers.",
+    "reasoning": "This movie is rated PG and contains frequent intense fantasy violence involving Vikings and dragons, alongside some scary imagery (the main antagonistic dragon is large and frightening). Due to the high stimulation and peril, it is best suited for children aged 7 and up, though it delivers strong positive messages about empathy and courage.",
     "ageRecommendation": "7-18",
     "minAge": 7.0,
     "maxAge": 18.0,
-    "releaseYear": "2025",
-    "runtime": "2 hr 5 min",
+    "releaseYear": "2010",
+    "runtime": "1 hr 38 min",
     "stimulationLevel": "High",
     "featured": false
   },
@@ -7145,33 +7150,32 @@
     "featured": false
   },
   {
-    "id": "tt2771200",
-    "tmdbId": "321612",
+    "id": "tt0101414",
+    "tmdbId": "10020",
     "title": "Beauty and the Beast",
-    "synopsis": "A live-action adaptation of Disney's version of the classic tale of a cursed prince and a beautiful young woman who helps him break the spell.",
-    "coverImage": "https://image.tmdb.org/t/p/w500/hKegSKIDep2ewJWPUQD7u0KqFIp.jpg",
+    "synopsis": "Follow the adventures of Belle, a bright young woman who finds herself in the castle of a prince who's been turned into a mysterious beast. With the help of the castle's enchanted staff, Belle soon learns the most important lesson of all -- that true beauty comes from within.",
+    "coverImage": "https://image.tmdb.org/t/p/w500/hUJ0UvQ5tgE2Z9WpfuduVSdiCiU.jpg",
     "cast": [
-      "Emma Watson",
-      "Dan Stevens",
-      "Luke Evans"
+      "Paige O'Hara",
+      "Robby Benson",
+      "Richard White"
     ],
     "tags": [
       "Educational",
-      "LGBTQ+ Themes",
       "Violence",
       "Scary Imagery"
     ],
     "platforms": [
       "Disney Plus"
     ],
-    "rating": "Unsafe",
-    "reasoning": "The film contains explicit LGBTQ+ representation (the character LeFou) which mandates an 'Unsafe' rating per guidelines. It also features moderate fantasy violence, intense suspense, and frightening imagery (wolf attacks, the Beast's initial appearance) suitable for children aged 7 and older.",
-    "ageRecommendation": "7-18",
-    "minAge": 7.0,
+    "rating": "Caution",
+    "reasoning": "This G-rated classic is rated Caution due to several intense and frightening sequences, including a dark wolf attack, the Beast's initial temper and appearance, and the climactic violent confrontation. It teaches strong moral lessons about inner beauty and empathy, but children under 5 may find the suspense and action overwhelming.",
+    "ageRecommendation": "5-18",
+    "minAge": 5.0,
     "maxAge": 18.0,
-    "releaseYear": "2017",
-    "runtime": "2 hr 9 min",
-    "stimulationLevel": "High",
+    "releaseYear": "1991",
+    "runtime": "1 hr 24 min",
+    "stimulationLevel": "Medium",
     "featured": false
   },
   {
@@ -10779,27 +10783,51 @@
     "featured": false
   },
   {
-    "id": "tt0106400",
-    "tmdbId": "11041",
+    "id": "tt0055662",
+    "tmdbId": "1930",
     "title": "The Beverly Hillbillies",
-    "synopsis": "Mild-mannered dirt-poor hill-dweller Jed Clampett strikes it rich when oil is discovered on his property. At cousin Pearl's insistence, he moves his family to Beverly Hills to better enjoy his newfound wealth.",
-    "coverImage": "https://image.tmdb.org/t/p/w500/refYLEQvzkY63i2IHronCPQODex.jpg",
+    "synopsis": "Jed Clampett's swamp is loaded with oil. When a wildcatter discovers the huge pool, Jed sells his land to the O.K. Oil Company and at the urging of cousin Pearl, moves his family to a 35-room mansion in Beverly Hills, California.",
+    "coverImage": "https://image.tmdb.org/t/p/w500/sEZs4szkwBXIK3DOm37MnQN9fIe.jpg",
     "cast": [
-      "Jim Varney",
-      "Diedrich Bader",
-      "Erika Eleniak"
+      "Buddy Ebsen",
+      "Irene Ryan",
+      "Donna Douglas"
     ],
     "tags": [
-      "Violence"
+      "Educational"
     ],
-    "platforms": [],
+    "platforms": [
+      "Amazon Prime Video",
+      "fuboTV",
+      "Peacock Premium",
+      "Philo",
+      "Pure Flix",
+      "Amazon Prime Video with Ads",
+      "Peacock Premium Plus",
+      "Best tv ever Amazon Channel",
+      "Dove Amazon Channel",
+      "Great American Pure Flix Amazon Channel",
+      "Hoopla",
+      "JustWatch TV",
+      "Plex",
+      "Plex Channel",
+      "Fawesome",
+      "The Roku Channel",
+      "Fandango at Home Free",
+      "Shout! Factory TV",
+      "Amazon Prime Video Free with Ads",
+      "Cineverse",
+      "Xumo Play",
+      "Mometu",
+      "Tubi TV"
+    ],
     "rating": "Safe",
-    "reasoning": "The film is a PG-rated family comedy relying heavily on slapstick and culture clash humor. While it includes comic/slapstick violence and mild thematic elements typical of a 90s comedy, it lacks serious violence, intense scary imagery, or horror elements. It is suitable for most school-age children, though the humor may be better appreciated by kids aged 7 and up.",
-    "ageRecommendation": "7-12",
-    "minAge": 7.0,
-    "maxAge": 12.0,
-    "releaseYear": "1993",
-    "runtime": "1 hr 32 min",
+    "reasoning": "This is a classic TV-G sitcom based on lighthearted situational comedy and cultural misunderstandings, making it safe for nearly all ages. It contains no significant violence, scary elements, or mature themes. The show may subtly explore class differences and family values.",
+    "ageRecommendation": "6-18",
+    "minAge": 6.0,
+    "maxAge": 18.0,
+    "releaseYear": "1962–1971",
+    "runtime": "25 min",
     "stimulationLevel": "Medium",
     "featured": false
   },
@@ -11994,31 +12022,32 @@
     "featured": false
   },
   {
-    "id": "tt1620981",
-    "tmdbId": "481084",
+    "id": "tt0057729",
+    "tmdbId": "14009",
     "title": "The Addams Family",
-    "synopsis": "The Addams family's lives begin to unravel when they face-off against a treacherous, greedy crafty reality-TV host while also preparing for their extended family to arrive for a major celebration.",
-    "coverImage": "https://image.tmdb.org/t/p/w500/q1epO0eO8DWu8Vo8tPfvVlzW48T.jpg",
+    "synopsis": "A satirical inversion of the ideal of the perfect American nuclear family, they are an eccentric wealthy family who delight in everything grotesque and macabre, and are never really aware that people find them bizarre or frightening. In fact, they themselves are often terrified by \"normal\" people.",
+    "coverImage": "https://image.tmdb.org/t/p/w500/twfSYEw4cp5KS9HaxSLh6Q0Bmi6.jpg",
     "cast": [
-      "Oscar Isaac",
-      "Charlize Theron",
-      "Chloë Grace Moretz"
+      "Carolyn Jones",
+      "John Astin",
+      "Jackie Coogan"
     ],
-    "tags": [
-      "Violence",
-      "Scary Imagery"
-    ],
+    "tags": [],
     "platforms": [
-      "Paramount Plus Essential"
+      "Amazon Prime Video",
+      "Amazon Prime Video with Ads",
+      "The Roku Channel",
+      "Pluto TV",
+      "Tubi TV"
     ],
-    "rating": "Caution",
-    "reasoning": "This animated film receives a Caution rating due to its PG certification and prevalent macabre imagery, which can be frightening or intense for younger viewers. It includes frequent slapstick cartoon violence, dark humor, and themes centered around explosions and implied dangers, requiring maturity to process. While the movie ultimately promotes positive themes of acceptance, the gothic aesthetic pushes it beyond a Safe rating.",
-    "ageRecommendation": "7-18",
-    "minAge": 7.0,
+    "rating": "Safe",
+    "reasoning": "The macabre aesthetic is entirely presented as gentle, stylized comedy rather than true horror. The TV-G rating and 1960s sitcom format ensure low stimulation and non-threatening content suitable for the whole family, despite themes of the grotesque. Younger viewers may not grasp the satirical elements, but the content is harmless.",
+    "ageRecommendation": "5-18",
+    "minAge": 5.0,
     "maxAge": 18.0,
-    "releaseYear": "2019",
-    "runtime": "1 hr 27 min",
-    "stimulationLevel": "High",
+    "releaseYear": "1964–1966",
+    "runtime": "30 min",
+    "stimulationLevel": "Low",
     "featured": false
   },
   {
@@ -12083,15 +12112,15 @@
     "featured": false
   },
   {
-    "id": "tt0119282",
-    "tmdbId": "11970",
+    "id": "tt0138967",
+    "tmdbId": "2567",
     "title": "Hercules",
-    "synopsis": "Bestowed with superhuman strength, a young mortal named Hercules sets out to prove himself a hero in the eyes of his father, the great god Zeus. Along with his friends Pegasus, a flying horse, and Phil, a personal trainer, Hercules is tricked by the hilarious, hotheaded villain Hades, who's plotting to take over Mount Olympus!",
-    "coverImage": "https://image.tmdb.org/t/p/w500/dK9rNoC97tgX3xXg5zdxFisdfcp.jpg",
+    "synopsis": "Follow Herc's many labors during the years he spent training on how to be a hero under the tutelage of satyr Phil. Many of the Olympian Gods and Goddesses pay visit to the young hero-to-be and help or hinder him in his new adventures.",
+    "coverImage": "https://image.tmdb.org/t/p/w500/4icNpPakVKxuVrHSR9I8BQ5GCeK.jpg",
     "cast": [
       "Tate Donovan",
-      "Josh Keaton",
-      "Roger Bart"
+      "French Stewart",
+      "Sandra Bernhard"
     ],
     "tags": [
       "Educational",
@@ -12099,16 +12128,15 @@
       "Scary Imagery"
     ],
     "platforms": [
-      "Disney Plus",
-      "fuboTV"
+      "Disney Plus"
     ],
     "rating": "Caution",
-    "reasoning": "This film is rated Caution due to high stimulation, moderate fantasy violence, and some mildly scary imagery involving the angry villain Hades and large mythological monsters (like the Hydra and Titans). While the violence is stylized and the themes are positive, the intensity may be frightening for viewers under age 5.",
-    "ageRecommendation": "5-18",
-    "minAge": 5.0,
-    "maxAge": 18.0,
-    "releaseYear": "1997",
-    "runtime": "1 hr 33 min",
+    "reasoning": "The rating is Caution due to frequent, high-energy animated violence involving mythological creatures and gods fighting. While certified TV-Y and heavily comedic, the constant action and complex monster designs may be overwhelming for children under six. It offers strong positive themes about developing heroism and introduces elements of Greek mythology.",
+    "ageRecommendation": "6-12",
+    "minAge": 6.0,
+    "maxAge": 12.0,
+    "releaseYear": "1998–1999",
+    "runtime": "23 min",
     "stimulationLevel": "High",
     "featured": false
   },
@@ -19104,32 +19132,32 @@
     "featured": false
   },
   {
-    "id": "tt1829088",
-    "tmdbId": "65795",
+    "id": "tt0286342",
+    "tmdbId": "3103",
     "title": "Bananas in Pyjamas",
-    "synopsis": "The Bananas explore their town of Cuddlestown with their best friends Rat In A Hat and teddies - Lulu, Morgan and Amy.",
-    "coverImage": "https://image.tmdb.org/t/p/w500/vvTY17b0vXc3BfRNjc25jK7FT3v.jpg",
-    "cast": [],
+    "synopsis": "Bananas in Pyjamas is an Australian children's television show that premiered on 20 July 1992 on ABC. It has since become syndicated in many different countries, and dubbed into other languages. In the United States, the \"Pyjamas\" in the title was modified to reflect the American spelling pajamas. This aired in syndication from 1995 to 1997 as a half-hour series, then became a 15-minute show paired with a short-lived 15-minute series The Crayon Box, under a 30-minute block produced by Sachs Family Entertainment titled Bananas in Pajamas & The Crayon Box. Additionally, the characters and a scene from the show were featured in the Kids for Character sequel titled Kids for Character: Choices Count. The pilot episode was Pink Mug.",
+    "coverImage": "https://image.tmdb.org/t/p/w500/opUFH6kWzgepKX7kkboYH9EUiP7.jpg",
+    "cast": [
+      "Kenneth Radley",
+      "Nicholas Opolski",
+      "Sandie Lillingston"
+    ],
     "tags": [
       "Educational"
     ],
     "platforms": [
       "Amazon Prime Video",
       "Amazon Prime Video with Ads",
-      "The Roku Channel",
-      "Pluto TV",
-      "VIX ",
-      "Amazon Prime Video Free with Ads",
-      "Tubi TV"
+      "Amazon Prime Video Free with Ads"
     ],
     "rating": "Safe",
-    "reasoning": "This show is a classic preschool program set in a gentle, friendly environment focused on simple daily adventures. It is rated Safe due to its emphasis on cooperation, friendship, and problem-solving, entirely lacking any violence or scary elements. The bright but gently paced animation is ideal for toddlers and early preschoolers.",
+    "reasoning": "This is a classic, low-stimulation preschool show featuring gentle anthropomorphic characters. Content focuses on basic social skills, sharing, and simple routines, containing no violence or scary imagery. It is highly safe and appropriate for toddlers.",
     "ageRecommendation": "2-6",
     "minAge": 2.0,
     "maxAge": 6.0,
-    "releaseYear": "2011–2013",
-    "runtime": "12 min",
-    "stimulationLevel": "Medium",
+    "releaseYear": "1992–2001",
+    "runtime": "5 min",
+    "stimulationLevel": "Low",
     "featured": false
   },
   {
@@ -20679,32 +20707,31 @@
     "featured": false
   },
   {
-    "id": "tt0844471",
-    "tmdbId": "22794",
+    "id": "tt4123482",
+    "tmdbId": "70967",
     "title": "Cloudy with a Chance of Meatballs",
-    "synopsis": "Inventor Flint Lockwood creates a machine that makes clouds rain food, enabling the down-and-out citizens of Chewandswallow to feed themselves. But when the falling food reaches gargantuan proportions, Flint must scramble to avert disaster. Can he regain control of the machine and put an end to the wild weather before the town is destroyed?",
-    "coverImage": "https://image.tmdb.org/t/p/w500/qhOhIKf7QEyQ5dMrRUqs5eTX1Oq.jpg",
+    "synopsis": "The series is a prequel, featuring the high school years of Flint Lockwood, the eccentric young scientist in the films. In his adventures, he will be joined by Sam Sparks, a new girl in town and the school's \"wannabe\" reporter, along with Flint's dad Tim, Steve the Monkey, Manny as the head of the school's audiovisual club, Earl as a school gym teacher, Brent as a baby wear model, and Mayor Shelbourne, who wins every election on the pro-sardine platform.",
+    "coverImage": "https://image.tmdb.org/t/p/w500/q41n9xD3Gcrv4PyT8NsMGVOOUyh.jpg",
     "cast": [
-      "Bill Hader",
-      "Anna Faris",
-      "James Caan"
+      "Mark Edwards",
+      "Katie Griffin",
+      "Patrick McKenna"
     ],
     "tags": [
       "Educational",
-      "Violence",
-      "Scary Imagery"
+      "Violence"
     ],
     "platforms": [
-      "Netflix",
-      "Netflix Standard with Ads"
+      "Hoopla",
+      "The Roku Channel"
     ],
-    "rating": "Caution",
-    "reasoning": "This PG-rated film involves intense peril and high-stakes action, including giant food storms and the threat of the town's destruction, which may be overwhelming for younger viewers. The stimulation level is high due to fast cuts and loud, chaotic action sequences. It promotes positive messages about self-acceptance and scientific responsibility.",
-    "ageRecommendation": "5-18",
-    "minAge": 5.0,
-    "maxAge": 18.0,
-    "releaseYear": "2009",
-    "runtime": "1 hr 30 min",
+    "rating": "Safe",
+    "reasoning": "This TV-Y7 series is a high-energy animated comedy featuring slapstick violence and cartoon peril, primarily centered around eccentric inventions and food disasters. The tone remains light and comedic, focusing on positive themes like friendship and creativity, making it suitable for children 6 and older. There are no significant scary elements or sensitive mature themes present.",
+    "ageRecommendation": "6-11",
+    "minAge": 6.0,
+    "maxAge": 11.0,
+    "releaseYear": "2017–2018",
+    "runtime": "15 min",
     "stimulationLevel": "High",
     "featured": false
   },
@@ -22239,32 +22266,31 @@
     "featured": false
   },
   {
-    "id": "tt0416236",
-    "tmdbId": "8204",
+    "id": "tt16026032",
+    "tmdbId": "138492",
     "title": "The Spiderwick Chronicles",
-    "synopsis": "Upon moving into the run-down Spiderwick Estate with their mother, twin brothers Jared and Simon Grace, along with their sister Mallory, find themselves pulled into an alternate world full of faeries and other creatures.",
-    "coverImage": "https://image.tmdb.org/t/p/w500/uN7MUMaCXfa8DbMMp61A8iXEcEG.jpg",
+    "synopsis": "The coming-of-age story of the Grace Family, as they move from New York to Michigan and into their family's ancestral home. Upon arrival, the family not only uncovers mysteries hidden inside their great grandfather's Spiderwick Estate, but also discovers a secret, fantastical world around them.",
+    "coverImage": "https://image.tmdb.org/t/p/w500/ic5Hs6zYcM4YUuxyezFUAFQie39.jpg",
     "cast": [
-      "Freddie Highmore",
-      "Sarah Bolger",
-      "David Strathairn"
+      "Joy Bryant",
+      "Noah Cottrell",
+      "Lyon Daniels"
     ],
     "tags": [
       "Violence",
       "Scary Imagery"
     ],
     "platforms": [
-      "Paramount Plus Essential",
-      "Hoopla"
+      "The Roku Channel"
     ],
     "rating": "Caution",
-    "reasoning": "This movie earns a 'Caution' rating due to the pervasive presence of frightening fantasy violence and intense peril, consistent with its PG certification. The film features dark, menacing creatures (goblins, ogres) and significant suspense, which may be too intense or scary for children under the age of nine. It deals heavily with action and combat scenarios involving the children trying to protect themselves and a magical field guide.",
+    "reasoning": "This fantasy adventure receives a TV-PG rating due to frequent action, suspense, and frightening creature designs, classifying it as high stimulation content. The presence of dark magic, intense confrontations, and peril involving the children warrants a 'Caution' rating for viewers under 9 years old.",
     "ageRecommendation": "9-14",
     "minAge": 9.0,
     "maxAge": 14.0,
-    "releaseYear": "2008",
-    "runtime": "1 hr 35 min",
-    "stimulationLevel": "Medium",
+    "releaseYear": "2024–Present",
+    "runtime": "",
+    "stimulationLevel": "High",
     "featured": false
   },
   {
@@ -23941,36 +23967,46 @@
     "featured": false
   },
   {
-    "id": "tt3794354",
-    "tmdbId": "454626",
+    "id": "tt0106140",
+    "tmdbId": "2404",
     "title": "Sonic the Hedgehog",
-    "synopsis": "Powered with incredible speed, Sonic The Hedgehog embraces his new home on Earth. That is, until Sonic sparks the attention of super-uncool evil genius Dr. Robotnik. Now it’s super-villain vs. super-sonic in an all-out race across the globe to stop Robotnik from using Sonic’s unique power for world domination.",
-    "coverImage": "https://image.tmdb.org/t/p/w500/aQvJ5WPzZgYVDrxLX4R6cLJCEaQ.jpg",
+    "synopsis": "Sonic, Tails, Princess Sally, and a band of freedom fighters battle to overthrow Dr. Robotnik, a despotic dictator who conquered their home planet Mobius years ago, and rules it as a polluted industrial dystopia.",
+    "coverImage": "https://image.tmdb.org/t/p/w500/zQFFrIbgO3yw9Y9gf2vznEvrJ9E.jpg",
     "cast": [
-      "Ben Schwartz",
-      "James Marsden",
-      "Tika Sumpter"
+      "Jaleel White",
+      "Kath Soucie",
+      "Bradley Pierce"
     ],
     "tags": [
+      "Educational",
       "Violence",
       "Scary Imagery"
     ],
     "platforms": [
+      "Amazon Prime Video",
+      "Paramount Plus Apple TV Channel ",
       "Paramount+ Amazon Channel",
       "Paramount+ Roku Premium Channel",
-      "Philo",
+      "Amazon Prime Video with Ads",
+      "Midnight Pulp Amazon Channel",
       "Paramount Plus Essential",
       "Paramount Plus Premium",
-      "Kanopy",
-      "Hoopla"
+      "Hoopla",
+      "Plex",
+      "Plex Channel",
+      "The Roku Channel",
+      "Pluto TV",
+      "Amazon Prime Video Free with Ads",
+      "Cineverse",
+      "Tubi TV"
     ],
     "rating": "Caution",
-    "reasoning": "This PG action film features high-speed chase sequences, intense action violence (vehicle destruction, combat), and a potentially frightening, menacing villain in Dr. Robotnik. Its high stimulation level and persistent peril make it best suited for children aged 6 and up who are comfortable with fantasy conflict.",
-    "ageRecommendation": "6-18",
-    "minAge": 6.0,
-    "maxAge": 18.0,
-    "releaseYear": "2020",
-    "runtime": "1 hr 39 min",
+    "reasoning": "This show contains high-energy action sequences (combat against robots) and significant tension derived from its dystopian setting and the existential threat of 'roboticization.' It is rated Caution due to moderate violence and potentially scary suspense, making it appropriate for older children (7+) who can handle themes of warfare and tyranny.",
+    "ageRecommendation": "7-14",
+    "minAge": 7.0,
+    "maxAge": 14.0,
+    "releaseYear": "1993–1994",
+    "runtime": "23 min",
     "stimulationLevel": "High",
     "featured": false
   },
@@ -28511,41 +28547,38 @@
     "featured": false
   },
   {
-    "id": "tt1252507",
-    "tmdbId": "52499",
+    "id": "tt20221678",
+    "tmdbId": "201836",
     "title": "The Way Home",
-    "synopsis": "An inspirational true story about how a rural community rallied around a distraught family to search for their missing two year-old boy and through doing so changed the lives of many of those involved.",
-    "coverImage": "https://image.tmdb.org/t/p/w500/iiHP4CRWsT7hqJ7DjZmaOAF7J0I.jpg",
+    "synopsis": "When three generations of women reunite after being estranged for more than two decades, they embark on an enlightening – and surprising – journey toward healing none of them could have imagined as they learn how to find their way back to each other.",
+    "coverImage": "https://image.tmdb.org/t/p/w500/avKyE55YwWNSLE24IGDRSfpPnaJ.jpg",
     "cast": [
-      "Pierce Gagnon",
-      "Dean Cain",
-      "Dwayne Boyd"
+      "Andie MacDowell",
+      "Chyler Leigh",
+      "Evan Williams"
     ],
     "tags": [
-      "Educational"
+      "Educational",
+      "LGBTQ+ Themes"
     ],
     "platforms": [
-      "Amazon Prime Video",
-      "Amazon Prime Video with Ads",
-      "Dove Amazon Channel",
-      "The CW",
-      "Hoopla",
-      "Plex",
-      "Plex Channel",
-      "Fawesome",
-      "Fandango at Home Free",
-      "Pluto TV",
-      "Filmzie",
-      "Amazon Prime Video Free with Ads",
-      "Cineverse"
+      "Netflix",
+      "fuboTV",
+      "YouTube TV",
+      "Philo",
+      "Hallmark+ Amazon Channel",
+      "Netflix Standard with Ads",
+      "Hallmark+ Apple TV Channel",
+      "Hallmark TV Amazon Channel",
+      "Plex Channel"
     ],
-    "rating": "Safe",
-    "reasoning": "This family drama, based on a true story, contains the emotionally serious topic of a missing child, requiring a minimum age of 7 for emotional maturity. However, the film focuses on themes of community resilience, hope, and inspirational drama rather than graphic violence or frightening imagery. It is rated Safe for older children and families.",
-    "ageRecommendation": "7-18",
-    "minAge": 7.0,
+    "rating": "Unsafe",
+    "reasoning": "This TV-PG family drama involves mature themes, including estrangement, grief, and complex relationships across generations. The presence of LGBTQ+ themes, combined with the required emotional maturity for the complex narrative structure (time travel/mystery), triggers the 'Unsafe' rating for younger audiences.",
+    "ageRecommendation": "12-18",
+    "minAge": 12.0,
     "maxAge": 18.0,
-    "releaseYear": "2010",
-    "runtime": "1 hr 29 min",
+    "releaseYear": "2023–Present",
+    "runtime": "43 min",
     "stimulationLevel": "Medium",
     "featured": false
   },
@@ -45778,15 +45811,15 @@
     "featured": false
   },
   {
-    "id": "tt0032138",
-    "tmdbId": "630",
+    "id": "tt0103277",
+    "tmdbId": "415009",
     "title": "The Wizard of Oz",
-    "synopsis": "Young Dorothy finds herself in a magical world where she makes friends with a lion, a scarecrow and a tin man as they make their way along the yellow brick road to talk with the Wizard and ask for the things they miss most in their lives. The Wicked Witch of the West is the only thing that could stop them.",
-    "coverImage": "https://image.tmdb.org/t/p/w500/lbezZTzzOcomu2ezKJBUsIPtqA6.jpg",
+    "synopsis": "L.Frank Baum's classic. Dorothy and her dog, Toto, are whisked away from their home in Kansas and find themselves in the magical land of Oz. While on her journey to find the Wizard, hoping he will help her to return home, Dorothy meets the Scarecrow, the Tin Man, and the Cowardly Lion. Together they destroy the Wicked Witch and make it to the Emerald City.",
+    "coverImage": "https://image.tmdb.org/t/p/w500/j7oz4iVVOXnxSjkmPhfTNY4qow1.jpg",
     "cast": [
-      "Judy Garland",
-      "Ray Bolger",
-      "Jack Haley"
+      "Jim Cummings",
+      "Terri Hawkes",
+      "Candi Milo"
     ],
     "tags": [
       "Educational",
@@ -45794,16 +45827,15 @@
       "Scary Imagery"
     ],
     "platforms": [
-      "HBO Max",
-      "HBO Max Amazon Channel"
+      "Tubi TV"
     ],
     "rating": "Caution",
-    "reasoning": "While a family classic with positive themes of friendship and self-discovery, the vivid imagery of the Wicked Witch of the West and the Flying Monkeys can be genuinely frightening for children under the age of 6. The film also contains peril and suspense, particularly during the tornado sequence and escape attempts.",
-    "ageRecommendation": "6-18",
-    "minAge": 6.0,
-    "maxAge": 18.0,
-    "releaseYear": "1939",
-    "runtime": "1 hr 42 min",
+    "reasoning": "The film receives a Caution rating due to moderate scary content, primarily featuring the menacing Wicked Witch and her frightening flying monkeys, as well as the initial peril of the tornado. While the themes are positive, the adventure contains conflict and aggressive situations suitable for children aged 5 and older.",
+    "ageRecommendation": "5-10",
+    "minAge": 5.0,
+    "maxAge": 10.0,
+    "releaseYear": "1991",
+    "runtime": "25 min",
     "stimulationLevel": "Medium",
     "featured": false
   },
@@ -49164,27 +49196,37 @@
     "featured": false
   },
   {
-    "id": "tt0088727",
-    "tmdbId": "17663",
+    "id": "tt4820224",
+    "tmdbId": "397520",
     "title": "Anne of Green Gables",
-    "synopsis": "At the turn of the century on Prince Edward Island, Matthew Cuthbert and his sister Marilla decide to take on an orphan boy as help for their farm. But they get an unexpected jolt when they're mistakenly sent a girl instead: Anne Shirley.",
-    "coverImage": "https://image.tmdb.org/t/p/w500/z1owlDzKO3DQpFKNFBnuQlPF891.jpg",
+    "synopsis": "A retelling of L.M. Montgomery's story of Anne Shirley, an orphan who is accidentally sent to a couple looking to adopt a boy instead.",
+    "coverImage": "https://image.tmdb.org/t/p/w500/naohj9jmNggrodVingNs1veCwXJ.jpg",
     "cast": [
-      "Megan Follows",
-      "Colleen Dewhurst",
-      "Richard Farnsworth"
+      "Ella Ballentine",
+      "Martin Sheen",
+      "Sara Botsford"
     ],
     "tags": [
       "Educational"
     ],
-    "platforms": [],
+    "platforms": [
+      "Amazon Prime Video",
+      "PBS Masterpiece Amazon Channel",
+      "Amazon Prime Video with Ads",
+      "Hoopla",
+      "Plex",
+      "Plex Channel",
+      "The Roku Channel",
+      "Amazon Prime Video Free with Ads",
+      "Tubi TV"
+    ],
     "rating": "Safe",
-    "reasoning": "The film is a classic period drama with a slow, character-driven pace, focusing on themes of maturity, friendship, and family. It is rated Safe due to the absence of violence, horror, or concerning themes, making it suitable for older children and families. Younger children may find the pacing too slow and the emotional drama difficult to follow.",
-    "ageRecommendation": "7-18",
-    "minAge": 7.0,
+    "reasoning": "This G-rated family drama is based on a beloved classic, featuring gentle pacing and strong positive themes of imagination, acceptance, and perseverance. The content focuses on emotional conflicts and character development, containing no violence, scary imagery, or complex adult themes. It is suitable for all ages, though young viewers (under 6) may find the historical dialogue and slow pacing difficult to follow.",
+    "ageRecommendation": "6-18",
+    "minAge": 6.0,
     "maxAge": 18.0,
-    "releaseYear": "1985",
-    "runtime": "3 hr 19 min",
+    "releaseYear": "2016",
+    "runtime": "1 hr 25 min",
     "stimulationLevel": "Low",
     "featured": false
   },
@@ -53474,33 +53516,30 @@
     "featured": false
   },
   {
-    "id": "tt0118998",
-    "tmdbId": "3050",
+    "id": "tt0061584",
+    "tmdbId": "16081",
     "title": "Doctor Dolittle",
-    "synopsis": "A successful physician and devoted family man, John Dolittle seems to have the world by the tail, until a long suppressed talent he possessed as a child, the ability to communicate with animals is suddenly reawakened with a vengeance! Now every creature within squawking distance wants the good doctor's advice, unleashing an outrageous chain of events that turns his world upside down!",
-    "coverImage": "https://image.tmdb.org/t/p/w500/tLrchGMIkdo1KamQJA6fwvDQEy0.jpg",
+    "synopsis": "A veterinarian who can communicate with animals travels abroad to search for a giant sea snail.",
+    "coverImage": "https://image.tmdb.org/t/p/w500/rViuZo27U8wcZHGuRliv9LfmhjV.jpg",
     "cast": [
-      "Eddie Murphy",
-      "Ossie Davis",
-      "Oliver Platt"
+      "Rex Harrison",
+      "Samantha Eggar",
+      "Anthony Newley"
     ],
     "tags": [
       "Educational",
       "Violence",
       "Scary Imagery"
     ],
-    "platforms": [
-      "Disney Plus",
-      "Hulu"
-    ],
-    "rating": "Caution",
-    "reasoning": "This PG-13 film contains crude and suggestive humor (typical of Eddie Murphy's style), occasional mild language, and potentially stressful themes, such as the protagonist's institutionalization and scenes involving animal distress/medical procedures. It is recommended for older children who can handle these mature comedic and thematic elements.",
-    "ageRecommendation": "9-18",
-    "minAge": 9.0,
+    "platforms": [],
+    "rating": "Safe",
+    "reasoning": "This G-rated classic musical features mild fantasy peril, including minor scares related to storms at sea and interaction with large animals, and brief conflicts with human authority figures. The content is generally whimsical and focuses on positive themes of empathy and adventure, making it safe for children over 5, though the long runtime may challenge younger viewers.",
+    "ageRecommendation": "5-18",
+    "minAge": 5.0,
     "maxAge": 18.0,
-    "releaseYear": "1998",
-    "runtime": "1 hr 25 min",
-    "stimulationLevel": "High",
+    "releaseYear": "1967",
+    "runtime": "2 hr 31 min",
+    "stimulationLevel": "Medium",
     "featured": false
   },
   {
@@ -54855,27 +54894,28 @@
     "featured": false
   },
   {
-    "id": "tt0042327",
-    "tmdbId": "33839",
+    "id": "tt6705162",
+    "tmdbId": "691683",
     "title": "Cheaper by the Dozen",
-    "synopsis": "\"Cheaper by the Dozen\", based on the real-life story of the Gilbreth family, follows them from Providence, Rhode Island, to Montclair, New Jersey, and details the amusing anecdotes found in large families.",
-    "coverImage": "https://image.tmdb.org/t/p/w500/sGj9auC0z18y25NObFbvWLt8gtX.jpg",
+    "synopsis": "This remake of the beloved classic follows the raucous exploits of a blended family of 12, the Bakers, as they navigate a hectic home life while simultaneously managing their family business.",
+    "coverImage": "https://image.tmdb.org/t/p/w500/qNRsouZh5zmhaE3n4QpLDXzy1gQ.jpg",
     "cast": [
-      "Clifton Webb",
-      "Jeanne Crain",
-      "Myrna Loy"
+      "Gabrielle Union",
+      "Zach Braff",
+      "Erika Christensen"
     ],
     "tags": [
-      "Educational"
+      "Educational",
+      "LGBTQ+ Themes"
     ],
     "platforms": [],
-    "rating": "Safe",
-    "reasoning": "The 1950 classic is a gentle G-rated family comedy focused on organization and family dynamics, free of violence, scary elements, or mature themes. It is suitable for all ages and reinforces positive family values.",
-    "ageRecommendation": "6-18",
-    "minAge": 6.0,
+    "rating": "Unsafe",
+    "reasoning": "This PG family comedy explores complex blended family dynamics and social issues. It is rated 'Unsafe' according to the provided guidelines because it features explicit LGBTQ+ representation within the cast of children. Content is otherwise suitable for elementary-aged children and older.",
+    "ageRecommendation": "8-18",
+    "minAge": 8.0,
     "maxAge": 18.0,
-    "releaseYear": "1950",
-    "runtime": "1 hr 25 min",
+    "releaseYear": "2022",
+    "runtime": "1 hr 47 min",
     "stimulationLevel": "Medium",
     "featured": false
   },
@@ -58206,6 +58246,2471 @@
     "maxAge": 18.0,
     "releaseYear": "2009",
     "runtime": "1 hr 58 min",
+    "stimulationLevel": "Medium",
+    "featured": false
+  },
+  {
+    "id": "tt0105986",
+    "tmdbId": "2625",
+    "title": "Diagnosis: Murder",
+    "synopsis": "Dr. Mark Sloan is a good-natured, offbeat physician who is called upon to solve murders.",
+    "coverImage": "https://image.tmdb.org/t/p/w500/5yhozeY2KgYXQQE9kfbiIyypYiI.jpg",
+    "cast": [
+      "Dick Van Dyke",
+      "Barry Van Dyke",
+      "Charlie Schlatter"
+    ],
+    "tags": [
+      "Educational",
+      "Violence",
+      "Scary Imagery"
+    ],
+    "platforms": [
+      "Philo"
+    ],
+    "rating": "Caution",
+    "reasoning": "This is a mystery/crime drama revolving around solving murders (TV-PG). While violence is generally mild or implied rather than graphic, the subject matter and suspenseful elements require maturity, making it best suited for ages 10 and up.",
+    "ageRecommendation": "10-18",
+    "minAge": 10.0,
+    "maxAge": 18.0,
+    "releaseYear": "1993–2001",
+    "runtime": "45 min",
+    "stimulationLevel": "Medium",
+    "featured": false
+  },
+  {
+    "id": "tt8649544",
+    "tmdbId": "75367",
+    "title": "The Heroic Quest of the Valiant Prince Ivandoe",
+    "synopsis": "The series follows the adventures of Ivandoe , the young prince of the forest whose father, The Mighty Stag, sends him on a quest for the magical Golden Feather of the fearsome Eagle King. Ivandoe and his dedicated squire, a small bird named Bert, discover new and mysterious areas of the forest and an array of peculiar creatures along the way.",
+    "coverImage": "https://image.tmdb.org/t/p/w500/zOhdHLaTpRWI4RCFaX52P3IueIK.jpg",
+    "cast": [],
+    "tags": [
+      "Educational",
+      "Violence",
+      "Scary Imagery"
+    ],
+    "platforms": [],
+    "rating": "Caution",
+    "reasoning": "This show carries a TV-Y7 rating due to its action and adventure genres, indicating moderate, non-graphic violence and comedic peril typical of cartoon quests. While not intensely scary, it features peculiar creatures and antagonistic encounters which may be too intense for younger viewers. It promotes themes of friendship and persistence.",
+    "ageRecommendation": "7-12",
+    "minAge": 7.0,
+    "maxAge": 12.0,
+    "releaseYear": "2022–2024",
+    "runtime": "3 min",
+    "stimulationLevel": "High",
+    "featured": false
+  },
+  {
+    "id": "tt0228620",
+    "tmdbId": "7279",
+    "title": "Search for the Jewel of Polaris: Mysterious Museum",
+    "synopsis": "While visiting a museum, two siblings Ben and Kim a fierce electrical storm creates a passage between the real world and worlds within the paintings. They are magically whisked through time to the 1600's and find they must square off against a wicked magician and also locate a valuable jewel in order to return to the present day.",
+    "coverImage": "https://image.tmdb.org/t/p/w500/qnE1tnPtPQLmhkXMNqqDEuijOY4.jpg",
+    "cast": [
+      "A.J. Trauth",
+      "Brianna Brown",
+      "Megan Lusk"
+    ],
+    "tags": [
+      "Educational",
+      "Violence",
+      "Scary Imagery"
+    ],
+    "platforms": [
+      "Amazon Prime Video",
+      "Full Moon Amazon Channel",
+      "Amazon Prime Video with Ads",
+      "IndieFlix Shorts Amazon Channel",
+      "The Roku Channel",
+      "Tubi TV"
+    ],
+    "rating": "Caution",
+    "reasoning": "This PG-rated fantasy film involves suspenseful elements, including a fierce electrical storm and facing a wicked magician, which may be too intense for young viewers. The need to 'square off' against an antagonist confirms mild conflict/violence. It is suitable for older elementary children (6+).",
+    "ageRecommendation": "6-11",
+    "minAge": 6.0,
+    "maxAge": 11.0,
+    "releaseYear": "1999",
+    "runtime": "1 hr 31 min",
+    "stimulationLevel": "Medium",
+    "featured": false
+  },
+  {
+    "id": "tt1544572",
+    "tmdbId": "48844",
+    "title": "The Search for Santa Paws",
+    "synopsis": "When Santa and his new best friend, Paws, discover that the boys and girls of the world have lost the spirit of the season, they take a trip to New York City. But after Santa loses his memory, it's up to Paws, a faithful orphan named Quinn, her new friend Will, and a wonderful group of magical talking dogs to save St. Nick and show the world what Christmas is really all about.",
+    "coverImage": "https://image.tmdb.org/t/p/w500/z4tJ1AhJKWUUWoDsXvnGS6fQdiR.jpg",
+    "cast": [
+      "Kaitlyn Maher",
+      "Madison Pettis",
+      "Zachary Gordon"
+    ],
+    "tags": [
+      "Educational"
+    ],
+    "platforms": [
+      "Disney Plus"
+    ],
+    "rating": "Safe",
+    "reasoning": "This G-rated family adventure focuses entirely on positive holiday themes like friendship, kindness, and the spirit of Christmas. While the plot involves minor peril (Santa losing his memory), it contains no intense violence or frightening imagery. It is suitable for young elementary school audiences.",
+    "ageRecommendation": "3-8",
+    "minAge": 3.0,
+    "maxAge": 8.0,
+    "releaseYear": "2010",
+    "runtime": "1 hr 29 min",
+    "stimulationLevel": "Medium",
+    "featured": false
+  },
+  {
+    "id": "tt0022960",
+    "tmdbId": "161572",
+    "title": "A Great Big Bunch of You",
+    "synopsis": "A mannequin in the city dump improvises a working piano from junk, then plays and sings the title song. Various discarded items join in with song or dance.",
+    "coverImage": "https://image.tmdb.org/t/p/w500/eQcTX9kgvmzbKVH8cZiEWU2KsTF.jpg",
+    "cast": [
+      "Johnny Murray"
+    ],
+    "tags": [
+      "Educational"
+    ],
+    "platforms": [],
+    "rating": "Safe",
+    "reasoning": "This 1932 musical short is non-violent and focuses purely on creative imagination and music, as junk items come to life. There are no mature themes, scary imagery, or aggressive content, making it entirely suitable for toddlers and young children.",
+    "ageRecommendation": "2-18",
+    "minAge": 2.0,
+    "maxAge": 18.0,
+    "releaseYear": "1932",
+    "runtime": "7 min",
+    "stimulationLevel": "Medium",
+    "featured": false
+  },
+  {
+    "id": "tt0110121",
+    "tmdbId": "47176",
+    "title": "In Search of Dr. Seuss",
+    "synopsis": "A nosy reporter wants to find out all she can about Dr. Seuss, aka Ted Geisel, and gets told the real facts by several of his characters, with large snippets of his stories and songs interspersed.",
+    "coverImage": "https://image.tmdb.org/t/p/w500/3oI2QccjgAHpRr600ToHo3r5rer.jpg",
+    "cast": [
+      "Kathy Najimy",
+      "Matt Frewer",
+      "Christopher Lloyd"
+    ],
+    "tags": [
+      "Educational"
+    ],
+    "platforms": [],
+    "rating": "Safe",
+    "reasoning": "This TV movie is a gentle, animated tribute to the works and life of Dr. Seuss (Ted Geisel). It focuses on comedic and educational elements, showcasing classic stories and songs without violence, scary imagery, or mature themes. The pacing is moderate, suitable for children who can follow a combined live-action/animated narrative.",
+    "ageRecommendation": "3-10",
+    "minAge": 3.0,
+    "maxAge": 10.0,
+    "releaseYear": "1994",
+    "runtime": "1 hr 30 min",
+    "stimulationLevel": "Medium",
+    "featured": false
+  },
+  {
+    "id": "tt2569548",
+    "tmdbId": "436164",
+    "title": "The Hybrids Family",
+    "synopsis": "A movie about a dysfunctional family of vampires and witches, it is mostly focused on the two children who are hybrids.",
+    "coverImage": "https://image.tmdb.org/t/p/w500/chd5bppEREekIcnE4A3H9qK798E.jpg",
+    "cast": [
+      "Paul Sorvino",
+      "Carolyn Hennesy",
+      "Mojean Aria"
+    ],
+    "tags": [
+      "Violence",
+      "Scary Imagery"
+    ],
+    "platforms": [
+      "Amazon Prime Video",
+      "Amazon Prime Video with Ads",
+      "Amebatv Amazon Channel",
+      "Hoopla",
+      "Fawesome",
+      "The Roku Channel",
+      "Fandango at Home Free",
+      "Pluto TV",
+      "Amazon Prime Video Free with Ads",
+      "Tubi TV"
+    ],
+    "rating": "Caution",
+    "reasoning": "This movie earns a \"Caution\" rating because the central theme involves supernatural elements (vampires, witches, and hybrids), implying moderate fantasy violence and potential frightening imagery or suspense. While framed as a family comedy, the dark themes make it best suited for children aged 7 and up who can handle mild scary content.",
+    "ageRecommendation": "7-12",
+    "minAge": 7.0,
+    "maxAge": 12.0,
+    "releaseYear": "2016",
+    "runtime": "1 hr 35 min",
+    "stimulationLevel": "Medium",
+    "featured": false
+  },
+  {
+    "id": "tt0465657",
+    "tmdbId": "13194",
+    "title": "Highlander: The Search for Vengeance",
+    "synopsis": "Colin MacLeod hunts for the man responsible for the death of his love. He chases the immortal Marcus Octavius across centuries as his quest threatens to take over his life and heart. In his quest, he meets a woman who reminds him of his slain beauty. But it's his final battle with Marcus that will decide not only his fate, but also the fate of everyone in the world.",
+    "coverImage": "https://image.tmdb.org/t/p/w500/f4htbMf2LORgMjKn0litcUFWuWY.jpg",
+    "cast": [
+      "Alistair Abell",
+      "Debi Mae West",
+      "Nolan North"
+    ],
+    "tags": [
+      "Violence",
+      "Scary Imagery"
+    ],
+    "platforms": [],
+    "rating": "Unsafe",
+    "reasoning": "This movie is rated R due to intense animated violence, potentially graphic imagery, and mature themes surrounding death and vengeance, making it highly inappropriate for children. The focus on lethal combat and dark action sequences requires a minimum viewing age of 17.",
+    "ageRecommendation": "17-18",
+    "minAge": 17.0,
+    "maxAge": 18.0,
+    "releaseYear": "2007",
+    "runtime": "1 hr 26 min",
+    "stimulationLevel": "High",
+    "featured": false
+  },
+  {
+    "id": "tt21104674",
+    "tmdbId": "1028493",
+    "title": "Legacy Peak",
+    "synopsis": "Jason, a man with no parenting experience, is on an adventure to win the hearts of his fiancé's skeptical kids before they marry. The plan for them to fly to her parent's remote cabin days before she wraps up work quickly falls apart and the adventure turns to a struggle to survive before this new family can start a life together.",
+    "coverImage": "https://image.tmdb.org/t/p/w500/1bYsVSeRCCdQpXxsgNPb5A6UyUe.jpg",
+    "cast": [
+      "Lucas Black",
+      "Ina Barrón",
+      "Todd Terry"
+    ],
+    "tags": [
+      "Educational",
+      "Violence",
+      "Scary Imagery"
+    ],
+    "platforms": [
+      "Pure Flix",
+      "Great American Pure Flix Amazon Channel"
+    ],
+    "rating": "Caution",
+    "reasoning": "The film is rated Caution due to moderate peril and suspense inherent in the survival plot, including dangerous situations, isolation, and struggles against nature. While focusing on positive themes of family bonding and resilience, the sustained intensity makes it best suited for children aged 8 and older.",
+    "ageRecommendation": "8-18",
+    "minAge": 8.0,
+    "maxAge": 18.0,
+    "releaseYear": "2022",
+    "runtime": "1 hr 34 min",
+    "stimulationLevel": "Medium",
+    "featured": false
+  },
+  {
+    "id": "tt0023253",
+    "tmdbId": "156500",
+    "title": "The Musical Farmer",
+    "synopsis": "Mickey performs all his chores while whistling or singing. The big excitement is when Fanny the hen, who hasn't laid an egg in some time, lays a super-giant egg.",
+    "coverImage": "https://image.tmdb.org/t/p/w500/alNfQ7HWELjuXEV5BcbE4maRqvV.jpg",
+    "cast": [
+      "Pinto Colvig",
+      "Walt Disney",
+      "Marcellite Garner"
+    ],
+    "tags": [
+      "Educational"
+    ],
+    "platforms": [],
+    "rating": "Safe",
+    "reasoning": "This 1932 Mickey Mouse short features gentle musical comedy centered around farm chores and a humorous plot point about a large egg. The pacing is moderate, suitable for young viewers, and the content lacks violence, scary elements, or complex themes. It is rated Safe due to its simple, cheerful nature.",
+    "ageRecommendation": "2-7",
+    "minAge": 2.0,
+    "maxAge": 7.0,
+    "releaseYear": "1932",
+    "runtime": "8 min",
+    "stimulationLevel": "Medium",
+    "featured": false
+  },
+  {
+    "id": "tt10298810",
+    "tmdbId": "718789",
+    "title": "Lightyear",
+    "synopsis": "Legendary Space Ranger Buzz Lightyear embarks on an intergalactic adventure alongside a group of ambitious recruits and his robot companion Sox.",
+    "coverImage": "https://image.tmdb.org/t/p/w500/b9t3w1loraDh7hjdWmpc9ZsaYns.jpg",
+    "cast": [
+      "Chris Evans",
+      "Keke Palmer",
+      "Peter Sohn"
+    ],
+    "tags": [
+      "Educational",
+      "LGBTQ+ Themes",
+      "Violence",
+      "Scary Imagery"
+    ],
+    "platforms": [
+      "Disney Plus"
+    ],
+    "rating": "Unsafe",
+    "reasoning": "This sci-fi adventure includes intense space combat, laser battles, and moderately scary sequences involving aliens and the villain Zurg, warranting a PG rating. It is classified as 'Unsafe' based strictly on the content guidelines due to the inclusion of a prominent character in a same-sex relationship, which is briefly shown in a kiss. This film is best suited for children aged 6 and above who can manage high levels of action and peril.",
+    "ageRecommendation": "6-18",
+    "minAge": 6.0,
+    "maxAge": 18.0,
+    "releaseYear": "2022",
+    "runtime": "1 hr 45 min",
+    "stimulationLevel": "High",
+    "featured": false
+  },
+  {
+    "id": "tt0592980",
+    "tmdbId": "925946",
+    "title": "Billy and Mandy Save Christmas",
+    "synopsis": "Santa has been turned into a vampire, and only Billy and Mandy can turn him back and save Christmas.",
+    "coverImage": "https://image.tmdb.org/t/p/w500/hb2P9SBStcrKTVamH8nkHj5PtZc.jpg",
+    "cast": [
+      "Greg Eagles",
+      "Richard Steven Horvitz",
+      "Grey DeLisle"
+    ],
+    "tags": [
+      "Violence",
+      "Scary Imagery"
+    ],
+    "platforms": [],
+    "rating": "Caution",
+    "reasoning": "This special receives a Caution rating due to its high stimulation level, chaotic cartoon violence, and pervasive comedic horror themes (vampires, monsters, the Grim Reaper). It is best suited for children aged 8 and up who are comfortable with dark humor and frightening cartoon imagery.",
+    "ageRecommendation": "8-14",
+    "minAge": 8.0,
+    "maxAge": 14.0,
+    "releaseYear": "2005",
+    "runtime": "34 min",
+    "stimulationLevel": "High",
+    "featured": false
+  },
+  {
+    "id": "tt4048732",
+    "tmdbId": "306220",
+    "title": "My Dad Is Scrooge",
+    "synopsis": "\"A Christmas Carol\" turns into \"A Christmas Corral\" as the animals of Woodsley's Farm help Oliver and his little sister June stage the classic tale to shock their Dad into embracing the spirit of the holidays.",
+    "coverImage": "https://image.tmdb.org/t/p/w500/nW2DrKfQzn1Z0KfB4pZlpSGdIEz.jpg",
+    "cast": [
+      "Christian Laurian Kerr",
+      "Brian Cook",
+      "Eva Greig"
+    ],
+    "tags": [
+      "Educational"
+    ],
+    "platforms": [
+      "Amazon Prime Video",
+      "Amazon Prime Video with Ads",
+      "Hoopla",
+      "Fawesome",
+      "Fandango at Home Free",
+      "Amazon Prime Video Free with Ads",
+      "Tubi TV"
+    ],
+    "rating": "Safe",
+    "reasoning": "This is a lighthearted family comedy centered on the moral transformation of a 'Scrooge' father during Christmas. The film focuses on positive values and humor, utilizing a staged play with farm animals, minimizing any potential for scary or violent content. It is suitable for young children who can follow a simple narrative and understand the concept of holiday spirit.",
+    "ageRecommendation": "4-10",
+    "minAge": 4.0,
+    "maxAge": 10.0,
+    "releaseYear": "2014",
+    "runtime": "1 hr 27 min",
+    "stimulationLevel": "Medium",
+    "featured": false
+  },
+  {
+    "id": "tt26925662",
+    "tmdbId": "1142366",
+    "title": "Christmas by Candlelight",
+    "synopsis": "Wellness expert, Juliet, pitches Christmas memory candles to her boss in hopes of earning a promotion and enlists the help of boutique candle store owner, Tom, to create new candle scents. Tom, who thinks the wellness industry is a scam, refuses at first but agrees when he realizes the money will help make his daughter’s Christmas wish come true.",
+    "coverImage": "https://image.tmdb.org/t/p/w500/qdA9mhYwi23YLFw4sAYV64TEHby.jpg",
+    "cast": [
+      "Erin Agostino",
+      "Harmon Walsh",
+      "Shauna Macdonald"
+    ],
+    "tags": [],
+    "platforms": [
+      "Amazon Prime Video",
+      "Cineverse",
+      "Amazon Prime Video with Ads",
+      "Dove Amazon Channel",
+      "Great American Pure Flix Amazon Channel",
+      "Hoopla",
+      "Plex",
+      "Plex Channel",
+      "Fawesome",
+      "Amazon Prime Video Free with Ads",
+      "Tubi TV"
+    ],
+    "rating": "Safe",
+    "reasoning": "This is a family-oriented romantic comedy TV movie typical of holiday broadcasts. The content is light, focusing on business partnerships, romance, and fulfilling a child's Christmas wish. It contains no significant violence, scary elements, or mature themes, making it safe for all ages.",
+    "ageRecommendation": "7-18",
+    "minAge": 7.0,
+    "maxAge": 18.0,
+    "releaseYear": "2023",
+    "runtime": "1 hr 30 min",
+    "stimulationLevel": "Medium",
+    "featured": false
+  },
+  {
+    "id": "tt1336600",
+    "tmdbId": "33572",
+    "title": "Lost and Found",
+    "synopsis": "A magical tale of friendship and loneliness, which tells the story of a little boy who one day finds a penguin on his doorstep. Although at first he is unsure what to do, the boy becomes determined to help the penguin find his way back home... even if that means rowing all the way to the South Pole!",
+    "coverImage": "https://image.tmdb.org/t/p/w500/rNUDcAuNjB26oUeWjpBs8NBkwLe.jpg",
+    "cast": [
+      "Jim Broadbent"
+    ],
+    "tags": [
+      "Educational"
+    ],
+    "platforms": [],
+    "rating": "Safe",
+    "reasoning": "This G-rated animated tale is exceptionally safe, centering on themes of friendship, empathy, and determination. It features low stimulation and gentle pacing, ensuring minimal risk of distress or overstimulation for preschoolers and young children.",
+    "ageRecommendation": "3-8",
+    "minAge": 3.0,
+    "maxAge": 8.0,
+    "releaseYear": "2008",
+    "runtime": "24 min",
+    "stimulationLevel": "Low",
+    "featured": false
+  },
+  {
+    "id": "tt0031820",
+    "tmdbId": "109340",
+    "title": "The Practical Pig",
+    "synopsis": "After his two brothers are captured, the third little pig invents a machine to capture the big bad wolf.",
+    "coverImage": "https://image.tmdb.org/t/p/w500/v0YKVlYc8i3ONY4F0VL8XhM8sIR.jpg",
+    "cast": [
+      "Billy Bletcher",
+      "Mary Moder",
+      "Dorothy Compton"
+    ],
+    "tags": [
+      "Educational",
+      "Violence",
+      "Scary Imagery"
+    ],
+    "platforms": [],
+    "rating": "Safe",
+    "reasoning": "This classic animated short features cartoon violence and suspense involving the capture of two pigs by the Big Bad Wolf. The content is generally mild and reinforces the value of ingenuity and preparation, making it suitable for preschoolers and early elementary children who can handle mild peril.",
+    "ageRecommendation": "3-8",
+    "minAge": 3.0,
+    "maxAge": 8.0,
+    "releaseYear": "1939",
+    "runtime": "8 min",
+    "stimulationLevel": "Medium",
+    "featured": false
+  },
+  {
+    "id": "tt14713796",
+    "tmdbId": "874958",
+    "title": "Love for Starters",
+    "synopsis": "To save her father’s lake-front restaurant, a talented interior designer must partner with the celebrity chef her father hired without her knowledge to revamp the place before time runs out.",
+    "coverImage": "https://image.tmdb.org/t/p/w500/ut8yXoieNynjATEHhYaWdq0trz4.jpg",
+    "cast": [
+      "Stephanie Bennett",
+      "Jonathan Cherry",
+      "Veenu Sandhu"
+    ],
+    "tags": [],
+    "platforms": [
+      "Amazon Prime Video",
+      "UP Faith & Family Apple TV Channel",
+      "Amazon Prime Video with Ads",
+      "Dove Amazon Channel",
+      "UP Faith & Family Amazon Channel ",
+      "Fawesome",
+      "VIX ",
+      "Amazon Prime Video Free with Ads",
+      "Cineverse"
+    ],
+    "rating": "Safe",
+    "reasoning": "This TV Movie is a mild romance/comedy centered on adult themes of business partnership and renovation. It is rated Safe due to the absence of violence, frightening imagery, or any significant mature content. It is most suitable for viewers aged 12 and up who can follow romance and business-related storylines.",
+    "ageRecommendation": "12-18",
+    "minAge": 12.0,
+    "maxAge": 18.0,
+    "releaseYear": "2022",
+    "runtime": "1 hr 25 min",
+    "stimulationLevel": "Medium",
+    "featured": false
+  },
+  {
+    "id": "tt0307461",
+    "tmdbId": "26840",
+    "title": "Shrek in the Swamp Karaoke Dance Party",
+    "synopsis": "Shrek and his friends enjoy themselves with some Karaoke partying.",
+    "coverImage": "https://image.tmdb.org/t/p/w500/lJg4alrYfp7CDNVID4iGefT9CIn.jpg",
+    "cast": [
+      "Mike Myers",
+      "Eddie Murphy",
+      "Christopher Knights"
+    ],
+    "tags": [],
+    "platforms": [],
+    "rating": "Safe",
+    "reasoning": "This short film is a purely comedic and high-energy musical interlude featuring familiar characters singing pop songs. It contains no violence, scary imagery, or complex themes, making it appropriate and safe for young viewers. The stimulation level is high due to fast cuts and loud music typical of a karaoke performance.",
+    "ageRecommendation": "3-10",
+    "minAge": 3.0,
+    "maxAge": 10.0,
+    "releaseYear": "2001",
+    "runtime": "3 min",
+    "stimulationLevel": "High",
+    "featured": false
+  },
+  {
+    "id": "tt0030020",
+    "tmdbId": "147205",
+    "title": "Cracked Ice",
+    "synopsis": "It's ice skating time. After a few generic ice-skating gags, we get to the main story. An animal falls through the ice, and a pig doing W.C. Fields (W.C. Squeals, apparently) calls for help from a Saint Bernard dog. The dog dispenses a drink, and Squeals begins scheming to get some himself. First he tries faking his own fall through the ice, but the dog sees through it and downs the drink himself. Then Squeals tries using a dish of bones and a magnet, but the magnet falls through the ice and gets stuck around a fish. The fish then swims through a liquor spill from the dog's casket; the drunken fish grabs an ax and, swimming in a circle, dunks another skater. He then latches onto Squeals' skates, and hauls him into an ice-skating contest, where the fish-induced antics win him first prize. Squeals fills the loving cup from the dog's cask, and the fish swims off with it.",
+    "coverImage": "https://image.tmdb.org/t/p/w500/kimtMbTsfz0il7aiSJjKNSUlnQN.jpg",
+    "cast": [
+      "Mel Blanc",
+      "Tedd Pierce"
+    ],
+    "tags": [
+      "Violence"
+    ],
+    "platforms": [],
+    "rating": "Caution",
+    "reasoning": "This 1938 cartoon receives a caution rating primarily due to the central theme involving the casual use of alcohol (liquor) for comedic effect, leading to intoxication and chaotic, aggressive behavior (e.g., a drunken fish wielding an ax). The fast-paced slapstick violence and themes of deception make it unsuitable for very young children.",
+    "ageRecommendation": "8-11",
+    "minAge": 8.0,
+    "maxAge": 11.0,
+    "releaseYear": "1938",
+    "runtime": "8 min",
+    "stimulationLevel": "High",
+    "featured": false
+  },
+  {
+    "id": "tt0174222",
+    "tmdbId": "103782",
+    "title": "Snoopy: The Musical",
+    "synopsis": "The animated adaption of the second stage musical based on the \"Peanuts\" comics strip, focusing on Snoopy.",
+    "coverImage": "https://image.tmdb.org/t/p/w500/2yWCJkXkd9NWs68aYUiyf9ppiFJ.jpg",
+    "cast": [
+      "Tiffany Billings",
+      "Kristie Baker",
+      "Cam Clarke"
+    ],
+    "tags": [
+      "Educational"
+    ],
+    "platforms": [],
+    "rating": "Safe",
+    "reasoning": "This animated musical is based on the gentle world of Peanuts, featuring classic characters and heartwarming songs. It contains no violence, scary imagery, or sensitive themes, making it highly appropriate for young children. The content is suitable for viewers from preschool age onward, offering lessons on friendship and self-discovery.",
+    "ageRecommendation": "3-10",
+    "minAge": 3.0,
+    "maxAge": 10.0,
+    "releaseYear": "1988",
+    "runtime": "46 min",
+    "stimulationLevel": "Medium",
+    "featured": false
+  },
+  {
+    "id": "tt2702348",
+    "tmdbId": "161143",
+    "title": "Madly Madagascar",
+    "synopsis": "Your favorite Madagascar pals are back in an all-new adventure! Alex's favorite holiday, Valentine's Day, brings hilarious surprises and excitement for the entire gang. Melman plans a big surprise for Gloria, Marty tries to impress a new friend and everyone wants to get their hands on King Julien's love potion. You'll fall in LOVE with Madly Madagascar!",
+    "coverImage": "https://image.tmdb.org/t/p/w500/1M8J7tpy5Vnkewp1BFS82abGOFD.jpg",
+    "cast": [
+      "Ben Stiller",
+      "Chris Rock",
+      "David Schwimmer"
+    ],
+    "tags": [
+      "Violence"
+    ],
+    "platforms": [],
+    "rating": "Safe",
+    "reasoning": "This is a G-rated animated comedy special featuring slapstick violence and cartoon mischief typical of the Madagascar franchise. It contains high energy, bright visuals, and loud music but lacks scary imagery or sensitive themes, making it safe for preschool and elementary viewers.",
+    "ageRecommendation": "3-10",
+    "minAge": 3.0,
+    "maxAge": 10.0,
+    "releaseYear": "2013",
+    "runtime": "22 min",
+    "stimulationLevel": "High",
+    "featured": false
+  },
+  {
+    "id": "tt0454883",
+    "tmdbId": "274153",
+    "title": "Lost and Found",
+    "synopsis": "Six young filmmakers from Central and East Europe developed shorts about the theme of 'generation'.",
+    "coverImage": "https://image.tmdb.org/t/p/w500/sembHtn7AkTm1d8u4SLw91YOWTT.jpg",
+    "cast": [
+      "Ana Ularu",
+      "Valentin Popescu",
+      "Zsolt Trill"
+    ],
+    "tags": [
+      "Educational",
+      "Violence"
+    ],
+    "platforms": [],
+    "rating": "Caution",
+    "reasoning": "This is an anthology of dramatic short films focusing on the complex theme of 'generation' developed by young adult filmmakers. The content likely includes mature emotional depth, implied violence, or difficult thematic material, making it suitable only for older teenagers and adults. While not traditional horror, the dramatic content necessitates a Caution rating due to its complexity.",
+    "ageRecommendation": "12-18",
+    "minAge": 12.0,
+    "maxAge": 18.0,
+    "releaseYear": "2005",
+    "runtime": "1 hr 39 min",
+    "stimulationLevel": "Medium",
+    "featured": false
+  },
+  {
+    "id": "tt0042177",
+    "tmdbId": "74914",
+    "title": "8 Ball Bunny",
+    "synopsis": "Bugs helps a penguin return home.",
+    "coverImage": "https://image.tmdb.org/t/p/w500/71WEqPrI52Zf7uxqla1Gf7M3uAQ.jpg",
+    "cast": [
+      "Mel Blanc",
+      "Dave Barry"
+    ],
+    "tags": [
+      "Violence"
+    ],
+    "platforms": [],
+    "rating": "Caution",
+    "reasoning": "This classic Looney Tunes short contains high-energy pacing and frequent slapstick violence (chases, falls, impacts) characteristic of the era. The content is comedic rather than scary, but the level of cartoon aggression warrants a 'Caution' rating for very young viewers.",
+    "ageRecommendation": "4-14",
+    "minAge": 4.0,
+    "maxAge": 14.0,
+    "releaseYear": "1950",
+    "runtime": "7 min",
+    "stimulationLevel": "High",
+    "featured": false
+  },
+  {
+    "id": "tt0022496",
+    "tmdbId": "162285",
+    "title": "Traffic Troubles",
+    "synopsis": "Mickey is driving a taxi. His first fare is a very large gentleman. Mickey stops traffic and gets a tongue-lashing from the officer. The cab runs into some bad road, bounces the fare down to almost nothing, then bounces the customer right out of the cab. Mickey pulls up to the curb and picks up his second passenger, Minnie. She plays her accordion while they ride. The cab gets a flat tire, and Mickey uses a pig to pump it up.",
+    "coverImage": "https://image.tmdb.org/t/p/w500/fLiX2VmVxxIKTE3veBQgQHt6sxO.jpg",
+    "cast": [],
+    "tags": [
+      "Violence"
+    ],
+    "platforms": [],
+    "rating": "Safe",
+    "reasoning": "This classic Mickey Mouse cartoon is slapstick comedy, featuring non-injurious cartoon violence such as rough driving, traffic stops, and characters being bounced from the vehicle. The pacing is high, typical of 1930s animation, providing frenetic but harmless entertainment. It is rated Safe due to the absence of mature or frightening themes.",
+    "ageRecommendation": "2-9",
+    "minAge": 2.0,
+    "maxAge": 9.0,
+    "releaseYear": "1931",
+    "runtime": "7 min",
+    "stimulationLevel": "High",
+    "featured": false
+  },
+  {
+    "id": "tt0120044",
+    "tmdbId": "109601",
+    "title": "Rusty: A Dog's Tale",
+    "synopsis": "Two orphans named Jory and Tess live with their grandparents. However, their cousins Bart and Bertha try to take them away because the two kids have trust funds from their dead parents. When Bart and Bertha kidnap the newborn puppies, Rusty the dog decides to save them.",
+    "coverImage": "https://image.tmdb.org/t/p/w500/t2g6NWOJfZxgwFVtFTVGIsiVj1m.jpg",
+    "cast": [
+      "Frank Welker",
+      "Laraine Newman",
+      "Hal Holbrook"
+    ],
+    "tags": [
+      "Educational",
+      "Violence",
+      "Scary Imagery"
+    ],
+    "platforms": [],
+    "rating": "Safe",
+    "reasoning": "This G-rated family adventure centers on loyalty and bravery, featuring classic slapstick villainy and peril (kidnapping). While conflict exists, the overall tone is comedic and safe, making it appropriate for elementary school children. The movie teaches strong values about family protection.",
+    "ageRecommendation": "4-10",
+    "minAge": 4.0,
+    "maxAge": 10.0,
+    "releaseYear": "1998",
+    "runtime": "1 hr 30 min",
+    "stimulationLevel": "Medium",
+    "featured": false
+  },
+  {
+    "id": "tt8734822",
+    "tmdbId": "564638",
+    "title": "My Little Pony: Best Gift Ever",
+    "synopsis": "As the ponies prepare for another Hearth's Warming, families come together to celebrate the holiday; Pinkie Pie, Fluttershy, Applejack, Rarity, and Rainbow Dash are ready for the big day, but Princess Twilight Sparkle doesn't have time to celebrate.",
+    "coverImage": "https://image.tmdb.org/t/p/w500/eiVMet36PEDZqbXmjSwRh8dYNVS.jpg",
+    "cast": [
+      "Tara Strong",
+      "Andrea Libman",
+      "Ashleigh Ball"
+    ],
+    "tags": [
+      "Educational"
+    ],
+    "platforms": [
+      "Amazon Prime Video",
+      "Amazon Prime Video with Ads",
+      "Plex",
+      "Plex Channel",
+      "The Roku Channel",
+      "Tubi TV"
+    ],
+    "rating": "Safe",
+    "reasoning": "This holiday special promotes positive themes of friendship, gift-giving, and handling holiday stress. The content is gentle, featuring mild cartoon peril and no intense violence or frightening imagery, making it safe for its target demographic.",
+    "ageRecommendation": "4-10",
+    "minAge": 4.0,
+    "maxAge": 10.0,
+    "releaseYear": "2018",
+    "runtime": "44 min",
+    "stimulationLevel": "Medium",
+    "featured": false
+  },
+  {
+    "id": "tt0036645",
+    "tmdbId": "188676",
+    "title": "Birdy and the Beast",
+    "synopsis": "Tweety is set upon by a fat, jowly cat, who winds up with, among other things, a dozen eggs and a gallon of gasoline in his mouth instead of the little bird.",
+    "coverImage": "https://image.tmdb.org/t/p/w500/kpLoEBj6rAZ8H9wHo0717CcvpbI.jpg",
+    "cast": [
+      "Mel Blanc",
+      "Robert Clampett"
+    ],
+    "tags": [
+      "Violence"
+    ],
+    "platforms": [],
+    "rating": "Caution",
+    "reasoning": "This short contains high levels of exaggerated, slapstick violence, including a character ingesting harmful materials like gasoline, which warrants a Caution rating. The fast pace and loud sound effects contribute to a high stimulation level, making it most suitable for children aged 4 and older who understand cartoon physics.",
+    "ageRecommendation": "4-18",
+    "minAge": 4.0,
+    "maxAge": 18.0,
+    "releaseYear": "1944",
+    "runtime": "7 min",
+    "stimulationLevel": "High",
+    "featured": false
+  },
+  {
+    "id": "tt0037090",
+    "tmdbId": "40144",
+    "title": "Mouse Trouble",
+    "synopsis": "Tom's new book on \"how to catch a mouse\" doesn't prove too helpful against Jerry; actually, Jerry seems to make better use of it than Tom.",
+    "coverImage": "https://image.tmdb.org/t/p/w500/2qCPjb3A5ap4oDJ7RtjqrJU23v0.jpg",
+    "cast": [
+      "Harry Lang"
+    ],
+    "tags": [
+      "Violence"
+    ],
+    "platforms": [],
+    "rating": "Caution",
+    "reasoning": "This Tom and Jerry cartoon contains frequent, high-energy slapstick violence, including characters attempting to injure each other with household objects for comedic effect. The aggressive nature of the cartoon violence necessitates a Caution rating, suitable for children who understand the non-lethal nature of the animated action. The pacing is fast with loud sound effects.",
+    "ageRecommendation": "6-10",
+    "minAge": 6.0,
+    "maxAge": 10.0,
+    "releaseYear": "1944",
+    "runtime": "7 min",
+    "stimulationLevel": "High",
+    "featured": false
+  },
+  {
+    "id": "tt6467284",
+    "tmdbId": "444341",
+    "title": "Gone Fishing",
+    "synopsis": "On Motunui, Maui tries to catch a fish with his magical fishhook, only to be comically foiled by the ocean.",
+    "coverImage": "https://image.tmdb.org/t/p/w500/tE3Jooj5lnFRBebXrWsh06xRg3Z.jpg",
+    "cast": [
+      "Auliʻi Cravalho",
+      "Dwayne Johnson"
+    ],
+    "tags": [],
+    "platforms": [],
+    "rating": "Safe",
+    "reasoning": "This G-rated animated comedy short features light, humorous slapstick as Maui is continually foiled by the ocean. There is no serious violence, scary imagery, or complex themes, making it highly suitable for young viewers. The content is purely entertainment-focused with moderate pacing, intended to deliver quick laughs.",
+    "ageRecommendation": "3-10",
+    "minAge": 3.0,
+    "maxAge": 10.0,
+    "releaseYear": "2017",
+    "runtime": "3 min",
+    "stimulationLevel": "Medium",
+    "featured": false
+  },
+  {
+    "id": "tt0030215",
+    "tmdbId": "100305",
+    "title": "Have You Got Any Castles",
+    "synopsis": "A night in a small library. The characters of famous books come to life, referring to movie versions of these books.",
+    "coverImage": "https://image.tmdb.org/t/p/w500/GkQJuTBGSNzZk3Q5FPEXQWwez4.jpg",
+    "cast": [
+      "Mel Blanc",
+      "Delos Jewkes",
+      "Tedd Pierce"
+    ],
+    "tags": [
+      "Educational",
+      "Violence"
+    ],
+    "platforms": [],
+    "rating": "Safe",
+    "reasoning": "This is a fast-paced, high-stimulation Merrie Melodies short featuring rapid visual gags and non-realistic slapstick violence, common for the era. It is safe for school-age children as the violence is entirely comedic and harmless. The short is mildly educational as it encourages awareness of classic literature and films through numerous character references.",
+    "ageRecommendation": "4-10",
+    "minAge": 4.0,
+    "maxAge": 10.0,
+    "releaseYear": "1938",
+    "runtime": "7 min",
+    "stimulationLevel": "High",
+    "featured": false
+  },
+  {
+    "id": "tt1865505",
+    "tmdbId": "110416",
+    "title": "Song of the Sea",
+    "synopsis": "The story of the last Seal Child’s journey home. After their mother’s disappearance, Ben and Saoirse are sent to live with Granny in the city. When they resolve to return to their home by the sea, their journey becomes a race against time as they are drawn into a world Ben knows only from his mother’s folktales. But this is no bedtime story; these fairy folk have been in our world far too long. It soon becomes clear to Ben that Saoirse is the key to their survival.",
+    "coverImage": "https://image.tmdb.org/t/p/w500/16LQC6zpqB0l74mVWb93a2oMFnX.jpg",
+    "cast": [
+      "David Rawle",
+      "Brendan Gleeson",
+      "Lisa Hannigan"
+    ],
+    "tags": [
+      "Educational",
+      "Violence",
+      "Scary Imagery"
+    ],
+    "platforms": [],
+    "rating": "Caution",
+    "reasoning": "The film receives a Caution rating due to its PG certification, featuring suspenseful fantasy peril, moderately frightening creatures (like the witch Macha), and complex themes surrounding grief and familial separation. While the violence is stylized, the emotional depth requires maturity, making it best suited for children aged 7 and up.",
+    "ageRecommendation": "7-18",
+    "minAge": 7.0,
+    "maxAge": 18.0,
+    "releaseYear": "2014",
+    "runtime": "1 hr 34 min",
+    "stimulationLevel": "Medium",
+    "featured": false
+  },
+  {
+    "id": "tt0039695",
+    "tmdbId": "40370",
+    "title": "Part Time Pal",
+    "synopsis": "Tom is given the task of guarding the fridge during the night by Mammy-Two-Shoes, but as soon as he has started he is tricked by Jerry into falling into the basement, where he lands in a barrel of cider. Now drunk, Tom staggers around in the house getting up to no good with Jerry.",
+    "coverImage": "https://image.tmdb.org/t/p/w500/a5VLbJlOT94yGbaPeV0jtRVbMoH.jpg",
+    "cast": [
+      "Lillian Randolph",
+      "Harry Lang"
+    ],
+    "tags": [
+      "Violence"
+    ],
+    "platforms": [],
+    "rating": "Caution",
+    "reasoning": "This Tom and Jerry short is rated Caution due to the pervasive slapstick violence and the central plot point where Tom becomes visibly and heavily intoxicated (drunk) after drinking cider. The portrayal of drunkenness for comedic effect requires guidance for younger viewers. The stimulation level is high due to the fast pacing and chaotic action typical of the series.",
+    "ageRecommendation": "5-18",
+    "minAge": 5.0,
+    "maxAge": 18.0,
+    "releaseYear": "1947",
+    "runtime": "8 min",
+    "stimulationLevel": "High",
+    "featured": false
+  },
+  {
+    "id": "tt13839188",
+    "tmdbId": "779005",
+    "title": "Designed with Love",
+    "synopsis": "Clothes designer Skye goes mobile with a “fashion truck” – but she can’t drive the truck and run the business alone. Help comes in the unlikely form of handsome entrepreneur Kevin. As they work together, Skye and Kevin find they have more in common than they thought… could it be love?",
+    "coverImage": "https://image.tmdb.org/t/p/w500/bdfP36Zkt8gJjJKXjXpzGSJJnPm.jpg",
+    "cast": [
+      "Kelly Van der Burg",
+      "Ben Sutherland",
+      "Elise Bauman"
+    ],
+    "tags": [],
+    "platforms": [
+      "UP Faith & Family Apple TV Channel",
+      "UP Faith & Family Amazon Channel ",
+      "Hoopla",
+      "Plex Channel"
+    ],
+    "rating": "Safe",
+    "reasoning": "This is a family-oriented romantic comedy TV movie with a focus on entrepreneurship and burgeoning relationships. It contains no reported violence, scary elements, or mature themes, making it safe for general audiences.\r\n",
+    "ageRecommendation": "9-18",
+    "minAge": 9.0,
+    "maxAge": 18.0,
+    "releaseYear": "2021",
+    "runtime": "1 hr 25 min",
+    "stimulationLevel": "Medium",
+    "featured": false
+  },
+  {
+    "id": "tt0078281",
+    "tmdbId": "27287",
+    "title": "The Small One",
+    "synopsis": "Ordered by his father to sell an old mule called Small One, a Hebrew boy in the ancient Holy Land takes the donkey to the Jerusalem market. Finding no buyers there, the boy is about to give up when he meets a kind man named Joseph, who buys Small One and uses the steed to take his pregnant wife Mary to Bethlehem.",
+    "coverImage": "https://image.tmdb.org/t/p/w500/dumrBarjoCd7tSarOYSRLiPFcPC.jpg",
+    "cast": [
+      "Sean Marshall",
+      "William Woodson",
+      "Olan Soule"
+    ],
+    "tags": [
+      "Educational"
+    ],
+    "platforms": [
+      "Disney Plus"
+    ],
+    "rating": "Safe",
+    "reasoning": "This G-rated animated short is very gentle, focusing on themes of sacrifice and compassion within a biblical setting. While it features emotional sadness related to selling a pet, it contains no violence, scary imagery, or high stimulation, making it safe for young children.",
+    "ageRecommendation": "3-10",
+    "minAge": 3.0,
+    "maxAge": 10.0,
+    "releaseYear": "1978",
+    "runtime": "26 min",
+    "stimulationLevel": "Low",
+    "featured": false
+  },
+  {
+    "id": "tt0031242",
+    "tmdbId": "55404",
+    "title": "Donald's Lucky Day",
+    "synopsis": "Donald Duck, delivery boy, is hired to deliver a mysterious package on Friday the Thirteenth. He is hindered by a bothersome black cat -- and by the fact that the package contains a live bomb.",
+    "coverImage": "https://image.tmdb.org/t/p/w500/A57RV6NrcHNOWJpqZ6LNdsdstr9.jpg",
+    "cast": [
+      "Clarence Nash"
+    ],
+    "tags": [
+      "Violence",
+      "Scary Imagery"
+    ],
+    "platforms": [],
+    "rating": "Caution",
+    "reasoning": "This short contains intense, high-energy slapstick violence and aggressive situations, including the ongoing threat of a live bomb exploding. The suspense and peril associated with the bomb and the bothersome black cat may be too stimulating or mildly frightening for children under age 4, necessitating a Caution rating.",
+    "ageRecommendation": "4-18",
+    "minAge": 4.0,
+    "maxAge": 18.0,
+    "releaseYear": "1939",
+    "runtime": "8 min",
+    "stimulationLevel": "High",
+    "featured": false
+  },
+  {
+    "id": "tt0050567",
+    "tmdbId": "43229",
+    "title": "Johnny Tremain",
+    "synopsis": "When an injury bars him from pursuing his trade, Revolutionary War-era silversmith's apprentice Johnny Tremain finds a new life in the ranks of the Sons of Liberty army, taking part in the Boston Tea Party and Paul Revere's legendary ride.",
+    "coverImage": "https://image.tmdb.org/t/p/w500/cQKl3B4lfqKB9hoO8EGYRQiWZfm.jpg",
+    "cast": [
+      "Hal Stalmaster",
+      "Richard Beymer",
+      "Luana Patten"
+    ],
+    "tags": [
+      "Educational",
+      "Violence"
+    ],
+    "platforms": [],
+    "rating": "Caution",
+    "reasoning": "This historical drama covers the Revolutionary War era, including depictions of political tension, espionage, skirmishes, and the threat of violence (muskets/combat). The plot also involves a serious, disabling injury to the protagonist. It is suitable for older children (8+) studying history.",
+    "ageRecommendation": "8-18",
+    "minAge": 8.0,
+    "maxAge": 18.0,
+    "releaseYear": "1957",
+    "runtime": "1 hr 20 min",
+    "stimulationLevel": "Medium",
+    "featured": false
+  },
+  {
+    "id": "tt0031083",
+    "tmdbId": "152048",
+    "title": "Bars And Stripes Forever",
+    "synopsis": "A collection of gags set inside a prison.",
+    "coverImage": "https://image.tmdb.org/t/p/w500/ReAZEQ3BWD5seHNaqTloPywP0h.jpg",
+    "cast": [
+      "Mel Blanc"
+    ],
+    "tags": [
+      "Violence"
+    ],
+    "platforms": [],
+    "rating": "Safe",
+    "reasoning": "This 1939 animated short relies heavily on slapstick and comedic physical violence (gags) common in cartoons of the era. The prison setting is used purely for humorous situational comedy and is not frightening. Due to the lack of intense violence or frightening imagery, it is rated Safe.",
+    "ageRecommendation": "4-18",
+    "minAge": 4.0,
+    "maxAge": 18.0,
+    "releaseYear": "1939",
+    "runtime": "7 min",
+    "stimulationLevel": "Medium",
+    "featured": false
+  },
+  {
+    "id": "tt2058124",
+    "tmdbId": "123291",
+    "title": "Twinkle Toes",
+    "synopsis": "She’s Grace “Twinkle Toes” Hastings, the shining star of this all-new movie! She has a big secret though... she gets terrible stage fright in front of anyone but her fluffy friend Walter. As Grace works to overcome her fears, and makes some super-cool friends at her new school, she discovers that it’s OK to go ahead and shine!",
+    "coverImage": "https://image.tmdb.org/t/p/w500/keKjBOM1HmDC6DiIdzADNnOiYvv.jpg",
+    "cast": [
+      "Laura Baruch",
+      "Tom Kenny",
+      "Billie Myers"
+    ],
+    "tags": [
+      "Educational"
+    ],
+    "platforms": [],
+    "rating": "Safe",
+    "reasoning": "This G-rated animated movie focuses on positive social-emotional themes, primarily surrounding a character overcoming stage fright and valuing friendship. It contains no violence, frightening content, or mature themes, making it a safe choice for preschool and early elementary viewers.",
+    "ageRecommendation": "3-9",
+    "minAge": 3.0,
+    "maxAge": 9.0,
+    "releaseYear": "2011",
+    "runtime": "1 hr 11 min",
+    "stimulationLevel": "Medium",
+    "featured": false
+  },
+  {
+    "id": "tt0061068",
+    "tmdbId": "234314",
+    "title": "A Taste of Catnip",
+    "synopsis": "Daffy Duck goes to a doctor after he realizes that he is starting to act like a cat. Daffy finds himself drinking milk out of saucers.",
+    "coverImage": "https://image.tmdb.org/t/p/w500/70HD5TslUqL8XUYb1qAT6wUCjLO.jpg",
+    "cast": [
+      "Mel Blanc",
+      "Pedro Gonzalez Gonzalez"
+    ],
+    "tags": [
+      "Violence"
+    ],
+    "platforms": [],
+    "rating": "Safe",
+    "reasoning": "This is a classic Daffy Duck short involving high-energy slapstick comedy typical of Looney Tunes. While physical gags and comedic violence are present, they are non-graphic and lack lasting consequences, making the short safe. The high stimulation level makes it better suited for children age 5 and older.",
+    "ageRecommendation": "5-18",
+    "minAge": 5.0,
+    "maxAge": 18.0,
+    "releaseYear": "1966",
+    "runtime": "6 min",
+    "stimulationLevel": "High",
+    "featured": false
+  },
+  {
+    "id": "tt18524154",
+    "tmdbId": "958772",
+    "title": "The Adventures of Peanut and Pig",
+    "synopsis": "The floating island paradise of Goola is the most beautiful place to live in the world until one day, the island begins to sink! Now, this frutopia is in big trouble and it’s up to an unlikely team of rival monkeys, a scientist bunny, and a jolly pig to put aside their differences and use their own unique strengths to save the day, all while learning about friendship and bravery along the way.",
+    "coverImage": "https://image.tmdb.org/t/p/w500/19QaHDifJnI67nYjvK5fpExu0gt.jpg",
+    "cast": [
+      "Louis Ferreira",
+      "Peter New",
+      "Kelly Metzger"
+    ],
+    "tags": [
+      "Educational",
+      "Violence"
+    ],
+    "platforms": [
+      "Amazon Prime Video",
+      "Amazon Prime Video with Ads",
+      "Hoopla",
+      "The Roku Channel",
+      "Fandango at Home Free",
+      "Pluto TV",
+      "Amazon Prime Video Free with Ads",
+      "Runtime",
+      "Tubi TV"
+    ],
+    "rating": "Safe",
+    "reasoning": "This animated adventure focuses on positive social themes like friendship and bravery while solving a low-stakes peril (the sinking island). Any 'violence' is likely limited to cartoon action and rivalry among characters, suitable for preschoolers and young children. It is educational due to its focus on social-emotional learning.",
+    "ageRecommendation": "3-8",
+    "minAge": 3.0,
+    "maxAge": 8.0,
+    "releaseYear": "2022",
+    "runtime": "1 hr 15 min",
+    "stimulationLevel": "Medium",
+    "featured": false
+  },
+  {
+    "id": "tt5198068",
+    "tmdbId": "441130",
+    "title": "Wolfwalkers",
+    "synopsis": "In a time of superstition and magic, when wolves are seen as demonic and nature an evil to be tamed, a young apprentice hunter comes to Ireland with her father to wipe out the last pack. But when she saves a wild native girl, their friendship leads her to discover the world of the Wolfwalkers and transform her into the very thing her father is tasked to destroy.",
+    "coverImage": "https://image.tmdb.org/t/p/w500/vqGiNbdc2sDwsnivMMYzwAoSSu6.jpg",
+    "cast": [
+      "Honor Kneafsey",
+      "Eva Whittaker",
+      "Sean Bean"
+    ],
+    "tags": [
+      "Educational",
+      "Violence",
+      "Scary Imagery"
+    ],
+    "platforms": [
+      "Apple TV",
+      "Apple TV Amazon Channel"
+    ],
+    "rating": "Caution",
+    "reasoning": "The film is rated Caution due to moderate violence related to hunting and conflict, and intense thematic elements involving superstition and transformation. Younger viewers may find the suspense, peril, and the villain's aggression frightening.",
+    "ageRecommendation": "7-18",
+    "minAge": 7.0,
+    "maxAge": 18.0,
+    "releaseYear": "2020",
+    "runtime": "1 hr 42 min",
+    "stimulationLevel": "Medium",
+    "featured": false
+  },
+  {
+    "id": "tt0040402",
+    "tmdbId": "18985",
+    "title": "Green Grass of Wyoming",
+    "synopsis": "The romance of a rancher's niece and a rival rancher's son parallels that of a stallion and a mare.",
+    "coverImage": "https://image.tmdb.org/t/p/w500/myWY0rBMCP44ftESRneYxCGjrSi.jpg",
+    "cast": [
+      "Peggy Cummins",
+      "Charles Coburn",
+      "Robert Arthur"
+    ],
+    "tags": [
+      "Educational",
+      "Violence"
+    ],
+    "platforms": [],
+    "rating": "Safe",
+    "reasoning": "This is a classic family Western focusing on ranch life, romance, and the parallel lives of horses. While conflict arises from ranch rivalry and managing wild animals, the violence is mild and thematic, making it safe for school-aged children.",
+    "ageRecommendation": "7-18",
+    "minAge": 7.0,
+    "maxAge": 18.0,
+    "releaseYear": "1948",
+    "runtime": "1 hr 29 min",
+    "stimulationLevel": "Medium",
+    "featured": false
+  },
+  {
+    "id": "tt0288441",
+    "tmdbId": "15167",
+    "title": "Barbie in the Nutcracker",
+    "synopsis": "The Mouse King casts an evil spell over Clara that causes her to shrink. Clara and the Nutcracker set out on an adventurous journey to find Sugarplum Princess, who has the power to undo the spell.",
+    "coverImage": "https://image.tmdb.org/t/p/w500/eIkXJggVmzN4MyPgJ2kDjOy9lmQ.jpg",
+    "cast": [
+      "Kelly Sheridan",
+      "Kirby Morrow",
+      "Tim Curry"
+    ],
+    "tags": [
+      "Educational",
+      "Violence",
+      "Scary Imagery"
+    ],
+    "platforms": [],
+    "rating": "Safe",
+    "reasoning": "This G-rated animated fantasy involves mild, non-graphic conflict, primarily stemming from the villainous Mouse King and the magical shrinking spell. The movie is safe for preschoolers and focuses on positive themes of courage, friendship, and the arts (ballet).",
+    "ageRecommendation": "3-10",
+    "minAge": 3.0,
+    "maxAge": 10.0,
+    "releaseYear": "2001",
+    "runtime": "1 hr 17 min",
+    "stimulationLevel": "Medium",
+    "featured": false
+  },
+  {
+    "id": "tt0475293",
+    "tmdbId": "10947",
+    "title": "High School Musical",
+    "synopsis": "A popular high school athlete and an academically gifted girl get roles in the school musical and develop a friendship that threatens East High's social order.",
+    "coverImage": "https://image.tmdb.org/t/p/w500/1DGmWZjUJPeKGFRHGCA6VPFUBML.jpg",
+    "cast": [
+      "Zac Efron",
+      "Vanessa Hudgens",
+      "Ashley French"
+    ],
+    "tags": [
+      "Educational"
+    ],
+    "platforms": [
+      "Disney Plus",
+      "fuboTV",
+      "DisneyNOW"
+    ],
+    "rating": "Safe",
+    "reasoning": "This G-rated musical is safe for general audiences as it contains no violence, horror elements, or explicit adult themes. The narrative focuses on positive social themes like self-discovery, challenging stereotypes, and teamwork. It is suitable for older children due to the complexity of the high school drama and romance.",
+    "ageRecommendation": "7-18",
+    "minAge": 7.0,
+    "maxAge": 18.0,
+    "releaseYear": "2006",
+    "runtime": "1 hr 38 min",
+    "stimulationLevel": "Medium",
+    "featured": false
+  },
+  {
+    "id": "tt0028148",
+    "tmdbId": "202009",
+    "title": "The Pups' Christmas",
+    "synopsis": "On Christmas morning two pups and the household's children are up early. The pups are frightened by a large stuffed dog, a train set, a crying doll, a toy tank, and other toys.",
+    "coverImage": "https://image.tmdb.org/t/p/w500/z5eyGI19rXZkfxxC0Kc1L7M2m9t.jpg",
+    "cast": [
+      "Bernice Hansen"
+    ],
+    "tags": [
+      "Scary Imagery"
+    ],
+    "platforms": [],
+    "rating": "Safe",
+    "reasoning": "This 1936 animated short is a classic family comedy, featuring pups that are mildly frightened by harmless Christmas toys. The fear is cartoonish and transient, not intense or horrifying, making it safe for young viewers.",
+    "ageRecommendation": "3-7",
+    "minAge": 3.0,
+    "maxAge": 7.0,
+    "releaseYear": "1936",
+    "runtime": "8 min",
+    "stimulationLevel": "Medium",
+    "featured": false
+  },
+  {
+    "id": "tt0044627",
+    "tmdbId": "235933",
+    "title": "Fool Coverage",
+    "synopsis": "Daffy Duck is an insurance peddler, who arrives uninvited at Porky Pig's door to persuade him to purchase an accident policy on the pretext that his home is loaded with hazards. When Porky rejects Daffy's claim that accidents in the home are \"waiting\" to happen, Daffy rigs some.",
+    "coverImage": "https://image.tmdb.org/t/p/w500/lZjdSgz5Vgb6hpuQtG7B6Gf6cgZ.jpg",
+    "cast": [
+      "Mel Blanc"
+    ],
+    "tags": [
+      "Violence"
+    ],
+    "platforms": [],
+    "rating": "Safe",
+    "reasoning": "This animated short features classic, intense slapstick violence as Daffy Duck attempts to trick Porky Pig into purchasing insurance by rigging dangerous comedic situations. The humor relies heavily on fast-paced, non-realistic cartoon injury, making it suitable for children who understand the difference between fantasy and reality. The high stimulation level is typical of Looney Tunes.",
+    "ageRecommendation": "5-18",
+    "minAge": 5.0,
+    "maxAge": 18.0,
+    "releaseYear": "1952",
+    "runtime": "7 min",
+    "stimulationLevel": "High",
+    "featured": false
+  },
+  {
+    "id": "tt3557440",
+    "tmdbId": "260211",
+    "title": "Achmed Saves America",
+    "synopsis": "From the inventive mind of Jeff Dunham comes the first animated movie starring the world’s most beloved, failed bad guy: Achmed the Dead Terrorist! The Little Skeleton That Couldn’t unexpectedly finds himself in Americaville, USA. There, Achmed is mistaken as a French exchange student while he bumblingly plots to destroy the town and all its “infidels.” But when exposed to the sweet things in life, Achmed’s campaign of hate turns into a patriotic all-American lovefest.",
+    "coverImage": "https://image.tmdb.org/t/p/w500/f0OQLvQL0vyAia6zNKvq0pwdlEt.jpg",
+    "cast": [
+      "Jeff Dunham",
+      "Susan Egan",
+      "Tom Kenny"
+    ],
+    "tags": [
+      "Violence",
+      "Scary Imagery"
+    ],
+    "platforms": [
+      "Amazon Prime Video",
+      "Amazon Prime Video with Ads",
+      "Hoopla",
+      "Plex",
+      "Plex Channel",
+      "Amazon Prime Video Free with Ads",
+      "Cineverse",
+      "Tubi TV"
+    ],
+    "rating": "Unsafe",
+    "reasoning": "This movie features an adult comedy character (Achmed the Dead Terrorist) whose plot revolves around hate, terrorism, and plans to destroy a town full of 'infidels.' Despite the animation genre, the thematic content and satirical intent are mature and entirely inappropriate for children under the teen years. The combination of planned violence and mature political/social themes warrants an 'Unsafe' rating for a children's audience.",
+    "ageRecommendation": "16-18",
+    "minAge": 16.0,
+    "maxAge": 18.0,
+    "releaseYear": "2014",
+    "runtime": "1 hr",
+    "stimulationLevel": "High",
+    "featured": false
+  },
+  {
+    "id": "tt0113211",
+    "tmdbId": "46732",
+    "title": "The Grass Harp",
+    "synopsis": "Based on the novel by Truman Capote, this often-witty coming-of-age drama looks at a young man growing up with an unusual family in the Deep South in the 1940s. Becoming an orphan in 1935, Collin moves to his dad's cousins Verena and Dolly. Verena is a rich, bossy businesswoman. Dolly, Collin and the maid revolt, moving to a tree house.",
+    "coverImage": "https://image.tmdb.org/t/p/w500/pcdi92LC26RW3zm97SwF3NXYTUr.jpg",
+    "cast": [
+      "Piper Laurie",
+      "Sissy Spacek",
+      "Walter Matthau"
+    ],
+    "tags": [
+      "Educational"
+    ],
+    "platforms": [],
+    "rating": "Safe",
+    "reasoning": "This PG-rated coming-of-age drama focuses on complex family dynamics and is suitable for older children due to its thematic focus on orphanhood and domestic conflict. It lacks intense violence or horror elements, maintaining a dramatic but generally gentle tone. The story offers educational value regarding empathy and historical settings.",
+    "ageRecommendation": "9-18",
+    "minAge": 9.0,
+    "maxAge": 18.0,
+    "releaseYear": "1996",
+    "runtime": "1 hr 47 min",
+    "stimulationLevel": "Medium",
+    "featured": false
+  },
+  {
+    "id": "tt0060837",
+    "tmdbId": "379081",
+    "title": "Pink, Plunk, Plink",
+    "synopsis": "The Pink Panther learns to play the violin, and interrupts a performance of Beethoven's Fifth Symphony with the Pink Panther Theme played on various instruments.",
+    "coverImage": "https://image.tmdb.org/t/p/w500/IqfYaKpYMsaXOC0cKfR0cixGR3.jpg",
+    "cast": [
+      "Henry Mancini"
+    ],
+    "tags": [],
+    "platforms": [],
+    "rating": "Safe",
+    "reasoning": "This classic cartoon short is rated Safe due to its reliance on gentle, visual slapstick humor and musical comedy. The primary focus is the Pink Panther's mischief while disrupting a symphony performance, involving minor comedic antagonism but no aggressive violence. It contains no scary themes or mature content, making it suitable for young viewers.",
+    "ageRecommendation": "3-10",
+    "minAge": 3.0,
+    "maxAge": 10.0,
+    "releaseYear": "1966",
+    "runtime": "6 min",
+    "stimulationLevel": "Medium",
+    "featured": false
+  },
+  {
+    "id": "tt0069289",
+    "tmdbId": "15242",
+    "title": "Snoopy, Come Home",
+    "synopsis": "When Snoopy receives a letter from his original owner Lila, he goes to visit her in the hospital while Charlie Brown and the gang are on the lookout for him. Suddenly, Snoopy feels that he must go live with Lila, but must say goodbye to all his friends. In his adventure to the hospital, he encounters numerous \"No Dogs Allowed\" signs, an annoying little girl who desires to keep him, and more!",
+    "coverImage": "https://image.tmdb.org/t/p/w500/vGYhYtoXkpjXTZ7KLQMJehwfLG0.jpg",
+    "cast": [
+      "Chad Webber",
+      "Bill Melendez",
+      "Robin Kohn"
+    ],
+    "tags": [
+      "Educational"
+    ],
+    "platforms": [
+      "Hoopla"
+    ],
+    "rating": "Safe",
+    "reasoning": "This G-rated animated film is character-driven and safe for general audiences, focusing on emotional themes like friendship, loyalty, and separation anxiety. While Snoopy faces minor environmental conflicts (e.g., 'No Dogs Allowed' signs) and emotional tension, the movie contains no violence, scary imagery, or highly stimulating action.",
+    "ageRecommendation": "4-18",
+    "minAge": 4.0,
+    "maxAge": 18.0,
+    "releaseYear": "1972",
+    "runtime": "1 hr 20 min",
+    "stimulationLevel": "Medium",
+    "featured": false
+  },
+  {
+    "id": "tt0286788",
+    "tmdbId": "10735",
+    "title": "What a Girl Wants",
+    "synopsis": "An American girl, Daphne, heads to Europe in search of the father she's never met. But instead of finding a British version of her bohemian mother, she learns the love of her mom's life is an uptight politician. The only problem now is that her long-lost dad is engaged to a fiercely territorial social climber with a daughter who makes Daphne's life miserable.",
+    "coverImage": "https://image.tmdb.org/t/p/w500/gGpMruX59KWNuAXgHpiAm8hiChw.jpg",
+    "cast": [
+      "Amanda Bynes",
+      "Colin Firth",
+      "Kelly Preston"
+    ],
+    "tags": [
+      "Educational"
+    ],
+    "platforms": [],
+    "rating": "Safe",
+    "reasoning": "This PG-rated family comedy is rated Safe due to its focus on lighthearted drama, romance, and culture clash without featuring intense violence, scary imagery, or adult themes. It is suitable for older children (8+) who can understand the interpersonal conflicts and political setting. The movie offers positive lessons about self-acceptance and finding one's place within a complicated family.",
+    "ageRecommendation": "8-14",
+    "minAge": 8.0,
+    "maxAge": 14.0,
+    "releaseYear": "2003",
+    "runtime": "1 hr 45 min",
+    "stimulationLevel": "Medium",
+    "featured": false
+  },
+  {
+    "id": "tt1535989",
+    "tmdbId": "49211",
+    "title": "Freaknik: The Musical",
+    "synopsis": "A rap group heads to Atlanta to participate in Atlanta's revived Freaknik festival.",
+    "coverImage": "https://image.tmdb.org/t/p/w500/oiY31bQfyriNLOK8TbtrSHgFf40.jpg",
+    "cast": [
+      "T-Pain",
+      "Joey Galaxy",
+      "Cee Lo Green"
+    ],
+    "tags": [
+      "Violence"
+    ],
+    "platforms": [],
+    "rating": "Unsafe",
+    "reasoning": "This animated TV movie is strictly aimed at an adult audience (TV-MA). It focuses on the infamous Freaknik festival and is characterized by pervasive crude humor, sexual situations, and themes involving drug and alcohol use. The content is entirely unsuitable and unsafe for children of any age.",
+    "ageRecommendation": "18-18",
+    "minAge": 18.0,
+    "maxAge": 18.0,
+    "releaseYear": "2010",
+    "runtime": "49 min",
+    "stimulationLevel": "High",
+    "featured": false
+  },
+  {
+    "id": "tt0303336",
+    "tmdbId": "85358",
+    "title": "Fifty Percent Grey",
+    "synopsis": "Sergeant wakes up alone with only a widescreen TV for company, in a place designed for him to relax in peace and tranquility, for all eternity...",
+    "coverImage": "https://image.tmdb.org/t/p/w500/379qWaj3ye3kleE583rYXQKgrkc.jpg",
+    "cast": [],
+    "tags": [
+      "Scary Imagery"
+    ],
+    "platforms": [],
+    "rating": "Caution",
+    "reasoning": "This animated short deals with intense existential themes like eternal isolation and being trapped in a psychological purgatory, which is unsettling and conceptually scary for young children. The minimalist animation and focus on internal dread make it suitable only for older, mature audiences capable of handling these heavy philosophical concepts.",
+    "ageRecommendation": "10-18",
+    "minAge": 10.0,
+    "maxAge": 18.0,
+    "releaseYear": "2001",
+    "runtime": "3 min",
+    "stimulationLevel": "Low",
+    "featured": false
+  },
+  {
+    "id": "tt0148425",
+    "tmdbId": "379456",
+    "title": "Love and Hisses",
+    "synopsis": "While feeling amorous, the Blue Racer hits on what he believes is a fellow snake but turns out to be a tough elephant's trunk. The elephant gives him a pounding but hurts his trunk in the process. Coming upon the Japanese Beetle, the pachyderm asks him to perform a little chiropractic karate on his sore trunk. The Beetle obliges, and in gratitude the elephant promises to protect him from a certain serpent.",
+    "coverImage": "https://image.tmdb.org/t/p/w500/o4iusJprrCSX6HOOKZPcoV5KFi5.jpg",
+    "cast": [
+      "Larry D. Mann",
+      "Tom Holland"
+    ],
+    "tags": [
+      "Violence"
+    ],
+    "platforms": [],
+    "rating": "Caution",
+    "reasoning": "This cartoon involves classic slapstick violence, including an elephant giving a snake a 'pounding' and the use of 'chiropractic karate,' which elevates the rating to Caution due to moderate physical conflict. While the violence is non-injurious and humorous, the moderate aggressive content may be unsuitable for the very youngest viewers. The pacing and action are typical of 1970s chase animation.",
+    "ageRecommendation": "4-8",
+    "minAge": 4.0,
+    "maxAge": 8.0,
+    "releaseYear": "1972",
+    "runtime": "6 min",
+    "stimulationLevel": "Medium",
+    "featured": false
+  },
+  {
+    "id": "tt0063823",
+    "tmdbId": "12105",
+    "title": "Yellow Submarine",
+    "synopsis": "The wicked Blue Meanies take over Pepperland, eliminating all color and music. As the only survivor, the Lord Admiral escapes in the yellow submarine and journeys to Liverpool to enlist the help of the Beatles.",
+    "coverImage": "https://image.tmdb.org/t/p/w500/1pmeLKaLFNggcsAk5FiouIvo3ST.jpg",
+    "cast": [
+      "Paul Angelis",
+      "John Clive",
+      "Dick Emery"
+    ],
+    "tags": [
+      "Violence",
+      "Scary Imagery"
+    ],
+    "platforms": [],
+    "rating": "Caution",
+    "reasoning": "This film is rated Caution due to its high visual stimulation, intense psychedelic imagery, and the presence of stylized violence and frightening antagonists (the Blue Meanies). While the conflict is fantastical and resolved positively, the surreal nature of the animation may be overwhelming or confusing for children under seven.",
+    "ageRecommendation": "7-18",
+    "minAge": 7.0,
+    "maxAge": 18.0,
+    "releaseYear": "1968",
+    "runtime": "1 hr 30 min",
+    "stimulationLevel": "High",
+    "featured": false
+  },
+  {
+    "id": "tt1636844",
+    "tmdbId": "91979",
+    "title": "Will",
+    "synopsis": "Brennan is Liverpool's number one fan, able to recite facts ad infinitum about the club and at a public school in the south of England since his father Gareth is emotionally unable to care for him following the death of Will's mother. Gareth appears one day out of the blue with tickets for Liverpool's trip to the 2005 Champions League Final in Istanbul.",
+    "coverImage": "https://image.tmdb.org/t/p/w500/9aEpPFYcOQyqtAinGIqlRws6oaq.jpg",
+    "cast": [
+      "Damian Lewis",
+      "Bob Hoskins",
+      "Rebekah Staton"
+    ],
+    "tags": [
+      "Educational"
+    ],
+    "platforms": [
+      "Amazon Prime Video",
+      "Amazon Prime Video with Ads",
+      "Fawesome",
+      "The Roku Channel"
+    ],
+    "rating": "Safe",
+    "reasoning": "The film explores mature themes of grief and emotional distance following a family death, requiring emotional maturity for viewing. It is rated Safe due to the absence of intense violence, horror, or LGBTQ+ content, focusing instead on familial reconciliation and a passion for sport.",
+    "ageRecommendation": "8-18",
+    "minAge": 8.0,
+    "maxAge": 18.0,
+    "releaseYear": "2011",
+    "runtime": "1 hr 42 min",
+    "stimulationLevel": "Medium",
+    "featured": false
+  },
+  {
+    "id": "tt0192578",
+    "tmdbId": "13351",
+    "title": "Scooby-Doo! in Arabian Nights",
+    "synopsis": "Scooby-Doo and Shaggy travel to Arabia to become the Caliph's Royal Food Tasters. But they bite off more than they can chew and are forced to run for their lives! It's a wild magic carpet ride as Scooby-Doo, Shaggy and their genie (Yogi Bear) and a jolly sailor named Sinbad (Magilla Gorilla) take you on an adventure of mistaken identities, exotic locations and fun-filled action and surprises!",
+    "coverImage": "https://image.tmdb.org/t/p/w500/lCQ4e2iogfvLqWsfYLQedcOUgeh.jpg",
+    "cast": [
+      "Don Messick",
+      "Casey Kasem",
+      "Jennifer Hale"
+    ],
+    "tags": [
+      "Violence",
+      "Scary Imagery"
+    ],
+    "platforms": [],
+    "rating": "Safe",
+    "reasoning": "This G-rated TV movie features lighthearted adventure and slapstick humor typical of the Scooby-Doo and Hanna-Barbera franchises. While it includes mild cartoon violence and fantasy suspense (chases, mistaken identities), the content is non-graphic and quickly resolved. The film is assessed as Safe due to the family-friendly nature and lack of mature themes.",
+    "ageRecommendation": "4-10",
+    "minAge": 4.0,
+    "maxAge": 10.0,
+    "releaseYear": "1994",
+    "runtime": "1 hr 9 min",
+    "stimulationLevel": "Medium",
+    "featured": false
+  },
+  {
+    "id": "tt2296777",
+    "tmdbId": "370567",
+    "title": "Sherlock Gnomes",
+    "synopsis": "Garden gnomes Gnomeo & Juliet recruit renown detective Sherlock Gnomes to investigate the mysterious disappearance of other garden ornaments.",
+    "coverImage": "https://image.tmdb.org/t/p/w500/wqnzpJR3PwS4doVkAkt9seSEpoX.jpg",
+    "cast": [
+      "Johnny Depp",
+      "Emily Blunt",
+      "James McAvoy"
+    ],
+    "tags": [
+      "Educational",
+      "Violence",
+      "Scary Imagery"
+    ],
+    "platforms": [
+      "Paramount+ Amazon Channel",
+      "Paramount+ Roku Premium Channel",
+      "Paramount Plus Essential",
+      "Paramount Plus Premium",
+      "Hoopla"
+    ],
+    "rating": "Caution",
+    "reasoning": "The film carries a PG rating and involves moderate animated violence, chase sequences, and suspense related to the mystery plot and the villain's threats. It is suitable for children aged 5 and up who can handle mild peril and action-adventure themes, focusing on themes of cooperation and detective work.",
+    "ageRecommendation": "5-10",
+    "minAge": 5.0,
+    "maxAge": 10.0,
+    "releaseYear": "2018",
+    "runtime": "1 hr 26 min",
+    "stimulationLevel": "Medium",
+    "featured": false
+  },
+  {
+    "id": "tt0023696",
+    "tmdbId": "70880",
+    "title": "The Whoopee Party",
+    "synopsis": "A house party. While Minnie plays piano and the guests dance, Mickey, Goofy, and Horace prepare a snack, which is brought out to much fanfare and immediately devoured. A band forms and plays Scott Joplin's The Entertainer; Mickey dances with Patricia Pig and various inanimate objects also dance, while all cry \"Whoopee!\" from time to time. The police come to break up the party.",
+    "coverImage": "https://image.tmdb.org/t/p/w500/2eMVsGkqKbqCzf3NfFrtb64WBxE.jpg",
+    "cast": [
+      "Walt Disney",
+      "Marcellite Garner",
+      "Pinto Colvig"
+    ],
+    "tags": [],
+    "platforms": [],
+    "rating": "Safe",
+    "reasoning": "This classic Mickey Mouse cartoon is a fast-paced, musical romp featuring harmless slapstick and dancing, culminating in the police gently breaking up the party. The content is pure comedy and entertainment, making it safe for toddlers and young children. The high energy and loud music are typical of 1930s animation.",
+    "ageRecommendation": "2-9",
+    "minAge": 2.0,
+    "maxAge": 9.0,
+    "releaseYear": "1932",
+    "runtime": "7 min",
+    "stimulationLevel": "High",
+    "featured": false
+  },
+  {
+    "id": "tt0048304",
+    "tmdbId": "206171",
+    "title": "The Littlest Outlaw",
+    "synopsis": "Little Pablito is the ten year old son of a cruel horse trainer. The trainer is responsible for training a Mexican General's horse to jump for the grand race. The trainer's methods cause the horse to become afraid of jumping and the general orders the animal's death. Pablito runs away with the horse, becoming a fugitive. He travels throughout Mexico encountering several fugitives and a priest who tries to help.",
+    "coverImage": "https://image.tmdb.org/t/p/w500/zL64NjedV7cVxCyWyCQikv1Mm4x.jpg",
+    "cast": [
+      "Pedro Armendáriz",
+      "Joseph Calleia",
+      "Rodolfo Acosta"
+    ],
+    "tags": [
+      "Educational",
+      "Violence",
+      "Scary Imagery"
+    ],
+    "platforms": [],
+    "rating": "Caution",
+    "reasoning": "This film receives a Caution rating due to its intense dramatic elements, including implied animal abuse by the cruel horse trainer and the General ordering the animal's execution. The plot centers on a child fugitive, creating significant suspense and emotional tension that is better suited for older school-aged viewers who can process the stressful stakes.",
+    "ageRecommendation": "8-12",
+    "minAge": 8.0,
+    "maxAge": 12.0,
+    "releaseYear": "1955",
+    "runtime": "1 hr 13 min",
+    "stimulationLevel": "Medium",
+    "featured": false
+  },
+  {
+    "id": "tt23063732",
+    "tmdbId": "831815",
+    "title": "Saving Bikini Bottom: The Sandy Cheeks Movie",
+    "synopsis": "When Bikini Bottom is scooped from the ocean, scientific squirrel Sandy Cheeks and her pal SpongeBob SquarePants saddle up for Texas to save their town.",
+    "coverImage": "https://image.tmdb.org/t/p/w500/30YnfZdMNIV7noWLdvmcJS0cbnQ.jpg",
+    "cast": [
+      "Carolyn Lawrence",
+      "Tom Kenny",
+      "Clancy Brown"
+    ],
+    "tags": [
+      "Educational",
+      "Violence"
+    ],
+    "platforms": [
+      "Netflix",
+      "Netflix Standard with Ads"
+    ],
+    "rating": "Safe",
+    "reasoning": "This G-rated animated adventure is designed for family viewing and adheres to established safety standards typical of the SpongeBob franchise. It contains high visual stimulation and mild slapstick violence common in cartoon comedy, but lacks scary or complex themes. The movie promotes values such as teamwork and friendship, making it safe for preschool and elementary audiences.",
+    "ageRecommendation": "3-12",
+    "minAge": 3.0,
+    "maxAge": 12.0,
+    "releaseYear": "2024",
+    "runtime": "1 hr 27 min",
+    "stimulationLevel": "High",
+    "featured": false
+  },
+  {
+    "id": "tt0044137",
+    "tmdbId": "67695",
+    "title": "Tomorrow We Diet",
+    "synopsis": "Indeed, man craves to eat and George Geef (Goofy) is no exception. He eats like it's going out of style. Finally, his reflection in the mirror tells him he's getting too fat. Goofy starts showing all the signs of being overweight. When he gets into a taxi, the back tires deflate. When he gets into an elevator, the elevator remains grounded. Goofy's reflection \"helps\" him lose weight by refusing to let him eat. Geef thinks he can resist but is soon upset by all manner of temptations. He goes to bed but sleepwalks to the refrigerator only to discover it is empty. It turns out his reflection ate all the food telling him, \"Eat, drink, and be merry, and tomorrow we diet!\"",
+    "coverImage": "https://image.tmdb.org/t/p/w500/xFtRyJIAGA5ngVQal7uaWgBG7b.jpg",
+    "cast": [
+      "Pinto Colvig"
+    ],
+    "tags": [],
+    "platforms": [],
+    "rating": "Safe",
+    "reasoning": "This is a classic Disney animated short relying on visual gags and slapstick centered on the comedic premise of overeating and dieting. Content is mild with no scary elements or significant violence, making it appropriate for general audiences. The short uses exaggerated situations for humor rather than teaching health lessons.",
+    "ageRecommendation": "4-18",
+    "minAge": 4.0,
+    "maxAge": 18.0,
+    "releaseYear": "1951",
+    "runtime": "7 min",
+    "stimulationLevel": "High",
+    "featured": false
+  },
+  {
+    "id": "tt0056095",
+    "tmdbId": "34774",
+    "title": "In Search of the Castaways",
+    "synopsis": "Two teenagers, Mary (Hayley Mills) and Robert (Keith Hamshere) are lead by Professor Paganel (Maurice Chevalier) on a search expedition for the children's shipwrecked sea captain father. This Disney film was based upon Jules Verne's 1868 adventure novel Captain Grant's Children.",
+    "coverImage": "https://image.tmdb.org/t/p/w500/27hbGwIAmvcB9X9FdXSwvU05frt.jpg",
+    "cast": [
+      "Maurice Chevalier",
+      "Hayley Mills",
+      "George Sanders"
+    ],
+    "tags": [
+      "Educational",
+      "Violence",
+      "Scary Imagery"
+    ],
+    "platforms": [],
+    "rating": "Safe",
+    "reasoning": "This G-rated Disney adventure features mild suspense and peril typical of a 1960s family film, including dangers faced during an extensive search expedition across multiple continents. Content includes themes of loyalty and exploration, but lacks intense violence or frightening horror elements.",
+    "ageRecommendation": "5-18",
+    "minAge": 5.0,
+    "maxAge": 18.0,
+    "releaseYear": "1962",
+    "runtime": "1 hr 38 min",
+    "stimulationLevel": "Medium",
+    "featured": false
+  },
+  {
+    "id": "tt15720718",
+    "tmdbId": "896221",
+    "title": "Trolls Holiday in Harmony",
+    "synopsis": "Queen Poppy plans the first annual Trolls Kingdom Secret Holiday Gift Swap, but things don't go quite as expected.",
+    "coverImage": "https://image.tmdb.org/t/p/w500/xl0jqhLC8BwtZT6pXGgKwSygQ4u.jpg",
+    "cast": [
+      "Anna Kendrick",
+      "Justin Timberlake",
+      "Kenan Thompson"
+    ],
+    "tags": [
+      "Educational",
+      "Violence"
+    ],
+    "platforms": [],
+    "rating": "Safe",
+    "reasoning": "This Trolls special is high-energy with intense colors and fast pacing, but the content is strictly lighthearted. It contains only mild, slapstick cartoon violence and promotes positive themes of friendship and holiday spirit, making it safe for preschoolers and young children.",
+    "ageRecommendation": "3-10",
+    "minAge": 3.0,
+    "maxAge": 10.0,
+    "releaseYear": "2021",
+    "runtime": "26 min",
+    "stimulationLevel": "High",
+    "featured": false
+  },
+  {
+    "id": "tt0054472",
+    "tmdbId": "234754",
+    "title": "Who Scent You?",
+    "synopsis": "A female cat wants to board a French cruise ship. Prior to the ship's departure, she crawls under a freshly-painted gate and gets a white streak atop her back and tail. Enter enamored Pepé Le Pew.",
+    "coverImage": "https://image.tmdb.org/t/p/w500/80mYOdXxhmS2LyJhxbWOyt0XzQS.jpg",
+    "cast": [
+      "Mel Blanc"
+    ],
+    "tags": [
+      "Violence"
+    ],
+    "platforms": [],
+    "rating": "Safe",
+    "reasoning": "This classic cartoon features fast-paced action, intense slapstick violence, and persistent pursuit comedy typical of Looney Tunes shorts. While the plot revolves around aggressive, unwanted romantic advances, it is presented as broad cartoon humor rather than realistic conflict. The high stimulation level is characteristic of the chase genre.",
+    "ageRecommendation": "4-10",
+    "minAge": 4.0,
+    "maxAge": 10.0,
+    "releaseYear": "1960",
+    "runtime": "6 min",
+    "stimulationLevel": "High",
+    "featured": false
+  },
+  {
+    "id": "tt0039838",
+    "tmdbId": "67169",
+    "title": "Sleepy Time Donald",
+    "synopsis": "Donald Duck would never believe it, but he suffers from sleepwalking. In this blessed innocent state he makes a nightly call at Daisy's, as if it were the time of their romantic appointment; knowing one should not wake or contradict a sleepwalker, she plays along, but finds it increasingly difficult to follow Donald and prevent him coming to harm when he ignorantly strolls the most dangerous places, such as the lion's cage in the zoo, including impossible ones, such as up a wall and even upside down. When she finally gets Donald safely in bed, he wakes up and thinks, seeing her sneak out, she's the sleepwalker.",
+    "coverImage": "https://image.tmdb.org/t/p/w500/5FDweNidUgvlZ58OAJUpyGCcJbR.jpg",
+    "cast": [
+      "Clarence Nash",
+      "Gloria Blondell"
+    ],
+    "tags": [
+      "Violence"
+    ],
+    "platforms": [],
+    "rating": "Caution",
+    "reasoning": "This short features frequent and high-energy slapstick violence and cartoon peril, including dangerous situations like being near a lion's cage and falling from great heights, played for comedy. The 'Caution' rating is applied due to the moderate intensity of the animated violence and the suspenseful situations involving near-fatal outcomes, which may be overwhelming for younger preschoolers.",
+    "ageRecommendation": "4-10",
+    "minAge": 4.0,
+    "maxAge": 10.0,
+    "releaseYear": "1947",
+    "runtime": "7 min",
+    "stimulationLevel": "High",
+    "featured": false
+  },
+  {
+    "id": "tt0102653",
+    "tmdbId": "110486",
+    "title": "Perfect Harmony",
+    "synopsis": "During the 1950s, a private school in the south undergoes racial tension as it experiences desegregation.  Can a love of music help ease the pain?",
+    "coverImage": "https://image.tmdb.org/t/p/w500/rlFrE47ioLdeMIpFclT6LCiyzGj.jpg",
+    "cast": [
+      "Peter Scolari",
+      "Darren McGavin",
+      "Catherine Mary Stewart"
+    ],
+    "tags": [
+      "Educational",
+      "Violence"
+    ],
+    "platforms": [],
+    "rating": "Caution",
+    "reasoning": "This historical drama explores intense themes of racial tension and prejudice during the 1950s desegregation era. While the film offers positive resolutions through music, it contains necessary social conflict and emotional distress, warranting a caution rating for younger viewers.",
+    "ageRecommendation": "9-18",
+    "minAge": 9.0,
+    "maxAge": 18.0,
+    "releaseYear": "1991",
+    "runtime": "1 hr 29 min",
+    "stimulationLevel": "Medium",
+    "featured": false
+  },
+  {
+    "id": "tt0059533",
+    "tmdbId": "234389",
+    "title": "Of Feline Bondage",
+    "synopsis": "Tom chases Jerry around a pool hall. Jerry's fairy godmouse arrives, and Jerry tells the story; she gives him an invisibility potion. Jerry uses this to do some creative barbering on Tom, but when the potion wears off, Tom gets his revenge, and they both have a good laugh.",
+    "coverImage": "https://image.tmdb.org/t/p/w500/9CJQPoA9OfK5v8fuTJc4Sen5ux3.jpg",
+    "cast": [
+      "June Foray",
+      "Mel Blanc"
+    ],
+    "tags": [
+      "Violence"
+    ],
+    "platforms": [],
+    "rating": "Caution",
+    "reasoning": "This short contains high-energy slapstick violence, chasing, and creative forms of assault (barbering/revenge), typical of the Tom and Jerry series. The frequent and central nature of the cartoon violence necessitates a 'Caution' rating, though the lack of scary or mature themes makes it suitable for preschool and early school-age children.",
+    "ageRecommendation": "3-10",
+    "minAge": 3.0,
+    "maxAge": 10.0,
+    "releaseYear": "1965",
+    "runtime": "6 min",
+    "stimulationLevel": "High",
+    "featured": false
+  },
+  {
+    "id": "tt7146812",
+    "tmdbId": "508439",
+    "title": "Onward",
+    "synopsis": "In a suburban fantasy world, two teenage elf brothers embark on an extraordinary quest to discover if there is still a little magic left out there.",
+    "coverImage": "https://image.tmdb.org/t/p/w500/f4aul3FyD3jv3v4bul1IrkWZvzq.jpg",
+    "cast": [
+      "Tom Holland",
+      "Chris Pratt",
+      "Julia Louis-Dreyfus"
+    ],
+    "tags": [
+      "Educational",
+      "LGBTQ+ Themes",
+      "Violence",
+      "Scary Imagery"
+    ],
+    "platforms": [
+      "Disney Plus"
+    ],
+    "rating": "Unsafe",
+    "reasoning": "The film contains high-stimulation fantasy action, intense peril, and frightening imagery (e.g., dragon transformation) typical of a PG rating, making it appropriate only for older children. Following strict safety guidelines, the film is categorized as \"Unsafe\" due to the presence of a minor LGBTQ+ theme (a character referencing her girlfriend).",
+    "ageRecommendation": "7-18",
+    "minAge": 7.0,
+    "maxAge": 18.0,
+    "releaseYear": "2020",
+    "runtime": "1 hr 42 min",
+    "stimulationLevel": "High",
+    "featured": false
+  },
+  {
+    "id": "tt0029260",
+    "tmdbId": "67125",
+    "title": "Moose Hunters",
+    "synopsis": "Goofy (front) and Donald (rear) are dressed in a moose suit, trying to lure moose for hunter Mickey. When they do find one, it turns out to be more than they can handle.",
+    "coverImage": "https://image.tmdb.org/t/p/w500/uutfj4HFkYITTvyCu4xHeojy43i.jpg",
+    "cast": [
+      "Pinto Colvig",
+      "Walt Disney",
+      "Clarence Nash"
+    ],
+    "tags": [
+      "Violence"
+    ],
+    "platforms": [],
+    "rating": "Safe",
+    "reasoning": "This classic Disney short features high-energy slapstick comedy and cartoon violence, primarily involving chasing and comedic physical gags. The action is non-realistic and brief, typical of 1930s animation, making it suitable for young children despite the violent elements.",
+    "ageRecommendation": "3-18",
+    "minAge": 3.0,
+    "maxAge": 18.0,
+    "releaseYear": "1937",
+    "runtime": "8 min",
+    "stimulationLevel": "High",
+    "featured": false
+  },
+  {
+    "id": "tt0312528",
+    "tmdbId": "10588",
+    "title": "The Cat in the Hat",
+    "synopsis": "During a rainy day, and while their mother is out, Conrad and Sally, and their pet fish, are visited by the mischievous Cat in the Hat. Fun soon turns to mayhem, and the siblings must figure out how to rid themselves of the maniacal Cat.",
+    "coverImage": "https://image.tmdb.org/t/p/w500/uYYLz67e5xEQMsY858VSSCDsLU6.jpg",
+    "cast": [
+      "Mike Myers",
+      "Dakota Fanning",
+      "Spencer Breslin"
+    ],
+    "tags": [
+      "Educational",
+      "Violence",
+      "Scary Imagery"
+    ],
+    "platforms": [
+      "Netflix",
+      "Netflix Standard with Ads"
+    ],
+    "rating": "Caution",
+    "reasoning": "The film receives a Caution rating due to its chaotic, high-energy mayhem, intense slapstick violence, and crude humor reflected in its PG certification. The exaggerated and sometimes unsettling appearance of the Cat, combined with fast-paced fantasy sequences, may be overly stimulating or frightening for younger children.",
+    "ageRecommendation": "7-18",
+    "minAge": 7.0,
+    "maxAge": 18.0,
+    "releaseYear": "2003",
+    "runtime": "1 hr 22 min",
+    "stimulationLevel": "High",
+    "featured": false
+  },
+  {
+    "id": "tt0203593",
+    "tmdbId": "35020",
+    "title": "It's the Pied Piper, Charlie Brown",
+    "synopsis": "Based on the legend of the Pied Piper, it stars Snoopy as the title character, who tries to rid the Peanuts' gang's hometown of mice by playing his concertina, in return for a year's supply of dog food.",
+    "coverImage": "https://image.tmdb.org/t/p/w500/2e3PL7aNjHryfaDtWueRSQDnfqu.jpg",
+    "cast": [
+      "Quinn Beswick",
+      "Ashley Edner",
+      "Rachel Davey"
+    ],
+    "tags": [
+      "Educational"
+    ],
+    "platforms": [
+      "Rakuten Viki"
+    ],
+    "rating": "Safe",
+    "reasoning": "This Peanuts special is characterized by gentle humor and light adventure, focusing on Snoopy's attempts to solve a town problem without conflict. It is safe for young children (ages 4+) and introduces a classic folklore concept in a non-frightening, socio-emotionally valuable context.",
+    "ageRecommendation": "4-12",
+    "minAge": 4.0,
+    "maxAge": 12.0,
+    "releaseYear": "2000",
+    "runtime": "25 min",
+    "stimulationLevel": "Medium",
+    "featured": false
+  },
+  {
+    "id": "tt3951298",
+    "tmdbId": "377206",
+    "title": "Army Dog",
+    "synopsis": "A brave Army dog returns to the U.S., where he helps his heroic handler bond with his resentful daughter on a camping trip despite danger lurking around every corner.",
+    "coverImage": "https://image.tmdb.org/t/p/w500/5XPyYkqxU6bYK9p5Rv8i6ipY5j8.jpg",
+    "cast": [
+      "Casper Van Dien",
+      "Grace Van Dien",
+      "Stelio Savante"
+    ],
+    "tags": [
+      "Educational",
+      "Violence",
+      "Scary Imagery"
+    ],
+    "platforms": [
+      "Amazon Prime Video",
+      "Peacock Premium",
+      "Amazon Prime Video with Ads",
+      "Peacock Premium Plus",
+      "Hoopla",
+      "Plex",
+      "Plex Channel",
+      "Fawesome",
+      "The Roku Channel",
+      "Fandango at Home Free",
+      "Amazon Prime Video Free with Ads",
+      "Tubi TV"
+    ],
+    "rating": "Caution",
+    "reasoning": "This PG-rated action/family movie involves moderate violence and suspense due to the 'danger lurking' and action sequences involving an Army dog. While the themes of family bonding are positive, the presence of conflict and peril warrants a Caution rating for viewers under 8. The content is suitable for older children and families.",
+    "ageRecommendation": "8-18",
+    "minAge": 8.0,
+    "maxAge": 18.0,
+    "releaseYear": "2016",
+    "runtime": "1 hr 27 min",
+    "stimulationLevel": "Medium",
+    "featured": false
+  },
+  {
+    "id": "tt0173932",
+    "tmdbId": "270432",
+    "title": "It Was My Best Birthday Ever, Charlie Brown!",
+    "synopsis": "Linus is planning a birthday party. While trying out his new in-line skates in the neighborhood park, he meets a nice little girl with a beautiful singing voice. Linus invites his new friend to the party. The party should be wonderful, but Linus will only be satisfied if the little girl attends. He is completely smitten!",
+    "coverImage": "https://image.tmdb.org/t/p/w500/kRlFNgedeJmq6PyWU2Xz5FvQDjd.jpg",
+    "cast": [
+      "Steven Hartman",
+      "Anthony Burch",
+      "Jamie Cronin"
+    ],
+    "tags": [
+      "Educational"
+    ],
+    "platforms": [],
+    "rating": "Safe",
+    "reasoning": "This Peanuts special is a gentle, character-driven story focusing on friendship, social dynamics, and handling a childhood crush. It contains minimal conflict, no violence, and is appropriate for very young viewers. The content emphasizes positive social-emotional themes.",
+    "ageRecommendation": "2-12",
+    "minAge": 2.0,
+    "maxAge": 12.0,
+    "releaseYear": "1997",
+    "runtime": "25 min",
+    "stimulationLevel": "Low",
+    "featured": false
+  },
+  {
+    "id": "tt1606191",
+    "tmdbId": "124601",
+    "title": "A Christmas Snow",
+    "synopsis": "For Kathleen, Christmas has always been an unwelcome reminder of her father’s abandonment almost 30 years ago. Although she has tried to forget her past, it has not forgotten her. In the days leading up to Christmas un unforgiving blizzard traps her in her own home with two unlikely roommates.  Same, a gentle older man Kathleen took in for the night and Lucy, the daughter of her soon to be fiancé bring her face to face with the hurts of her past.  Will she be able to let go and grab hold of a life-changing forgiveness or will she continue to be haunted by the pain of the past?",
+    "coverImage": "https://image.tmdb.org/t/p/w500/cW8LaA7FACz2TDXobtUqSVhyH7d.jpg",
+    "cast": [
+      "Catherine Mary Stewart",
+      "Muse Watson",
+      "Cameron Ten Napel"
+    ],
+    "tags": [
+      "Educational"
+    ],
+    "platforms": [
+      "Dove Amazon Channel",
+      "Hoopla",
+      "Plex",
+      "Plex Channel",
+      "The Roku Channel",
+      "Fandango at Home Free",
+      "Pluto TV",
+      "Cineverse",
+      "Tubi TV"
+    ],
+    "rating": "Caution",
+    "reasoning": "The film deals with heavy dramatic themes of parental abandonment, resentment, and the difficult process of achieving forgiveness, warranting a PG rating and minimum age of 8. While lacking physical violence or scary imagery, the focus on emotional trauma may be overwhelming for younger children. It teaches important moral and emotional values.",
+    "ageRecommendation": "8-18",
+    "minAge": 8.0,
+    "maxAge": 18.0,
+    "releaseYear": "2010",
+    "runtime": "1 hr 52 min",
+    "stimulationLevel": "Medium",
+    "featured": false
+  },
+  {
+    "id": "tt0047284",
+    "tmdbId": "100321",
+    "title": "No Barking",
+    "synopsis": "A homeless cat (Claude Cat) searching for food is harassed by the playful antics and barking of an energetic pup (Frisky Puppy). Frisky repeatedly sneaks up behind the poor tabby cat (who hates the dog) and scares it into jumping vertically when it barks. After Claude finally silences the pup, he encounters a larger dog, whose bark has a disastrous effect. Tweety Bird has two lines. Can you guess what they are?",
+    "coverImage": "https://image.tmdb.org/t/p/w500/jN2tMp7vtX8OX2lASYzDP39RLKh.jpg",
+    "cast": [
+      "Mel Blanc"
+    ],
+    "tags": [
+      "Violence",
+      "Scary Imagery"
+    ],
+    "platforms": [],
+    "rating": "Caution",
+    "reasoning": "This short features high-energy slapstick focused entirely on a cat being repeatedly harassed and jump-scared by loud barking, leading to physical comedy and antagonism. The frequent jump scares and moderate cartoon violence suggest a Caution rating, making it unsuitable for toddlers who may be startled by the sudden loud noises.",
+    "ageRecommendation": "4-10",
+    "minAge": 4.0,
+    "maxAge": 10.0,
+    "releaseYear": "1954",
+    "runtime": "7 min",
+    "stimulationLevel": "High",
+    "featured": false
+  },
+  {
+    "id": "tt1488181",
+    "tmdbId": "133931",
+    "title": "Zambezia",
+    "synopsis": "Set in a bustling bird city on the edge of the majestic Victoria Falls, \"Zambezia\" is the story of Kai - a naïve, but high-spirited young falcon who travels to the bird city of \"Zambezia\" where he discovers the truth about his origins and, in defending the city, learns how to be part of a community.",
+    "coverImage": "https://image.tmdb.org/t/p/w500/7aJl440TlbyqthklVrvCnSbjKYe.jpg",
+    "cast": [
+      "Samuel L. Jackson",
+      "Abigail Breslin",
+      "Leonard Nimoy"
+    ],
+    "tags": [
+      "Educational",
+      "Violence",
+      "Scary Imagery"
+    ],
+    "platforms": [
+      "fuboTV",
+      "The Roku Channel",
+      "Tubi TV"
+    ],
+    "rating": "Safe",
+    "reasoning": "This G-rated animated adventure is safe for young children, focusing on themes of community and self-discovery. It includes typical animated action and mild peril related to defending the city, which is appropriate for preschoolers and up. The occasional conflict and suspense do not escalate beyond typical family movie standards.",
+    "ageRecommendation": "3-12",
+    "minAge": 3.0,
+    "maxAge": 12.0,
+    "releaseYear": "2012",
+    "runtime": "1 hr 23 min",
+    "stimulationLevel": "Medium",
+    "featured": false
+  },
+  {
+    "id": "tt4877122",
+    "tmdbId": "378236",
+    "title": "The Emoji Movie",
+    "synopsis": "Gene, a multi-expressional emoji, sets out on a journey to become a normal emoji.",
+    "coverImage": "https://image.tmdb.org/t/p/w500/60bTx5z9zL1AqCjZ0gmWoRMJ6Bb.jpg",
+    "cast": [
+      "T.J. Miller",
+      "James Corden",
+      "Anna Faris"
+    ],
+    "tags": [
+      "Educational",
+      "Violence"
+    ],
+    "platforms": [
+      "Netflix"
+    ],
+    "rating": "Caution",
+    "reasoning": "The film is rated PG and features high stimulation due to fast cuts, bright colors, and intense pacing, which can be overwhelming for toddlers. It contains moderate cartoon violence involving bots chasing characters and peril related to digital deletion. The core theme teaches positive social-emotional values like self-acceptance and friendship.",
+    "ageRecommendation": "6-12",
+    "minAge": 6.0,
+    "maxAge": 12.0,
+    "releaseYear": "2017",
+    "runtime": "1 hr 26 min",
+    "stimulationLevel": "High",
+    "featured": false
+  },
+  {
+    "id": "tt0013994",
+    "tmdbId": "175692",
+    "title": "Dogs of War!",
+    "synopsis": "The gang wages war using old vegetables as munitions. Later, they ruin a movie in progress when they double-expose the film.",
+    "coverImage": "https://image.tmdb.org/t/p/w500/6tf6YSsTUI8hDespy2TNcMhNnVa.jpg",
+    "cast": [
+      "Harold Lloyd",
+      "Roy Brooks",
+      "Joe Cobb"
+    ],
+    "tags": [
+      "Violence"
+    ],
+    "platforms": [],
+    "rating": "Safe",
+    "reasoning": "This film is a classic slapstick comedy short featuring children engaged in playful mischief. While it involves simulated fighting ('war'), the use of vegetables ensures the violence is harmless and comical and not intended to be frightening. It is highly suitable for preschool and elementary-aged viewers who enjoy visual gags.",
+    "ageRecommendation": "3-10",
+    "minAge": 3.0,
+    "maxAge": 10.0,
+    "releaseYear": "1923",
+    "runtime": "24 min",
+    "stimulationLevel": "Medium",
+    "featured": false
+  },
+  {
+    "id": "tt0153118",
+    "tmdbId": "235019",
+    "title": "To Catch a Woodpecker",
+    "synopsis": "The Miracle Telephone Company attempts to stop Woody Woodpecker from pecking holes in its telephone poles.",
+    "coverImage": "https://image.tmdb.org/t/p/w500/i4S2ZJRwhTf97mHK1slspmSzvsY.jpg",
+    "cast": [
+      "Grace Stafford",
+      "Daws Butler"
+    ],
+    "tags": [
+      "Violence"
+    ],
+    "platforms": [],
+    "rating": "Caution",
+    "reasoning": "This classic cartoon features high-speed, intense slapstick violence, including continuous attempts by the antagonists to catch and physically harm Woody Woodpecker using traps and aggressive actions. It is rated Caution due to the moderate level of non-graphic aggression and peril common in the genre.",
+    "ageRecommendation": "4-18",
+    "minAge": 4.0,
+    "maxAge": 18.0,
+    "releaseYear": "1957",
+    "runtime": "6 min",
+    "stimulationLevel": "High",
+    "featured": false
+  },
+  {
+    "id": "tt0041146",
+    "tmdbId": "84664",
+    "title": "Bad Luck Blackie",
+    "synopsis": "A kitten who is being tormented by a bulldog finds a savior in a black cat (from the \"Black Cat Bad Luck Company\") who merely has to cross the dog's path for something very unlucky to happen to the bully.",
+    "coverImage": "https://image.tmdb.org/t/p/w500/lGAD6xIANMbGJwy0Xo3SSD0Rlij.jpg",
+    "cast": [
+      "Pat McGeehan",
+      "Harry Lang",
+      "Tex Avery"
+    ],
+    "tags": [
+      "Violence"
+    ],
+    "platforms": [],
+    "rating": "Caution",
+    "reasoning": "This classic Tex Avery cartoon features high-speed action and intense, persistent cartoon slapstick violence (e.g., anvils falling, explosions) aimed at the bully. While played strictly for laughs, the aggressive nature and high stimulation level warrant a Caution rating for very young viewers who may be startled or attempt to mimic the behavior.",
+    "ageRecommendation": "5-18",
+    "minAge": 5.0,
+    "maxAge": 18.0,
+    "releaseYear": "1949",
+    "runtime": "8 min",
+    "stimulationLevel": "High",
+    "featured": false
+  },
+  {
+    "id": "tt0290382",
+    "tmdbId": "27874",
+    "title": "A Wrinkle in Time",
+    "synopsis": "Meg and Charles Wallace are aided by Calvin and three interesting women in the search for their father who disappeared during a government experiment. Their travels take them around the universe to a place unlike any other.",
+    "coverImage": "https://image.tmdb.org/t/p/w500/mMES5XApmhBmc06RxsT1a0DmUHQ.jpg",
+    "cast": [
+      "Katie Stuart",
+      "Gregory Smith",
+      "David Dorfman"
+    ],
+    "tags": [
+      "Educational",
+      "Violence",
+      "Scary Imagery"
+    ],
+    "platforms": [
+      "Hoopla"
+    ],
+    "rating": "Caution",
+    "reasoning": "This movie earns a 'Caution' rating due to moderate sci-fi suspense and conceptual fear, primarily centered on the antagonist 'IT' and the world of forced conformity (Camazotz). While suitable for older elementary children, the struggle against psychological control and the frightening imagery may be too intense for younger viewers. It teaches valuable lessons about individuality and the power of love.",
+    "ageRecommendation": "7-14",
+    "minAge": 7.0,
+    "maxAge": 14.0,
+    "releaseYear": "2003",
+    "runtime": "2 hr 8 min",
+    "stimulationLevel": "Medium",
+    "featured": false
+  },
+  {
+    "id": "tt0042280",
+    "tmdbId": "78482",
+    "title": "The Brave Engineer",
+    "synopsis": "Casey Jones is one of the best engineers there is and it is his duty to get his cargo to its destination on time via train. He sets off but is set back by a number of unfortunate circumstances such as a rain storm, a cow on the tracks, a mad bomber, and finally, when his train starts falling apart. Worst of all, he is on a collision course with another train coming in the opposite direction. After a terrific crash, the man at the train station assumes the worst when Casey doesn't show up but, to his delight, Casey finally makes it to his destination a total wreck but on time (almost).",
+    "coverImage": "https://image.tmdb.org/t/p/w500/42hPStDkAqood9jJ1Ax7n8hpaM3.jpg",
+    "cast": [
+      "Jerry Colonna",
+      "Ken Darby",
+      "Jon Dodson"
+    ],
+    "tags": [
+      "Violence"
+    ],
+    "platforms": [],
+    "rating": "Caution",
+    "reasoning": "This short is rated Caution due to its extremely high stimulation level and intense peril, culminating in a 'terrific crash' and the presence of a 'mad bomber.' While the violence is cartoonish, the relentless pace and catastrophic collision may be distressing for children under four.",
+    "ageRecommendation": "4-18",
+    "minAge": 4.0,
+    "maxAge": 18.0,
+    "releaseYear": "1950",
+    "runtime": "8 min",
+    "stimulationLevel": "High",
+    "featured": false
+  },
+  {
+    "id": "tt10736082",
+    "tmdbId": "618346",
+    "title": "DC Showcase: Sgt. Rock",
+    "synopsis": "Just after recovering from losing his entire unit in battle, Sgt. Rock leads a special army of commandos against a Nazi secret research base.",
+    "coverImage": "https://image.tmdb.org/t/p/w500/unKs4vcDibIgRKyveOTwiBX6bBq.jpg",
+    "cast": [
+      "Karl Urban",
+      "Keith Ferguson",
+      "William Salyers"
+    ],
+    "tags": [
+      "Violence",
+      "Scary Imagery"
+    ],
+    "platforms": [],
+    "rating": "Unsafe",
+    "reasoning": "This PG-13 animated short involves intense war violence, military combat, and frightening sci-fi themes related to a Nazi secret base. The focus on intense action and loss makes the content unsuitable for children under 13.",
+    "ageRecommendation": "13-18",
+    "minAge": 13.0,
+    "maxAge": 18.0,
+    "releaseYear": "2019",
+    "runtime": "14 min",
+    "stimulationLevel": "High",
+    "featured": false
+  },
+  {
+    "id": "tt0027421",
+    "tmdbId": "57840",
+    "title": "Captain January",
+    "synopsis": "A little girl named Star lives with a lighthouse keeper who rescued her when her parents drowned. A truant officer decides she should go to boarding school but she's rescued by relatives.",
+    "coverImage": "https://image.tmdb.org/t/p/w500/7iRxFqWmhCfEa39EElGfw10wKVQ.jpg",
+    "cast": [
+      "Shirley Temple",
+      "Guy Kibbee",
+      "Slim Summerville"
+    ],
+    "tags": [
+      "Educational"
+    ],
+    "platforms": [
+      "FlixFling",
+      "Fawesome",
+      "Mometu"
+    ],
+    "rating": "Safe",
+    "reasoning": "This G-rated classic film features no violence or frightening imagery, making it safe for general audiences. The plot includes sad themes of parental drowning and the emotional stress of potential separation from a beloved caregiver, which may be upsetting for very young children. It promotes positive themes of loyalty and family bonds.",
+    "ageRecommendation": "4-18",
+    "minAge": 4.0,
+    "maxAge": 18.0,
+    "releaseYear": "1936",
+    "runtime": "1 hr 17 min",
+    "stimulationLevel": "Medium",
+    "featured": false
+  },
+  {
+    "id": "tt12272414",
+    "tmdbId": "618350",
+    "title": "DC Showcase: Adam Strange",
+    "synopsis": "On a rugged asteroid mining colony, few of the toiling workers are aware that their town drunk was ever anything but an interplanetary derelict. But when the miners open a fissure into the home of a horde of deadly alien insects, his true identity is exposed. He is space adventurer Adam Strange, whose heroic backstory is played out in flashbacks as he struggles to save the very people who have scorned him for so long.",
+    "coverImage": "https://image.tmdb.org/t/p/w500/hUDA8NrPtyV9xP6a0n4ZH4NhVD0.jpg",
+    "cast": [
+      "Charlie Weber",
+      "Roger Cross",
+      "Kimberly Brooks"
+    ],
+    "tags": [
+      "Violence",
+      "Scary Imagery"
+    ],
+    "platforms": [],
+    "rating": "Unsafe",
+    "reasoning": "This short carries a PG-13 certification and contains intense sci-fi action violence, including fighting deadly alien insects and high stakes peril. The content is rated 'Unsafe' due to the severity of the action and inclusion of mature themes like alcoholism and dereliction.",
+    "ageRecommendation": "13-18",
+    "minAge": 13.0,
+    "maxAge": 18.0,
+    "releaseYear": "2020",
+    "runtime": "16 min",
+    "stimulationLevel": "High",
+    "featured": false
+  },
+  {
+    "id": "tt0901686",
+    "tmdbId": "13934",
+    "title": "Mater and the Ghostlight",
+    "synopsis": "Mater, the rusty but trusty tow truck from Cars, spends a day in Radiator Springs playing scary pranks on his fellow townsfolk. That night at Flo's V8 Café, the Sheriff tells the story of the legend of the Ghostlight, and as everyone races home Mater is left alone primed for a good old-fashioned scare.",
+    "coverImage": "https://image.tmdb.org/t/p/w500/thZHluscCvT3SCzVckmFszOVVtM.jpg",
+    "cast": [
+      "Larry the Cable Guy",
+      "Owen Wilson",
+      "Bonnie Hunt"
+    ],
+    "tags": [
+      "Educational",
+      "Scary Imagery"
+    ],
+    "platforms": [
+      "Disney Plus"
+    ],
+    "rating": "Safe",
+    "reasoning": "The short is G-rated, highly comedic, and contains only very mild suspense centered on a folklore scare. The scary element (the Ghostlight legend) is minimal and resolves quickly in a humorous way, making it safe for children over 3. It reinforces positive values regarding friendship and the consequences of pranking others.",
+    "ageRecommendation": "3-10",
+    "minAge": 3.0,
+    "maxAge": 10.0,
+    "releaseYear": "2006",
+    "runtime": "7 min",
+    "stimulationLevel": "Medium",
+    "featured": false
+  },
+  {
+    "id": "tt0081340",
+    "tmdbId": "50934",
+    "title": "Pinocchio's Christmas",
+    "synopsis": "As Geppetto prepares for Christmas, Pinocchio joins a puppet show to earn money for a present. There he meets and elopes with the beautiful girl puppet, Julietta, leaving Geppetto alone and worried.",
+    "coverImage": "https://image.tmdb.org/t/p/w500/46n9xy5tMG74jpepbfISVj03GIh.jpg",
+    "cast": [
+      "Todd Porter",
+      "George S. Irving",
+      "Alan King"
+    ],
+    "tags": [
+      "Educational",
+      "Violence",
+      "Scary Imagery"
+    ],
+    "platforms": [],
+    "rating": "Safe",
+    "reasoning": "This is a classic Pinocchio story focusing on earning money and familial love during Christmas. While it contains mild cartoon peril and themes of separation when Pinocchio elopes, the content is emotionally resolved and reinforces positive moral values, making it safe for preschoolers and early elementary viewers.",
+    "ageRecommendation": "3-8",
+    "minAge": 3.0,
+    "maxAge": 8.0,
+    "releaseYear": "1980",
+    "runtime": "49 min",
+    "stimulationLevel": "Medium",
+    "featured": false
+  },
+  {
+    "id": "tt1488589",
+    "tmdbId": "555604",
+    "title": "Guillermo del Toro's Pinocchio",
+    "synopsis": "During the rise of fascism in Mussolini's Italy, a wooden boy brought magically to life struggles to live up to his father's expectations.",
+    "coverImage": "https://image.tmdb.org/t/p/w500/vx1u0uwxdlhV2MUzj4VlcMB0N6m.jpg",
+    "cast": [
+      "Ewan McGregor",
+      "David Bradley",
+      "Gregory Mann"
+    ],
+    "tags": [
+      "Educational",
+      "Violence",
+      "Scary Imagery"
+    ],
+    "platforms": [
+      "Netflix",
+      "Netflix Standard with Ads"
+    ],
+    "rating": "Caution",
+    "reasoning": "The film is rated Caution due to its handling of mature themes including death, fascism, and war violence. It contains frightening imagery (the afterlife creatures, the sea monster) and complex, emotionally intense scenes better suited for children 10 and older.",
+    "ageRecommendation": "10-18",
+    "minAge": 10.0,
+    "maxAge": 18.0,
+    "releaseYear": "2022",
+    "runtime": "1 hr 57 min",
+    "stimulationLevel": "Medium",
+    "featured": false
+  },
+  {
+    "id": "tt1563725",
+    "tmdbId": "32389",
+    "title": "Logorama",
+    "synopsis": "Two cops portrayed by Michelin Men chase an armed Ronald McDonald through the streets of a fictionalized, stylized city.",
+    "coverImage": "https://image.tmdb.org/t/p/w500/iz4V4Tyl5SJaIQGvR8H0NUI04nZ.jpg",
+    "cast": [
+      "Bob Stephenson",
+      "Sherman Augustus",
+      "Aja Evans"
+    ],
+    "tags": [
+      "Violence",
+      "Scary Imagery"
+    ],
+    "platforms": [],
+    "rating": "Unsafe",
+    "reasoning": "This short film contains intense, stylized violence, including armed crime, high-speed car chases, and destruction. The thematic focus on crime and the unsettling apocalyptic ending render the content too intense for children. It is designed for adult viewing and satire.",
+    "ageRecommendation": "14-18",
+    "minAge": 14.0,
+    "maxAge": 18.0,
+    "releaseYear": "2009",
+    "runtime": "16 min",
+    "stimulationLevel": "High",
+    "featured": false
+  },
+  {
+    "id": "tt8785038",
+    "tmdbId": "537921",
+    "title": "Fixed",
+    "synopsis": "After learning he's getting neutered, a dog has 24 hours to squeeze in one last balls-to-the-wall adventure with the boys.",
+    "coverImage": "https://image.tmdb.org/t/p/w500/udtlwWSJ45S0uQm29BvFvjPJGW0.jpg",
+    "cast": [
+      "Adam Devine",
+      "Idris Elba",
+      "Kathryn Hahn"
+    ],
+    "tags": [
+      "Violence"
+    ],
+    "platforms": [
+      "Netflix",
+      "Netflix Standard with Ads"
+    ],
+    "rating": "Unsafe",
+    "reasoning": "This film is R-rated and features adult themes, strong sexual references (the plot centers on avoiding neutering), and intense, crude humor. The content is explicitly designed for mature audiences and is highly inappropriate and unsafe for children of any age.",
+    "ageRecommendation": "17-18",
+    "minAge": 17.0,
+    "maxAge": 18.0,
+    "releaseYear": "2025",
+    "runtime": "1 hr 27 min",
+    "stimulationLevel": "High",
+    "featured": false
+  },
+  {
+    "id": "tt0031803",
+    "tmdbId": "67599",
+    "title": "The Pointer",
+    "synopsis": "Mickey and Pluto go hunting for quail. Pluto scares away the first ones they see; Mickey scolds him, then relents. He shows Pluto how to be a pointer, and they set off after another quail, but Mickey accidentally jumps on a bear's nose, and thinks it's Pluto. Meanwhile, Pluto finds the quail and points. The babies climb on board and start picking at his hairs, but Pluto's been told not to move. Mickey finally comes across Pluto, who by now is covered by small animals, and realizes he's being followed by a bear. Mickey tries to reason with the bear, and backs off a cliff, onto Pluto.",
+    "coverImage": "https://image.tmdb.org/t/p/w500/9Oejpd9QwEDQ6rrzSw6lJQL8Z0k.jpg",
+    "cast": [
+      "Walt Disney",
+      "Lee Millar"
+    ],
+    "tags": [
+      "Violence"
+    ],
+    "platforms": [],
+    "rating": "Safe",
+    "reasoning": "This classic animated short features mild slapstick violence typical of the era, including aggressive animals and accidental falls (off a cliff). The content is comedic and fast-paced, presenting minimal scary elements and making it appropriate for young children and all ages.",
+    "ageRecommendation": "3-18",
+    "minAge": 3.0,
+    "maxAge": 18.0,
+    "releaseYear": "1939",
+    "runtime": "9 min",
     "stimulationLevel": "Medium",
     "featured": false
   }
