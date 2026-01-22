@@ -7,7 +7,14 @@
     "dev": "vite",
     "build": "tsc -b && vite build",
     "lint": "eslint .",
-    "preview": "vite preview"
+    "preview": "vite preview",
+    "tmdb:discover": "python scripts/tmdb/1_discover.py",
+    "tmdb:enrich": "python scripts/tmdb/2_enrich.py",
+    "tmdb:assess": "python scripts/tmdb/3_assess.py",
+    "tmdb:review": "python scripts/tmdb/4_review.py",
+    "tmdb:auto": "python scripts/tmdb/4_review_auto.py",
+    "tmdb:import": "python scripts/tmdb/5_import.py",
+    "tmdb:full": "npm run tmdb:discover && npm run tmdb:enrich && npm run tmdb:assess"
   },
   "dependencies": {
     "react": "^18.3.1",

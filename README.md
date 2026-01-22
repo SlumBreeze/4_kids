@@ -52,22 +52,25 @@ python -m pip install -r scripts/requirements.txt
 
 ```bash
 # Stage 1: Discover content from TMDB (~2 min)
-python scripts/tmdb/1_discover.py
+npm run tmdb:discover
 
 # Stage 2: Enrich with full metadata (~5 min, rate-limited)
-python scripts/tmdb/2_enrich.py
+npm run tmdb:enrich
 
 # Stage 3: AI safety assessment (~3 min)
-python scripts/tmdb/3_assess.pyp
+npm run tmdb:assess
 
 # Stage 4: Human review (interactive, user-paced)
-python scripts/tmdb/4_review.py
+npm run tmdb:review
 
 # OR: Automated review (accepts all pending, caps max age at 18)
-python scripts/tmdb/4_review_auto.py
+npm run tmdb:auto
 
 # Stage 5: Import approved shows to shows.json (~5 sec)
-python scripts/tmdb/5_import.py
+npm run tmdb:import
+
+# SHORTCUT: Run Stages 1-3 sequentially
+npm run tmdb:full
 ```
 
 **Pipeline Features:**
