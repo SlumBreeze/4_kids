@@ -1,4 +1,4 @@
-from datetime import datetime
+from datetime import datetime, timezone
 from shared.io_utils import load_json, save_json
 from shared.models import AssessedItem, ReviewedItem
 from shared.config import ASSESSED_FILE, REVIEWED_FILE
@@ -55,7 +55,7 @@ def main():
             stimulation_level=ai.stimulation_level,
             featured=False,
             ai_suggestion=ai,
-            reviewed_at=datetime.utcnow().isoformat()
+            reviewed_at=datetime.now(timezone.utc).isoformat()
         )
 
         newly_reviewed.append(reviewed_item.to_dict())
