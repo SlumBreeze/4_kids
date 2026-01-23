@@ -54,6 +54,8 @@ def main():
             max_age=final_max_age,
             stimulation_level=ai.stimulation_level,
             featured=False,
+            safe_above_age=ai.safe_above_age,
+            is_episodic_issue=ai.is_episodic_issue,
             ai_suggestion=ai,
             reviewed_at=datetime.now(timezone.utc).isoformat()
         )

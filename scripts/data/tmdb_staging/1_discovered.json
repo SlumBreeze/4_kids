@@ -1,53 +1,70 @@
 [
   {
-    "tmdb_id": 124920,
+    "tmdb_id": 3022,
     "media_type": "tv",
     "title": "Rugrats",
     "original_title": "Rugrats",
-    "overview": "A reinvention of the beloved 90s cartoon, Rugrats follows a group of adventurous babies as they discover the big world around them. Lead by Tommy Pickles, this toddler crew explores the world from their pint-sized and wildly imaginative perspective.",
-    "poster_path": "/bk5bqkQVYC32lozZO6Z0ZLw32jv.jpg",
-    "release_date": "2021-05-27",
-    "vote_average": 6.9,
-    "vote_count": 132,
-    "popularity": 11.4991,
+    "overview": "Focuses on a group of toddlers, most prominently Tommy, Chuckie, Phil, Lil, and Angelica, and their day-to-day lives, usually involving common life experiences that become adventures in the babies' imaginations. Adults in the series are almost always unaware of what the children are up to; however, this only provides more room for the babies to explore and discover their surroundings.",
+    "poster_path": "/wmsINbZuEBLNP2Z26Xffx5NHJpW.jpg",
+    "release_date": "1991-08-11",
+    "vote_average": 7.6,
+    "vote_count": 734,
+    "popularity": 52.3023,
     "genre_ids": [
+      10751,
       16,
-      35,
-      10762
+      10762,
+      35
     ]
   },
   {
-    "tmdb_id": 114463,
+    "tmdb_id": 1930,
     "media_type": "tv",
-    "title": "Zootopia+",
-    "original_title": "Zootopia+",
-    "overview": "Head back to the mammal metropolis to dive deeper into the lives of a slew of intriguing residents.",
-    "poster_path": "/inzPPPr2BsE92m4rHhQn3sf2yPk.jpg",
-    "release_date": "2022-11-09",
-    "vote_average": 7.1,
-    "vote_count": 283,
-    "popularity": 8.2457,
+    "title": "The Beverly Hillbillies",
+    "original_title": "The Beverly Hillbillies",
+    "overview": "Jed Clampett's swamp is loaded with oil. When a wildcatter discovers the huge pool, Jed sells his land to the O.K. Oil Company and at the urging of cousin Pearl, moves his family to a 35-room mansion in Beverly Hills, California.",
+    "poster_path": "/sEZs4szkwBXIK3DOm37MnQN9fIe.jpg",
+    "release_date": "1962-09-26",
+    "vote_average": 6.9,
+    "vote_count": 125,
+    "popularity": 20.2649,
     "genre_ids": [
+      35,
+      10751
+    ]
+  },
+  {
+    "tmdb_id": 2567,
+    "media_type": "tv",
+    "title": "Hercules",
+    "original_title": "Hercules",
+    "overview": "Follow Herc's many labors during the years he spent training on how to be a hero under the tutelage of satyr Phil. Many of the Olympian Gods and Goddesses pay visit to the young hero-to-be and help or hinder him in his new adventures.",
+    "poster_path": "/4icNpPakVKxuVrHSR9I8BQ5GCeK.jpg",
+    "release_date": "1998-08-31",
+    "vote_average": 6.875,
+    "vote_count": 319,
+    "popularity": 18.8028,
+    "genre_ids": [
+      35,
+      10762,
       16,
-      10751,
       10759
     ]
   },
   {
-    "tmdb_id": 7714,
+    "tmdb_id": 3103,
     "media_type": "tv",
-    "title": "True Jackson, VP",
-    "original_title": "True Jackson, VP",
-    "overview": "A 15-year-old fashionista lands the opportunity of a lifetime when the CEO of Mad Style hires her as the vice president of its youth apparel division.",
-    "poster_path": "/fDuoIlEnpFei6ZTO9n4JyCVsyYN.jpg",
-    "release_date": "2008-11-08",
-    "vote_average": 7.9,
-    "vote_count": 41,
-    "popularity": 6.5883,
+    "title": "Bananas in Pyjamas",
+    "original_title": "Bananas in Pyjamas",
+    "overview": "Bananas in Pyjamas is an Australian children's television show that premiered on 20 July 1992 on ABC. It has since become syndicated in many different countries, and dubbed into other languages. In the United States, the \"Pyjamas\" in the title was modified to reflect the American spelling pajamas. This aired in syndication from 1995 to 1997 as a half-hour series, then became a 15-minute show paired with a short-lived 15-minute series The Crayon Box, under a 30-minute block produced by Sachs Family Entertainment titled Bananas in Pajamas & The Crayon Box. Additionally, the characters and a scene from the show were featured in the Kids for Character sequel titled Kids for Character: Choices Count. The pilot episode was Pink Mug.",
+    "poster_path": "/opUFH6kWzgepKX7kkboYH9EUiP7.jpg",
+    "release_date": "1992-07-20",
+    "vote_average": 5.4,
+    "vote_count": 50,
+    "popularity": 7.4806,
     "genre_ids": [
-      35,
       10762,
-      10751
+      35
     ]
   },
   {
@@ -69,22 +86,74 @@
     ]
   },
   {
-    "tmdb_id": 64092,
+    "tmdb_id": 3474,
     "media_type": "tv",
     "title": "Danger Mouse",
     "original_title": "Danger Mouse",
-    "overview": "Danger Mouse is back saving London, saving the World and, most importantly, saving Penfold in brand new and fantastically absurd, energetic adventures.",
-    "poster_path": "/cnWr5XFOPaiIwJfx2MCj3MEQtsL.jpg",
-    "release_date": "2015-09-28",
-    "vote_average": 6.2,
-    "vote_count": 21,
-    "popularity": 5.5338,
+    "overview": "Danger Mouse, the world's greatest secret agent, and his side-kick Penfold work to foil the evil schemes of Baron Greenback.",
+    "poster_path": "/1MLDMC8tsf92h8H920TGemN0PUo.jpg",
+    "release_date": "1981-09-28",
+    "vote_average": 7.069,
+    "vote_count": 66,
+    "popularity": 5.5852,
     "genre_ids": [
-      35,
       16,
-      10751,
+      10762,
+      35,
+      10751
+    ]
+  },
+  {
+    "tmdb_id": 68394,
+    "media_type": "tv",
+    "title": "Watership Down",
+    "original_title": "Watership Down",
+    "overview": "Fleeing their doomed warren, a group of rabbits struggle to find and defend a new home.",
+    "poster_path": "/apgCU29h7W6H88jM9yknuGWrNAw.jpg",
+    "release_date": "2018-12-22",
+    "vote_average": 6.854,
+    "vote_count": 82,
+    "popularity": 5.5385,
+    "genre_ids": [
+      16,
+      18,
+      10751
+    ]
+  },
+  {
+    "tmdb_id": 70967,
+    "media_type": "tv",
+    "title": "Cloudy with a Chance of Meatballs",
+    "original_title": "Cloudy with a Chance of Meatballs",
+    "overview": "The series is a prequel, featuring the high school years of Flint Lockwood, the eccentric young scientist in the films. In his adventures, he will be joined by Sam Sparks, a new girl in town and the school's \"wannabe\" reporter, along with Flint's dad Tim, Steve the Monkey, Manny as the head of the school's audiovisual club, Earl as a school gym teacher, Brent as a baby wear model, and Mayor Shelbourne, who wins every election on the pro-sardine platform.",
+    "poster_path": "/q41n9xD3Gcrv4PyT8NsMGVOOUyh.jpg",
+    "release_date": "2017-02-20",
+    "vote_average": 5.7,
+    "vote_count": 20,
+    "popularity": 5.4175,
+    "genre_ids": [
+      16,
+      10762,
+      35,
+      10759
+    ]
+  },
+  {
+    "tmdb_id": 2404,
+    "media_type": "tv",
+    "title": "Sonic the Hedgehog",
+    "original_title": "Sonic the Hedgehog",
+    "overview": "Sonic, Tails, Princess Sally, and a band of freedom fighters battle to overthrow Dr. Robotnik, a despotic dictator who conquered their home planet Mobius years ago, and rules it as a polluted industrial dystopia.",
+    "poster_path": "/zQFFrIbgO3yw9Y9gf2vznEvrJ9E.jpg",
+    "release_date": "1993-09-18",
+    "vote_average": 7.021,
+    "vote_count": 164,
+    "popularity": 5.1896,
+    "genre_ids": [
+      16,
       10759,
-      10765
+      10765,
+      10762
     ]
   },
   {
@@ -106,6 +175,24 @@
     ]
   },
   {
+    "tmdb_id": 62475,
+    "media_type": "tv",
+    "title": "Heidi",
+    "original_title": "Heidi",
+    "overview": "A plucky young orphan sent to live with her grandfather in the mountains discovers wonder and adventure around every corner.",
+    "poster_path": "/gw0dxuL9roVp2rCYx3y5jFHE7Cf.jpg",
+    "release_date": "2015-04-06",
+    "vote_average": 7.167,
+    "vote_count": 51,
+    "popularity": 4.2742,
+    "genre_ids": [
+      16,
+      10751,
+      10762,
+      18
+    ]
+  },
+  {
     "tmdb_id": 4244,
     "media_type": "tv",
     "title": "Figure It Out",
@@ -119,6 +206,24 @@
     "genre_ids": [
       35,
       10751
+    ]
+  },
+  {
+    "tmdb_id": 4665,
+    "media_type": "tv",
+    "title": "The Berenstain Bears",
+    "original_title": "The Berenstain Bears",
+    "overview": "We follow a family of bears, known as the Berenstain Bears, as they figure out life together. With friendly neighbors and close friends, the journey is never boring. Inspired by the book series written by Stan and Jan Berenstain.",
+    "poster_path": "/cRA1KVomv7d9avL7UpdPBJmASrv.jpg",
+    "release_date": "2003-01-06",
+    "vote_average": 6.6,
+    "vote_count": 18,
+    "popularity": 3.6348,
+    "genre_ids": [
+      10751,
+      35,
+      16,
+      10762
     ]
   },
   {
@@ -153,22 +258,6 @@
       10759,
       10762,
       10765
-    ]
-  },
-  {
-    "tmdb_id": 10318,
-    "media_type": "tv",
-    "title": "The Berenstain Bears",
-    "original_title": "The Berenstain Bears",
-    "overview": "An animated television series based on Stan and Jan Berenstain's Berenstain Bears children's book series.",
-    "poster_path": "/d6ZV08jRKuhQxazDvcHADCsuOUk.jpg",
-    "release_date": "1985-09-14",
-    "vote_average": 7.5,
-    "vote_count": 41,
-    "popularity": 2.3777,
-    "genre_ids": [
-      16,
-      10762
     ]
   },
   {
@@ -210,22 +299,6 @@
     ]
   },
   {
-    "tmdb_id": 74902,
-    "media_type": "tv",
-    "title": "Heidi",
-    "original_title": "Heidi",
-    "overview": "After charming her reclusive grandfather and falling in love with the beautiful mountain he calls home, Heidi is uprooted and sent to Frankfurt where she befriends Klara, a young girl confined to a wheelchair.",
-    "poster_path": "/8AgGpuktVJamxvjHnRmCGmjURu7.jpg",
-    "release_date": "1993-07-18",
-    "vote_average": 7.1,
-    "vote_count": 39,
-    "popularity": 1.8586,
-    "genre_ids": [
-      18,
-      10751
-    ]
-  },
-  {
     "tmdb_id": 117682,
     "media_type": "tv",
     "title": "Transformers: War for Cybertron: Earthrise",
@@ -240,22 +313,6 @@
       16,
       10759,
       10765
-    ]
-  },
-  {
-    "tmdb_id": 65795,
-    "media_type": "tv",
-    "title": "Bananas in Pyjamas",
-    "original_title": "Bananas in Pyjamas",
-    "overview": "The Bananas explore their town of Cuddlestown with their best friends Rat In A Hat and teddies - Lulu, Morgan and Amy.",
-    "poster_path": "/vvTY17b0vXc3BfRNjc25jK7FT3v.jpg",
-    "release_date": "2011-05-02",
-    "vote_average": 5.8,
-    "vote_count": 5,
-    "popularity": 1.6609,
-    "genre_ids": [
-      16,
-      10762
     ]
   },
   {
@@ -402,903 +459,1202 @@
     ]
   },
   {
-    "tmdb_id": 1087192,
+    "tmdb_id": 269149,
     "media_type": "movie",
-    "title": "How to Train Your Dragon",
-    "original_title": "How to Train Your Dragon",
-    "overview": "On the rugged isle of Berk, where Vikings and dragons have been bitter enemies for generations, Hiccup stands apart, defying centuries of tradition when he befriends Toothless, a feared Night Fury dragon. Their unlikely bond reveals the true nature of dragons, challenging the very foundations of Viking society.",
-    "poster_path": "/53dsJ3oEnBhTBVMigWJ9tkA5bzJ.jpg",
-    "release_date": "2025-06-06",
-    "vote_average": 7.956,
-    "vote_count": 2500,
-    "popularity": 37.6184,
+    "title": "Zootopia",
+    "original_title": "Zootopia",
+    "overview": "Determined to prove herself, Officer Judy Hopps, the first bunny on Zootopia's police force, jumps at the chance to crack her first case - even if it means partnering with scam-artist fox Nick Wilde to solve the mystery.",
+    "poster_path": "/hlK0e0wAQ3VLuJcsfIYPvb4JVud.jpg",
+    "release_date": "2016-02-11",
+    "vote_average": 7.758,
+    "vote_count": 17540,
+    "popularity": 39.9142,
     "genre_ids": [
-      14,
-      10751,
-      28,
-      12
-    ]
-  },
-  {
-    "tmdb_id": 321612,
-    "media_type": "movie",
-    "title": "Beauty and the Beast",
-    "original_title": "Beauty and the Beast",
-    "overview": "A live-action adaptation of Disney's version of the classic tale of a cursed prince and a beautiful young woman who helps him break the spell.",
-    "poster_path": "/hKegSKIDep2ewJWPUQD7u0KqFIp.jpg",
-    "release_date": "2017-03-16",
-    "vote_average": 6.968,
-    "vote_count": 15880,
-    "popularity": 19.2227,
-    "genre_ids": [
-      10751,
-      14,
-      10749
-    ]
-  },
-  {
-    "tmdb_id": 630,
-    "media_type": "movie",
-    "title": "The Wizard of Oz",
-    "original_title": "The Wizard of Oz",
-    "overview": "Young Dorothy finds herself in a magical world where she makes friends with a lion, a scarecrow and a tin man as they make their way along the yellow brick road to talk with the Wizard and ask for the things they miss most in their lives. The Wicked Witch of the West is the only thing that could stop them.",
-    "poster_path": "/uCC3j4pV9eOZwzDUWp2ilbcTf1f.jpg",
-    "release_date": "1939-08-15",
-    "vote_average": 7.589,
-    "vote_count": 5971,
-    "popularity": 12.0733,
-    "genre_ids": [
-      12,
-      14,
-      10751
-    ]
-  },
-  {
-    "tmdb_id": 447277,
-    "media_type": "movie",
-    "title": "The Little Mermaid",
-    "original_title": "The Little Mermaid",
-    "overview": "The youngest of King Triton’s daughters, and the most defiant, Ariel longs to find out more about the world beyond the sea, and while visiting the surface, falls for the dashing Prince Eric. With mermaids forbidden to interact with humans, Ariel makes a deal with the evil sea witch, Ursula, which gives her a chance to experience life on land, but ultimately places her life – and her father’s crown – in jeopardy.",
-    "poster_path": "/ym1dxyOk4jFcSl4Q2zmRrA5BEEN.jpg",
-    "release_date": "2023-05-18",
-    "vote_average": 6.278,
-    "vote_count": 3227,
-    "popularity": 10.3188,
-    "genre_ids": [
+      16,
       12,
       10751,
-      14,
-      10749
+      35
     ]
   },
   {
-    "tmdb_id": 420818,
+    "tmdb_id": 8587,
     "media_type": "movie",
     "title": "The Lion King",
     "original_title": "The Lion King",
-    "overview": "Simba idolizes his father, King Mufasa, and takes to heart his own royal destiny. But not everyone in the kingdom celebrates the new cub's arrival. Scar, Mufasa's brother—and former heir to the throne—has plans of his own. The battle for Pride Rock is ravaged with betrayal, tragedy and drama, ultimately resulting in Simba's exile. With help from a curious pair of newfound friends, Simba will have to figure out how to grow up and take back what is rightfully his.",
-    "poster_path": "/dzBtMocZuJbjLOXvrl4zGYigDzh.jpg",
-    "release_date": "2019-07-12",
-    "vote_average": 7.097,
-    "vote_count": 10613,
-    "popularity": 9.8914,
+    "overview": "Young lion prince Simba, eager to one day become king of the Pride Lands, grows up under the watchful eye of his father Mufasa; all the while his villainous uncle Scar conspires to take the throne for himself. Amid betrayal and tragedy, Simba must confront his past and find his rightful place in the Circle of Life.",
+    "poster_path": "/sKCr78MXSLixwmZ8DyJLrpMsd15.jpg",
+    "release_date": "1994-06-15",
+    "vote_average": 8.255,
+    "vote_count": 19305,
+    "popularity": 17.5577,
     "genre_ids": [
-      12,
-      18,
       10751,
-      16
-    ]
-  },
-  {
-    "tmdb_id": 454626,
-    "media_type": "movie",
-    "title": "Sonic the Hedgehog",
-    "original_title": "Sonic the Hedgehog",
-    "overview": "Powered with incredible speed, Sonic The Hedgehog embraces his new home on Earth. That is, until Sonic sparks the attention of super-uncool evil genius Dr. Robotnik. Now it’s super-villain vs. super-sonic in an all-out race across the globe to stop Robotnik from using Sonic’s unique power for world domination.",
-    "poster_path": "/aQvJ5WPzZgYVDrxLX4R6cLJCEaQ.jpg",
-    "release_date": "2020-02-12",
-    "vote_average": 7.293,
-    "vote_count": 10214,
-    "popularity": 9.2506,
-    "genre_ids": [
-      28,
-      878,
-      35,
-      10751
-    ]
-  },
-  {
-    "tmdb_id": 11970,
-    "media_type": "movie",
-    "title": "Hercules",
-    "original_title": "Hercules",
-    "overview": "Bestowed with superhuman strength, a young mortal named Hercules sets out to prove himself a hero in the eyes of his father, the great god Zeus. Along with his friends Pegasus, a flying horse, and Phil, a personal trainer, Hercules is tricked by the hilarious, hotheaded villain Hades, who's plotting to take over Mount Olympus!",
-    "poster_path": "/dK9rNoC97tgX3xXg5zdxFisdfcp.jpg",
-    "release_date": "1997-06-13",
-    "vote_average": 7.5,
-    "vote_count": 7793,
-    "popularity": 8.6692,
-    "genre_ids": [
       16,
-      10751,
+      18,
+      12
+    ]
+  },
+  {
+    "tmdb_id": 10191,
+    "media_type": "movie",
+    "title": "How to Train Your Dragon",
+    "original_title": "How to Train Your Dragon",
+    "overview": "As the son of a Viking leader on the cusp of manhood, shy Hiccup Horrendous Haddock III faces a rite of passage: he must kill a dragon to prove his warrior mettle. But after downing a feared dragon, he realizes that he no longer wants to destroy it, and instead befriends the beast – which he names Toothless – much to the chagrin of his warrior father.",
+    "poster_path": "/ygGmAO60t8GyqUo9xYeYxSZAR3b.jpg",
+    "release_date": "2010-03-18",
+    "vote_average": 7.855,
+    "vote_count": 14034,
+    "popularity": 14.4785,
+    "genre_ids": [
       14,
       12,
-      35,
-      10749
-    ]
-  },
-  {
-    "tmdb_id": 22794,
-    "media_type": "movie",
-    "title": "Cloudy with a Chance of Meatballs",
-    "original_title": "Cloudy with a Chance of Meatballs",
-    "overview": "Inventor Flint Lockwood creates a machine that makes clouds rain food, enabling the down-and-out citizens of Chewandswallow to feed themselves. But when the falling food reaches gargantuan proportions, Flint must scramble to avert disaster. Can he regain control of the machine and put an end to the wild weather before the town is destroyed?",
-    "poster_path": "/qhOhIKf7QEyQ5dMrRUqs5eTX1Oq.jpg",
-    "release_date": "2009-09-17",
-    "vote_average": 6.654,
-    "vote_count": 6317,
-    "popularity": 8.2978,
-    "genre_ids": [
       16,
-      35,
       10751
     ]
   },
   {
-    "tmdb_id": 17663,
+    "tmdb_id": 10020,
     "media_type": "movie",
-    "title": "Anne of Green Gables",
-    "original_title": "Anne of Green Gables",
-    "overview": "At the turn of the century on Prince Edward Island, Matthew Cuthbert and his sister Marilla decide to take on an orphan boy as help for their farm. But they get an unexpected jolt when they're mistakenly sent a girl instead: Anne Shirley.",
-    "poster_path": "/z1owlDzKO3DQpFKNFBnuQlPF891.jpg",
-    "release_date": "1985-12-01",
-    "vote_average": 8.08,
-    "vote_count": 250,
-    "popularity": 7.1088,
+    "title": "Beauty and the Beast",
+    "original_title": "Beauty and the Beast",
+    "overview": "Follow the adventures of Belle, a bright young woman who finds herself in the castle of a prince who's been turned into a mysterious beast. With the help of the castle's enchanted staff, Belle soon learns the most important lesson of all -- that true beauty comes from within.",
+    "poster_path": "/hUJ0UvQ5tgE2Z9WpfuduVSdiCiU.jpg",
+    "release_date": "1991-10-22",
+    "vote_average": 7.726,
+    "vote_count": 10466,
+    "popularity": 13.4291,
     "genre_ids": [
-      10751,
-      18
-    ]
-  },
-  {
-    "tmdb_id": 11041,
-    "media_type": "movie",
-    "title": "The Beverly Hillbillies",
-    "original_title": "The Beverly Hillbillies",
-    "overview": "Mild-mannered dirt-poor hill-dweller Jed Clampett strikes it rich when oil is discovered on his property. At cousin Pearl's insistence, he moves his family to Beverly Hills to better enjoy his newfound wealth.",
-    "poster_path": "/refYLEQvzkY63i2IHronCPQODex.jpg",
-    "release_date": "1993-10-15",
-    "vote_average": 6.305,
-    "vote_count": 575,
-    "popularity": 6.7076,
-    "genre_ids": [
-      35,
-      10751
-    ]
-  },
-  {
-    "tmdb_id": 36344,
-    "media_type": "movie",
-    "title": "Alaska",
-    "original_title": "Alaska",
-    "overview": "Jake Barnes and his two kids, Sean and Jessie, have moved to Alaska after his wife died. He is a former airline pilot now delivering toilet paper across the mountains. During an emergency delivery in a storm his plane goes down somewhere in the mountains. Annoyed that the authorities aren't doing enough, Jessie and Sean set out on an adventure to find their father with the help of a polar bear which they have saved from a ferocious poacher. Conflict ensues.",
-    "poster_path": "/8TtnhRd4ls1xWzz3h9F5AyJuxil.jpg",
-    "release_date": "1996-08-14",
-    "vote_average": 5.8,
-    "vote_count": 139,
-    "popularity": 6.1662,
-    "genre_ids": [
-      10751,
-      18,
-      12
-    ]
-  },
-  {
-    "tmdb_id": 51162,
-    "media_type": "movie",
-    "title": "Winnie the Pooh",
-    "original_title": "Winnie the Pooh",
-    "overview": "During an ordinary day in Hundred Acre Wood, Winnie the Pooh sets out to find some honey. Misinterpreting a note from Christopher Robin, Owl convinces Pooh, Tigger, Rabbit, Piglet, Kanga, Roo, and Eeyore that their young friend has been captured by a creature named \"Backson\" and they set out to rescue him.",
-    "poster_path": "/xlFs85nq62jeR4a9iHNGB113m6x.jpg",
-    "release_date": "2011-04-06",
-    "vote_average": 6.91,
-    "vote_count": 926,
-    "popularity": 5.9693,
-    "genre_ids": [
-      16,
-      10751,
-      35,
-      12
-    ]
-  },
-  {
-    "tmdb_id": 43274,
-    "media_type": "movie",
-    "title": "Tower of Terror",
-    "original_title": "Tower of Terror",
-    "overview": "A disgraced reporter investigates an abandoned luxury hotel where five people mysteriously disappeared sixty years earlier.",
-    "poster_path": "/eZ17PwwacUBMMGWiQUGjwkag5sy.jpg",
-    "release_date": "1999-11-01",
-    "vote_average": 6.243,
-    "vote_count": 109,
-    "popularity": 5.8498,
-    "genre_ids": [
-      35,
-      10751,
-      27
-    ]
-  },
-  {
-    "tmdb_id": 136405,
-    "media_type": "movie",
-    "title": "The Outback",
-    "original_title": "The Outback",
-    "overview": "Being teased for his color, Johnny the white koala joins a traveling carnival with Hamish, a Tasmanian devil, and Higgens, a photographer monkey as talent agents. On the way through the Australian outback desert, the trailer they are in comes loose and crashes. Johnny must live up to the hero status Hamish presents him as while the outback locals try to rescue a kidnapped koala from Bog, a giant crocodile and his dingo lackeys.",
-    "poster_path": "/tcc5ZqiQLhBVK6Mr6hOJOhjIEvC.jpg",
-    "release_date": "2012-01-12",
-    "vote_average": 5.604,
-    "vote_count": 48,
-    "popularity": 5.7477,
-    "genre_ids": [
-      16,
-      12,
-      10751
-    ]
-  },
-  {
-    "tmdb_id": 366978,
-    "media_type": "movie",
-    "title": "Arthur's Perfect Christmas",
-    "original_title": "Arthur's Perfect Christmas",
-    "overview": "Arthur, D.W., and their family and friends prepare to make the best Christmas ever in Elwood City - but obstacles get in their way.",
-    "poster_path": "/lk2SDlixFUpiCtiKxSlHU4HrNmC.jpg",
-    "release_date": "2000-11-23",
-    "vote_average": 7.731,
-    "vote_count": 27,
-    "popularity": 5.6689,
-    "genre_ids": [
-      16,
-      10751,
-      35,
-      10770
-    ]
-  },
-  {
-    "tmdb_id": 294093,
-    "media_type": "movie",
-    "title": "Dinosaur Island",
-    "original_title": "Dinosaur Island",
-    "overview": "The adventure begins when Lucas, a 13 year old boy, embarks on the vacation of a lifetime. When disaster strikes, Lucas finds himself stranded in a strange land littered with ghost ships and prehistoric creatures. While searching for other signs of life, Lucas hears a radio broadcast in the distance and is drawn into the jungle where he encounters a beautiful young girl who claims to have come from the 1950s. Together they set out on a quest to get home all the while uncovering secrets that will forever change the future.",
-    "poster_path": "/xOe4S3eGogWQk4H8NhVe6eNJZSO.jpg",
-    "release_date": "2014-12-01",
-    "vote_average": 5.4,
-    "vote_count": 139,
-    "popularity": 5.6592,
-    "genre_ids": [
-      12,
-      878,
-      10751
-    ]
-  },
-  {
-    "tmdb_id": 9574,
-    "media_type": "movie",
-    "title": "Flubber",
-    "original_title": "Flubber",
-    "overview": "Professor Phillip Brainard, an absent minded professor, works with his assistant Weebo, trying to create a substance that's a new source of energy and that will save Medfield College where his sweetheart Sara is the president. He has missed his wedding twice, and on the afternoon of his third wedding, Professor Brainard creates flubber, which allows objects to fly through the air.",
-    "poster_path": "/bnKvk04icAyCO1KjqhsaEXBO9aJ.jpg",
-    "release_date": "1997-11-26",
-    "vote_average": 5.657,
-    "vote_count": 2491,
-    "popularity": 5.6502,
-    "genre_ids": [
-      35,
-      10751,
-      878
-    ]
-  },
-  {
-    "tmdb_id": 770922,
-    "media_type": "movie",
-    "title": "Canvas",
-    "original_title": "Canvas",
-    "overview": "After a heartbreaking loss, a grandfather struggling to reclaim his passion for painting finds the inspiration to create again.",
-    "poster_path": "/43KcPNPNi3KTpOTYghmYYm53RZX.jpg",
-    "release_date": "2020-10-29",
-    "vote_average": 6.369,
-    "vote_count": 175,
-    "popularity": 5.636,
-    "genre_ids": [
-      16,
-      10751,
-      18
-    ]
-  },
-  {
-    "tmdb_id": 11894,
-    "media_type": "movie",
-    "title": "Curly Sue",
-    "original_title": "Curly Sue",
-    "overview": "Bill is a penniless drifter who scams strangers out of just enough money to feed himself and his partner in crime, an orphan girl known as Curly Sue. Bill and Curly Sue target Grey, a yuppie lawyer, but their con takes an unexpected turn when the successful woman begins to like the ramshackle duo. But there's one problem—Grey's jealous, conniving boyfriend, Walker.",
-    "poster_path": "/cndkzlP5frVWxng5HLd4JvA2g2y.jpg",
-    "release_date": "1991-10-25",
-    "vote_average": 6.4,
-    "vote_count": 558,
-    "popularity": 5.6207,
-    "genre_ids": [
-      35,
-      18,
-      10751,
-      10749
-    ]
-  },
-  {
-    "tmdb_id": 63872,
-    "media_type": "movie",
-    "title": "Second Chances",
-    "original_title": "Second Chances",
-    "overview": "A little girl's physical and emotional reawakening after an accident claims her father and her spirit.",
-    "poster_path": "/giA61wWIJvafQtwdHOjiFh0EE7b.jpg",
-    "release_date": "1998-09-01",
-    "vote_average": 7.7,
-    "vote_count": 19,
-    "popularity": 5.6141,
-    "genre_ids": [
-      18,
-      10751
-    ]
-  },
-  {
-    "tmdb_id": 338778,
-    "media_type": "movie",
-    "title": "The Reluctant Nanny",
-    "original_title": "The Reluctant Nanny",
-    "overview": "IT guru Libby gets more than she bargained for when, after losing her job, she reluctantly agrees to help a cop with fostering two abandoned kids.",
-    "poster_path": "/lDZrzx4meXZ7KDatp9N90lD3e5U.jpg",
-    "release_date": "2015-02-14",
-    "vote_average": 6.4,
-    "vote_count": 37,
-    "popularity": 5.6133,
-    "genre_ids": [
-      10751,
-      10770,
       10749,
-      35
-    ]
-  },
-  {
-    "tmdb_id": 378356,
-    "media_type": "movie",
-    "title": "Monkey Up",
-    "original_title": "Monkey Up",
-    "overview": "A talking monkey seeks to gain fame and fortune as a movie star, but instead finds what's most important, a family.",
-    "poster_path": "/cdue0TfCUwvtc6b7g0jaHRkMlc4.jpg",
-    "release_date": "2016-01-22",
-    "vote_average": 5.1,
-    "vote_count": 24,
-    "popularity": 5.6,
-    "genre_ids": [
-      35,
-      10751
-    ]
-  },
-  {
-    "tmdb_id": 487047,
-    "media_type": "movie",
-    "title": "A Witches' Ball",
-    "original_title": "A Witches' Ball",
-    "overview": "Every year the Witching World gathers to celebrate the newly inducted witches into their world. Beatrix (12) is eager to become part of this world, but when her pending magical status is jeopardized she needs the help of her furry best friend Muggs (voiced by Joey Fatone) to solve some magical riddles before the big event. Will Beatrix sink or soar on the night of the Witches' Ball?",
-    "poster_path": "/q7Bsubh0n3PqjgCCj5UgXKN0fuJ.jpg",
-    "release_date": "2017-05-06",
-    "vote_average": 6.3,
-    "vote_count": 62,
-    "popularity": 5.586,
-    "genre_ids": [
       10751,
-      14,
-      878
-    ]
-  },
-  {
-    "tmdb_id": 18862,
-    "media_type": "movie",
-    "title": "House Arrest",
-    "original_title": "House Arrest",
-    "overview": "High-schooler Grover Beindorf and his younger sister Stacy decide that their parents, Janet and Ned, are acting childishly when they decide to divorce after 18 years of marriage, so they lock them up in the basement until they'll sort out their problems.",
-    "poster_path": "/mpQg8IgbmrMY0skgpTXBA9EhiWy.jpg",
-    "release_date": "1996-08-14",
-    "vote_average": 5.3,
-    "vote_count": 135,
-    "popularity": 5.5815,
-    "genre_ids": [
-      35,
-      10751
-    ]
-  },
-  {
-    "tmdb_id": 963660,
-    "media_type": "movie",
-    "title": "The Wonderful Spring of Mickey Mouse",
-    "original_title": "The Wonderful Spring of Mickey Mouse",
-    "overview": "Mickey Mouse and his friends explore the promise of the spring season through the lens of a unique nature documentary.",
-    "poster_path": "/8RXF6IhCILBvIEkMD5kZjSlwDad.jpg",
-    "release_date": "2022-03-25",
-    "vote_average": 7.676,
-    "vote_count": 17,
-    "popularity": 5.5614,
-    "genre_ids": [
       16,
-      35,
-      12
+      14
     ]
   },
   {
-    "tmdb_id": 234391,
+    "tmdb_id": 10144,
     "media_type": "movie",
-    "title": "Haunted Mouse",
-    "original_title": "Haunted Mouse",
-    "overview": "Jerry is paid a visit by a look-alike magician.",
-    "poster_path": "/dQpF6hDEVFk4h4VGxMFcADpYLCS.jpg",
-    "release_date": "1965-03-24",
-    "vote_average": 6.1,
-    "vote_count": 21,
-    "popularity": 5.5466,
-    "genre_ids": [
-      16,
-      35
-    ]
-  },
-  {
-    "tmdb_id": 16440,
-    "media_type": "movie",
-    "title": "Tales of the Black Freighter",
-    "original_title": "Tales of the Black Freighter",
-    "overview": "A mariner survives an attack from the dreaded pirates of the Black Freighter, but his struggle to return home to warn it has a horrific cost.",
-    "poster_path": "/vpZNACLrZC7EeZc0iCpnCsewZEO.jpg",
-    "release_date": "2009-03-24",
-    "vote_average": 6.649,
-    "vote_count": 218,
-    "popularity": 5.5184,
-    "genre_ids": [
-      16,
-      28,
-      12,
-      27
-    ]
-  },
-  {
-    "tmdb_id": 100361,
-    "media_type": "movie",
-    "title": "The Big Snooze",
-    "original_title": "The Big Snooze",
-    "overview": "Elmer Fudd walks out of a typical Bugs cartoon, so Bugs gets back at him by disturbing Elmer's sleep using \"nightmare paint.\"",
-    "poster_path": "/bvwSKvfo3zgSXynZRJVAmQYbPGA.jpg",
-    "release_date": "1946-10-05",
-    "vote_average": 6.8,
-    "vote_count": 35,
-    "popularity": 5.4924,
-    "genre_ids": [
-      16,
-      35
-    ]
-  },
-  {
-    "tmdb_id": 40490,
-    "media_type": "movie",
-    "title": "Man of the House",
-    "original_title": "Man of the House",
-    "overview": "Ben Archer is not happy. His mother, Sandy, has just met a man, and it looks like things are pretty serious. Driven by a fear of abandonment, Ben tries anything and everything to ruin the \"love bubble\" which surrounds his mom. However, after Ben and Jack's experiences in the Indian Guides, the two become much closer.",
-    "poster_path": "/6bnOhhrrrq6RZhMgz4aGyqbJ9Wf.jpg",
-    "release_date": "1995-03-03",
-    "vote_average": 5.4,
-    "vote_count": 185,
-    "popularity": 5.4897,
-    "genre_ids": [
-      35,
-      10751
-    ]
-  },
-  {
-    "tmdb_id": 9598,
-    "media_type": "movie",
-    "title": "Babe",
-    "original_title": "Babe",
-    "overview": "Babe is a little pig who doesn't quite know his place in the world. With a bunch of odd friends, like Ferdinand the duck who thinks he is a rooster and Fly the dog he calls mum, Babe realises that he has the makings to become the greatest sheep pig of all time, and Farmer Hoggett knows it. With the help of the sheep dogs, Babe learns that a pig can be anything that he wants to be.",
-    "poster_path": "/zKuQMtnbVTz9DsOnOJmlW71v4qH.jpg",
-    "release_date": "1995-07-18",
-    "vote_average": 6.255,
-    "vote_count": 3049,
-    "popularity": 5.4856,
-    "genre_ids": [
-      14,
-      18,
-      35,
-      10751
-    ]
-  },
-  {
-    "tmdb_id": 44826,
-    "media_type": "movie",
-    "title": "Hugo",
-    "original_title": "Hugo",
-    "overview": "Orphaned and alone except for an uncle, Hugo Cabret lives in the walls of a train station in 1930s Paris. Hugo's job is to oil and maintain the station's clocks, but to him, his more important task is to protect a broken automaton and notebook left to him by his late father. Accompanied by the goddaughter of an embittered toy merchant, Hugo embarks on a quest to solve the mystery of the automaton and find a place he can call home.",
-    "poster_path": "/1dxRq3o3l3bVWNRvvSb7rRf68qp.jpg",
-    "release_date": "2011-11-22",
-    "vote_average": 7.174,
-    "vote_count": 7522,
-    "popularity": 5.4786,
-    "genre_ids": [
-      12,
-      18,
-      10751
-    ]
-  },
-  {
-    "tmdb_id": 215405,
-    "media_type": "movie",
-    "title": "Magic Kid",
-    "original_title": "Magic Kid",
-    "overview": "Karate action and laughs never cease when a brother and sister go to California to visit their uncle. They soon discover that he's an alcoholic on the run from the Mob who want him to pay up or else...",
-    "poster_path": "/l5Hcj7ZUs2jHIxNMsvBIx9QXXmJ.jpg",
-    "release_date": "1993-10-27",
-    "vote_average": 5.0,
-    "vote_count": 18,
-    "popularity": 5.4713,
-    "genre_ids": [
-      28,
-      10751,
-      35
-    ]
-  },
-  {
-    "tmdb_id": 329677,
-    "media_type": "movie",
-    "title": "The D Train",
-    "original_title": "The D Train",
-    "overview": "An old man reflects on his entire life. How quickly it all goes by.",
-    "poster_path": null,
-    "release_date": "2011-03-11",
-    "vote_average": 6.0,
-    "vote_count": 5,
-    "popularity": 5.4564,
-    "genre_ids": [
-      18,
-      10751
-    ]
-  },
-  {
-    "tmdb_id": 16866,
-    "media_type": "movie",
-    "title": "Planet 51",
-    "original_title": "Planet 51",
-    "overview": "When Earth astronaut Capt. Chuck Baker arrives on Planet 51 -- a world reminiscent of American suburbia circa 1950 -- he tries to avoid capture, recover his spaceship and make it home safely, all with the help of an empathetic little green being.",
-    "poster_path": "/x7Itcg3ZdExKwdKguy73WPEqosW.jpg",
-    "release_date": "2009-11-19",
-    "vote_average": 5.885,
-    "vote_count": 2108,
-    "popularity": 5.4074,
+    "title": "The Little Mermaid",
+    "original_title": "The Little Mermaid",
+    "overview": "This colorful adventure tells the story of an impetuous mermaid princess named Ariel who falls in love with the very human Prince Eric and puts everything on the line for the chance to be with him. Memorable songs and characters -- including the villainous sea witch Ursula.",
+    "poster_path": "/plcZXvI310FkbwIptvd6rqk63LP.jpg",
+    "release_date": "1989-11-17",
+    "vote_average": 7.4,
+    "vote_count": 8261,
+    "popularity": 9.8958,
     "genre_ids": [
       16,
       10751,
-      35,
-      878,
-      12
+      14
     ]
   },
   {
-    "tmdb_id": 64648,
+    "tmdb_id": 9982,
     "media_type": "movie",
     "title": "Chicken Little",
     "original_title": "Chicken Little",
-    "overview": "It's a peaceful day at the local poultry farm until Foxy Loxy happens along intent on a chicken dinner. He takes the advice of a book on psychology by striking \"the least intelligent\" first and convinces dim witted Chicken Little the sky is falling. Chicken Little spreads the word but when head man Cocky Locky proves the story to be false, Foxy Loxy spreads rumors that Cocky Locky isn't the smart chicken he appears to be, which leads to the ultimate undoing of the chickens at the hands of Foxy Loxy.",
-    "poster_path": "/zdrosivsi8MP9F5rHPqp3KFMxJk.jpg",
-    "release_date": "1943-12-17",
-    "vote_average": 7.059,
-    "vote_count": 51,
-    "popularity": 5.4017,
+    "overview": "When the sky really is falling and sanity has flown the coop, who will rise to save the day? Together with his hysterical band of misfit friends, Chicken Little must hatch a plan to save the planet from alien invasion and prove that the world's biggest hero is a little chicken.",
+    "poster_path": "/87FpA4b90eTaw3U6zmCNikoPLir.jpg",
+    "release_date": "2005-11-04",
+    "vote_average": 5.908,
+    "vote_count": 4077,
+    "popularity": 6.839,
     "genre_ids": [
       16,
-      10751
-    ]
-  },
-  {
-    "tmdb_id": 180552,
-    "media_type": "movie",
-    "title": "Ture Sventon - Privatdetektiv",
-    "original_title": "Ture Sventon - Privatdetektiv",
-    "overview": "Private detective Ture Sventon is visited by his friend Mr. Omar of the Arabic desert. Sventon decides to travel with Mr. Omar on his flying carpet to Paris. However, Sventon almost exclusively lives on cream puffs, and to transport these across the continent, he needs a portable fridge. He pays a visit to Stockholms foremost fridge inventor and are introduced to a new fridge which shrinks and deshrinks the food. The inventor is afraid his new invention will be stolen, and thus Sventon brings it to Paris where it gets stolen.",
-    "poster_path": "/xll2cPqXO1YVOjFRQAiWeAfyfdR.jpg",
-    "release_date": "1972-11-01",
-    "vote_average": 5.1,
-    "vote_count": 7,
-    "popularity": 5.3597,
-    "genre_ids": [
       10751,
-      12,
-      80
-    ]
-  },
-  {
-    "tmdb_id": 46806,
-    "media_type": "movie",
-    "title": "Eloise at the Plaza",
-    "original_title": "Eloise at the Plaza",
-    "overview": "Eloise is a precocious but lovable six-year-old girl who lives in New York's Plaza Hotel. Her caretaker \"Nanny\" watches over her while her mom is away. Then one day, while trying to figure out how to get invited to a fancy ball as well as how to meet a visiting prince, Eloise makes a new friend around her age! So she decides to take him on a tour of the city - and all while plotting some matchmaking hijinks for her other friends too!",
-    "poster_path": "/bdxBapcOvqfndDDrnrg8rv0STHN.jpg",
-    "release_date": "2003-04-27",
-    "vote_average": 6.1,
-    "vote_count": 76,
-    "popularity": 5.3276,
-    "genre_ids": [
-      35,
-      10751,
-      9648,
-      10770
-    ]
-  },
-  {
-    "tmdb_id": 33839,
-    "media_type": "movie",
-    "title": "Cheaper by the Dozen",
-    "original_title": "Cheaper by the Dozen",
-    "overview": "\"Cheaper by the Dozen\", based on the real-life story of the Gilbreth family, follows them from Providence, Rhode Island, to Montclair, New Jersey, and details the amusing anecdotes found in large families.",
-    "poster_path": "/sGj9auC0z18y25NObFbvWLt8gtX.jpg",
-    "release_date": "1950-03-31",
-    "vote_average": 6.363,
-    "vote_count": 84,
-    "popularity": 5.3184,
-    "genre_ids": [
-      35,
-      18,
-      10751
-    ]
-  },
-  {
-    "tmdb_id": 132410,
-    "media_type": "movie",
-    "title": "The Ghost of Slumber Mountain",
-    "original_title": "The Ghost of Slumber Mountain",
-    "overview": "In a dream Uncle Jack looks through a magic telescope owned by the ghost of a hermit and sees what life was like millions of years ago, including a battle between prehistoric monsters.",
-    "poster_path": "/nxud9gQINYrm19enWFmgTnqprtg.jpg",
-    "release_date": "1918-11-17",
-    "vote_average": 5.9,
-    "vote_count": 11,
-    "popularity": 5.3182,
-    "genre_ids": [
-      14,
-      16,
-      27
-    ]
-  },
-  {
-    "tmdb_id": 798293,
-    "media_type": "movie",
-    "title": "The J Team",
-    "original_title": "The J Team",
-    "overview": "The story follows a young girl named JoJo whose life is turned upside down when her beloved dance coach decides to retire and is replaced by a sparkle-hating instructor named Poppy. Wanting to stay in the running for an upcoming dance competition, JoJo and her best friends, The Rubies, must try their hardest to abide by Poppy’s new, harsh rules. Realizing she cannot hide her sparkle or bow anymore, JoJo is kicked out of her dance troupe and must rediscover what dancing means to her.",
-    "poster_path": "/nRCYKdzUxEZVfAd97C1vDv4lBvR.jpg",
-    "release_date": "2021-09-03",
-    "vote_average": 7.1,
-    "vote_count": 23,
-    "popularity": 5.3155,
-    "genre_ids": [
-      10402,
-      10751,
-      10770
-    ]
-  },
-  {
-    "tmdb_id": 258559,
-    "media_type": "movie",
-    "title": "Bush Christmas",
-    "original_title": "Bush Christmas",
-    "overview": "In the Australian outback a family struggles to keep its farm from foreclosure. Their only hope is that their horse, Prince, will win money in a New Year's race. But when Prince is stolen the children embark on a dangerous and exciting adventure to get him back.",
-    "poster_path": "/rluqyUv0SwMRgHkDCUAWR033l82.jpg",
-    "release_date": "1983-12-22",
-    "vote_average": 5.8,
-    "vote_count": 8,
-    "popularity": 5.3025,
-    "genre_ids": [
-      10751,
-      12,
-      18
-    ]
-  },
-  {
-    "tmdb_id": 773001,
-    "media_type": "movie",
-    "title": "The Santa Box",
-    "original_title": "The Santa Box",
-    "overview": "Kallie thinks she's cursed by Christmas. For the past 5 years, something bad has happened every Christmas season. One day she finds The Santa Box on her doorstep. Inside is a note that changes how Kallie feels about Christmas forever.",
-    "poster_path": "/wb98CKbe3BAgTCuRDiS5z9yHteD.jpg",
-    "release_date": "2020-11-06",
-    "vote_average": 6.55,
-    "vote_count": 10,
-    "popularity": 5.2716,
-    "genre_ids": [
-      10751,
-      18
-    ]
-  },
-  {
-    "tmdb_id": 3050,
-    "media_type": "movie",
-    "title": "Doctor Dolittle",
-    "original_title": "Doctor Dolittle",
-    "overview": "A successful physician and devoted family man, John Dolittle seems to have the world by the tail, until a long suppressed talent he possessed as a child, the ability to communicate with animals is suddenly reawakened with a vengeance! Now every creature within squawking distance wants the good doctor's advice, unleashing an outrageous chain of events that turns his world upside down!",
-    "poster_path": "/tLrchGMIkdo1KamQJA6fwvDQEy0.jpg",
-    "release_date": "1998-06-26",
-    "vote_average": 5.717,
-    "vote_count": 3219,
-    "popularity": 5.2656,
-    "genre_ids": [
-      35,
-      10751,
-      14
-    ]
-  },
-  {
-    "tmdb_id": 65755,
-    "media_type": "movie",
-    "title": "Uncle P",
-    "original_title": "Uncle P",
-    "overview": "Rapper/multi-millionaire P. Miller becomes the guardian of his sister's three children - all of whom need a father figure in their lives.",
-    "poster_path": "/vSo88Wi8hk7RtNiluMOEuhjhuGk.jpg",
-    "release_date": "2007-06-26",
-    "vote_average": 5.1,
-    "vote_count": 11,
-    "popularity": 5.2598,
-    "genre_ids": [
-      35,
-      10751
-    ]
-  },
-  {
-    "tmdb_id": 116149,
-    "media_type": "movie",
-    "title": "Paddington",
-    "original_title": "Paddington",
-    "overview": "A young Peruvian bear travels to London in search of a home. Finding himself lost and alone at Paddington Station, he meets the kindly Brown family, who offer him a temporary haven.",
-    "poster_path": "/wpchRGhRhvhtU083PfX2yixXtiw.jpg",
-    "release_date": "2014-11-24",
-    "vote_average": 7.115,
-    "vote_count": 4101,
-    "popularity": 5.2511,
-    "genre_ids": [
-      35,
-      12,
-      10751
-    ]
-  },
-  {
-    "tmdb_id": 102184,
-    "media_type": "movie",
-    "title": "Cheese Chasers",
-    "original_title": "Cheese Chasers",
-    "overview": "After eating their fill at a cheese factory, Hubie and Bertie decide there is nothing left to live for, and try to get Claude Cat to eat them.",
-    "poster_path": "/cvv3WW6Dfz2jbNRQB0DdvmqzxTb.jpg",
-    "release_date": "1951-08-25",
-    "vote_average": 7.1,
-    "vote_count": 26,
-    "popularity": 5.2474,
-    "genre_ids": [
-      16,
       35
     ]
   },
   {
-    "tmdb_id": 151756,
+    "tmdb_id": 16081,
     "media_type": "movie",
-    "title": "Big Man from the North",
-    "original_title": "Big Man from the North",
-    "overview": "Bosko is a Mountie in the cold, snowy north. His sergeant demands that he get his man: a peg-legged villain wanted dead or alive.",
-    "poster_path": "/Wje3nNe3jlG3GwUwZ5KUZayQrN.jpg",
-    "release_date": "1931-01-31",
-    "vote_average": 5.179,
-    "vote_count": 14,
-    "popularity": 5.2063,
-    "genre_ids": [
-      80,
-      16,
-      35,
-      10402
-    ]
-  },
-  {
-    "tmdb_id": 302429,
-    "media_type": "movie",
-    "title": "Strange Magic",
-    "original_title": "Strange Magic",
-    "overview": "A love potion works its devious charms on fairies, elves and the swamp-dwelling Bog King as they all try to possess the potion for themselves.",
-    "poster_path": "/vjCdrK8gGRFnyuZb1j9BzgN2RaY.jpg",
-    "release_date": "2015-01-23",
-    "vote_average": 7.2,
-    "vote_count": 541,
-    "popularity": 5.1984,
+    "title": "Doctor Dolittle",
+    "original_title": "Doctor Dolittle",
+    "overview": "A veterinarian who can communicate with animals travels abroad to search for a giant sea snail.",
+    "poster_path": "/rViuZo27U8wcZHGuRliv9LfmhjV.jpg",
+    "release_date": "1967-12-05",
+    "vote_average": 6.2,
+    "vote_count": 194,
+    "popularity": 6.2523,
     "genre_ids": [
       10402,
-      16,
       10751,
+      35,
       14
     ]
   },
   {
-    "tmdb_id": 68486,
+    "tmdb_id": 397520,
     "media_type": "movie",
-    "title": "A Gentleman's Gentleman",
-    "original_title": "A Gentleman's Gentleman",
-    "overview": "Mickey Mouse lies in bed like a lord, getting served breakfast by man's (and mouse's?) best friend Pluto as gentleman's gentleman. Next duty is to fetch the paper, but also pay for it with a coin for the vending machine, and those round things have a nasty habit of escaping a dog's teeth and bouncing over the pavement till they end up in the gutter. After enough attempts to fish and spend the penny, Pluto has a newspaper to carry the same way. The wind has a nasty way to get a better grip on page after page then the dog, so by the time he delivers the daily dose of printed news it's an embarrassingly muddy mess.",
-    "poster_path": "/6dzYiBHIUJgM6qb8N3eJVf2ftpZ.jpg",
-    "release_date": "1941-03-28",
-    "vote_average": 6.295,
-    "vote_count": 22,
-    "popularity": 5.1872,
+    "title": "Anne of Green Gables",
+    "original_title": "Anne of Green Gables",
+    "overview": "A retelling of L.M. Montgomery's story of Anne Shirley, an orphan who is accidentally sent to a couple looking to adopt a boy instead.",
+    "poster_path": "/naohj9jmNggrodVingNs1veCwXJ.jpg",
+    "release_date": "2016-02-15",
+    "vote_average": 7.2,
+    "vote_count": 130,
+    "popularity": 5.9449,
     "genre_ids": [
+      18,
+      10751,
+      10770
+    ]
+  },
+  {
+    "tmdb_id": 691683,
+    "media_type": "movie",
+    "title": "Cheaper by the Dozen",
+    "original_title": "Cheaper by the Dozen",
+    "overview": "This remake of the beloved classic follows the raucous exploits of a blended family of 12, the Bakers, as they navigate a hectic home life while simultaneously managing their family business.",
+    "poster_path": "/qNRsouZh5zmhaE3n4QpLDXzy1gQ.jpg",
+    "release_date": "2022-03-18",
+    "vote_average": 6.351,
+    "vote_count": 262,
+    "popularity": 5.7585,
+    "genre_ids": [
+      10751,
+      35
+    ]
+  },
+  {
+    "tmdb_id": 415009,
+    "media_type": "movie",
+    "title": "The Wizard of Oz",
+    "original_title": "The Wizard of Oz",
+    "overview": "L.Frank Baum's classic. Dorothy and her dog, Toto, are whisked away from their home in Kansas and find themselves in the magical land of Oz. While on her journey to find the Wizard, hoping he will help her to return home, Dorothy meets the Scarecrow, the Tin Man, and the Cowardly Lion. Together they destroy the Wicked Witch and make it to the Emerald City.",
+    "poster_path": "/j7oz4iVVOXnxSjkmPhfTNY4qow1.jpg",
+    "release_date": "1991-01-01",
+    "vote_average": 5.9,
+    "vote_count": 9,
+    "popularity": 5.7456,
+    "genre_ids": [
+      14,
+      12,
       16
     ]
   },
   {
-    "tmdb_id": 28069,
-    "media_type": "movie",
-    "title": "A Charlie Brown Valentine",
-    "original_title": "A Charlie Brown Valentine",
-    "overview": "Lovesick Charlie Brown hopes – still – to get a valentine from the Little Red-Haired Girl, as does Sally from Linus, Lucy from Schroeder and Peppermint Patty from Charlie Brown.",
-    "poster_path": "/u1k4R64qhezeMhfr6Lxq61WHSFV.jpg",
-    "release_date": "2002-02-14",
-    "vote_average": 6.255,
-    "vote_count": 53,
-    "popularity": 5.1816,
-    "genre_ids": [
-      10751,
-      16,
-      10749,
-      10770,
-      35
-    ]
-  },
-  {
-    "tmdb_id": 37662,
+    "tmdb_id": 31920,
     "media_type": "movie",
     "title": "The Railway Children",
     "original_title": "The Railway Children",
     "overview": "At the dawn of the 20th century, following their father's arrest on suspicion of betraying state secrets, the three Waterbury children—Bobbie, Phyllis and Peter—move with their mother to Yorkshire, where they find themselves involved in unexpected dramas along the railway by their new home.",
-    "poster_path": "/kusEIHfdngzcypY36yjWJVWMShj.jpg",
-    "release_date": "1970-12-21",
-    "vote_average": 6.677,
-    "vote_count": 96,
-    "popularity": 5.1703,
+    "poster_path": "/oOUhkEhrCeHRldgqZmYZEH8DsTN.jpg",
+    "release_date": "2000-09-11",
+    "vote_average": 6.7,
+    "vote_count": 25,
+    "popularity": 5.4818,
+    "genre_ids": [
+      18,
+      10751,
+      10770
+    ]
+  },
+  {
+    "tmdb_id": 7484,
+    "media_type": "movie",
+    "title": "Open Season",
+    "original_title": "Open Season",
+    "overview": "Boog, a domesticated 900lb. Grizzly bear finds himself stranded in the woods 3 days before Open Season. Forced to rely on Elliot, a fast-talking mule deer, the two form an unlikely friendship and must quickly rally other forest animals if they are to form a rag-tag army against the hunters.",
+    "poster_path": "/w5Lctmkc1yah215Luxmci4djaiW.jpg",
+    "release_date": "2006-09-27",
+    "vote_average": 6.178,
+    "vote_count": 2918,
+    "popularity": 4.9001,
+    "genre_ids": [
+      16,
+      10751,
+      12,
+      35
+    ]
+  },
+  {
+    "tmdb_id": 145857,
+    "media_type": "movie",
+    "title": "The Organ Grinder",
+    "original_title": "The Organ Grinder",
+    "overview": "A beloved Italian organ grinder plays his music and sings his song through an immigrant-filled ghetto neighborhood, where hard-scrabble kids and well-proportioned matrons get hep to the beat that flows from the organ grinder's calliope. There are lots of spoofs of life on the Lower East Side and lots of monkeyshines as the organ grinder's pet performs \"42nd Street\" and imitates some Hollywood greats. The monkey takes wing and gets behind the wheel of a car, driving all over the area and wrecking everything.",
+    "poster_path": "/mQr5DH7TwRy5UljXVfWsXylvNpx.jpg",
+    "release_date": "1933-04-08",
+    "vote_average": 5.188,
+    "vote_count": 8,
+    "popularity": 4.8976,
+    "genre_ids": [
+      16,
+      10402,
+      35,
+      10751
+    ]
+  },
+  {
+    "tmdb_id": 249391,
+    "media_type": "movie",
+    "title": "Here Come the Munsters",
+    "original_title": "Here Come the Munsters",
+    "overview": "The Munsters come to America to search for Herman's brother-in-law Norman Hyde, only to find out that he has turned himself into Brent Jekyll, who is running for congress, and Grandpa must make a formula to change Norman back.",
+    "poster_path": "/a0i8csi1cw8OHPwUzFqwLd0tWFr.jpg",
+    "release_date": "1995-01-11",
+    "vote_average": 5.1,
+    "vote_count": 24,
+    "popularity": 4.8944,
+    "genre_ids": [
+      27,
+      35,
+      10751,
+      10770
+    ]
+  },
+  {
+    "tmdb_id": 29228,
+    "media_type": "movie",
+    "title": "The Computer Wore Tennis Shoes",
+    "original_title": "The Computer Wore Tennis Shoes",
+    "overview": "Some college students manage to persuade the town's big businessman, A. J. Arno, to donate a computer to their college. When the problem- student, Dexter Riley, tries to fix the computer, he gets an electric shock and his brain turns to a computer; now he remembers everything he reads. Unfortunately, he also remembers information which was in the computer's memory, like Arno's illegal businesses..",
+    "poster_path": "/vXfUKvAHTIifAU7IP17kl1ZBGh6.jpg",
+    "release_date": "1969-12-29",
+    "vote_average": 6.013,
+    "vote_count": 155,
+    "popularity": 4.8853,
+    "genre_ids": [
+      35,
+      10751,
+      18
+    ]
+  },
+  {
+    "tmdb_id": 260916,
+    "media_type": "movie",
+    "title": "Invaders from the Deep",
+    "original_title": "Invaders from the Deep",
+    "overview": "A compilation of four episodes from the Supermarionation series Stingray. When aquatic aliens plot to take over the planet, the world aquanaut security patrol are called in to battle the aliens.",
+    "poster_path": "/3ujU5kadXRgPH72nxccXIb2BMG.jpg",
+    "release_date": "1981-01-01",
+    "vote_average": 5.0,
+    "vote_count": 6,
+    "popularity": 4.8846,
+    "genre_ids": [
+      878,
+      28,
+      10751,
+      10770
+    ]
+  },
+  {
+    "tmdb_id": 379686,
+    "media_type": "movie",
+    "title": "Space Jam: A New Legacy",
+    "original_title": "Space Jam: A New Legacy",
+    "overview": "When LeBron and his young son Dom are trapped in a digital space by a rogue A.I., LeBron must get them home safe by leading Bugs, Lola Bunny and the whole gang of notoriously undisciplined Looney Tunes to victory over the A.I.'s digitized champions on the court. It's Tunes versus Goons in the highest-stakes challenge of his life.",
+    "poster_path": "/mDACFTANR34u6lvucazoYiFJOp7.jpg",
+    "release_date": "2021-07-08",
+    "vote_average": 6.656,
+    "vote_count": 4159,
+    "popularity": 4.8835,
+    "genre_ids": [
+      10751,
+      35,
+      12,
+      16,
+      878
+    ]
+  },
+  {
+    "tmdb_id": 51330,
+    "media_type": "movie",
+    "title": "You're a Good Man, Charlie Brown",
+    "original_title": "You're a Good Man, Charlie Brown",
+    "overview": "The Peanuts gang perform the classic Broadway musical. In addition to the classic songs, we see Charlie Brown and his friends perform the various comedy sketches of the play.",
+    "poster_path": "/jbuCcWHp0LFRa9yLyJ5E4nE0MhB.jpg",
+    "release_date": "1985-11-06",
+    "vote_average": 6.8,
+    "vote_count": 36,
+    "popularity": 4.8619,
+    "genre_ids": [
+      16,
+      10751,
+      35
+    ]
+  },
+  {
+    "tmdb_id": 43901,
+    "media_type": "movie",
+    "title": "Anne of Green Gables",
+    "original_title": "Anne of Green Gables",
+    "overview": "Anne Shirley, an orphan, is fostered by farmer Matthew Cuthbert and his sister Marilla, who were expecting a boy to be sent them to help with their farm work. They accept Anne, who quickly endears herself to them and to the local villagers.",
+    "poster_path": "/xkXXyY8rqToMwCkGndUk9I3GAl8.jpg",
+    "release_date": "1934-11-23",
+    "vote_average": 5.5,
+    "vote_count": 23,
+    "popularity": 4.8579,
+    "genre_ids": [
+      35,
+      18,
+      10751
+    ]
+  },
+  {
+    "tmdb_id": 80351,
+    "media_type": "movie",
+    "title": "The Castaway Cowboy",
+    "original_title": "The Castaway Cowboy",
+    "overview": "A Wayward Texas cowboy washes up on the beaches of Hawaii and is taken home by an fatherless boy. He saves the family's business while romancing the single mom.",
+    "poster_path": "/881Frzo4noOfezARUO9f3eo8GjG.jpg",
+    "release_date": "1974-08-01",
+    "vote_average": 6.6,
+    "vote_count": 29,
+    "popularity": 4.8573,
+    "genre_ids": [
+      12,
+      10751,
+      35,
+      37
+    ]
+  },
+  {
+    "tmdb_id": 769165,
+    "media_type": "movie",
+    "title": "My Brother's Keeper",
+    "original_title": "My Brother's Keeper",
+    "overview": "Returning war veteran SFC Travis Fox has one more battle to fight – PTSD. Following an improvised explosive device attack that killed his best friend and their entire Ranger platoon, Travis returns to his hometown to settle the mysterious affairs of his late parents. In searching for answers, he uncovers a new obstacle and finds support from church counselor Tiffany Robertson. Slowly beginning to rediscover his faith in God, Travis uncovers a secret hidden by his friend Donnie that threatens his newfound faith, restores his guilt, and causes him to consider the unthinkable.",
+    "poster_path": "/SJsEwa1pwL7FMmsgSvebxBZT9b.jpg",
+    "release_date": "2021-03-19",
+    "vote_average": 7.5,
+    "vote_count": 40,
+    "popularity": 4.8534,
     "genre_ids": [
       18,
       10751
     ]
   },
   {
-    "tmdb_id": 379452,
+    "tmdb_id": 34482,
     "media_type": "movie",
-    "title": "Hiss and Hers",
-    "original_title": "Hiss and Hers",
-    "overview": "The Blue Racer's wife wakes the Blue Racer up and sends him out for food. He encounters the Japanese Beetle, tries to eat  and capture the Beetle over and over, but fails. First \"The Blue Racer\" cartoon.",
-    "poster_path": "/jsAyT1XQZj6ycOPys9ju99SkTkh.jpg",
-    "release_date": "1972-04-02",
-    "vote_average": 5.0,
-    "vote_count": 5,
-    "popularity": 5.1598,
+    "title": "The Clique",
+    "original_title": "The Clique",
+    "overview": "A young girl tries to fit in with a clique of popular middle school girls after moving into the guest house of one of their homes.",
+    "poster_path": "/f8h9WF7l5vLWI6OU5nmIRKx6QJ0.jpg",
+    "release_date": "2008-11-11",
+    "vote_average": 5.9,
+    "vote_count": 173,
+    "popularity": 4.8476,
+    "genre_ids": [
+      35,
+      18,
+      10751
+    ]
+  },
+  {
+    "tmdb_id": 101884,
+    "media_type": "movie",
+    "title": "Carrie's War",
+    "original_title": "Carrie's War",
+    "overview": "Carrie's War is an adaptation of a 1973 children's novel by Nina Bawden, set during the Second World War and following two evacuees, Carrie and her younger brother Nick.",
+    "poster_path": "/3FyUAMKNLhpfisP3iyWZwJ2jAWx.jpg",
+    "release_date": "2004-01-01",
+    "vote_average": 7.4,
+    "vote_count": 9,
+    "popularity": 4.8453,
+    "genre_ids": [
+      18,
+      10751,
+      36,
+      10752
+    ]
+  },
+  {
+    "tmdb_id": 52508,
+    "media_type": "movie",
+    "title": "I'll Be Home For Christmas",
+    "original_title": "I'll Be Home For Christmas",
+    "overview": "Christmas romance about long-separated high school sweethearts who find each other again after 20 years. She's never married and is a smalltown mayor; he's a widowed doctor and single dad who's come back to visit his father for the holidays and is pressured to stay because there's need for a local doc.",
+    "poster_path": "/wZ8CFVkeRWYY40MubQ8mQtiWOKH.jpg",
+    "release_date": "1997-12-23",
+    "vote_average": 6.6,
+    "vote_count": 8,
+    "popularity": 4.8403,
+    "genre_ids": [
+      10770,
+      35,
+      18,
+      10751,
+      10749
+    ]
+  },
+  {
+    "tmdb_id": 252674,
+    "media_type": "movie",
+    "title": "A Second Chance",
+    "original_title": "A Second Chance",
+    "overview": "A young girl and her coach overcome adversity to make their way into the National Australian Gymnastics Squad.",
+    "poster_path": "/dHCiLSLwnAlj4sNJECyx5r8h97G.jpg",
+    "release_date": "2011-11-23",
+    "vote_average": 6.0,
+    "vote_count": 79,
+    "popularity": 4.8236,
+    "genre_ids": [
+      18,
+      10751
+    ]
+  },
+  {
+    "tmdb_id": 90932,
+    "media_type": "movie",
+    "title": "Listen, Darling",
+    "original_title": "Listen, Darling",
+    "overview": "To stop Pinkie's widowed, struggling mother Dottie from marrying a well-off older man they know she doesn't love, teenager Pinkie and her best friend Buzz kidnap her in the family travel trailer to live a carefree life on the open road. They then get the idea to find Dottie a financially secure husband whom both she and Pinkie would like.",
+    "poster_path": "/ik3vQc7ogYxHcBAXKxfVrHItPfa.jpg",
+    "release_date": "1938-10-21",
+    "vote_average": 6.3,
+    "vote_count": 12,
+    "popularity": 4.8208,
+    "genre_ids": [
+      35,
+      18,
+      10749,
+      10751
+    ]
+  },
+  {
+    "tmdb_id": 67502,
+    "media_type": "movie",
+    "title": "Symphony Hour",
+    "original_title": "Symphony Hour",
+    "overview": "Mickey guest-directs a radio orchestra. The sponsor loves the rehearsal, but come the actual performance, Goofy drops all the instruments under an elevator, so they sound like toys. The sponsor hates it, but the audience loves it anyway.",
+    "poster_path": "/9xSI8M0crOD2w6eCxe1cbS1dC8P.jpg",
+    "release_date": "1942-03-20",
+    "vote_average": 6.819,
+    "vote_count": 47,
+    "popularity": 4.8184,
+    "genre_ids": [
+      16,
+      35,
+      10402
+    ]
+  },
+  {
+    "tmdb_id": 874970,
+    "media_type": "movie",
+    "title": "The Story of Love",
+    "original_title": "The Story of Love",
+    "overview": "Ruby, an aspiring romance novelist, joins a writers retreat in Tahoe, in order to win a lucrative book deal. But when Woody, the hotel owner, shows her the beauty of nature, Ruby wonders if she's been writing the wrong kinds of stories.",
+    "poster_path": "/ldwh6iHJAnXqJLqTo9PMhjLNtuF.jpg",
+    "release_date": "2022-02-02",
+    "vote_average": 6.9,
+    "vote_count": 17,
+    "popularity": 4.8101,
+    "genre_ids": [
+      10770,
+      35,
+      10749,
+      10751
+    ]
+  },
+  {
+    "tmdb_id": 36986,
+    "media_type": "movie",
+    "title": "Angels in the Endzone",
+    "original_title": "Angels in the Endzone",
+    "overview": "The football team Jesse is on is terrible, and after the death of his father Jesse quits the team. Then angels come to help the team get better and nobody can see them but Jesse's little brother.",
+    "poster_path": "/8CGoV5Lmw7Ex2jfizZTPPEZpHHo.jpg",
+    "release_date": "1997-11-09",
+    "vote_average": 5.549,
+    "vote_count": 41,
+    "popularity": 4.8065,
+    "genre_ids": [
+      18,
+      10751,
+      10770
+    ]
+  },
+  {
+    "tmdb_id": 66996,
+    "media_type": "movie",
+    "title": "Lucky Number",
+    "original_title": "Lucky Number",
+    "overview": "Gas station owner Donald thinks he's just missed the winning number for a new Zoom V8 car but his nephews hear a correction, and find he really does have the winner. They plan to pick it up and surprise him, but the car they take runs out of gas, and they're broke. They cut out the picture of a Zoom V8 from a billboard, dress one of the boys in drag, and trick Donald into filling their tank. As they drive off, Donald plots his revenge and executes it, when the boys return in Donald's new car.",
+    "poster_path": "/woXhKpXrLTX2dhLUzQvlxChID5a.jpg",
+    "release_date": "1951-07-20",
+    "vote_average": 6.5,
+    "vote_count": 16,
+    "popularity": 4.8051,
     "genre_ids": [
       16,
       35
     ]
   },
   {
-    "tmdb_id": 48466,
+    "tmdb_id": 125063,
     "media_type": "movie",
-    "title": "Scared Shrekless",
-    "original_title": "Scared Shrekless",
-    "overview": "Shrek challenges Donkey, Puss in Boots and his other fairy tale character friends to spend the night in Lord Farquaad's haunted castle, telling scary stories to see who can resist becoming scared and stay the longest.",
-    "poster_path": "/aAQQJhX8NqKZ7ZNDUPQQKi1wK8h.jpg",
-    "release_date": "2010-10-28",
-    "vote_average": 6.692,
-    "vote_count": 495,
-    "popularity": 5.149,
+    "title": "The Glitterball",
+    "original_title": "The Glitterball",
+    "overview": "When a group of small aliens accidentally abandons one of their own on Earth, adventurous kids Max and Pete stumble upon the \"Glitterball\" and attempt to return it to its mother ship. As the children learn more about the friendly alien and its magical powers, they must protect their new companion from an army corporal and a small-time thief who are both hunting the extraterrestrial for their own cruel purposes.",
+    "poster_path": "/pIbVVXd0ZBLC7ttJeistWF6Hg60.jpg",
+    "release_date": "1977-04-22",
+    "vote_average": 5.1,
+    "vote_count": 8,
+    "popularity": 4.8008,
+    "genre_ids": [
+      10751,
+      878
+    ]
+  },
+  {
+    "tmdb_id": 756,
+    "media_type": "movie",
+    "title": "Fantasia",
+    "original_title": "Fantasia",
+    "overview": "Walt Disney's timeless masterpiece is an extravaganza of sight and sound! See the music come to life, hear the pictures burst into song and experience the excitement that is Fantasia over and over again.",
+    "poster_path": "/5m9njnidjR0syG2gpVPVgcEMB2X.jpg",
+    "release_date": "1940-11-13",
+    "vote_average": 7.344,
+    "vote_count": 3247,
+    "popularity": 4.799,
+    "genre_ids": [
+      16,
+      10751,
+      14
+    ]
+  },
+  {
+    "tmdb_id": 139471,
+    "media_type": "movie",
+    "title": "Big Bird in Japan",
+    "original_title": "Big Bird in Japan",
+    "overview": "While visiting Japan, Big Bird wanders off from a guided tour bus in Tokyo, and is lost until a Japanese woman helps him get to where he needs to go. The woman, however, is hiding a secret.",
+    "poster_path": "/nkaXD136ZMGNsuwxo5fgpG3oIk8.jpg",
+    "release_date": "1988-10-01",
+    "vote_average": 9.1,
+    "vote_count": 6,
+    "popularity": 4.7904,
+    "genre_ids": [
+      10751,
+      10770,
+      12,
+      35
+    ]
+  },
+  {
+    "tmdb_id": 87847,
+    "media_type": "movie",
+    "title": "Country Remedy",
+    "original_title": "Country Remedy",
+    "overview": "In order to secure the position of Head of Pediatrics at a top Chicago hospital, a young, highly accomplished, pediatrician agrees to spend a summer setting up a clinic in a small town in the North Carolina mountains. Clashing against the ways of the small community he is forced to deal with the recent loss of his wife while reconnecting with his 9 year old son, and learning a different pace of life.",
+    "poster_path": "/sbFHwVNlZzSzQciiu6B9D8hg5su.jpg",
+    "release_date": "2007-02-02",
+    "vote_average": 5.5,
+    "vote_count": 10,
+    "popularity": 4.7871,
+    "genre_ids": [
+      18,
+      10751
+    ]
+  },
+  {
+    "tmdb_id": 256439,
+    "media_type": "movie",
+    "title": "My Little Pony: The Runaway Rainbow",
+    "original_title": "My Little Pony: The Runaway Rainbow",
+    "overview": "Rainbow Dash loves the time of year when Ponyville and Breezie Blossom are all about celebrating rainbows. Meanwhile in a new magical place called Unicornia, Rarity is being taught how to be a Unicorn Princess and the importance of making the first rainbow of the season. But she is quite a little rascal and embarks on an incredible ride, a huge adventure (with lots of mishaps) as she tries to get back to Unicornia. Rarity soon realizes that getting home in time to create the first rainbow of season is not an easy thing to do --- but it is fun!",
+    "poster_path": "/xv6bs9wNzEyGfhe80JrWkregBcv.jpg",
+    "release_date": "2006-09-12",
+    "vote_average": 7.3,
+    "vote_count": 51,
+    "popularity": 4.7844,
+    "genre_ids": [
+      16,
+      12,
+      14
+    ]
+  },
+  {
+    "tmdb_id": 209676,
+    "media_type": "movie",
+    "title": "Palm Springs",
+    "original_title": "Palm Springs",
+    "overview": "This short is about a purple dinosaur named Sigmund, who likes to bounce on top of trees.  Preserved by the Academy Film Archive in 2011.",
+    "poster_path": "/qpi6EelzDw2EyNcbw8nCm70TxrV.jpg",
+    "release_date": "1989-12-31",
+    "vote_average": 6.0,
+    "vote_count": 26,
+    "popularity": 4.7762,
+    "genre_ids": [
+      16
+    ]
+  },
+  {
+    "tmdb_id": 64183,
+    "media_type": "movie",
+    "title": "Parent Trap III",
+    "original_title": "Parent Trap III",
+    "overview": "When Jeff plans to marry again, his triplet daughters Megan, Lisa and Jessie try to bring him together with Susan.",
+    "poster_path": "/qhZJWKElYdHsGsl8kxY2IMhAfXx.jpg",
+    "release_date": "1989-04-09",
+    "vote_average": 5.9,
+    "vote_count": 26,
+    "popularity": 4.7762,
+    "genre_ids": [
+      35,
+      10751,
+      10770,
+      10749
+    ]
+  },
+  {
+    "tmdb_id": 20421,
+    "media_type": "movie",
+    "title": "Rock-A-Doodle",
+    "original_title": "Rock-A-Doodle",
+    "overview": "Chanticleer is a foolhardy farm rooster who believes his crows can actually make the sun come up and shine. When the sun rises one morning without Chanticleer's crow, he leaves the farm in disgrace and runs off to become a rock 'n' roll singer. But in his absence, a sinister, sunshine-hating owl prepares to take over.",
+    "poster_path": "/q5xSS8MNmrwR3em6VB6OC3992d6.jpg",
+    "release_date": "1991-08-02",
+    "vote_average": 6.2,
+    "vote_count": 307,
+    "popularity": 4.7755,
+    "genre_ids": [
+      35,
+      10751,
+      16,
+      14,
+      10402
+    ]
+  },
+  {
+    "tmdb_id": 414740,
+    "media_type": "movie",
+    "title": "Transformers: Combiner Wars",
+    "original_title": "Transformers: Combiner Wars",
+    "overview": "Several decades after the Great War between the Autobots and the Decepticons on Earth, the two factions have disbanded and a three member ruling council rules in place of the absent leaders Optimus Prime and Megatron. An uneasy peace has been created on Cybertron, but the rise of the Combiners threatens to bring it to an end.",
+    "poster_path": "/3ACV8QnvWcDUOvh7zxsXaWAocyu.jpg",
+    "release_date": "2016-08-02",
+    "vote_average": 7.1,
+    "vote_count": 9,
+    "popularity": 4.7583,
+    "genre_ids": [
+      16,
+      878
+    ]
+  },
+  {
+    "tmdb_id": 208670,
+    "media_type": "movie",
+    "title": "Lady and the Lamp",
+    "original_title": "Lady and the Lamp",
+    "overview": "A lamp causes a ruckus in the shop while the shopkeeper is away.",
+    "poster_path": "/h12S7IgSTfd0VLykuu9wwlsMROM.jpg",
+    "release_date": "1979-06-18",
+    "vote_average": 5.7,
+    "vote_count": 20,
+    "popularity": 4.753,
+    "genre_ids": [
+      16
+    ]
+  },
+  {
+    "tmdb_id": 2486,
+    "media_type": "movie",
+    "title": "Eragon",
+    "original_title": "Eragon",
+    "overview": "In his homeland of Alagaesia, a farm boy happens upon a dragon's egg -- a discovery that leads him on a predestined journey where he realized he's the one person who can defend his home against an evil king.",
+    "poster_path": "/mNu6QLUnKqPIjRA3pgEb5dkJye6.jpg",
+    "release_date": "2006-12-14",
+    "vote_average": 5.127,
+    "vote_count": 3394,
+    "popularity": 4.7516,
+    "genre_ids": [
+      14,
+      28,
+      12,
+      10751
+    ]
+  },
+  {
+    "tmdb_id": 86735,
+    "media_type": "movie",
+    "title": "Magical Maestro",
+    "original_title": "Magical Maestro",
+    "overview": "After he is rejected by the Great Poochini as an opening act, Mysto the Magician gets his revenge by conducting his next operatic performance.",
+    "poster_path": "/4gXmD4QOkNAXxI9M8scea52tx3H.jpg",
+    "release_date": "1952-02-09",
+    "vote_average": 6.67,
+    "vote_count": 50,
+    "popularity": 4.748,
+    "genre_ids": [
+      16,
+      35,
+      10402
+    ]
+  },
+  {
+    "tmdb_id": 64152,
+    "media_type": "movie",
+    "title": "Garfield: His 9 Lives",
+    "original_title": "Garfield: His 9 Lives",
+    "overview": "Garfield plays multiple roles including ancient Egyptian royalty, a fairyland kitten, a movie 'stunt cat\" and more!",
+    "poster_path": "/qfd3Grd0ZSTSOM0Zy7wx82yDGjt.jpg",
+    "release_date": "1988-11-22",
+    "vote_average": 6.5,
+    "vote_count": 32,
+    "popularity": 4.7455,
+    "genre_ids": [
+      16,
+      35,
+      12,
+      18,
+      14,
+      10402,
+      878,
+      10770
+    ]
+  },
+  {
+    "tmdb_id": 352812,
+    "media_type": "movie",
+    "title": "Tick Tock Tale",
+    "original_title": "Tick Tock Tale",
+    "overview": "Amidst an old London clock shop, a small, quirky mantle clock comes to the aide of the store's more expensive clocks when a thief breaks in and threatens to steal them away.",
+    "poster_path": "/adx0vSGKAwSd9rydH6vUJXMkh7x.jpg",
+    "release_date": "2015-08-18",
+    "vote_average": 7.4,
+    "vote_count": 110,
+    "popularity": 4.7454,
+    "genre_ids": [
+      16
+    ]
+  },
+  {
+    "tmdb_id": 298533,
+    "media_type": "movie",
+    "title": "Corner Gas: The Movie",
+    "original_title": "Corner Gas: The Movie",
+    "overview": "It’s been a few years, and there’s still not a lot going on 40 kilometers from nowhere. But that’s all about to change as the fine folks of Dog River, Saskatchewan face their biggest crisis ever. Brent and the gang discover that the town’s been badly mismanaged, leaving residents with little choice but to pack up and leave. As residents make one last rally to save Dog River as they know it, they discover a devious plan by a corporate chain that would change life for Dog Riverites forever.",
+    "poster_path": "/3Foy86VCs8MZhTieDsglSTm4xMU.jpg",
+    "release_date": "2014-12-03",
+    "vote_average": 6.1,
+    "vote_count": 47,
+    "popularity": 4.7417,
+    "genre_ids": [
+      10751,
+      35
+    ]
+  },
+  {
+    "tmdb_id": 217057,
+    "media_type": "movie",
+    "title": "The Hero of Color City",
+    "original_title": "The Hero of Color City",
+    "overview": "An imaginative tale chronicling the adventures of a diverse band of crayons as they strive to protect not only their magical multihued homeland but the imagination of children everywhere from a terrifying monster.",
+    "poster_path": "/r43IegMrhoVGnyD0NM1wYlmaflc.jpg",
+    "release_date": "2014-10-03",
+    "vote_average": 5.2,
+    "vote_count": 30,
+    "popularity": 4.7403,
+    "genre_ids": [
+      16
+    ]
+  },
+  {
+    "tmdb_id": 279987,
+    "media_type": "movie",
+    "title": "Enchanted Journey",
+    "original_title": "グリックの冒険",
+    "overview": "Enthralled with tales of the Great North Forest conveyed to him by friendly carrier pigeon Pippo, young chipmunk Glikko leaves the safety of his comfortable cage to explore the world.",
+    "poster_path": "/by9L1jaybafHjyb9wpiHOwab6mu.jpg",
+    "release_date": "1981-10-10",
+    "vote_average": 6.4,
+    "vote_count": 5,
+    "popularity": 4.7392,
+    "genre_ids": [
+      16,
+      12,
+      10751
+    ]
+  },
+  {
+    "tmdb_id": 847179,
+    "media_type": "movie",
+    "title": "A Lethal Lesson",
+    "original_title": "A Lethal Lesson",
+    "overview": "High school teacher Lauren finds her life up side down when her job, the custody of her adopted daughter and even her safety is in danger when an angry student falsely claims to have had an affair with her.",
+    "poster_path": "/bg2VKQ0OirUl1M99khSyuSevHRL.jpg",
+    "release_date": "2021-07-08",
+    "vote_average": 6.393,
+    "vote_count": 14,
+    "popularity": 4.7378,
+    "genre_ids": [
+      53,
+      10770,
+      10751,
+      80
+    ]
+  },
+  {
+    "tmdb_id": 158834,
+    "media_type": "movie",
+    "title": "I Got Plenty of Mutton",
+    "original_title": "I Got Plenty of Mutton",
+    "overview": "A wolf, deprived of meat by war rationing and starving, sees an article in the newspaper about a sheepdog leaving his flock to join the army and thinks it will be easy pickings. However, if he had read the rest of the article, he would know that the flock is now guarded by the ram Killer Diller, a most formidable foe.",
+    "poster_path": "/2DdRI0rjZquKPcCmftJSf9ttl5r.jpg",
+    "release_date": "1944-03-11",
+    "vote_average": 6.8,
+    "vote_count": 10,
+    "popularity": 4.7371,
+    "genre_ids": [
+      16,
+      35
+    ]
+  },
+  {
+    "tmdb_id": 235947,
+    "media_type": "movie",
+    "title": "The Super Snooper",
+    "original_title": "The Super Snooper",
+    "overview": "In this parody of trench-coat detective films, Daffy Duck is Duck Drake, a \"Private Eye, Ear, Nose, and Throat\" who receives a telephone call summoning him to the J. Cleaver Axe-Handle Estate, where a murder has supposedly taken place.",
+    "poster_path": "/aIlBT7h0z6o0sCS2LrBEW6Nk3yQ.jpg",
+    "release_date": "1952-11-10",
+    "vote_average": 7.412,
+    "vote_count": 17,
+    "popularity": 4.736,
+    "genre_ids": [
+      16,
+      35
+    ]
+  },
+  {
+    "tmdb_id": 605829,
+    "media_type": "movie",
+    "title": "The Swan Princess: Kingdom of Music",
+    "original_title": "The Swan Princess: Kingdom of Music",
+    "overview": "Princess Odette is hosting a music competition to celebrate Princess Alise's birthday. Prince Li of Cathay has entered, but his sister Princess Mei Li has stowed away on his ship to seek help from Odette and Derek for Chen, who has been cursed to live as a dragon. Who will win the music festival and will Chen ever be free from his curse?",
+    "poster_path": "/4pEkHSzxNHcEYseYWxR0MGiDRIf.jpg",
+    "release_date": "2019-08-05",
+    "vote_average": 5.7,
+    "vote_count": 22,
+    "popularity": 4.7356,
+    "genre_ids": [
+      10751,
+      16,
+      14,
+      10402
+    ]
+  },
+  {
+    "tmdb_id": 79699,
+    "media_type": "movie",
+    "title": "A Warrior's Heart",
+    "original_title": "A Warrior's Heart",
+    "overview": "Unable to cope with his military father's sudden death in combat, quick-tempered teen, Conor, starts getting into serious trouble. During an intense lacrosse camp, his father's old friend challenges Conor to get his life on track and become a man.",
+    "poster_path": "/rZsmMHmSZGj2hcYGNsHFLomw37E.jpg",
+    "release_date": "2011-12-02",
+    "vote_average": 5.4,
+    "vote_count": 67,
+    "popularity": 4.7335,
+    "genre_ids": [
+      28,
+      18,
+      10751,
+      10749
+    ]
+  },
+  {
+    "tmdb_id": 1371727,
+    "media_type": "movie",
+    "title": "Sing: Thriller",
+    "original_title": "Sing: Thriller",
+    "overview": "Buster Moon dreams up a star-studded spectacle set to Michael Jackson's \"Thriller\" in this animated short featuring characters from the hit \"Sing\" films.",
+    "poster_path": "/i77OInTKcrnRlAozFOaB6D5mk15.jpg",
+    "release_date": "2024-10-15",
+    "vote_average": 7.172,
+    "vote_count": 195,
+    "popularity": 4.7298,
+    "genre_ids": [
+      16,
+      10751,
+      35,
+      10402
+    ]
+  },
+  {
+    "tmdb_id": 236533,
+    "media_type": "movie",
+    "title": "Joe Glow, the Firefly",
+    "original_title": "Joe Glow, the Firefly",
+    "overview": "A firefly with a miner's lighted helmet explores a camper's tent and the various people-sized items that, from his perspective, are gigantic, then utters the cartoon's single line of dialog.",
+    "poster_path": "/4J5BVWTP245VRtmuZ0ZaPQ4vuHT.jpg",
+    "release_date": "1941-03-07",
+    "vote_average": 5.0,
+    "vote_count": 8,
+    "popularity": 4.722,
+    "genre_ids": [
+      16
+    ]
+  },
+  {
+    "tmdb_id": 20737,
+    "media_type": "movie",
+    "title": "Air Bud",
+    "original_title": "Air Bud",
+    "overview": "A lonely boy befriends a stray dog who has a natural talent for basketball and together they experience the highs and lows of life as their friendship remains solid through a series of escapades.",
+    "poster_path": "/kDfzh6QdX2tseTwwyB7lp2RP7iE.jpg",
+    "release_date": "1997-08-01",
+    "vote_average": 5.57,
+    "vote_count": 501,
+    "popularity": 4.7181,
+    "genre_ids": [
+      35,
+      10751
+    ]
+  },
+  {
+    "tmdb_id": 11243,
+    "media_type": "movie",
+    "title": "The Care Bears Movie",
+    "original_title": "The Care Bears Movie",
+    "overview": "The Care Bears team up with a troubled brother and sister who just moved to a new town to help a neglected young magician's apprentice whose evil spell book causes sinister things to happen.",
+    "poster_path": "/qD1MAGhRfVgWS0UbLhZuM6F7zmr.jpg",
+    "release_date": "1985-03-23",
+    "vote_average": 6.0,
+    "vote_count": 147,
+    "popularity": 4.7173,
+    "genre_ids": [
+      12,
+      14,
+      16,
+      35,
+      10751
+    ]
+  },
+  {
+    "tmdb_id": 359878,
+    "media_type": "movie",
+    "title": "My Little Pony",
+    "original_title": "My Little Pony",
+    "overview": "The story begins as the peaceful ponies of Dream Valley are attacked by monsters, led by Scorpan, who kidnap several ponies and take them away to Midnight Castle. Enraged, Firefly, a Pegasus pony, takes to the skies to try to find someone who can help them defeat Tirek, a centaur-like demon whose plan is to use these ponies to pull his chariot of darkness. On her way, she crashes into 12-year-old Megan's well and asks her for her help. Megan is at first reluctant to go but after being confronted by the monsters, she sets out with the ponies to rescue them.",
+    "poster_path": "/zad8hKb4RRVlD78LZnG09T1alCp.jpg",
+    "release_date": "1984-09-14",
+    "vote_average": 6.643,
+    "vote_count": 14,
+    "popularity": 4.7172,
+    "genre_ids": [
+      16,
+      14,
+      10770
+    ]
+  },
+  {
+    "tmdb_id": 79379,
+    "media_type": "movie",
+    "title": "Book of Dragons",
+    "original_title": "Book of Dragons",
+    "overview": "So you want to be a dragon trainer do you? Prepare yourself for adventure, excitement and training as Hiccup, Astrid, Toothless and Gobber tell the legend behind the Book of Dragons and reveal insider training secrets about new, never-before-seen dragons.",
+    "poster_path": "/jDInObzAHYGsde02gTxL8B56HGT.jpg",
+    "release_date": "2011-11-15",
+    "vote_average": 6.741,
+    "vote_count": 189,
+    "popularity": 4.7165,
+    "genre_ids": [
+      14,
+      16,
+      28,
+      35,
+      10751
+    ]
+  },
+  {
+    "tmdb_id": 674652,
+    "media_type": "movie",
+    "title": "Adventure Boyz",
+    "original_title": "Adventure Boyz",
+    "overview": "When two boys on their BMX bikes and their Speedway racing Dad, come up against a notorious crime boss  and his criminal gang who have stolen a hoard of Diamonds from England’s Largest Castle, a chain of events is set off that will change their lives forever...",
+    "poster_path": "/zNx1kCtBoHQaIa4tXQ6zrp06w9X.jpg",
+    "release_date": "2019-07-20",
+    "vote_average": 7.6,
+    "vote_count": 9,
+    "popularity": 4.7162,
+    "genre_ids": [
+      10751,
+      28
+    ]
+  },
+  {
+    "tmdb_id": 348393,
+    "media_type": "movie",
+    "title": "Family for Christmas",
+    "original_title": "Family for Christmas",
+    "overview": "At the height of her career, investigative journalist Hannah Dunbar finds herself wondering what would have been had she stayed with the love of her life, Ben, 10 years before. When Santa Claus hears her “what ifs?” as a Christmas wish, he transports Hannah to a version of her life where she and Ben started a family.",
+    "poster_path": "/cmPYjnLUZv016tk2uNNQ4n44ktm.jpg",
+    "release_date": "2015-07-11",
+    "vote_average": 5.7,
+    "vote_count": 101,
+    "popularity": 4.7086,
+    "genre_ids": [
+      10751,
+      10749,
+      10770
+    ]
+  },
+  {
+    "tmdb_id": 166544,
+    "media_type": "movie",
+    "title": "The Haunted Ship",
+    "original_title": "The Haunted Ship",
+    "overview": "Waffles the Cat and Don the Dog explore a sunken ship where they meet drunk turtles singing \"Sweet Adeline\" and a skeletal Davy Jones.",
+    "poster_path": null,
+    "release_date": "1930-04-26",
+    "vote_average": 5.5,
+    "vote_count": 6,
+    "popularity": 4.7049,
+    "genre_ids": [
+      16,
+      35,
+      27
+    ]
+  },
+  {
+    "tmdb_id": 379160,
+    "media_type": "movie",
+    "title": "Pink-In",
+    "original_title": "Pink-In",
+    "overview": "The Pink Panther reads some old letters from his army friend Loud-Mouth Louie.",
+    "poster_path": "/scomNtSwFV1RoL2pPvoGv4WuvA2.jpg",
+    "release_date": "1971-10-20",
+    "vote_average": 5.7,
+    "vote_count": 9,
+    "popularity": 4.7046,
+    "genre_ids": [
+      16
+    ]
+  },
+  {
+    "tmdb_id": 124532,
+    "media_type": "movie",
+    "title": "Creating Rem Lezar",
+    "original_title": "Creating Rem Lezar",
+    "overview": "Zack and Ashlee discover the meaning of true friendship when they create an imaginary friend, the superhero Rem Lezar.",
+    "poster_path": "/w0DgAgIgypvPOP43aN1AMUHiLQu.jpg",
+    "release_date": "1989-01-01",
+    "vote_average": 7.0,
+    "vote_count": 12,
+    "popularity": 4.7033,
+    "genre_ids": [
+      10751,
+      10402,
+      14
+    ]
+  },
+  {
+    "tmdb_id": 501929,
+    "media_type": "movie",
+    "title": "The Mitchells vs. the Machines",
+    "original_title": "The Mitchells vs. the Machines",
+    "overview": "A quirky, dysfunctional family's road trip is upended when they find themselves in the middle of the robot apocalypse and suddenly become humanity's unlikeliest last hope.",
+    "poster_path": "/mI2Di7HmskQQ34kz0iau6J1vr70.jpg",
+    "release_date": "2021-04-22",
+    "vote_average": 7.857,
+    "vote_count": 3214,
+    "popularity": 4.6953,
+    "genre_ids": [
+      16,
+      12,
+      35
+    ]
+  },
+  {
+    "tmdb_id": 13151,
+    "media_type": "movie",
+    "title": "Scooby-Doo on Zombie Island",
+    "original_title": "Scooby-Doo on Zombie Island",
+    "overview": "After going their separate ways, Scooby-Doo, Shaggy, Velma, Daphne, and Fred reunite to investigate the ghost of Moonscar the pirate on a haunted bayou island, but it turns out the swashbuckler's spirit isn't the only creepy character on the island. The sleuths also meet up with cat creatures and zombies... and it looks like for the first time in their lives, these ghouls might actually be real.",
+    "poster_path": "/7EdvFUGvT5Pn8rUFRKCrdUzNthf.jpg",
+    "release_date": "1998-09-22",
+    "vote_average": 7.665,
+    "vote_count": 819,
+    "popularity": 4.6937,
+    "genre_ids": [
+      16,
+      9648,
+      10751,
+      27
+    ]
+  },
+  {
+    "tmdb_id": 108988,
+    "media_type": "movie",
+    "title": "Pollyanna",
+    "original_title": "Pollyanna",
+    "overview": "When Pollyanna is orphaned, she's sent to live with her crotchety Aunt Polly. Pollyanna discovers that many of the people in her aunt's New England hometown are as ill-tempered as her aunt. But Pollyanna's incurable optimism - exemplified by her \"glad game\", in which she looks for the bright side of every situation - brings a change to the staid old community.",
+    "poster_path": "/sShuXyUMN1w3LNtl0HpRXingGxK.jpg",
+    "release_date": "1920-01-18",
+    "vote_average": 6.333,
+    "vote_count": 21,
+    "popularity": 4.6918,
+    "genre_ids": [
+      35,
+      18,
+      10751
+    ]
+  },
+  {
+    "tmdb_id": 28032,
+    "media_type": "movie",
+    "title": "Thumbelina",
+    "original_title": "Thumbelina",
+    "overview": "Born of a flower and growing to only a couple of inches tall, poor Thumbelina is worried she'll never meet someone her own size, until she happens to catch the eye of Prince Cornelius of the Fairies. Just as soon as she finds love, however, it's torn away when she's kidnapped by Ms. Toad. Now Thumbelina has to escape Ms. Toad's grasp and search for Prince Cornelius. Luckily, there's a whole city of animals willing to help.",
+    "poster_path": "/eBvSSfwAKgcjF4eyaeNSzTCpfaF.jpg",
+    "release_date": "1994-03-30",
+    "vote_average": 6.438,
+    "vote_count": 530,
+    "popularity": 4.6842,
+    "genre_ids": [
+      16,
+      14,
+      10749,
+      10402,
+      10751
+    ]
+  },
+  {
+    "tmdb_id": 324325,
+    "media_type": "movie",
+    "title": "Twinsters",
+    "original_title": "Twinsters",
+    "overview": "Adopted from South Korea, raised on different continents &amp; connected through social media, Samantha &amp; Anaïs believe that they are twin sisters separated at birth.",
+    "poster_path": "/zU6hCAaOXj55xjJR6BeSZu3iWBo.jpg",
+    "release_date": "2015-07-17",
+    "vote_average": 7.3,
+    "vote_count": 140,
+    "popularity": 4.6822,
+    "genre_ids": [
+      10751,
+      99
+    ]
+  },
+  {
+    "tmdb_id": 100750,
+    "media_type": "movie",
+    "title": "The Home Front",
+    "original_title": "The Home Front",
+    "overview": "A homesick Pvt. Snafu learns that his family are almost as committed to the war efforts as himself.",
+    "poster_path": "/jjb96bWhcdI8QwEmnpCjs9vSwBe.jpg",
+    "release_date": "1943-11-01",
+    "vote_average": 6.2,
+    "vote_count": 14,
+    "popularity": 4.6814,
+    "genre_ids": [
+      10752,
+      16,
+      35
+    ]
+  },
+  {
+    "tmdb_id": 219526,
+    "media_type": "movie",
+    "title": "Plenty of Money and You",
+    "original_title": "Plenty of Money and You",
+    "overview": "A hen's chicks hatch, but one of them is actually an ostrich. She treats it as her own, but the ostrich keeps getting into trouble.",
+    "poster_path": "/roxL23ZXEBN1csoIJ93XSxAbaCN.jpg",
+    "release_date": "1937-07-31",
+    "vote_average": 5.8,
+    "vote_count": 5,
+    "popularity": 4.6794,
     "genre_ids": [
       16,
       35,
@@ -1306,790 +1662,510 @@
     ]
   },
   {
-    "tmdb_id": 235799,
+    "tmdb_id": 324849,
     "media_type": "movie",
-    "title": "No Parking Hare",
-    "original_title": "No Parking Hare",
-    "overview": "A construction worker wants to blast Bugs out of his rabbit hole so he can build a freeway.",
-    "poster_path": "/gfK6hj1WN7SvYqhTOoUufeFGAeb.jpg",
-    "release_date": "1954-05-01",
-    "vote_average": 7.0,
-    "vote_count": 20,
-    "popularity": 5.1479,
+    "title": "The Lego Batman Movie",
+    "original_title": "The Lego Batman Movie",
+    "overview": "A cooler-than-ever Bruce Wayne must deal with the usual suspects as they plan to rule Gotham City, while discovering that he has accidentally adopted a teenage orphan who wishes to become his sidekick.",
+    "poster_path": "/snGwr2gag4Fcgx2OGmH9otl6ofW.jpg",
+    "release_date": "2017-02-08",
+    "vote_average": 7.2,
+    "vote_count": 5280,
+    "popularity": 4.675,
     "genre_ids": [
       16,
-      35
-    ]
-  },
-  {
-    "tmdb_id": 63438,
-    "media_type": "movie",
-    "title": "Treasure of Matecumbe",
-    "original_title": "Treasure of Matecumbe",
-    "overview": "In post-Civil War Kentucky, young David Burnic becomes the unexpected heir to the family secret, a map leading to buried treasure on the Florida isle of Matecumbe.",
-    "poster_path": "/u5cRhTRf4a6wKxlEvhBUfRHIDo9.jpg",
-    "release_date": "1976-07-01",
-    "vote_average": 6.5,
-    "vote_count": 34,
-    "popularity": 5.1206,
-    "genre_ids": [
       28,
-      12,
-      10751,
-      37
+      35,
+      10751
     ]
   },
   {
-    "tmdb_id": 139712,
+    "tmdb_id": 37491,
     "media_type": "movie",
-    "title": "Marx Reloaded",
-    "original_title": "Marx Reloaded",
-    "overview": "Marx Reloaded is a cultural documentary that examines the relevance of German socialist and philosopher Karl Marx's ideas for understanding the global economic and financial crisis of 2008-09. The crisis triggered the deepest global recession in 70 years and prompted the US government to spend more than 1 trillion dollars in order to rescue its banking system from collapse. Today the full implications of the crisis in Europe and around the world still remain unclear. Nevertheless, should we accept the crisis as an unfortunate side-effect of the free market? Or is there another explanation as to why it happened and its likely effects on our society, our economy and our whole way of life?",
-    "poster_path": "/7dMdikDXDhyPRukUuM1UTFR7kDp.jpg",
-    "release_date": "2011-04-11",
-    "vote_average": 6.3,
-    "vote_count": 7,
-    "popularity": 5.1186,
+    "title": "East Side of Heaven",
+    "original_title": "East Side of Heaven",
+    "overview": "A man finds himself the father, by proxy, of a ten-month-old baby and becomes involved in the turbulent lives of the child's family.",
+    "poster_path": "/12NJnsZrgYHQPPO86FMEcbbpElO.jpg",
+    "release_date": "1939-04-07",
+    "vote_average": 7.1,
+    "vote_count": 6,
+    "popularity": 4.6722,
     "genre_ids": [
-      99,
-      16
+      35,
+      10751
     ]
   },
   {
-    "tmdb_id": 165229,
+    "tmdb_id": 234535,
     "media_type": "movie",
-    "title": "A Peck o' Trouble",
-    "original_title": "A Peck o' Trouble",
-    "overview": "Lazy Dodsworth the Cat wants to catch a woodpecker for his breakfast. The woodpecker has built its home inside the upper trunk of a very tall tree, and Dodsworth puts on a professor's cap, pretending to be a passive teacher of bird-catching and thereby deceive an eager-to-learn kitten into doing the perilous ascending of the tree to try to catch the woodpecker.",
-    "poster_path": "/mjpqvtQiQ4C8RNiEX32Clig9ua4.jpg",
-    "release_date": "1953-03-27",
-    "vote_average": 5.6,
-    "vote_count": 12,
-    "popularity": 5.1173,
+    "title": "Honey's Money",
+    "original_title": "Honey's Money",
+    "overview": "Yosemite Sam marries a wealthy widow for her money.",
+    "poster_path": "/iamGTPyvuO2eUZbTPprOwClxpqm.jpg",
+    "release_date": "1962-09-01",
+    "vote_average": 6.5,
+    "vote_count": 20,
+    "popularity": 4.6708,
     "genre_ids": [
       16,
       35
     ]
   },
   {
-    "tmdb_id": 44871,
+    "tmdb_id": 357677,
     "media_type": "movie",
-    "title": "1001 Arabian Nights",
-    "original_title": "1001 Arabian Nights",
-    "overview": "In this animated retelling of the classic tale, Abdul Aziz Magoo -- an ancestor of Mr. Magoo -- is the lamp-selling uncle of Aladdin. Tired of his nephew's laziness, Abdul insists that Aladdin find a wife. To his uncle's surprise, Aladdin falls in love with the beautiful Princess Yasminda. Before he can make his move, however, Aladdin is whisked away by the evil Wazir on a quest to find a magic lamp that will grant its owner unlimited power in the form of three magic wishes.",
-    "poster_path": "/5NDQlf8FXAtOYbTFQkbjz8Jkoom.jpg",
-    "release_date": "1959-12-01",
-    "vote_average": 5.7,
-    "vote_count": 10,
-    "popularity": 5.1075,
+    "title": "The Smurfs Springtime Special",
+    "original_title": "The Smurfs Springtime Special",
+    "overview": "The evil wizard Gargamel--who hates spring because it makes the Smurfs happy, and he hates happy--devises a scheme to put Mother Nature to sleep.",
+    "poster_path": "/rweIyreel5cSslXbeYTU1aP2q8a.jpg",
+    "release_date": "1982-04-07",
+    "vote_average": 6.5,
+    "vote_count": 22,
+    "popularity": 4.6698,
     "genre_ids": [
+      10751,
       16,
+      10770,
+      35
+    ]
+  },
+  {
+    "tmdb_id": 721820,
+    "media_type": "movie",
+    "title": "A Rugrats Chanukah",
+    "original_title": "A Rugrats Chanukah",
+    "overview": "The story of the Jewish holiday Chanukah through the eyes of the Rugrats, who imagine themselves as the main characters. Meanwhile, Grandpa Boris and his long-time rival, Shlomo, feud over who will play the lead in the local synagogue's Chanukah play.",
+    "poster_path": "/kkPAIbatNJGQlGMoehyJzeaZPCc.jpg",
+    "release_date": "1996-12-04",
+    "vote_average": 6.75,
+    "vote_count": 12,
+    "popularity": 4.6693,
+    "genre_ids": [
+      10751,
+      16,
+      35
+    ]
+  },
+  {
+    "tmdb_id": 67896,
+    "media_type": "movie",
+    "title": "Once Upon a Time",
+    "original_title": "Once Upon a Time",
+    "overview": "Broadway producer Jerry Flynn is anxious to recapture the magic and reclaim the crowds after a set of costly flops. Outside his theater one night, Flynn meets a young boy who just might save the day. Inside a small box the boy shows Flynn his pride and joy: a caterpillar named Curly that dances to Yes Sir, That's My Baby. Word quickly spreads about the amazingly talented hoofer, and the caterpillar becomes a symbol of hope for wartime America. Soon, offers are pouring in to capitalize on this sensational insect.",
+    "poster_path": "/vaHApHfVWr1DzkFwRfSg6Ps7AZH.jpg",
+    "release_date": "1944-06-29",
+    "vote_average": 5.667,
+    "vote_count": 12,
+    "popularity": 4.669,
+    "genre_ids": [
+      10751,
       14,
       35
     ]
   },
   {
-    "tmdb_id": 479469,
+    "tmdb_id": 11007,
     "media_type": "movie",
-    "title": "Adam: The Mirror",
-    "original_title": "Adam: The Mirror",
-    "overview": "Oats Studios brings to life the next chapter in the Adam story, made in real-time using Unity. Join our amnesiac hero as he discovers a clue about what and who he is.",
-    "poster_path": "/3GdDzzcZp4Fd0FrySZL5CApoCJT.jpg",
-    "release_date": "2017-10-03",
-    "vote_average": 6.6,
-    "vote_count": 47,
-    "popularity": 5.1034,
+    "title": "Cheaper by the Dozen",
+    "original_title": "Cheaper by the Dozen",
+    "overview": "The Baker brood moves to Chicago after patriarch Tom gets a job coaching football at Northwestern University, forcing his writer wife, Kate, and the couple's 12 children to make a major adjustment. The transition works well until work demands pull the parents away from home, leaving the kids bored -- and increasingly mischievous.",
+    "poster_path": "/afclGGoQslTYFTnyW1LRMtJMiBp.jpg",
+    "release_date": "2003-12-24",
+    "vote_average": 6.282,
+    "vote_count": 2889,
+    "popularity": 4.665,
+    "genre_ids": [
+      35,
+      10751,
+      18
+    ]
+  },
+  {
+    "tmdb_id": 175738,
+    "media_type": "movie",
+    "title": "A Pleasant Journey",
+    "original_title": "A Pleasant Journey",
+    "overview": "Ernie and Farina anger the police force with their shoeshine scheme. Later, the gang switches places with some runaways about to board a train.",
+    "poster_path": "/5f2CHZVirpbAIFeS7PdwTOa4FpM.jpg",
+    "release_date": "1923-03-25",
+    "vote_average": 6.1,
+    "vote_count": 5,
+    "popularity": 4.6646,
+    "genre_ids": [
+      35,
+      10751
+    ]
+  },
+  {
+    "tmdb_id": 226810,
+    "media_type": "movie",
+    "title": "A Fractured Leghorn",
+    "original_title": "A Fractured Leghorn",
+    "overview": "Foghorn Leghorn and a cat fight over a worm. The cat wants the worm as bait for a fish, while Foghorn just wants the worm for a quick snack.",
+    "poster_path": "/z1HgdZiFv7cLwJxTpTw2oKvuzgM.jpg",
+    "release_date": "1950-09-16",
+    "vote_average": 7.2,
+    "vote_count": 14,
+    "popularity": 4.66,
+    "genre_ids": [
+      16
+    ]
+  },
+  {
+    "tmdb_id": 10865,
+    "media_type": "movie",
+    "title": "Atlantis: The Lost Empire",
+    "original_title": "Atlantis: The Lost Empire",
+    "overview": "A young linguist named Milo Thatch joins an intrepid group of explorers to find the mysterious lost continent of Atlantis.",
+    "poster_path": "/rdCyK9hgoA2vYrLtVFpDc3KWBaC.jpg",
+    "release_date": "2001-06-02",
+    "vote_average": 7.032,
+    "vote_count": 5034,
+    "popularity": 4.6519,
+    "genre_ids": [
+      16,
+      10751,
+      12,
+      878
+    ]
+  },
+  {
+    "tmdb_id": 1112231,
+    "media_type": "movie",
+    "title": "Peter & the Wolf",
+    "original_title": "Peter & the Wolf",
+    "overview": "A grieving 12-year-old Peter is now in the care of his grandfather after enduring the loss of a parent. Upon hearing stories of a wolf on the loose, Peter decides to explore the vast meadow and forest nearby to try and find the wolf himself. Along the way he encounters creatures who help him on his quest while contending with hunters aiming to win a prize for capturing the wolf.",
+    "poster_path": "/mZM8vI8VyWRAobI4gcCxMrtgRQl.jpg",
+    "release_date": "2023-10-19",
+    "vote_average": 6.3,
+    "vote_count": 15,
+    "popularity": 4.6498,
+    "genre_ids": [
+      16,
+      12,
+      10751,
+      14
+    ]
+  },
+  {
+    "tmdb_id": 323803,
+    "media_type": "movie",
+    "title": "Where the Road Runs Out",
+    "original_title": "Where the Road Runs Out",
+    "overview": "George, a scientist living in Rotterdam is growing wary of the world of academia. The sudden death of an old friend is the incentive he needs to return to his African roots where he takes over a dilapidated field station in the jungle of Equatorial Guinea. There he meets an orphan boy with a sunny disposition who opens George's wary eyes to this colorful place. The boy plays matchmaker between George and the lady who runs the local orphanage and all seems rosy until an old friend of George's shows up out of nowhere to throw their lives into disarray as George discovers there are many obstacles on the road to redemption and a few more where the road runs out.",
+    "poster_path": "/5BC9qDdd6gm0V5m5zYW34DGdSX4.jpg",
+    "release_date": "2014-09-26",
+    "vote_average": 5.7,
+    "vote_count": 12,
+    "popularity": 4.6497,
+    "genre_ids": [
+      10749,
+      18,
+      10751
+    ]
+  },
+  {
+    "tmdb_id": 234530,
+    "media_type": "movie",
+    "title": "Fish and Slips",
+    "original_title": "Fish and Slips",
+    "overview": "Sylvester Cat decides to take his son, Junior, on a fishing trip inside a closed aquarium with all kinds of exotic fish—some not very friendly to Sylvester.",
+    "poster_path": "/ypxuksQPfmkLVryS0BBaVk8LPYr.jpg",
+    "release_date": "1962-03-10",
+    "vote_average": 6.7,
+    "vote_count": 9,
+    "popularity": 4.6493,
+    "genre_ids": [
+      16
+    ]
+  },
+  {
+    "tmdb_id": 567966,
+    "media_type": "movie",
+    "title": "Bixler High Private Eye",
+    "original_title": "Bixler High Private Eye",
+    "overview": "Teenage detective Xander DeWitt is the new kid at Bixler Valley High, and he's there to unravel the biggest mystery of his life- the truth about his missing father. But in order to crack this case, Xander must learn to work with a partner- fearless investigative reporter Kenzie Messina.",
+    "poster_path": "/lqLQbg1aFLMxlPxfHDyIVC4ejdF.jpg",
+    "release_date": "2019-01-21",
+    "vote_average": 7.434,
+    "vote_count": 53,
+    "popularity": 4.6451,
+    "genre_ids": [
+      12,
+      10751,
+      10770
+    ]
+  },
+  {
+    "tmdb_id": 236473,
+    "media_type": "movie",
+    "title": "Sniffles Takes a Trip",
+    "original_title": "Sniffles Takes a Trip",
+    "overview": "Sniffles the mouse is in the country for a restful vacation of fresh air, enjoyment of nature, and peace and quiet.",
+    "poster_path": "/o0YBHuecI34p6ARgkgtwlfUTh3S.jpg",
+    "release_date": "1940-05-11",
+    "vote_average": 5.4,
+    "vote_count": 9,
+    "popularity": 4.6428,
+    "genre_ids": [
+      16,
+      10751,
+      35
+    ]
+  },
+  {
+    "tmdb_id": 240907,
+    "media_type": "movie",
+    "title": "Defending Santa",
+    "original_title": "Defending Santa",
+    "overview": "Kris Kringle, aka Santa Claus, goes on trial for mental competency in Small Town U.S.A.",
+    "poster_path": "/nAiK8Fazx2YUy4b0QFqdK0kVPkr.jpg",
+    "release_date": "2013-11-24",
+    "vote_average": 6.4,
+    "vote_count": 28,
+    "popularity": 4.6357,
+    "genre_ids": [
+      35,
+      10751,
+      10770
+    ]
+  },
+  {
+    "tmdb_id": 24358,
+    "media_type": "movie",
+    "title": "The Second Renaissance Part I",
+    "original_title": "The Second Renaissance Part I",
+    "overview": "Tells the early history of how conflict began between the humans and machines. Part 1 of 2.",
+    "poster_path": "/mP8yrOPUGOWssebZePBrLxWIMY3.jpg",
+    "release_date": "2003-02-04",
+    "vote_average": 7.468,
+    "vote_count": 185,
+    "popularity": 4.6301,
     "genre_ids": [
       878,
       16
     ]
   },
   {
-    "tmdb_id": 104297,
+    "tmdb_id": 234878,
     "media_type": "movie",
-    "title": "Scandalous John",
-    "original_title": "Scandalous John",
-    "overview": "A crotchety old ranch owner fights to be able to live his life the way he wants to, and not the way other people--and the law--tell him he has to.",
-    "poster_path": "/4PT6wldzvuQacyqPsybWHTz3nf3.jpg",
-    "release_date": "1971-06-22",
-    "vote_average": 6.125,
-    "vote_count": 8,
-    "popularity": 5.0949,
+    "title": "The Bongo Punch",
+    "original_title": "The Bongo Punch",
+    "overview": "Boxing bantam Pepe Chickeeto is continually bested in the boxing ring and considers retiring. Fortunately, he and his wife are expecting a son who, Pepe hopes, will carry on his great boxing legacy. He is quite disappointed when the son, Pepito by name, much prefers playing bongo drums to any kind of pugilism.",
+    "poster_path": null,
+    "release_date": "1957-12-30",
+    "vote_average": 5.8,
+    "vote_count": 5,
+    "popularity": 4.6289,
     "genre_ids": [
-      37,
-      35,
+      16
+    ]
+  },
+  {
+    "tmdb_id": 228187,
+    "media_type": "movie",
+    "title": "Haunters of the Deep",
+    "original_title": "Haunters of the Deep",
+    "overview": "Josh Holman encounters the ghost of a child mine worker with a special warning on the headlands of his Cornish home town, as an old tin mine is about to be re-opened after the discovery of valuable deposits of ore.",
+    "poster_path": "/h0MiyMn7dX2ALAX7nOcQ2HzmIRy.jpg",
+    "release_date": "1984-02-05",
+    "vote_average": 5.8,
+    "vote_count": 6,
+    "popularity": 4.6216,
+    "genre_ids": [
       18,
-      10751
-    ]
-  },
-  {
-    "tmdb_id": 550020,
-    "media_type": "movie",
-    "title": "Christmas in Love",
-    "original_title": "Christmas in Love",
-    "overview": "Ellie Hartman is an aspiring crafter working in her small town’s bakery making famous Christmas Kringles. When the new, big-city CEO Nick Carlingson visits the bakery, he arrives filled with modernization ideas destined to lay off many employees.",
-    "poster_path": "/iDK96L8yN092QuRbfVqFUmT2FnS.jpg",
-    "release_date": "2018-12-23",
-    "vote_average": 6.0,
-    "vote_count": 65,
-    "popularity": 5.0947,
-    "genre_ids": [
-      10770,
-      10749,
       10751,
-      35
-    ]
-  },
-  {
-    "tmdb_id": 949046,
-    "media_type": "movie",
-    "title": "Love and the Radio Star",
-    "original_title": "Love and the Radio Star",
-    "overview": "Savannah Joy, a single parent image consultant by day and aspiring wellness influencer by night, is hired to rebrand New York’s #4 interview radio show host. But when Savannah accidently ends up on the air with the handsome smooth-talking host, she becomes part of the show’s rebranding herself and discovers if on-air differences or love will have the last word.",
-    "poster_path": "/pRztG97Y2103gtAxM4IwZtO7Z2m.jpg",
-    "release_date": "2022-10-19",
-    "vote_average": 6.0,
-    "vote_count": 8,
-    "popularity": 5.0905,
-    "genre_ids": [
-      10770,
-      35,
-      10749,
-      10751
-    ]
-  },
-  {
-    "tmdb_id": 674610,
-    "media_type": "movie",
-    "title": "A Loud House Christmas",
-    "original_title": "A Loud House Christmas",
-    "overview": "Lincoln Loud gears up for the ultimate Christmas, until he finds out that most of his sisters have plans to be elsewhere for the big day. Determined to remind his family that they all need to be together, Lincoln and his best friend Clyde McBride embark on a mission to preserve the family’s holiday traditions.",
-    "poster_path": "/572kONypScXTz8detAOarXGbijI.jpg",
-    "release_date": "2021-11-26",
-    "vote_average": 7.076,
-    "vote_count": 152,
-    "popularity": 5.0833,
-    "genre_ids": [
-      10751,
-      35
-    ]
-  },
-  {
-    "tmdb_id": 17132,
-    "media_type": "movie",
-    "title": "Savannah Smiles",
-    "original_title": "Savannah Smiles",
-    "overview": "The young daughter of a politician runs away due to lack of attention. She hides in the car of two not too bright crooks who are slowly converted into parent figures as the police web closes down on the supposed kidnappers.",
-    "poster_path": "/xSR2Qss4bpcpeKq1JXov9C7mpp9.jpg",
-    "release_date": "1982-04-09",
-    "vote_average": 6.5,
-    "vote_count": 30,
-    "popularity": 5.0832,
-    "genre_ids": [
-      10751,
-      35
-    ]
-  },
-  {
-    "tmdb_id": 60382,
-    "media_type": "movie",
-    "title": "Bratz the Video: Starrin' & Stylin'",
-    "original_title": "Bratz the Video: Starrin' & Stylin'",
-    "overview": "Cloe, Yasmin, Jade, and Sasha must balance a school art project and preparing for prom.",
-    "poster_path": "/m3FwwCrt4O5xI48vgcbR6Cn69fj.jpg",
-    "release_date": "2004-08-03",
-    "vote_average": 6.793,
-    "vote_count": 29,
-    "popularity": 5.0784,
-    "genre_ids": [
-      10751,
-      16
-    ]
-  },
-  {
-    "tmdb_id": 118349,
-    "media_type": "movie",
-    "title": "Guided Muscle",
-    "original_title": "Guided Muscle",
-    "overview": "While cooking a tin can, the Coyote spots a better meal rushing by: the Road Runner.",
-    "poster_path": "/nsSLzuReJPCdZ57Gr4yS5xrZMmj.jpg",
-    "release_date": "1955-12-10",
-    "vote_average": 7.155,
-    "vote_count": 29,
-    "popularity": 5.0737,
-    "genre_ids": [
-      16,
-      35
-    ]
-  },
-  {
-    "tmdb_id": 54076,
-    "media_type": "movie",
-    "title": "Moth and the Flame",
-    "original_title": "Moth and the Flame",
-    "overview": "A group of moths invades a costume shop through a badly plugged hole in a window and makes quick work of the contents. A male moth ignores his lady to chow down on a hat and she's soon seduced by a candle flame, which rapidly spreads. He notices her trapped in a spider web with the fire attacking and makes some attempts to save her, but pours benzene on the fire by mistake. The rest of the moths are summoned, and they fight the fire with water-filled bagpipes, an air drop with a water-filled funnel, etc., while our hero works to free his lady from the spider web.",
-    "poster_path": "/w3bvUViNilDB4HlxLRtnlXhcYqx.jpg",
-    "release_date": "1938-04-01",
-    "vote_average": 5.9,
-    "vote_count": 18,
-    "popularity": 5.0717,
-    "genre_ids": [
-      16
-    ]
-  },
-  {
-    "tmdb_id": 379217,
-    "media_type": "movie",
-    "title": "The Pink Quarterback",
-    "original_title": "The Pink Quarterback",
-    "overview": "After the Pink Panther flips a quarter to decide whether he should spend it on a hot dog or a hamburger, it rolls away, and he goes after it.",
-    "poster_path": "/sPrMvK0tDeYof5RRPc0HYRBBoHE.jpg",
-    "release_date": "1968-05-22",
-    "vote_average": 6.0,
-    "vote_count": 5,
-    "popularity": 5.067,
-    "genre_ids": [
-      16,
-      35,
-      10751
-    ]
-  },
-  {
-    "tmdb_id": 13928,
-    "media_type": "movie",
-    "title": "Knick Knack",
-    "original_title": "Knick Knack",
-    "overview": "Life on a shelf as a snowman trapped in a snow-globe blizzard can become wearing, especially when you're surrounded by knickknacks from sunnier locales. When the jaded snowman finally breaks free of his glass house, his vacation plans are cut short.",
-    "poster_path": "/ouk2QFv4NySNfitAgXqnTtO5vA1.jpg",
-    "release_date": "1989-11-23",
-    "vote_average": 7.0,
-    "vote_count": 598,
-    "popularity": 5.0536,
-    "genre_ids": [
-      16,
-      10751,
-      35
-    ]
-  },
-  {
-    "tmdb_id": 48875,
-    "media_type": "movie",
-    "title": "Gift Wrapped",
-    "original_title": "Gift Wrapped",
-    "overview": "It's Christmas Day in the home of Granny, and her pet cat Sylvester delights at chasing her new Tweety Bird and takes fright at the bulldog unwrapped from under the tree.",
-    "poster_path": "/5HULlnIJVblKCXMY3m3VRd7oN8Z.jpg",
-    "release_date": "1952-02-16",
-    "vote_average": 7.141,
-    "vote_count": 32,
-    "popularity": 5.0514,
-    "genre_ids": [
-      16,
-      35
-    ]
-  },
-  {
-    "tmdb_id": 221510,
-    "media_type": "movie",
-    "title": "Dear Dumb Diary",
-    "original_title": "Dear Dumb Diary",
-    "overview": "Based on the best selling series \"Dear Dumb Diary\" by Jim Benton. Follow Jamie Kelly, as she navigates Mackeral Middle School with the help of her best friend Isabella, her nemesis Angeline and the boy of her dreams, Hudson.",
-    "poster_path": "/pLupaemAAUdadkVRPXdVPkkymVC.jpg",
-    "release_date": "2013-09-06",
-    "vote_average": 6.485,
-    "vote_count": 34,
-    "popularity": 5.0492,
-    "genre_ids": [
-      10751,
-      10770,
-      10402
-    ]
-  },
-  {
-    "tmdb_id": 1207417,
-    "media_type": "movie",
-    "title": "Mooned",
-    "original_title": "Mooned",
-    "overview": "Villainous Vector must figure out how to get off the moon and return to Earth.",
-    "poster_path": "/zJeGQ67XPRkr9lpUOIUYLOhPNf.jpg",
-    "release_date": "2023-12-06",
-    "vote_average": 6.477,
-    "vote_count": 43,
-    "popularity": 5.0449,
-    "genre_ids": [
-      16,
-      10751,
-      35
-    ]
-  },
-  {
-    "tmdb_id": 57493,
-    "media_type": "movie",
-    "title": "Bratz Babyz Save Christmas",
-    "original_title": "Bratz Babyz Save Christmas",
-    "overview": "The Babyz learn to turn disappointment into the wildest, craziest Xmas ever when their parents get snowed in on vacation and can’t make it home for Xmas Eve. The Babyz decide to go to the North Pole and help Santa deliver his presents. Little do they know, the guy they think is “Santa” is really a crook who plans to steal a donation for orphans.",
-    "poster_path": "/4cgg8FQMisffRIeUy3sH1qxj0n8.jpg",
-    "release_date": "2008-11-05",
-    "vote_average": 7.0,
-    "vote_count": 11,
-    "popularity": 5.0354,
-    "genre_ids": [
-      10751,
-      16,
-      35
-    ]
-  },
-  {
-    "tmdb_id": 57355,
-    "media_type": "movie",
-    "title": "Banjo the Woodpile Cat",
-    "original_title": "Banjo the Woodpile Cat",
-    "overview": "Banjo is a curious and rebellious kitten who is always getting into trouble. When he decides to jump off a roof of a chicken coop to see if he can land on his feet, he is ordered to \"fetch a switch\". Thinking his parents wouldn't care if he gets hurt, he hitches a ride on a feed truck, all the way to Salt Lake City. After he finds the excitement of the city, he soon finds it cold and lonely and wishes to be home. With the help of stray cat Crazy Legs and a trio of singing cat girls, he finds the truck and returns home.",
-    "poster_path": "/bH19xDSAbtEDJsaIjJwP1mePPpM.jpg",
-    "release_date": "1979-11-16",
-    "vote_average": 6.389,
-    "vote_count": 36,
-    "popularity": 5.0354,
-    "genre_ids": [
-      16,
+      14,
       12,
-      10751
+      9648
     ]
   },
   {
-    "tmdb_id": 169510,
+    "tmdb_id": 568024,
     "media_type": "movie",
-    "title": "The Christmas Pageant",
-    "original_title": "The Christmas Pageant",
-    "overview": "Vera Parks, an overly intense and demanding Broadway director, gets fired from yet another job, leaving her no choice but to take a gig directing a small town Christmas pageant in upstate New York. Stunned at how basic the production is, Vera attempts to back out, but is convinced by some of the locals to give their town a chance.  To her surprise, the warmth and charm of the small town grows on Vera and she even enjoys the experience of directing the pageant. When Vera discovers her former fiancé Jack recommended her for the job, she is outraged. But over time Vera appreciates the gesture, as she grows close to both Jack and his young daughter. Will love stay in the wings this time around?",
-    "poster_path": "/ctvZsLIRkaQM8S96iqy6urKCKd.jpg",
-    "release_date": "2011-12-11",
-    "vote_average": 5.9,
-    "vote_count": 15,
-    "popularity": 5.0333,
+    "title": "Ed, Edd n Eddy’s Jingle Jingle Jangle",
+    "original_title": "Ed, Edd n Eddy’s Jingle Jingle Jangle",
+    "overview": "Eddy, sick of getting cheap presents for Christmas, plans to get adopted by one of the neighborhood kids so he can mooch off of their presents.",
+    "poster_path": "/A1pHZzt1yQ7aF2sDLgjfkEXkxV6.jpg",
+    "release_date": "2004-12-03",
+    "vote_average": 9.1,
+    "vote_count": 12,
+    "popularity": 4.6184,
     "genre_ids": [
-      10770,
-      10751
-    ]
-  },
-  {
-    "tmdb_id": 128542,
-    "media_type": "movie",
-    "title": "FRED 3: Camp Fred",
-    "original_title": "FRED 3: Camp Fred",
-    "overview": "Schools out, and Fred Figglehorn's dream of water slides, horseback riding and monkey butlers during the summer turns into a nightmare of gruel and poisonous berries when his mom signs him up to an unsanitary camp.",
-    "poster_path": "/wyVZtMe1phhwCmEGDTEVATv8X2g.jpg",
-    "release_date": "2012-07-28",
-    "vote_average": 5.0,
-    "vote_count": 85,
-    "popularity": 5.0302,
-    "genre_ids": [
-      10751,
-      10770,
+      16,
       35,
-      10402
+      10770,
+      10751
     ]
   },
   {
-    "tmdb_id": 448548,
+    "tmdb_id": 64706,
     "media_type": "movie",
-    "title": "One Hour in Wonderland",
-    "original_title": "One Hour in Wonderland",
-    "overview": "Airing on Christmas Day, 1950, this holiday special was the first Disney TV production. It features Edgar Bergen with Charlie McCarthy and Mortimer Snerd at Walt Disney's Christmas party. The show includes clips of movies and animated shorts and the first appearance of the Fire House Five Plus Two jazz band.",
-    "poster_path": "/c0RvADSzNRxbx3yWK4aq8CKInGx.jpg",
-    "release_date": "1950-12-25",
-    "vote_average": 6.8,
-    "vote_count": 5,
-    "popularity": 5.0148,
+    "title": "The Vanishing Private",
+    "original_title": "The Vanishing Private",
+    "overview": "Private Duck is a camouflage painter. He paints a giant cannon with some very gaudy colors, until Sergeant Pete explains that the point is to make it so the cannon can't be seen. Donald finds a bucket of experimental invisible paint and makes the cannon disappear. Pete isn't happy with this, and knocks Donald into the paint, then chases him, until he runs into the general. As Pete tries to explain, Donald prods him with a cactus, then goes off to steal some pies. Eventually, Pete goes berserk and starts throwing grenades willy-nilly and gets in more trouble with the general.",
+    "poster_path": "/t74XBsLUl5nmwoEvdkIh9H9bEwv.jpg",
+    "release_date": "1942-09-25",
+    "vote_average": 6.293,
+    "vote_count": 29,
+    "popularity": 4.6128,
+    "genre_ids": [
+      16,
+      35
+    ]
+  },
+  {
+    "tmdb_id": 126280,
+    "media_type": "movie",
+    "title": "Claws for Alarm",
+    "original_title": "Claws for Alarm",
+    "overview": "Porky and Sylvester stay overnight in what Sylvester realizes is a terrifying hotel filled with endless imminent danger.",
+    "poster_path": "/8QM5kXf1oBaUyQPcfbSbRxtkXpV.jpg",
+    "release_date": "1954-05-22",
+    "vote_average": 7.2,
+    "vote_count": 37,
+    "popularity": 4.6058,
+    "genre_ids": [
+      16,
+      35
+    ]
+  },
+  {
+    "tmdb_id": 41513,
+    "media_type": "movie",
+    "title": "The Smurfs",
+    "original_title": "The Smurfs",
+    "overview": "When the evil wizard Gargamel chases the tiny blue Smurfs out of their village, they tumble from their magical world and into ours -- in fact, smack dab in the middle of Central Park. Just three apples high and stuck in the Big Apple, the Smurfs must find a way to get back to their village before Gargamel tracks them down.",
+    "poster_path": "/vRhnslP2gW0QDym7BsMeSuioUfK.jpg",
+    "release_date": "2011-07-29",
+    "vote_average": 5.759,
+    "vote_count": 3940,
+    "popularity": 4.6033,
     "genre_ids": [
       16,
       10751,
+      12,
       35,
-      10402
-    ]
-  },
-  {
-    "tmdb_id": 100327,
-    "media_type": "movie",
-    "title": "Pigs Is Pigs",
-    "original_title": "Pigs Is Pigs",
-    "overview": "A hungry little pig eats a couple of pies off the windowsill. When it's time for dinner, he ties together the spaghetti of all the other little pigs and eats it all. That night, he has a nightmare where he is force-fed by a mad scientist.",
-    "poster_path": "/xxA79Jnp86dbyfsBihbWxLSTQx9.jpg",
-    "release_date": "1937-01-08",
-    "vote_average": 6.139,
-    "vote_count": 18,
-    "popularity": 5.0114,
-    "genre_ids": [
-      35,
-      10751,
-      16
-    ]
-  },
-  {
-    "tmdb_id": 1165096,
-    "media_type": "movie",
-    "title": "F+",
-    "original_title": "F+",
-    "overview": "A group of young teenagers plan the perfect heist by breaking into their middle school to change their failing test grades.",
-    "poster_path": "/f0qeTgIcGZ6s3jz5xg8PQ7K0MZO.jpg",
-    "release_date": "2025-06-06",
-    "vote_average": 6.5,
-    "vote_count": 7,
-    "popularity": 4.9983,
-    "genre_ids": [
-      35,
-      10751
-    ]
-  },
-  {
-    "tmdb_id": 23023,
-    "media_type": "movie",
-    "title": "Tooth Fairy",
-    "original_title": "Tooth Fairy",
-    "overview": "When minor-league hockey player Derek Thompson -- who has a penchant for knocking out his opponents' teeth every time he plays -- disillusions a fan, he is sentenced to a stint for one week as a bona fide, tutu-clad, real-life tooth fairy. Soon, Derek is inspired to rekindle his youthful dreams.",
-    "poster_path": "/cRZvw3bPomtucIUtMHZ3qPIYtYs.jpg",
-    "release_date": "2010-01-14",
-    "vote_average": 5.476,
-    "vote_count": 2073,
-    "popularity": 4.991,
-    "genre_ids": [
-      35,
-      10751,
       14
     ]
   },
   {
-    "tmdb_id": 47598,
+    "tmdb_id": 109299,
     "media_type": "movie",
-    "title": "Bratz Kidz: Fairy Tales",
-    "original_title": "Bratz Kidz: Fairy Tales",
-    "overview": "When the Bratz kids are rehearsing for a school play, a talking frog transports them into their fairy tale book, where Jade must be Snow White, Sasha must be Red Riding Hood, Cloe must be Rapunzel, and Yasmin must be Cinderella.",
-    "poster_path": "/uYOI6mAN7uzLADTRuYsxtz6ZANx.jpg",
-    "release_date": "2008-02-26",
-    "vote_average": 7.4,
-    "vote_count": 17,
-    "popularity": 4.9769,
+    "title": "Peculiar Penguins",
+    "original_title": "Peculiar Penguins",
+    "overview": "Penguins dance and play in Antarctica.",
+    "poster_path": "/kW2IFGz81V8vnaTZBdB1ImdFzk2.jpg",
+    "release_date": "1934-09-01",
+    "vote_average": 5.788,
+    "vote_count": 33,
+    "popularity": 4.6028,
     "genre_ids": [
-      16,
-      35,
-      10751,
-      10402
+      16
     ]
   },
   {
-    "tmdb_id": 1268,
+    "tmdb_id": 46188,
     "media_type": "movie",
-    "title": "Mr. Bean's Holiday",
-    "original_title": "Mr. Bean's Holiday",
-    "overview": "Mr. Bean wins a trip to Cannes where he unwittingly separates a young boy from his father and must help the two reunite. On the way he discovers France, bicycling and true love, among other things.",
-    "poster_path": "/bSSx9Sq6irWwN9NTQmoT9KE8kXn.jpg",
-    "release_date": "2007-03-22",
-    "vote_average": 6.377,
-    "vote_count": 3030,
-    "popularity": 4.9729,
+    "title": "Peter Pan",
+    "original_title": "Peter Pan",
+    "overview": "This animated fairy tale for kids tells the classic story of Peter Pan, the boy who never grew up. Determined never to become an adult, Peter stays forever young in a magical word called Neverland, where he leads a band of mischevious kids called the Lost Boys. Unfortunately, Neverland's chief other inhabitant is a pirate named Captain Hook, who would like nothing more than to put a permanent end to Peter's fun.",
+    "poster_path": "/x3068r7upUZru100Px4iY7xHwGE.jpg",
+    "release_date": "1988-06-23",
+    "vote_average": 6.3,
+    "vote_count": 82,
+    "popularity": 4.5959,
     "genre_ids": [
-      10751,
-      35
-    ]
-  },
-  {
-    "tmdb_id": 489412,
-    "media_type": "movie",
-    "title": "It's Such a Beautiful Day",
-    "original_title": "It's Such a Beautiful Day",
-    "overview": "Bill struggles to put together his shattered psyche.",
-    "poster_path": "/hop0dsM4nxyNENGhBhpJWTCJ5rS.jpg",
-    "release_date": "2012-08-24",
-    "vote_average": 7.9,
-    "vote_count": 363,
-    "popularity": 4.9704,
-    "genre_ids": [
-      16,
-      35
-    ]
-  },
-  {
-    "tmdb_id": 43869,
-    "media_type": "movie",
-    "title": "Wee Willie Winkie",
-    "original_title": "Wee Willie Winkie",
-    "overview": "In 1897, little Priscilla Williams, along with her widowed mother, goes to live with her army colonel paternal grandfather on the British outpost he commands in northern India.",
-    "poster_path": "/zpCZvLxpgJFzuClBdy6NcdsxCZn.jpg",
-    "release_date": "1937-07-30",
-    "vote_average": 6.625,
-    "vote_count": 32,
-    "popularity": 4.9701,
-    "genre_ids": [
+      28,
       12,
-      10751
-    ]
-  },
-  {
-    "tmdb_id": 9354,
-    "media_type": "movie",
-    "title": "Honey, I Shrunk the Kids",
-    "original_title": "Honey, I Shrunk the Kids",
-    "overview": "The scientist father of a teenage girl and boy accidentally shrinks his and two other neighborhood teens to the size of insects. Now the teens must fight diminutive dangers as the father searches for them.",
-    "poster_path": "/omQOzahi2NIeiYznNxHFDvNbvo6.jpg",
-    "release_date": "1989-06-23",
-    "vote_average": 6.314,
-    "vote_count": 3237,
-    "popularity": 4.9686,
-    "genre_ids": [
-      12,
-      35,
+      16,
       10751,
+      14,
       878
     ]
   },
   {
-    "tmdb_id": 431693,
+    "tmdb_id": 165868,
     "media_type": "movie",
-    "title": "Spies in Disguise",
-    "original_title": "Spies in Disguise",
-    "overview": "Super spy Lance Sterling and scientist Walter Beckett are almost exact opposites. Lance is smooth, suave and debonair. Walter is… not. But what Walter lacks in social skills he makes up for in smarts and invention, creating the awesome gadgets Lance uses on his epic missions. But when events take an unexpected turn, Walter and Lance suddenly have to rely on each other in a whole new way.",
-    "poster_path": "/e7rWcrnuNej3JeVjqmRu0jVeRa4.jpg",
-    "release_date": "2019-12-04",
-    "vote_average": 7.565,
-    "vote_count": 2915,
-    "popularity": 4.962,
-    "genre_ids": [
-      16,
-      28,
-      12,
-      35,
-      10751
-    ]
-  },
-  {
-    "tmdb_id": 663013,
-    "media_type": "movie",
-    "title": "Dance Together",
-    "original_title": "Dance Together",
-    "overview": "Dance Together follows two teen girls brought together by a passionate need to express themselves. Holly, an injured dancer, and Alex, a shy girl who is Deaf, have a chance meeting that sparks a creative partnership. Alex introduces Holly to American Sign Language poetry and helps her gain the confidence to stand up to her bullies, while Holly helps Alex add a dancer's flair to her poetry routine that just might put her group over the top. Dance Together features original and licensed songs along with stunning choreography.",
-    "poster_path": "/1WpqH0myDJEEqV0T5invL2yNwJx.jpg",
-    "release_date": "2019-10-19",
-    "vote_average": 8.0,
-    "vote_count": 5,
-    "popularity": 4.9568,
-    "genre_ids": [
-      10751
-    ]
-  },
-  {
-    "tmdb_id": 54920,
-    "media_type": "movie",
-    "title": "It's Spring Training, Charlie Brown!",
-    "original_title": "It's Spring Training, Charlie Brown!",
-    "overview": "As springtime rolls around, Charlie Brown's team is performing the usual hopeless task of getting in shape for the new season. To improve the team's morale, Charlie Brown manages to find a potential team sponsor who agrees to provide uniforms, provided that the team wins the first game of the season. However, considering the usual competence of the team, including new members like Leland who is too young to even tie his shoes, the challenge seems impossible.",
-    "poster_path": "/lK8ROtVrpewUIqcf0AHU4JRF5gT.jpg",
-    "release_date": "1996-01-19",
-    "vote_average": 6.5,
-    "vote_count": 21,
-    "popularity": 4.9564,
-    "genre_ids": [
-      10751,
-      16,
-      10770,
-      35
-    ]
-  },
-  {
-    "tmdb_id": 52945,
-    "media_type": "movie",
-    "title": "Cannibal Capers",
-    "original_title": "Cannibal Capers",
-    "overview": "A group of cannibals gather together for a tribal dance. In the middle of their gala, they are interrupted by a ferocious lion!",
-    "poster_path": "/gihLuJBGYlvakZBCzA6Gm6SqmJ9.jpg",
-    "release_date": "1930-03-13",
-    "vote_average": 5.5,
-    "vote_count": 25,
-    "popularity": 4.9556,
-    "genre_ids": [
-      16
-    ]
-  },
-  {
-    "tmdb_id": 338913,
-    "media_type": "movie",
-    "title": "Bill",
-    "original_title": "Bill",
-    "overview": "What really happened during Shakespeare's 'Lost Years'? Hopeless lute player Bill Shakespeare leaves his home to follow his dream.",
-    "poster_path": "/xasl8mg8odWgceBfHimz39smNjb.jpg",
-    "release_date": "2015-03-27",
-    "vote_average": 6.8,
-    "vote_count": 83,
-    "popularity": 4.9452,
-    "genre_ids": [
-      35,
-      10751
-    ]
-  },
-  {
-    "tmdb_id": 360303,
-    "media_type": "movie",
-    "title": "You're a Good Man, Charlie Brown",
-    "original_title": "You're a Good Man, Charlie Brown",
-    "overview": "You're a Good Man, Charlie Brown is a live-action musical comedy with music and lyrics by Clark Gesner, based on the characters created by cartoonist Charles M. Schulz in his comic strip Peanuts. It was an episode of the American TV series Hallmark Hall of Fame.",
-    "poster_path": "/gpEMXGFEkGFQd3C2o5XlTNTeN4x.jpg",
-    "release_date": "1973-02-09",
-    "vote_average": 5.7,
-    "vote_count": 6,
-    "popularity": 4.945,
-    "genre_ids": [
-      35,
-      10751,
-      10402,
-      10770
-    ]
-  },
-  {
-    "tmdb_id": 236012,
-    "media_type": "movie",
-    "title": "The Prize Pest",
-    "original_title": "The Prize Pest",
-    "overview": "After listening to one of his favorite radio programs, Porky Pig receives a grand prize from the station. Out of the gift box pops Daffy Duck, who insists on living in Porky's house.",
-    "poster_path": "/uNGSgLtSkCgnRfmE3rBKIu8aPEh.jpg",
-    "release_date": "1951-12-22",
-    "vote_average": 6.5,
-    "vote_count": 12,
-    "popularity": 4.9397,
+    "title": "Mutiny on the Bunny",
+    "original_title": "Mutiny on the Bunny",
+    "overview": "Shanghai Sam needs a new crew for his ship. Bugs signs on but rebels at the captain's cruelty.",
+    "poster_path": "/17t71HJiFSqgzdam9e0Pa86zFGG.jpg",
+    "release_date": "1950-02-11",
+    "vote_average": 6.9,
+    "vote_count": 17,
+    "popularity": 4.5957,
     "genre_ids": [
       16,
       35
     ]
   },
   {
-    "tmdb_id": 139017,
+    "tmdb_id": 62183,
     "media_type": "movie",
-    "title": "Franklin and the Green Knight",
-    "original_title": "Franklin and the Green Knight",
-    "overview": "It's winter in Woodland and Franklin is excited about spring coming because his new baby sister will be born. Following the lead of a myth his mom told him, he assumes the role of a Knight and sets out to the woods on a quest for spring. Written by Damaris",
-    "poster_path": "/eZRQIAF4mAjDbSLynosXXPqOXaW.jpg",
-    "release_date": "2000-10-17",
+    "title": "The First Easter Rabbit",
+    "original_title": "The First Easter Rabbit",
+    "overview": "A beloved toy stuffed rabbit is rescued by a fairy to be the first Easter Rabbit.",
+    "poster_path": "/jNJGnRjeohjLrp4yBBolx8YwA1h.jpg",
+    "release_date": "1976-04-09",
     "vote_average": 5.6,
-    "vote_count": 9,
-    "popularity": 4.9368,
+    "vote_count": 11,
+    "popularity": 4.5949,
+    "genre_ids": [
+      10751,
+      16,
+      35
+    ]
+  },
+  {
+    "tmdb_id": 1566269,
+    "media_type": "movie",
+    "title": "The First Snow of Fraggle Rock",
+    "original_title": "The First Snow of Fraggle Rock",
+    "overview": "When the holidays are filled with unexpected adventures and challenges, the Fraggles learn to appreciate each day for being unique and special, like a snowflake.",
+    "poster_path": "/xyxAOTToALUkeFS9x5V6MOv8YWr.jpg",
+    "release_date": "2025-12-04",
+    "vote_average": 6.909,
+    "vote_count": 11,
+    "popularity": 4.5933,
+    "genre_ids": [
+      10751,
+      35,
+      10402
+    ]
+  },
+  {
+    "tmdb_id": 21705,
+    "media_type": "movie",
+    "title": "The Barbie Diaries",
+    "original_title": "The Barbie Diaries",
+    "overview": "Barbie is disheartened when Todd breaks her heart and goes back to his former girlfriend. But things change when she comes across a diary, which makes her wishes come true.",
+    "poster_path": "/zSCQBfNWsdiKaqDj7LQUgxnSaFi.jpg",
+    "release_date": "2006-05-17",
+    "vote_average": 6.4,
+    "vote_count": 388,
+    "popularity": 4.5914,
     "genre_ids": [
       10751,
       16
     ]
   },
   {
-    "tmdb_id": 33221,
+    "tmdb_id": 88751,
     "media_type": "movie",
-    "title": "Into the West",
-    "original_title": "Into the West",
-    "overview": "Accused of a crime they didn't commit, two city kids and a magical horse are about to become the coolest outlaws ever to ride Into The West.",
-    "poster_path": "/k9e63dUNxu5MtXCCB3trUXtXX58.jpg",
-    "release_date": "1992-10-23",
-    "vote_average": 6.4,
-    "vote_count": 52,
-    "popularity": 4.9317,
+    "title": "Journey to the Center of the Earth",
+    "original_title": "Journey to the Center of the Earth",
+    "overview": "On a quest to find out what happened to his missing brother, a scientist, his nephew and their mountain guide discover a fantastic and dangerous lost world in the center of the earth.",
+    "poster_path": "/kL55wY0s2H9JdwfjoWIp9plvYnl.jpg",
+    "release_date": "2008-07-10",
+    "vote_average": 6.088,
+    "vote_count": 5053,
+    "popularity": 4.5854,
     "genre_ids": [
+      28,
+      878,
       12,
-      18,
-      10751,
-      14,
-      37
-    ]
-  },
-  {
-    "tmdb_id": 20277,
-    "media_type": "movie",
-    "title": "The Ugly Dachshund",
-    "original_title": "The Ugly Dachshund",
-    "overview": "The Garrisons are the \"proud parents\" of three adorable dachshund pups - and one overgrown Great Dane named Brutus, who nevertheless thinks of himself as a dainty dachsie. His identity crisis results in an uproarious series of household crises that reduce the Garrisons' house to shambles - and viewers to howls of laughter!",
-    "poster_path": "/6RsSXlh57ehvt7HguqCmSfEwjM7.jpg",
-    "release_date": "1966-02-16",
-    "vote_average": 6.714,
-    "vote_count": 181,
-    "popularity": 4.9233,
-    "genre_ids": [
       35,
-      18,
-      10751
-    ]
-  },
-  {
-    "tmdb_id": 36972,
-    "media_type": "movie",
-    "title": "Scooby Goes Hollywood",
-    "original_title": "Scooby Goes Hollywood",
-    "overview": "Shaggy and Scooby-Doo quit their Saturday morning TV series in pursuit of Hollywood stardom.",
-    "poster_path": "/t0DDWZVOyRjrpotc2qOvcFsRryp.jpg",
-    "release_date": "1979-12-23",
-    "vote_average": 7.613,
-    "vote_count": 142,
-    "popularity": 4.9232,
-    "genre_ids": [
-      16,
-      35,
-      10770
-    ]
-  },
-  {
-    "tmdb_id": 184668,
-    "media_type": "movie",
-    "title": "King of the Mardi Gras",
-    "original_title": "King of the Mardi Gras",
-    "overview": "A Mardi Gras celebration, looking pretty much like any carnival. Bluto is a strongman, claiming to be King of the Mardi Gras, and drawing a large crowd. Popeye, nearby, claims only, \"I yam what I yam,\" and has no crowd, but still draws Bluto's wrath.",
-    "poster_path": "/qEAyrS9U13eDgRy0lZOjtSEU4ON.jpg",
-    "release_date": "1935-09-27",
-    "vote_average": 6.833,
-    "vote_count": 6,
-    "popularity": 4.9217,
-    "genre_ids": [
-      16,
-      35
-    ]
-  },
-  {
-    "tmdb_id": 11837,
-    "media_type": "movie",
-    "title": "Watership Down",
-    "original_title": "Watership Down",
-    "overview": "When the warren belonging to a community of rabbits is threatened, a brave group led by Fiver, Bigwig, Blackberry and Hazel leave their homeland in a search of a safe new haven.",
-    "poster_path": "/q9ZcNxfquJbMTd6UfhAlJbmLBts.jpg",
-    "release_date": "1978-10-14",
-    "vote_average": 7.202,
-    "vote_count": 677,
-    "popularity": 4.9182,
-    "genre_ids": [
-      12,
-      16,
-      18
-    ]
-  },
-  {
-    "tmdb_id": 455842,
-    "media_type": "movie",
-    "title": "Elliot: The Littlest Reindeer",
-    "original_title": "Elliot: The Littlest Reindeer",
-    "overview": "When Blitzen announces his retirement on December 21st, a miniature horse has 3 days to fulfill his lifelong dream of earning a spot on Santa's team at the North Pole try-outs.",
-    "poster_path": "/sYq809WTep01HO5oJR9o9VbEDJv.jpg",
-    "release_date": "2018-11-08",
-    "vote_average": 5.741,
-    "vote_count": 85,
-    "popularity": 4.917,
-    "genre_ids": [
-      16,
-      10751,
-      12
-    ]
-  },
-  {
-    "tmdb_id": 221029,
-    "media_type": "movie",
-    "title": "Thomas & Friends: King of the Railway",
-    "original_title": "Thomas & Friends: King of the Railway",
-    "overview": "Thomas discovers mysteries of the past and must help a new friend, save a ruined castle and may even find some treasure when Sir Robert Norramby comes to the Island of Sodor.",
-    "poster_path": "/jN7iYhjJSHy1aYVbkrCrdvSIBFA.jpg",
-    "release_date": "2013-09-17",
-    "vote_average": 5.8,
-    "vote_count": 16,
-    "popularity": 4.9111,
-    "genre_ids": [
-      16,
       10751
     ]
   }

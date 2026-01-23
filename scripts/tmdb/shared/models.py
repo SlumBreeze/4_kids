@@ -97,6 +97,8 @@ class AIAssessment:
     has_scary: bool
     is_educational: bool
     reasoning: str
+    safe_above_age: Optional[float] = None  # Age where Caution becomes Safe
+    is_episodic_issue: bool = False  # True if flags only apply to isolated episodes
 
     def needs_review(self) -> bool:
         """Flag items requiring human review"""
@@ -117,12 +119,26 @@ class AIAssessment:
             'has_violence': self.has_violence,
             'has_scary': self.has_scary,
             'is_educational': self.is_educational,
-            'reasoning': self.reasoning
+            'reasoning': self.reasoning,
+            'safe_above_age': self.safe_above_age,
+            'is_episodic_issue': self.is_episodic_issue
         }
 
     @classmethod
     def from_dict(cls, data: Dict[str, Any]) -> 'AIAssessment':
-        return cls(**data)
+        return cls(
+            rating=data['rating'],
+            min_age=data['min_age'],
+            max_age=data['max_age'],
+            stimulation_level=data['stimulation_level'],
+            has_lgbtq=data['has_lgbtq'],
+            has_violence=data['has_violence'],
+            has_scary=data['has_scary'],
+            is_educational=data['is_educational'],
+            reasoning=data['reasoning'],
+            safe_above_age=data.get('safe_above_age'),
+            is_episodic_issue=data.get('is_episodic_issue', False)
+        )
 
 
 @dataclass
@@ -161,10 +177,12 @@ class ReviewedItem:
     max_age: float
     stimulation_level: str
     featured: bool
+    safe_above_age: Optional[float] = None  # Age where Caution becomes Safe
+    is_episodic_issue: bool = False  # True if flags only apply to isolated episodes
 
     # Audit trail
-    ai_suggestion: Optional[AIAssessment]
-    reviewed_at: str  # ISO timestamp
+    ai_suggestion: Optional[AIAssessment] = None
+    reviewed_at: str = ""  # ISO timestamp
 
     def to_dict(self) -> Dict[str, Any]:
         return {
@@ -176,6 +194,8 @@ class ReviewedItem:
             'max_age': self.max_age,
             'stimulation_level': self.stimulation_level,
             'featured': self.featured,
+            'safe_above_age': self.safe_above_age,
+            'is_episodic_issue': self.is_episodic_issue,
             'ai_suggestion': self.ai_suggestion.to_dict() if self.ai_suggestion else None,
             'reviewed_at': self.reviewed_at
         }
@@ -195,6 +215,8 @@ class ReviewedItem:
             max_age=data['max_age'],
             stimulation_level=data['stimulation_level'],
             featured=data['featured'],
+            safe_above_age=data.get('safe_above_age'),
+            is_episodic_issue=data.get('is_episodic_issue', False),
             ai_suggestion=ai_suggestion,
             reviewed_at=data['reviewed_at']
         )
@@ -224,8 +246,11 @@ class ReviewedItem:
             "ageRecommendation": age_recommendation,
             "minAge": self.min_age,
             "maxAge": self.max_age,
+            "safeAboveAge": self.safe_above_age,
+            "isEpisodicIssue": self.is_episodic_issue,
             "releaseYear": self.enriched.release_year,
             "runtime": self.enriched.runtime,
             "stimulationLevel": self.stimulation_level,
             "featured": self.featured
         }
+

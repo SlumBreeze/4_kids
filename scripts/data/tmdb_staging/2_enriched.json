@@ -5830,5 +5830,2362 @@
     ],
     "popularity": 4.9111,
     "vote_average": 5.8
+  },
+  {
+    "tmdb_id": 68394,
+    "media_type": "tv",
+    "title": "Watership Down",
+    "synopsis": "Fleeing their doomed warren, a group of rabbits struggle to find and defend a new home.",
+    "cover_image_url": "https://image.tmdb.org/t/p/w500/apgCU29h7W6H88jM9yknuGWrNAw.jpg",
+    "imdb_id": "tt5670764",
+    "release_year": "2018",
+    "runtime": "1 hr 40 min",
+    "cast": [
+      "James McAvoy",
+      "Nicholas Hoult",
+      "John Boyega"
+    ],
+    "genres": [
+      "Animation",
+      "Drama",
+      "Family"
+    ],
+    "certification": "TV-PG",
+    "platforms": [
+      "Netflix",
+      "Netflix Standard with Ads",
+      "Hoopla"
+    ],
+    "popularity": 5.5385,
+    "vote_average": 6.854
+  },
+  {
+    "tmdb_id": 9982,
+    "media_type": "movie",
+    "title": "Chicken Little",
+    "synopsis": "When the sky really is falling and sanity has flown the coop, who will rise to save the day? Together with his hysterical band of misfit friends, Chicken Little must hatch a plan to save the planet from alien invasion and prove that the world's biggest hero is a little chicken.",
+    "cover_image_url": "https://image.tmdb.org/t/p/w500/87FpA4b90eTaw3U6zmCNikoPLir.jpg",
+    "imdb_id": "tt0371606",
+    "release_year": "2005",
+    "runtime": "1 hr 21 min",
+    "cast": [
+      "Zach Braff",
+      "Garry Marshall",
+      "Don Knotts"
+    ],
+    "genres": [
+      "Animation",
+      "Family",
+      "Comedy"
+    ],
+    "certification": "G",
+    "platforms": [
+      "Disney Plus"
+    ],
+    "popularity": 6.839,
+    "vote_average": 5.908
+  },
+  {
+    "tmdb_id": 31920,
+    "media_type": "movie",
+    "title": "The Railway Children",
+    "synopsis": "At the dawn of the 20th century, following their father's arrest on suspicion of betraying state secrets, the three Waterbury children—Bobbie, Phyllis and Peter—move with their mother to Yorkshire, where they find themselves involved in unexpected dramas along the railway by their new home.",
+    "cover_image_url": "https://image.tmdb.org/t/p/w500/oOUhkEhrCeHRldgqZmYZEH8DsTN.jpg",
+    "imdb_id": "tt0215111",
+    "release_year": "2000",
+    "runtime": "1 hr 43 min",
+    "cast": [
+      "Clare Thomas",
+      "Jack Blumenau",
+      "Jemima Rooper"
+    ],
+    "genres": [
+      "Drama",
+      "Family",
+      "TV Movie"
+    ],
+    "certification": null,
+    "platforms": [
+      "Amazon Prime Video",
+      "Amazon Prime Video with Ads",
+      "Plex",
+      "Plex Channel",
+      "Fawesome",
+      "The Roku Channel",
+      "Amazon Prime Video Free with Ads",
+      "Tubi TV"
+    ],
+    "popularity": 5.4818,
+    "vote_average": 6.7
+  },
+  {
+    "tmdb_id": 7484,
+    "media_type": "movie",
+    "title": "Open Season",
+    "synopsis": "Boog, a domesticated 900lb. Grizzly bear finds himself stranded in the woods 3 days before Open Season. Forced to rely on Elliot, a fast-talking mule deer, the two form an unlikely friendship and must quickly rally other forest animals if they are to form a rag-tag army against the hunters.",
+    "cover_image_url": "https://image.tmdb.org/t/p/w500/w5Lctmkc1yah215Luxmci4djaiW.jpg",
+    "imdb_id": "tt0400717",
+    "release_year": "2006",
+    "runtime": "1 hr 26 min",
+    "cast": [
+      "Martin Lawrence",
+      "Ashton Kutcher",
+      "Gary Sinise"
+    ],
+    "genres": [
+      "Animation",
+      "Family",
+      "Adventure",
+      "Comedy"
+    ],
+    "certification": "PG",
+    "platforms": [],
+    "popularity": 4.9001,
+    "vote_average": 6.178
+  },
+  {
+    "tmdb_id": 145857,
+    "media_type": "movie",
+    "title": "The Organ Grinder",
+    "synopsis": "A beloved Italian organ grinder plays his music and sings his song through an immigrant-filled ghetto neighborhood, where hard-scrabble kids and well-proportioned matrons get hep to the beat that flows from the organ grinder's calliope. There are lots of spoofs of life on the Lower East Side and lots of monkeyshines as the organ grinder's pet performs \"42nd Street\" and imitates some Hollywood greats. The monkey takes wing and gets behind the wheel of a car, driving all over the area and wrecking everything.",
+    "cover_image_url": "https://image.tmdb.org/t/p/w500/mQr5DH7TwRy5UljXVfWsXylvNpx.jpg",
+    "imdb_id": "tt0024420",
+    "release_year": "1933",
+    "runtime": "8 min",
+    "cast": [
+      "Ken Darby",
+      "Rudolf Ising",
+      "Johnny Murray"
+    ],
+    "genres": [
+      "Animation",
+      "Music",
+      "Comedy",
+      "Family"
+    ],
+    "certification": null,
+    "platforms": [],
+    "popularity": 4.8976,
+    "vote_average": 5.188
+  },
+  {
+    "tmdb_id": 249391,
+    "media_type": "movie",
+    "title": "Here Come the Munsters",
+    "synopsis": "The Munsters come to America to search for Herman's brother-in-law Norman Hyde, only to find out that he has turned himself into Brent Jekyll, who is running for congress, and Grandpa must make a formula to change Norman back.",
+    "cover_image_url": "https://image.tmdb.org/t/p/w500/a0i8csi1cw8OHPwUzFqwLd0tWFr.jpg",
+    "imdb_id": "tt0113296",
+    "release_year": "1995",
+    "runtime": "1 hr 36 min",
+    "cast": [
+      "Edward Herrmann",
+      "Veronica Hamel",
+      "Robert Morse"
+    ],
+    "genres": [
+      "Horror",
+      "Comedy",
+      "Family",
+      "TV Movie"
+    ],
+    "certification": null,
+    "platforms": [],
+    "popularity": 4.8944,
+    "vote_average": 5.1
+  },
+  {
+    "tmdb_id": 29228,
+    "media_type": "movie",
+    "title": "The Computer Wore Tennis Shoes",
+    "synopsis": "Some college students manage to persuade the town's big businessman, A. J. Arno, to donate a computer to their college. When the problem- student, Dexter Riley, tries to fix the computer, he gets an electric shock and his brain turns to a computer; now he remembers everything he reads. Unfortunately, he also remembers information which was in the computer's memory, like Arno's illegal businesses..",
+    "cover_image_url": "https://image.tmdb.org/t/p/w500/vXfUKvAHTIifAU7IP17kl1ZBGh6.jpg",
+    "imdb_id": "tt0065566",
+    "release_year": "1969",
+    "runtime": "1 hr 31 min",
+    "cast": [
+      "Kurt Russell",
+      "Cesar Romero",
+      "Joe Flynn"
+    ],
+    "genres": [
+      "Comedy",
+      "Family",
+      "Drama"
+    ],
+    "certification": "G",
+    "platforms": [
+      "Disney Plus"
+    ],
+    "popularity": 4.8853,
+    "vote_average": 6.013
+  },
+  {
+    "tmdb_id": 260916,
+    "media_type": "movie",
+    "title": "Invaders from the Deep",
+    "synopsis": "A compilation of four episodes from the Supermarionation series Stingray. When aquatic aliens plot to take over the planet, the world aquanaut security patrol are called in to battle the aliens.",
+    "cover_image_url": "https://image.tmdb.org/t/p/w500/3ujU5kadXRgPH72nxccXIb2BMG.jpg",
+    "imdb_id": "tt0128273",
+    "release_year": "1981",
+    "runtime": "1 hr 30 min",
+    "cast": [
+      "Don Mason",
+      "Robert Easton",
+      "Ray Barrett"
+    ],
+    "genres": [
+      "Science Fiction",
+      "Action",
+      "Family",
+      "TV Movie"
+    ],
+    "certification": null,
+    "platforms": [],
+    "popularity": 4.8846,
+    "vote_average": 5.0
+  },
+  {
+    "tmdb_id": 379686,
+    "media_type": "movie",
+    "title": "Space Jam: A New Legacy",
+    "synopsis": "When LeBron and his young son Dom are trapped in a digital space by a rogue A.I., LeBron must get them home safe by leading Bugs, Lola Bunny and the whole gang of notoriously undisciplined Looney Tunes to victory over the A.I.'s digitized champions on the court. It's Tunes versus Goons in the highest-stakes challenge of his life.",
+    "cover_image_url": "https://image.tmdb.org/t/p/w500/mDACFTANR34u6lvucazoYiFJOp7.jpg",
+    "imdb_id": "tt3554046",
+    "release_year": "2021",
+    "runtime": "1 hr 55 min",
+    "cast": [
+      "LeBron James",
+      "Don Cheadle",
+      "Cedric Joe"
+    ],
+    "genres": [
+      "Family",
+      "Comedy",
+      "Adventure",
+      "Animation",
+      "Science Fiction"
+    ],
+    "certification": "PG",
+    "platforms": [],
+    "popularity": 4.8835,
+    "vote_average": 6.656
+  },
+  {
+    "tmdb_id": 51330,
+    "media_type": "movie",
+    "title": "You're a Good Man, Charlie Brown",
+    "synopsis": "The Peanuts gang perform the classic Broadway musical. In addition to the classic songs, we see Charlie Brown and his friends perform the various comedy sketches of the play.",
+    "cover_image_url": "https://image.tmdb.org/t/p/w500/jbuCcWHp0LFRa9yLyJ5E4nE0MhB.jpg",
+    "imdb_id": "tt0153997",
+    "release_year": "1985",
+    "runtime": "49 min",
+    "cast": [
+      "Kevin Brando",
+      "Michael Dockery",
+      "Brad Kesten"
+    ],
+    "genres": [
+      "Animation",
+      "Family",
+      "Comedy"
+    ],
+    "certification": null,
+    "platforms": [],
+    "popularity": 4.8619,
+    "vote_average": 6.8
+  },
+  {
+    "tmdb_id": 43901,
+    "media_type": "movie",
+    "title": "Anne of Green Gables",
+    "synopsis": "Anne Shirley, an orphan, is fostered by farmer Matthew Cuthbert and his sister Marilla, who were expecting a boy to be sent them to help with their farm work. They accept Anne, who quickly endears herself to them and to the local villagers.",
+    "cover_image_url": "https://image.tmdb.org/t/p/w500/xkXXyY8rqToMwCkGndUk9I3GAl8.jpg",
+    "imdb_id": "tt0024831",
+    "release_year": "1934",
+    "runtime": "1 hr 18 min",
+    "cast": [
+      "Anne Shirley",
+      "O. P. Heggie",
+      "Helen Westley"
+    ],
+    "genres": [
+      "Comedy",
+      "Drama",
+      "Family"
+    ],
+    "certification": "NR",
+    "platforms": [],
+    "popularity": 4.8579,
+    "vote_average": 5.5
+  },
+  {
+    "tmdb_id": 80351,
+    "media_type": "movie",
+    "title": "The Castaway Cowboy",
+    "synopsis": "A Wayward Texas cowboy washes up on the beaches of Hawaii and is taken home by an fatherless boy. He saves the family's business while romancing the single mom.",
+    "cover_image_url": "https://image.tmdb.org/t/p/w500/881Frzo4noOfezARUO9f3eo8GjG.jpg",
+    "imdb_id": "tt0071288",
+    "release_year": "1974",
+    "runtime": "1 hr 31 min",
+    "cast": [
+      "James Garner",
+      "Vera Miles",
+      "Eric Shea"
+    ],
+    "genres": [
+      "Adventure",
+      "Family",
+      "Comedy",
+      "Western"
+    ],
+    "certification": "G",
+    "platforms": [
+      "Disney Plus",
+      "fuboTV"
+    ],
+    "popularity": 4.8573,
+    "vote_average": 6.6
+  },
+  {
+    "tmdb_id": 769165,
+    "media_type": "movie",
+    "title": "My Brother's Keeper",
+    "synopsis": "Returning war veteran SFC Travis Fox has one more battle to fight – PTSD. Following an improvised explosive device attack that killed his best friend and their entire Ranger platoon, Travis returns to his hometown to settle the mysterious affairs of his late parents. In searching for answers, he uncovers a new obstacle and finds support from church counselor Tiffany Robertson. Slowly beginning to rediscover his faith in God, Travis uncovers a secret hidden by his friend Donnie that threatens his newfound faith, restores his guilt, and causes him to consider the unthinkable.",
+    "cover_image_url": "https://image.tmdb.org/t/p/w500/SJsEwa1pwL7FMmsgSvebxBZT9b.jpg",
+    "imdb_id": "tt8112008",
+    "release_year": "2021",
+    "runtime": "1 hr 37 min",
+    "cast": [
+      "T.C. Stallings",
+      "Keshia Knight Pulliam",
+      "Joey Lawrence"
+    ],
+    "genres": [
+      "Drama",
+      "Family"
+    ],
+    "certification": "PG-13",
+    "platforms": [
+      "Angel Studios",
+      "UP Faith & Family Apple TV Channel",
+      "Aspire TV Amazon Channel",
+      "UP Faith & Family Amazon Channel "
+    ],
+    "popularity": 4.8534,
+    "vote_average": 7.5
+  },
+  {
+    "tmdb_id": 34482,
+    "media_type": "movie",
+    "title": "The Clique",
+    "synopsis": "A young girl tries to fit in with a clique of popular middle school girls after moving into the guest house of one of their homes.",
+    "cover_image_url": "https://image.tmdb.org/t/p/w500/f8h9WF7l5vLWI6OU5nmIRKx6QJ0.jpg",
+    "imdb_id": "tt1059905",
+    "release_year": "2008",
+    "runtime": "1 hr 27 min",
+    "cast": [
+      "Elizabeth McLaughlin",
+      "Ellen Marlow",
+      "Bridgit Mendler"
+    ],
+    "genres": [
+      "Comedy",
+      "Drama",
+      "Family"
+    ],
+    "certification": "PG",
+    "platforms": [
+      "Plex Channel"
+    ],
+    "popularity": 4.8476,
+    "vote_average": 5.9
+  },
+  {
+    "tmdb_id": 101884,
+    "media_type": "movie",
+    "title": "Carrie's War",
+    "synopsis": "Carrie's War is an adaptation of a 1973 children's novel by Nina Bawden, set during the Second World War and following two evacuees, Carrie and her younger brother Nick.",
+    "cover_image_url": "https://image.tmdb.org/t/p/w500/3FyUAMKNLhpfisP3iyWZwJ2jAWx.jpg",
+    "imdb_id": "tt0364254",
+    "release_year": "2004",
+    "runtime": "1 hr 30 min",
+    "cast": [
+      "Keeley Fawcett",
+      "Jack Stanley",
+      "Karen Meagher"
+    ],
+    "genres": [
+      "Drama",
+      "Family",
+      "History",
+      "War"
+    ],
+    "certification": null,
+    "platforms": [
+      "Amazon Prime Video",
+      "Amazon Prime Video with Ads",
+      "The Roku Channel",
+      "Amazon Prime Video Free with Ads",
+      "Tubi TV"
+    ],
+    "popularity": 4.8453,
+    "vote_average": 7.4
+  },
+  {
+    "tmdb_id": 52508,
+    "media_type": "movie",
+    "title": "I'll Be Home For Christmas",
+    "synopsis": "Christmas romance about long-separated high school sweethearts who find each other again after 20 years. She's never married and is a smalltown mayor; he's a widowed doctor and single dad who's come back to visit his father for the holidays and is pressured to stay because there's need for a local doc.",
+    "cover_image_url": "https://image.tmdb.org/t/p/w500/wZ8CFVkeRWYY40MubQ8mQtiWOKH.jpg",
+    "imdb_id": "tt0135467",
+    "release_year": "1997",
+    "runtime": "1 hr 34 min",
+    "cast": [
+      "Ann Jillian",
+      "Robert Hays",
+      "Jack Palance"
+    ],
+    "genres": [
+      "TV Movie",
+      "Comedy",
+      "Drama",
+      "Family",
+      "Romance"
+    ],
+    "certification": "G",
+    "platforms": [
+      "Amazon Prime Video",
+      "Amazon Prime Video with Ads",
+      "The Roku Channel",
+      "Pluto TV",
+      "Amazon Prime Video Free with Ads",
+      "Tubi TV"
+    ],
+    "popularity": 4.8403,
+    "vote_average": 6.6
+  },
+  {
+    "tmdb_id": 252674,
+    "media_type": "movie",
+    "title": "A Second Chance",
+    "synopsis": "A young girl and her coach overcome adversity to make their way into the National Australian Gymnastics Squad.",
+    "cover_image_url": "https://image.tmdb.org/t/p/w500/dHCiLSLwnAlj4sNJECyx5r8h97G.jpg",
+    "imdb_id": "tt2150139",
+    "release_year": "2011",
+    "runtime": "1 hr 30 min",
+    "cast": [
+      "Adam Tuominen",
+      "Emily Morris",
+      "Nina Pearce"
+    ],
+    "genres": [
+      "Drama",
+      "Family"
+    ],
+    "certification": "PG",
+    "platforms": [
+      "Hoopla",
+      "Fandango at Home Free",
+      "Pluto TV"
+    ],
+    "popularity": 4.8236,
+    "vote_average": 6.0
+  },
+  {
+    "tmdb_id": 90932,
+    "media_type": "movie",
+    "title": "Listen, Darling",
+    "synopsis": "To stop Pinkie's widowed, struggling mother Dottie from marrying a well-off older man they know she doesn't love, teenager Pinkie and her best friend Buzz kidnap her in the family travel trailer to live a carefree life on the open road. They then get the idea to find Dottie a financially secure husband whom both she and Pinkie would like.",
+    "cover_image_url": "https://image.tmdb.org/t/p/w500/ik3vQc7ogYxHcBAXKxfVrHItPfa.jpg",
+    "imdb_id": "tt0030368",
+    "release_year": "1938",
+    "runtime": "1 hr 15 min",
+    "cast": [
+      "Judy Garland",
+      "Freddie Bartholomew",
+      "Mary Astor"
+    ],
+    "genres": [
+      "Comedy",
+      "Drama",
+      "Romance",
+      "Family"
+    ],
+    "certification": "NR",
+    "platforms": [],
+    "popularity": 4.8208,
+    "vote_average": 6.3
+  },
+  {
+    "tmdb_id": 67502,
+    "media_type": "movie",
+    "title": "Symphony Hour",
+    "synopsis": "Mickey guest-directs a radio orchestra. The sponsor loves the rehearsal, but come the actual performance, Goofy drops all the instruments under an elevator, so they sound like toys. The sponsor hates it, but the audience loves it anyway.",
+    "cover_image_url": "https://image.tmdb.org/t/p/w500/9xSI8M0crOD2w6eCxe1cbS1dC8P.jpg",
+    "imdb_id": "tt0035404",
+    "release_year": "1942",
+    "runtime": "6 min",
+    "cast": [
+      "Walt Disney",
+      "Billy Bletcher",
+      "Pinto Colvig"
+    ],
+    "genres": [
+      "Animation",
+      "Comedy",
+      "Music"
+    ],
+    "certification": "NR",
+    "platforms": [],
+    "popularity": 4.8184,
+    "vote_average": 6.819
+  },
+  {
+    "tmdb_id": 874970,
+    "media_type": "movie",
+    "title": "The Story of Love",
+    "synopsis": "Ruby, an aspiring romance novelist, joins a writers retreat in Tahoe, in order to win a lucrative book deal. But when Woody, the hotel owner, shows her the beauty of nature, Ruby wonders if she's been writing the wrong kinds of stories.",
+    "cover_image_url": "https://image.tmdb.org/t/p/w500/ldwh6iHJAnXqJLqTo9PMhjLNtuF.jpg",
+    "imdb_id": "tt15205498",
+    "release_year": "2022",
+    "runtime": "1 hr 25 min",
+    "cast": [
+      "Brittany Bristow",
+      "Franco Lo Presti",
+      "Rosemary Dunsmore"
+    ],
+    "genres": [
+      "TV Movie",
+      "Comedy",
+      "Romance",
+      "Family"
+    ],
+    "certification": "G",
+    "platforms": [
+      "UP Faith & Family Apple TV Channel",
+      "UP Faith & Family Amazon Channel ",
+      "Plex Channel"
+    ],
+    "popularity": 4.8101,
+    "vote_average": 6.9
+  },
+  {
+    "tmdb_id": 36986,
+    "media_type": "movie",
+    "title": "Angels in the Endzone",
+    "synopsis": "The football team Jesse is on is terrible, and after the death of his father Jesse quits the team. Then angels come to help the team get better and nobody can see them but Jesse's little brother.",
+    "cover_image_url": "https://image.tmdb.org/t/p/w500/8CGoV5Lmw7Ex2jfizZTPPEZpHHo.jpg",
+    "imdb_id": "tt0118618",
+    "release_year": "1997",
+    "runtime": "1 hr 27 min",
+    "cast": [
+      "Paul Dooley",
+      "Matthew Lawrence",
+      "David Gallagher"
+    ],
+    "genres": [
+      "Drama",
+      "Family",
+      "TV Movie"
+    ],
+    "certification": "G",
+    "platforms": [],
+    "popularity": 4.8065,
+    "vote_average": 5.549
+  },
+  {
+    "tmdb_id": 66996,
+    "media_type": "movie",
+    "title": "Lucky Number",
+    "synopsis": "Gas station owner Donald thinks he's just missed the winning number for a new Zoom V8 car but his nephews hear a correction, and find he really does have the winner. They plan to pick it up and surprise him, but the car they take runs out of gas, and they're broke. They cut out the picture of a Zoom V8 from a billboard, dress one of the boys in drag, and trick Donald into filling their tank. As they drive off, Donald plots his revenge and executes it, when the boys return in Donald's new car.",
+    "cover_image_url": "https://image.tmdb.org/t/p/w500/woXhKpXrLTX2dhLUzQvlxChID5a.jpg",
+    "imdb_id": "tt0043761",
+    "release_year": "1951",
+    "runtime": "7 min",
+    "cast": [
+      "Clarence Nash"
+    ],
+    "genres": [
+      "Animation",
+      "Comedy"
+    ],
+    "certification": "NR",
+    "platforms": [],
+    "popularity": 4.8051,
+    "vote_average": 6.5
+  },
+  {
+    "tmdb_id": 125063,
+    "media_type": "movie",
+    "title": "The Glitterball",
+    "synopsis": "When a group of small aliens accidentally abandons one of their own on Earth, adventurous kids Max and Pete stumble upon the \"Glitterball\" and attempt to return it to its mother ship. As the children learn more about the friendly alien and its magical powers, they must protect their new companion from an army corporal and a small-time thief who are both hunting the extraterrestrial for their own cruel purposes.",
+    "cover_image_url": "https://image.tmdb.org/t/p/w500/pIbVVXd0ZBLC7ttJeistWF6Hg60.jpg",
+    "imdb_id": "tt0192075",
+    "release_year": "1977",
+    "runtime": "53 min",
+    "cast": [
+      "Ben Buckton",
+      "Ron Pember",
+      "Keith Jayne"
+    ],
+    "genres": [
+      "Family",
+      "Science Fiction"
+    ],
+    "certification": null,
+    "platforms": [
+      "BFI Player Amazon Channel"
+    ],
+    "popularity": 4.8008,
+    "vote_average": 5.1
+  },
+  {
+    "tmdb_id": 756,
+    "media_type": "movie",
+    "title": "Fantasia",
+    "synopsis": "Walt Disney's timeless masterpiece is an extravaganza of sight and sound! See the music come to life, hear the pictures burst into song and experience the excitement that is Fantasia over and over again.",
+    "cover_image_url": "https://image.tmdb.org/t/p/w500/5m9njnidjR0syG2gpVPVgcEMB2X.jpg",
+    "imdb_id": "tt0032455",
+    "release_year": "1940",
+    "runtime": "2 hr 4 min",
+    "cast": [
+      "Deems Taylor",
+      "Walt Disney",
+      "Julietta Novis"
+    ],
+    "genres": [
+      "Animation",
+      "Family",
+      "Fantasy"
+    ],
+    "certification": "G",
+    "platforms": [
+      "Disney Plus"
+    ],
+    "popularity": 4.799,
+    "vote_average": 7.344
+  },
+  {
+    "tmdb_id": 139471,
+    "media_type": "movie",
+    "title": "Big Bird in Japan",
+    "synopsis": "While visiting Japan, Big Bird wanders off from a guided tour bus in Tokyo, and is lost until a Japanese woman helps him get to where he needs to go. The woman, however, is hiding a secret.",
+    "cover_image_url": "https://image.tmdb.org/t/p/w500/nkaXD136ZMGNsuwxo5fgpG3oIk8.jpg",
+    "imdb_id": "tt0421725",
+    "release_year": "1988",
+    "runtime": "58 min",
+    "cast": [
+      "Caroll Spinney",
+      "Brian Muehl",
+      "Maiko Kawakami"
+    ],
+    "genres": [
+      "Family",
+      "TV Movie",
+      "Adventure",
+      "Comedy"
+    ],
+    "certification": null,
+    "platforms": [],
+    "popularity": 4.7904,
+    "vote_average": 9.1
+  },
+  {
+    "tmdb_id": 87847,
+    "media_type": "movie",
+    "title": "Country Remedy",
+    "synopsis": "In order to secure the position of Head of Pediatrics at a top Chicago hospital, a young, highly accomplished, pediatrician agrees to spend a summer setting up a clinic in a small town in the North Carolina mountains. Clashing against the ways of the small community he is forced to deal with the recent loss of his wife while reconnecting with his 9 year old son, and learning a different pace of life.",
+    "cover_image_url": "https://image.tmdb.org/t/p/w500/sbFHwVNlZzSzQciiu6B9D8hg5su.jpg",
+    "imdb_id": "tt0481583",
+    "release_year": "2007",
+    "runtime": "1 hr 42 min",
+    "cast": [
+      "Cameron Bancroft",
+      "Bellamy Young",
+      "Aidan Mitchell"
+    ],
+    "genres": [
+      "Drama",
+      "Family"
+    ],
+    "certification": "PG",
+    "platforms": [
+      "fuboTV",
+      "Dove Amazon Channel",
+      "Plex Channel",
+      "The Roku Channel",
+      "Cineverse"
+    ],
+    "popularity": 4.7871,
+    "vote_average": 5.5
+  },
+  {
+    "tmdb_id": 256439,
+    "media_type": "movie",
+    "title": "My Little Pony: The Runaway Rainbow",
+    "synopsis": "Rainbow Dash loves the time of year when Ponyville and Breezie Blossom are all about celebrating rainbows. Meanwhile in a new magical place called Unicornia, Rarity is being taught how to be a Unicorn Princess and the importance of making the first rainbow of the season. But she is quite a little rascal and embarks on an incredible ride, a huge adventure (with lots of mishaps) as she tries to get back to Unicornia. Rarity soon realizes that getting home in time to create the first rainbow of season is not an easy thing to do --- but it is fun!",
+    "cover_image_url": "https://image.tmdb.org/t/p/w500/xv6bs9wNzEyGfhe80JrWkregBcv.jpg",
+    "imdb_id": "tt0893497",
+    "release_year": "2006",
+    "runtime": "46 min",
+    "cast": [
+      "Kathleen Barr",
+      "Maryke Hendrikse",
+      "Janyse Jaud"
+    ],
+    "genres": [
+      "Animation",
+      "Adventure",
+      "Fantasy"
+    ],
+    "certification": "G",
+    "platforms": [
+      "Amazon Prime Video",
+      "Amazon Prime Video with Ads",
+      "Plex",
+      "Plex Channel",
+      "Tubi TV"
+    ],
+    "popularity": 4.7844,
+    "vote_average": 7.3
+  },
+  {
+    "tmdb_id": 209676,
+    "media_type": "movie",
+    "title": "Palm Springs",
+    "synopsis": "This short is about a purple dinosaur named Sigmund, who likes to bounce on top of trees.  Preserved by the Academy Film Archive in 2011.",
+    "cover_image_url": "https://image.tmdb.org/t/p/w500/qpi6EelzDw2EyNcbw8nCm70TxrV.jpg",
+    "imdb_id": "tt2516830",
+    "release_year": "1989",
+    "runtime": "2 min",
+    "cast": [
+      "Pete Docter",
+      "Ken Truhan"
+    ],
+    "genres": [
+      "Animation"
+    ],
+    "certification": null,
+    "platforms": [],
+    "popularity": 4.7762,
+    "vote_average": 6.0
+  },
+  {
+    "tmdb_id": 64183,
+    "media_type": "movie",
+    "title": "Parent Trap III",
+    "synopsis": "When Jeff plans to marry again, his triplet daughters Megan, Lisa and Jessie try to bring him together with Susan.",
+    "cover_image_url": "https://image.tmdb.org/t/p/w500/qhZJWKElYdHsGsl8kxY2IMhAfXx.jpg",
+    "imdb_id": "tt0098066",
+    "release_year": "1989",
+    "runtime": "1 hr 26 min",
+    "cast": [
+      "Hayley Mills",
+      "Barry Bostwick",
+      "Ray Baker"
+    ],
+    "genres": [
+      "Comedy",
+      "Family",
+      "TV Movie",
+      "Romance"
+    ],
+    "certification": null,
+    "platforms": [],
+    "popularity": 4.7762,
+    "vote_average": 5.9
+  },
+  {
+    "tmdb_id": 20421,
+    "media_type": "movie",
+    "title": "Rock-A-Doodle",
+    "synopsis": "Chanticleer is a foolhardy farm rooster who believes his crows can actually make the sun come up and shine. When the sun rises one morning without Chanticleer's crow, he leaves the farm in disgrace and runs off to become a rock 'n' roll singer. But in his absence, a sinister, sunshine-hating owl prepares to take over.",
+    "cover_image_url": "https://image.tmdb.org/t/p/w500/q5xSS8MNmrwR3em6VB6OC3992d6.jpg",
+    "imdb_id": "tt0102802",
+    "release_year": "1991",
+    "runtime": "1 hr 17 min",
+    "cast": [
+      "Glen Campbell",
+      "Toby Scott Ganger",
+      "Christopher Plummer"
+    ],
+    "genres": [
+      "Comedy",
+      "Family",
+      "Animation",
+      "Fantasy",
+      "Music"
+    ],
+    "certification": "G",
+    "platforms": [
+      "Amazon Prime Video",
+      "fuboTV",
+      "MGM+ Amazon Channel",
+      "MGM Plus Roku Premium Channel",
+      "MGM Plus",
+      "Philo",
+      "Amazon Prime Video with Ads",
+      "Hoopla",
+      "The Roku Channel",
+      "Tubi TV"
+    ],
+    "popularity": 4.7755,
+    "vote_average": 6.2
+  },
+  {
+    "tmdb_id": 208670,
+    "media_type": "movie",
+    "title": "Lady and the Lamp",
+    "synopsis": "A lamp causes a ruckus in the shop while the shopkeeper is away.",
+    "cover_image_url": "https://image.tmdb.org/t/p/w500/h12S7IgSTfd0VLykuu9wwlsMROM.jpg",
+    "imdb_id": "tt0347372",
+    "release_year": "1979",
+    "runtime": "4 min",
+    "cast": [
+      "Jack Hannah",
+      "Nancy Beiman"
+    ],
+    "genres": [
+      "Animation"
+    ],
+    "certification": "NR",
+    "platforms": [],
+    "popularity": 4.753,
+    "vote_average": 5.7
+  },
+  {
+    "tmdb_id": 2486,
+    "media_type": "movie",
+    "title": "Eragon",
+    "synopsis": "In his homeland of Alagaesia, a farm boy happens upon a dragon's egg -- a discovery that leads him on a predestined journey where he realized he's the one person who can defend his home against an evil king.",
+    "cover_image_url": "https://image.tmdb.org/t/p/w500/mNu6QLUnKqPIjRA3pgEb5dkJye6.jpg",
+    "imdb_id": "tt0449010",
+    "release_year": "2006",
+    "runtime": "1 hr 44 min",
+    "cast": [
+      "Ed Speleers",
+      "Jeremy Irons",
+      "Sienna Guillory"
+    ],
+    "genres": [
+      "Fantasy",
+      "Action",
+      "Adventure",
+      "Family"
+    ],
+    "certification": "PG",
+    "platforms": [
+      "Disney Plus"
+    ],
+    "popularity": 4.7516,
+    "vote_average": 5.127
+  },
+  {
+    "tmdb_id": 86735,
+    "media_type": "movie",
+    "title": "Magical Maestro",
+    "synopsis": "After he is rejected by the Great Poochini as an opening act, Mysto the Magician gets his revenge by conducting his next operatic performance.",
+    "cover_image_url": "https://image.tmdb.org/t/p/w500/4gXmD4QOkNAXxI9M8scea52tx3H.jpg",
+    "imdb_id": "tt0044868",
+    "release_year": "1952",
+    "runtime": "6 min",
+    "cast": [
+      "Daws Butler",
+      "Carlos Ramírez",
+      "Mary Kaye"
+    ],
+    "genres": [
+      "Animation",
+      "Comedy",
+      "Music"
+    ],
+    "certification": "NR",
+    "platforms": [],
+    "popularity": 4.748,
+    "vote_average": 6.67
+  },
+  {
+    "tmdb_id": 64152,
+    "media_type": "movie",
+    "title": "Garfield: His 9 Lives",
+    "synopsis": "Garfield plays multiple roles including ancient Egyptian royalty, a fairyland kitten, a movie 'stunt cat\" and more!",
+    "cover_image_url": "https://image.tmdb.org/t/p/w500/qfd3Grd0ZSTSOM0Zy7wx82yDGjt.jpg",
+    "imdb_id": "tt0292522",
+    "release_year": "1988",
+    "runtime": "48 min",
+    "cast": [
+      "Lorenzo Music",
+      "Thom Huge",
+      "Gregg Berger"
+    ],
+    "genres": [
+      "Animation",
+      "Comedy",
+      "Adventure",
+      "Drama",
+      "Fantasy",
+      "Music",
+      "Science Fiction",
+      "TV Movie"
+    ],
+    "certification": "G",
+    "platforms": [
+      "Hoopla",
+      "Plex Channel"
+    ],
+    "popularity": 4.7455,
+    "vote_average": 6.5
+  },
+  {
+    "tmdb_id": 352812,
+    "media_type": "movie",
+    "title": "Tick Tock Tale",
+    "synopsis": "Amidst an old London clock shop, a small, quirky mantle clock comes to the aide of the store's more expensive clocks when a thief breaks in and threatens to steal them away.",
+    "cover_image_url": "https://image.tmdb.org/t/p/w500/adx0vSGKAwSd9rydH6vUJXMkh7x.jpg",
+    "imdb_id": "tt1736313",
+    "release_year": "2015",
+    "runtime": "7 min",
+    "cast": [
+      "Dean Wellins"
+    ],
+    "genres": [
+      "Animation"
+    ],
+    "certification": "G",
+    "platforms": [
+      "Disney Plus"
+    ],
+    "popularity": 4.7454,
+    "vote_average": 7.4
+  },
+  {
+    "tmdb_id": 298533,
+    "media_type": "movie",
+    "title": "Corner Gas: The Movie",
+    "synopsis": "It’s been a few years, and there’s still not a lot going on 40 kilometers from nowhere. But that’s all about to change as the fine folks of Dog River, Saskatchewan face their biggest crisis ever. Brent and the gang discover that the town’s been badly mismanaged, leaving residents with little choice but to pack up and leave. As residents make one last rally to save Dog River as they know it, they discover a devious plan by a corporate chain that would change life for Dog Riverites forever.",
+    "cover_image_url": "https://image.tmdb.org/t/p/w500/3Foy86VCs8MZhTieDsglSTm4xMU.jpg",
+    "imdb_id": "tt3788052",
+    "release_year": "2014",
+    "runtime": "1 hr 30 min",
+    "cast": [
+      "Brent Butt",
+      "Gabrielle Miller",
+      "Fred Ewanuick"
+    ],
+    "genres": [
+      "Family",
+      "Comedy"
+    ],
+    "certification": null,
+    "platforms": [
+      "Peacock Premium",
+      "Peacock Premium Plus",
+      "Kanopy",
+      "Plex",
+      "Plex Channel",
+      "Fawesome",
+      "The Roku Channel",
+      "Pluto TV",
+      "Tubi TV"
+    ],
+    "popularity": 4.7417,
+    "vote_average": 6.1
+  },
+  {
+    "tmdb_id": 217057,
+    "media_type": "movie",
+    "title": "The Hero of Color City",
+    "synopsis": "An imaginative tale chronicling the adventures of a diverse band of crayons as they strive to protect not only their magical multihued homeland but the imagination of children everywhere from a terrifying monster.",
+    "cover_image_url": "https://image.tmdb.org/t/p/w500/r43IegMrhoVGnyD0NM1wYlmaflc.jpg",
+    "imdb_id": "tt0498351",
+    "release_year": "2014",
+    "runtime": "1 hr 17 min",
+    "cast": [
+      "Christina Ricci",
+      "Sean Astin",
+      "Jessica Capshaw"
+    ],
+    "genres": [
+      "Animation"
+    ],
+    "certification": "G",
+    "platforms": [
+      "Amazon Prime Video",
+      "Philo",
+      "Amazon Prime Video with Ads",
+      "Hoopla",
+      "Plex",
+      "Plex Channel",
+      "The Roku Channel",
+      "Fandango at Home Free",
+      "Tubi TV"
+    ],
+    "popularity": 4.7403,
+    "vote_average": 5.2
+  },
+  {
+    "tmdb_id": 279987,
+    "media_type": "movie",
+    "title": "Enchanted Journey",
+    "synopsis": "Enthralled with tales of the Great North Forest conveyed to him by friendly carrier pigeon Pippo, young chipmunk Glikko leaves the safety of his comfortable cage to explore the world.",
+    "cover_image_url": "https://image.tmdb.org/t/p/w500/by9L1jaybafHjyb9wpiHOwab6mu.jpg",
+    "imdb_id": "tt0087202",
+    "release_year": "1981",
+    "runtime": "1 hr 30 min",
+    "cast": [
+      "Orson Welles",
+      "Lionel G. Wilson",
+      "Corinne Orr"
+    ],
+    "genres": [
+      "Animation",
+      "Adventure",
+      "Family"
+    ],
+    "certification": null,
+    "platforms": [],
+    "popularity": 4.7392,
+    "vote_average": 6.4
+  },
+  {
+    "tmdb_id": 847179,
+    "media_type": "movie",
+    "title": "A Lethal Lesson",
+    "synopsis": "High school teacher Lauren finds her life up side down when her job, the custody of her adopted daughter and even her safety is in danger when an angry student falsely claims to have had an affair with her.",
+    "cover_image_url": "https://image.tmdb.org/t/p/w500/bg2VKQ0OirUl1M99khSyuSevHRL.jpg",
+    "imdb_id": "tt14537800",
+    "release_year": "2021",
+    "runtime": "1 hr 25 min",
+    "cast": [
+      "Rhonda Dent",
+      "Carlo Marks",
+      "Poppy Darch"
+    ],
+    "genres": [
+      "Thriller",
+      "TV Movie",
+      "Family",
+      "Crime"
+    ],
+    "certification": null,
+    "platforms": [
+      "Hoopla"
+    ],
+    "popularity": 4.7378,
+    "vote_average": 6.393
+  },
+  {
+    "tmdb_id": 158834,
+    "media_type": "movie",
+    "title": "I Got Plenty of Mutton",
+    "synopsis": "A wolf, deprived of meat by war rationing and starving, sees an article in the newspaper about a sheepdog leaving his flock to join the army and thinks it will be easy pickings. However, if he had read the rest of the article, he would know that the flock is now guarded by the ram Killer Diller, a most formidable foe.",
+    "cover_image_url": "https://image.tmdb.org/t/p/w500/2DdRI0rjZquKPcCmftJSf9ttl5r.jpg",
+    "imdb_id": "tt0036937",
+    "release_year": "1944",
+    "runtime": "8 min",
+    "cast": [
+      "Mel Blanc"
+    ],
+    "genres": [
+      "Animation",
+      "Comedy"
+    ],
+    "certification": "NR",
+    "platforms": [],
+    "popularity": 4.7371,
+    "vote_average": 6.8
+  },
+  {
+    "tmdb_id": 235947,
+    "media_type": "movie",
+    "title": "The Super Snooper",
+    "synopsis": "In this parody of trench-coat detective films, Daffy Duck is Duck Drake, a \"Private Eye, Ear, Nose, and Throat\" who receives a telephone call summoning him to the J. Cleaver Axe-Handle Estate, where a murder has supposedly taken place.",
+    "cover_image_url": "https://image.tmdb.org/t/p/w500/aIlBT7h0z6o0sCS2LrBEW6Nk3yQ.jpg",
+    "imdb_id": "tt0045208",
+    "release_year": "1952",
+    "runtime": "7 min",
+    "cast": [
+      "Mel Blanc",
+      "Marian Richman"
+    ],
+    "genres": [
+      "Animation",
+      "Comedy"
+    ],
+    "certification": null,
+    "platforms": [],
+    "popularity": 4.736,
+    "vote_average": 7.412
+  },
+  {
+    "tmdb_id": 605829,
+    "media_type": "movie",
+    "title": "The Swan Princess: Kingdom of Music",
+    "synopsis": "Princess Odette is hosting a music competition to celebrate Princess Alise's birthday. Prince Li of Cathay has entered, but his sister Princess Mei Li has stowed away on his ship to seek help from Odette and Derek for Chen, who has been cursed to live as a dragon. Who will win the music festival and will Chen ever be free from his curse?",
+    "cover_image_url": "https://image.tmdb.org/t/p/w500/4pEkHSzxNHcEYseYWxR0MGiDRIf.jpg",
+    "imdb_id": "tt10551268",
+    "release_year": "2019",
+    "runtime": "1 hr 22 min",
+    "cast": [
+      "Nina Herzog",
+      "Yuri Lowenthal",
+      "Alexandre Chen"
+    ],
+    "genres": [
+      "Family",
+      "Animation",
+      "Fantasy",
+      "Music"
+    ],
+    "certification": "G",
+    "platforms": [
+      "The Roku Channel"
+    ],
+    "popularity": 4.7356,
+    "vote_average": 5.7
+  },
+  {
+    "tmdb_id": 79699,
+    "media_type": "movie",
+    "title": "A Warrior's Heart",
+    "synopsis": "Unable to cope with his military father's sudden death in combat, quick-tempered teen, Conor, starts getting into serious trouble. During an intense lacrosse camp, his father's old friend challenges Conor to get his life on track and become a man.",
+    "cover_image_url": "https://image.tmdb.org/t/p/w500/rZsmMHmSZGj2hcYGNsHFLomw37E.jpg",
+    "imdb_id": "tt1341340",
+    "release_year": "2011",
+    "runtime": "1 hr 26 min",
+    "cast": [
+      "Kellan Lutz",
+      "Ashley Greene",
+      "Adam Beach"
+    ],
+    "genres": [
+      "Action",
+      "Drama",
+      "Family",
+      "Romance"
+    ],
+    "certification": "PG",
+    "platforms": [
+      "Amazon Prime Video",
+      "UP Faith & Family Apple TV Channel",
+      "Amazon Prime Video with Ads",
+      "UP Faith & Family Amazon Channel ",
+      "The CW",
+      "Hoopla",
+      "Plex",
+      "Plex Channel",
+      "Fawesome",
+      "The Roku Channel",
+      "Filmzie",
+      "Amazon Prime Video Free with Ads",
+      "Tubi TV"
+    ],
+    "popularity": 4.7335,
+    "vote_average": 5.4
+  },
+  {
+    "tmdb_id": 1371727,
+    "media_type": "movie",
+    "title": "Sing: Thriller",
+    "synopsis": "Buster Moon dreams up a star-studded spectacle set to Michael Jackson's \"Thriller\" in this animated short featuring characters from the hit \"Sing\" films.",
+    "cover_image_url": "https://image.tmdb.org/t/p/w500/i77OInTKcrnRlAozFOaB6D5mk15.jpg",
+    "imdb_id": "tt33999453",
+    "release_year": "2024",
+    "runtime": "11 min",
+    "cast": [
+      "Matthew McConaughey",
+      "Tori Kelly",
+      "Nick Kroll"
+    ],
+    "genres": [
+      "Animation",
+      "Family",
+      "Comedy",
+      "Music"
+    ],
+    "certification": "G",
+    "platforms": [
+      "Netflix",
+      "Netflix Kids",
+      "Netflix Standard with Ads"
+    ],
+    "popularity": 4.7298,
+    "vote_average": 7.172
+  },
+  {
+    "tmdb_id": 236533,
+    "media_type": "movie",
+    "title": "Joe Glow, the Firefly",
+    "synopsis": "A firefly with a miner's lighted helmet explores a camper's tent and the various people-sized items that, from his perspective, are gigantic, then utters the cartoon's single line of dialog.",
+    "cover_image_url": "https://image.tmdb.org/t/p/w500/4J5BVWTP245VRtmuZ0ZaPQ4vuHT.jpg",
+    "imdb_id": "tt0033773",
+    "release_year": "1941",
+    "runtime": "7 min",
+    "cast": [
+      "Mel Blanc"
+    ],
+    "genres": [
+      "Animation"
+    ],
+    "certification": null,
+    "platforms": [],
+    "popularity": 4.722,
+    "vote_average": 5.0
+  },
+  {
+    "tmdb_id": 20737,
+    "media_type": "movie",
+    "title": "Air Bud",
+    "synopsis": "A lonely boy befriends a stray dog who has a natural talent for basketball and together they experience the highs and lows of life as their friendship remains solid through a series of escapades.",
+    "cover_image_url": "https://image.tmdb.org/t/p/w500/kDfzh6QdX2tseTwwyB7lp2RP7iE.jpg",
+    "imdb_id": "tt0118570",
+    "release_year": "1997",
+    "runtime": "1 hr 38 min",
+    "cast": [
+      "Kevin Zegers",
+      "Wendy Makkena",
+      "Michael Jeter"
+    ],
+    "genres": [
+      "Comedy",
+      "Family"
+    ],
+    "certification": "PG",
+    "platforms": [
+      "Disney Plus",
+      "Fawesome"
+    ],
+    "popularity": 4.7181,
+    "vote_average": 5.57
+  },
+  {
+    "tmdb_id": 11243,
+    "media_type": "movie",
+    "title": "The Care Bears Movie",
+    "synopsis": "The Care Bears team up with a troubled brother and sister who just moved to a new town to help a neglected young magician's apprentice whose evil spell book causes sinister things to happen.",
+    "cover_image_url": "https://image.tmdb.org/t/p/w500/qD1MAGhRfVgWS0UbLhZuM6F7zmr.jpg",
+    "imdb_id": "tt0088885",
+    "release_year": "1985",
+    "runtime": "1 hr 16 min",
+    "cast": [
+      "Mickey Rooney",
+      "Jackie Burroughs",
+      "Georgia Engel"
+    ],
+    "genres": [
+      "Adventure",
+      "Fantasy",
+      "Animation",
+      "Comedy",
+      "Family"
+    ],
+    "certification": "G",
+    "platforms": [
+      "Hoopla",
+      "The Roku Channel",
+      "Tubi TV"
+    ],
+    "popularity": 4.7173,
+    "vote_average": 6.0
+  },
+  {
+    "tmdb_id": 359878,
+    "media_type": "movie",
+    "title": "My Little Pony",
+    "synopsis": "The story begins as the peaceful ponies of Dream Valley are attacked by monsters, led by Scorpan, who kidnap several ponies and take them away to Midnight Castle. Enraged, Firefly, a Pegasus pony, takes to the skies to try to find someone who can help them defeat Tirek, a centaur-like demon whose plan is to use these ponies to pull his chariot of darkness. On her way, she crashes into 12-year-old Megan's well and asks her for her help. Megan is at first reluctant to go but after being confronted by the monsters, she sets out with the ponies to rescue them.",
+    "cover_image_url": "https://image.tmdb.org/t/p/w500/zad8hKb4RRVlD78LZnG09T1alCp.jpg",
+    "imdb_id": "tt1219699",
+    "release_year": "1984",
+    "runtime": "22 min",
+    "cast": [
+      "Sandy Duncan",
+      "Tony Randall",
+      "Charlie Adler"
+    ],
+    "genres": [
+      "Animation",
+      "Fantasy",
+      "TV Movie"
+    ],
+    "certification": null,
+    "platforms": [],
+    "popularity": 4.7172,
+    "vote_average": 6.643
+  },
+  {
+    "tmdb_id": 79379,
+    "media_type": "movie",
+    "title": "Book of Dragons",
+    "synopsis": "So you want to be a dragon trainer do you? Prepare yourself for adventure, excitement and training as Hiccup, Astrid, Toothless and Gobber tell the legend behind the Book of Dragons and reveal insider training secrets about new, never-before-seen dragons.",
+    "cover_image_url": "https://image.tmdb.org/t/p/w500/jDInObzAHYGsde02gTxL8B56HGT.jpg",
+    "imdb_id": "tt2113625",
+    "release_year": "2011",
+    "runtime": "18 min",
+    "cast": [
+      "Jay Baruchel",
+      "Craig Ferguson",
+      "America Ferrera"
+    ],
+    "genres": [
+      "Fantasy",
+      "Animation",
+      "Action",
+      "Comedy",
+      "Family"
+    ],
+    "certification": "PG",
+    "platforms": [],
+    "popularity": 4.7165,
+    "vote_average": 6.741
+  },
+  {
+    "tmdb_id": 674652,
+    "media_type": "movie",
+    "title": "Adventure Boyz",
+    "synopsis": "When two boys on their BMX bikes and their Speedway racing Dad, come up against a notorious crime boss  and his criminal gang who have stolen a hoard of Diamonds from England’s Largest Castle, a chain of events is set off that will change their lives forever...",
+    "cover_image_url": "https://image.tmdb.org/t/p/w500/zNx1kCtBoHQaIa4tXQ6zrp06w9X.jpg",
+    "imdb_id": "tt9671918",
+    "release_year": "2019",
+    "runtime": "1 hr 33 min",
+    "cast": [
+      "Rory Ford",
+      "Felix Ford",
+      "Howard J. Ford"
+    ],
+    "genres": [
+      "Family",
+      "Action"
+    ],
+    "certification": "NR",
+    "platforms": [
+      "Hoopla",
+      "Plex Channel",
+      "The Roku Channel",
+      "Fandango at Home Free",
+      "Pluto TV",
+      "Tubi TV"
+    ],
+    "popularity": 4.7162,
+    "vote_average": 7.6
+  },
+  {
+    "tmdb_id": 348393,
+    "media_type": "movie",
+    "title": "Family for Christmas",
+    "synopsis": "At the height of her career, investigative journalist Hannah Dunbar finds herself wondering what would have been had she stayed with the love of her life, Ben, 10 years before. When Santa Claus hears her “what ifs?” as a Christmas wish, he transports Hannah to a version of her life where she and Ben started a family.",
+    "cover_image_url": "https://image.tmdb.org/t/p/w500/cmPYjnLUZv016tk2uNNQ4n44ktm.jpg",
+    "imdb_id": "tt4766018",
+    "release_year": "2015",
+    "runtime": "1 hr 30 min",
+    "cast": [
+      "Lacey Chabert",
+      "Tyron Leitso",
+      "Matthew Kevin Anderson"
+    ],
+    "genres": [
+      "Family",
+      "Romance",
+      "TV Movie"
+    ],
+    "certification": null,
+    "platforms": [
+      "Amazon Prime Video",
+      "fuboTV",
+      "Philo",
+      "Hallmark+ Amazon Channel",
+      "Hallmark+ Apple TV Channel",
+      "Amazon Prime Video with Ads",
+      "Hallmark TV Amazon Channel"
+    ],
+    "popularity": 4.7086,
+    "vote_average": 5.7
+  },
+  {
+    "tmdb_id": 166544,
+    "media_type": "movie",
+    "title": "The Haunted Ship",
+    "synopsis": "Waffles the Cat and Don the Dog explore a sunken ship where they meet drunk turtles singing \"Sweet Adeline\" and a skeletal Davy Jones.",
+    "cover_image_url": "",
+    "imdb_id": "tt0020952",
+    "release_year": "1930",
+    "runtime": "7 min",
+    "cast": [],
+    "genres": [
+      "Animation",
+      "Comedy",
+      "Horror"
+    ],
+    "certification": null,
+    "platforms": [],
+    "popularity": 4.7049,
+    "vote_average": 5.5
+  },
+  {
+    "tmdb_id": 379160,
+    "media_type": "movie",
+    "title": "Pink-In",
+    "synopsis": "The Pink Panther reads some old letters from his army friend Loud-Mouth Louie.",
+    "cover_image_url": "https://image.tmdb.org/t/p/w500/scomNtSwFV1RoL2pPvoGv4WuvA2.jpg",
+    "imdb_id": "tt0067583",
+    "release_year": "1971",
+    "runtime": "7 min",
+    "cast": [
+      "Marvin Miller"
+    ],
+    "genres": [
+      "Animation"
+    ],
+    "certification": "G",
+    "platforms": [],
+    "popularity": 4.7046,
+    "vote_average": 5.7
+  },
+  {
+    "tmdb_id": 124532,
+    "media_type": "movie",
+    "title": "Creating Rem Lezar",
+    "synopsis": "Zack and Ashlee discover the meaning of true friendship when they create an imaginary friend, the superhero Rem Lezar.",
+    "cover_image_url": "https://image.tmdb.org/t/p/w500/w0DgAgIgypvPOP43aN1AMUHiLQu.jpg",
+    "imdb_id": "tt0369348",
+    "release_year": "1989",
+    "runtime": "48 min",
+    "cast": [
+      "Jack Mulcahy",
+      "Courtney Kernaghan",
+      "Jonathan Goch"
+    ],
+    "genres": [
+      "Family",
+      "Music",
+      "Fantasy"
+    ],
+    "certification": "NR",
+    "platforms": [
+      "Hoopla",
+      "Tubi TV"
+    ],
+    "popularity": 4.7033,
+    "vote_average": 7.0
+  },
+  {
+    "tmdb_id": 501929,
+    "media_type": "movie",
+    "title": "The Mitchells vs. the Machines",
+    "synopsis": "A quirky, dysfunctional family's road trip is upended when they find themselves in the middle of the robot apocalypse and suddenly become humanity's unlikeliest last hope.",
+    "cover_image_url": "https://image.tmdb.org/t/p/w500/mI2Di7HmskQQ34kz0iau6J1vr70.jpg",
+    "imdb_id": "tt7979580",
+    "release_year": "2021",
+    "runtime": "1 hr 54 min",
+    "cast": [
+      "Abbi Jacobson",
+      "Danny McBride",
+      "Maya Rudolph"
+    ],
+    "genres": [
+      "Animation",
+      "Adventure",
+      "Comedy"
+    ],
+    "certification": "PG",
+    "platforms": [
+      "Netflix",
+      "Netflix Standard with Ads"
+    ],
+    "popularity": 4.6953,
+    "vote_average": 7.857
+  },
+  {
+    "tmdb_id": 13151,
+    "media_type": "movie",
+    "title": "Scooby-Doo on Zombie Island",
+    "synopsis": "After going their separate ways, Scooby-Doo, Shaggy, Velma, Daphne, and Fred reunite to investigate the ghost of Moonscar the pirate on a haunted bayou island, but it turns out the swashbuckler's spirit isn't the only creepy character on the island. The sleuths also meet up with cat creatures and zombies... and it looks like for the first time in their lives, these ghouls might actually be real.",
+    "cover_image_url": "https://image.tmdb.org/t/p/w500/7EdvFUGvT5Pn8rUFRKCrdUzNthf.jpg",
+    "imdb_id": "tt0166792",
+    "release_year": "1998",
+    "runtime": "1 hr 17 min",
+    "cast": [
+      "Scott Innes",
+      "Billy West",
+      "Mary Kay Bergman"
+    ],
+    "genres": [
+      "Animation",
+      "Mystery",
+      "Family",
+      "Horror"
+    ],
+    "certification": "PG",
+    "platforms": [],
+    "popularity": 4.6937,
+    "vote_average": 7.665
+  },
+  {
+    "tmdb_id": 108988,
+    "media_type": "movie",
+    "title": "Pollyanna",
+    "synopsis": "When Pollyanna is orphaned, she's sent to live with her crotchety Aunt Polly. Pollyanna discovers that many of the people in her aunt's New England hometown are as ill-tempered as her aunt. But Pollyanna's incurable optimism - exemplified by her \"glad game\", in which she looks for the bright side of every situation - brings a change to the staid old community.",
+    "cover_image_url": "https://image.tmdb.org/t/p/w500/sShuXyUMN1w3LNtl0HpRXingGxK.jpg",
+    "imdb_id": "tt0011588",
+    "release_year": "1920",
+    "runtime": "58 min",
+    "cast": [
+      "Mary Pickford",
+      "Katherine Griffith",
+      "Howard Ralston"
+    ],
+    "genres": [
+      "Comedy",
+      "Drama",
+      "Family"
+    ],
+    "certification": null,
+    "platforms": [
+      "Public Domain Movies",
+      "Fawesome",
+      "Mometu"
+    ],
+    "popularity": 4.6918,
+    "vote_average": 6.333
+  },
+  {
+    "tmdb_id": 28032,
+    "media_type": "movie",
+    "title": "Thumbelina",
+    "synopsis": "Born of a flower and growing to only a couple of inches tall, poor Thumbelina is worried she'll never meet someone her own size, until she happens to catch the eye of Prince Cornelius of the Fairies. Just as soon as she finds love, however, it's torn away when she's kidnapped by Ms. Toad. Now Thumbelina has to escape Ms. Toad's grasp and search for Prince Cornelius. Luckily, there's a whole city of animals willing to help.",
+    "cover_image_url": "https://image.tmdb.org/t/p/w500/eBvSSfwAKgcjF4eyaeNSzTCpfaF.jpg",
+    "imdb_id": "tt0111419",
+    "release_year": "1994",
+    "runtime": "1 hr 26 min",
+    "cast": [
+      "Jodi Benson",
+      "Gino Conforti",
+      "Barbara Cook"
+    ],
+    "genres": [
+      "Animation",
+      "Fantasy",
+      "Romance",
+      "Music",
+      "Family"
+    ],
+    "certification": "G",
+    "platforms": [
+      "Disney Plus"
+    ],
+    "popularity": 4.6842,
+    "vote_average": 6.438
+  },
+  {
+    "tmdb_id": 324325,
+    "media_type": "movie",
+    "title": "Twinsters",
+    "synopsis": "Adopted from South Korea, raised on different continents &amp; connected through social media, Samantha &amp; Anaïs believe that they are twin sisters separated at birth.",
+    "cover_image_url": "https://image.tmdb.org/t/p/w500/zU6hCAaOXj55xjJR6BeSZu3iWBo.jpg",
+    "imdb_id": "tt2980626",
+    "release_year": "2015",
+    "runtime": "1 hr 30 min",
+    "cast": [
+      "Anais Bordier",
+      "Samantha Futerman",
+      "Kanoa Goo"
+    ],
+    "genres": [
+      "Family",
+      "Documentary"
+    ],
+    "certification": null,
+    "platforms": [],
+    "popularity": 4.6822,
+    "vote_average": 7.3
+  },
+  {
+    "tmdb_id": 100750,
+    "media_type": "movie",
+    "title": "The Home Front",
+    "synopsis": "A homesick Pvt. Snafu learns that his family are almost as committed to the war efforts as himself.",
+    "cover_image_url": "https://image.tmdb.org/t/p/w500/jjb96bWhcdI8QwEmnpCjs9vSwBe.jpg",
+    "imdb_id": "tt0154604",
+    "release_year": "1943",
+    "runtime": "3 min",
+    "cast": [
+      "Mel Blanc"
+    ],
+    "genres": [
+      "War",
+      "Animation",
+      "Comedy"
+    ],
+    "certification": null,
+    "platforms": [],
+    "popularity": 4.6814,
+    "vote_average": 6.2
+  },
+  {
+    "tmdb_id": 219526,
+    "media_type": "movie",
+    "title": "Plenty of Money and You",
+    "synopsis": "A hen's chicks hatch, but one of them is actually an ostrich. She treats it as her own, but the ostrich keeps getting into trouble.",
+    "cover_image_url": "https://image.tmdb.org/t/p/w500/roxL23ZXEBN1csoIJ93XSxAbaCN.jpg",
+    "imdb_id": "tt0029411",
+    "release_year": "1937",
+    "runtime": "7 min",
+    "cast": [
+      "Mel Blanc",
+      "Danny Webb"
+    ],
+    "genres": [
+      "Animation",
+      "Comedy",
+      "Family"
+    ],
+    "certification": null,
+    "platforms": [],
+    "popularity": 4.6794,
+    "vote_average": 5.8
+  },
+  {
+    "tmdb_id": 324849,
+    "media_type": "movie",
+    "title": "The Lego Batman Movie",
+    "synopsis": "A cooler-than-ever Bruce Wayne must deal with the usual suspects as they plan to rule Gotham City, while discovering that he has accidentally adopted a teenage orphan who wishes to become his sidekick.",
+    "cover_image_url": "https://image.tmdb.org/t/p/w500/snGwr2gag4Fcgx2OGmH9otl6ofW.jpg",
+    "imdb_id": "tt4116284",
+    "release_year": "2017",
+    "runtime": "1 hr 44 min",
+    "cast": [
+      "Will Arnett",
+      "Michael Cera",
+      "Rosario Dawson"
+    ],
+    "genres": [
+      "Animation",
+      "Action",
+      "Comedy",
+      "Family"
+    ],
+    "certification": "PG",
+    "platforms": [
+      "fuboTV",
+      "HBO Max",
+      "HBO Max Amazon Channel"
+    ],
+    "popularity": 4.675,
+    "vote_average": 7.2
+  },
+  {
+    "tmdb_id": 37491,
+    "media_type": "movie",
+    "title": "East Side of Heaven",
+    "synopsis": "A man finds himself the father, by proxy, of a ten-month-old baby and becomes involved in the turbulent lives of the child's family.",
+    "cover_image_url": "https://image.tmdb.org/t/p/w500/12NJnsZrgYHQPPO86FMEcbbpElO.jpg",
+    "imdb_id": "tt0031261",
+    "release_year": "1939",
+    "runtime": "1 hr 28 min",
+    "cast": [
+      "Bing Crosby",
+      "Joan Blondell",
+      "Mischa Auer"
+    ],
+    "genres": [
+      "Comedy",
+      "Family"
+    ],
+    "certification": "NR",
+    "platforms": [],
+    "popularity": 4.6722,
+    "vote_average": 7.1
+  },
+  {
+    "tmdb_id": 234535,
+    "media_type": "movie",
+    "title": "Honey's Money",
+    "synopsis": "Yosemite Sam marries a wealthy widow for her money.",
+    "cover_image_url": "https://image.tmdb.org/t/p/w500/iamGTPyvuO2eUZbTPprOwClxpqm.jpg",
+    "imdb_id": "tt0056077",
+    "release_year": "1962",
+    "runtime": "6 min",
+    "cast": [
+      "Mel Blanc",
+      "June Foray",
+      "Billy Booth"
+    ],
+    "genres": [
+      "Animation",
+      "Comedy"
+    ],
+    "certification": null,
+    "platforms": [],
+    "popularity": 4.6708,
+    "vote_average": 6.5
+  },
+  {
+    "tmdb_id": 357677,
+    "media_type": "movie",
+    "title": "The Smurfs Springtime Special",
+    "synopsis": "The evil wizard Gargamel--who hates spring because it makes the Smurfs happy, and he hates happy--devises a scheme to put Mother Nature to sleep.",
+    "cover_image_url": "https://image.tmdb.org/t/p/w500/rweIyreel5cSslXbeYTU1aP2q8a.jpg",
+    "imdb_id": "tt0356050",
+    "release_year": "1982",
+    "runtime": "23 min",
+    "cast": [
+      "Lucille Bliss",
+      "William Callaway",
+      "Frank Welker"
+    ],
+    "genres": [
+      "Family",
+      "Animation",
+      "TV Movie",
+      "Comedy"
+    ],
+    "certification": null,
+    "platforms": [],
+    "popularity": 4.6698,
+    "vote_average": 6.5
+  },
+  {
+    "tmdb_id": 721820,
+    "media_type": "movie",
+    "title": "A Rugrats Chanukah",
+    "synopsis": "The story of the Jewish holiday Chanukah through the eyes of the Rugrats, who imagine themselves as the main characters. Meanwhile, Grandpa Boris and his long-time rival, Shlomo, feud over who will play the lead in the local synagogue's Chanukah play.",
+    "cover_image_url": "https://image.tmdb.org/t/p/w500/kkPAIbatNJGQlGMoehyJzeaZPCc.jpg",
+    "imdb_id": "tt1159155",
+    "release_year": "1996",
+    "runtime": "24 min",
+    "cast": [
+      "E. G. Daily",
+      "Christine Cavanaugh",
+      "Kath Soucie"
+    ],
+    "genres": [
+      "Family",
+      "Animation",
+      "Comedy"
+    ],
+    "certification": null,
+    "platforms": [],
+    "popularity": 4.6693,
+    "vote_average": 6.75
+  },
+  {
+    "tmdb_id": 67896,
+    "media_type": "movie",
+    "title": "Once Upon a Time",
+    "synopsis": "Broadway producer Jerry Flynn is anxious to recapture the magic and reclaim the crowds after a set of costly flops. Outside his theater one night, Flynn meets a young boy who just might save the day. Inside a small box the boy shows Flynn his pride and joy: a caterpillar named Curly that dances to Yes Sir, That's My Baby. Word quickly spreads about the amazingly talented hoofer, and the caterpillar becomes a symbol of hope for wartime America. Soon, offers are pouring in to capitalize on this sensational insect.",
+    "cover_image_url": "https://image.tmdb.org/t/p/w500/vaHApHfVWr1DzkFwRfSg6Ps7AZH.jpg",
+    "imdb_id": "tt0037150",
+    "release_year": "1944",
+    "runtime": "1 hr 29 min",
+    "cast": [
+      "Cary Grant",
+      "Janet Blair",
+      "James Gleason"
+    ],
+    "genres": [
+      "Family",
+      "Fantasy",
+      "Comedy"
+    ],
+    "certification": "NR",
+    "platforms": [
+      "fuboTV",
+      "FlixFling",
+      "Mometu"
+    ],
+    "popularity": 4.669,
+    "vote_average": 5.667
+  },
+  {
+    "tmdb_id": 11007,
+    "media_type": "movie",
+    "title": "Cheaper by the Dozen",
+    "synopsis": "The Baker brood moves to Chicago after patriarch Tom gets a job coaching football at Northwestern University, forcing his writer wife, Kate, and the couple's 12 children to make a major adjustment. The transition works well until work demands pull the parents away from home, leaving the kids bored -- and increasingly mischievous.",
+    "cover_image_url": "https://image.tmdb.org/t/p/w500/afclGGoQslTYFTnyW1LRMtJMiBp.jpg",
+    "imdb_id": "tt0349205",
+    "release_year": "2003",
+    "runtime": "1 hr 38 min",
+    "cast": [
+      "Steve Martin",
+      "Bonnie Hunt",
+      "Hilary Duff"
+    ],
+    "genres": [
+      "Comedy",
+      "Family",
+      "Drama"
+    ],
+    "certification": "PG",
+    "platforms": [
+      "Netflix",
+      "Disney Plus",
+      "Netflix Standard with Ads"
+    ],
+    "popularity": 4.665,
+    "vote_average": 6.282
+  },
+  {
+    "tmdb_id": 175738,
+    "media_type": "movie",
+    "title": "A Pleasant Journey",
+    "synopsis": "Ernie and Farina anger the police force with their shoeshine scheme. Later, the gang switches places with some runaways about to board a train.",
+    "cover_image_url": "https://image.tmdb.org/t/p/w500/5f2CHZVirpbAIFeS7PdwTOa4FpM.jpg",
+    "imdb_id": "tt0014363",
+    "release_year": "1923",
+    "runtime": "20 min",
+    "cast": [
+      "Sunshine Sammy Morrison",
+      "Jackie Condon",
+      "Mickey Daniels"
+    ],
+    "genres": [
+      "Comedy",
+      "Family"
+    ],
+    "certification": null,
+    "platforms": [],
+    "popularity": 4.6646,
+    "vote_average": 6.1
+  },
+  {
+    "tmdb_id": 226810,
+    "media_type": "movie",
+    "title": "A Fractured Leghorn",
+    "synopsis": "Foghorn Leghorn and a cat fight over a worm. The cat wants the worm as bait for a fish, while Foghorn just wants the worm for a quick snack.",
+    "cover_image_url": "https://image.tmdb.org/t/p/w500/z1HgdZiFv7cLwJxTpTw2oKvuzgM.jpg",
+    "imdb_id": "tt0042475",
+    "release_year": "1950",
+    "runtime": "7 min",
+    "cast": [
+      "Mel Blanc"
+    ],
+    "genres": [
+      "Animation"
+    ],
+    "certification": null,
+    "platforms": [],
+    "popularity": 4.66,
+    "vote_average": 7.2
+  },
+  {
+    "tmdb_id": 10865,
+    "media_type": "movie",
+    "title": "Atlantis: The Lost Empire",
+    "synopsis": "A young linguist named Milo Thatch joins an intrepid group of explorers to find the mysterious lost continent of Atlantis.",
+    "cover_image_url": "https://image.tmdb.org/t/p/w500/rdCyK9hgoA2vYrLtVFpDc3KWBaC.jpg",
+    "imdb_id": "tt0230011",
+    "release_year": "2001",
+    "runtime": "1 hr 35 min",
+    "cast": [
+      "Michael J. Fox",
+      "Cree Summer",
+      "James Garner"
+    ],
+    "genres": [
+      "Animation",
+      "Family",
+      "Adventure",
+      "Science Fiction"
+    ],
+    "certification": "PG",
+    "platforms": [
+      "Disney Plus"
+    ],
+    "popularity": 4.6519,
+    "vote_average": 7.032
+  },
+  {
+    "tmdb_id": 1112231,
+    "media_type": "movie",
+    "title": "Peter & the Wolf",
+    "synopsis": "A grieving 12-year-old Peter is now in the care of his grandfather after enduring the loss of a parent. Upon hearing stories of a wolf on the loose, Peter decides to explore the vast meadow and forest nearby to try and find the wolf himself. Along the way he encounters creatures who help him on his quest while contending with hunters aiming to win a prize for capturing the wolf.",
+    "cover_image_url": "https://image.tmdb.org/t/p/w500/mZM8vI8VyWRAobI4gcCxMrtgRQl.jpg",
+    "imdb_id": "tt29277717",
+    "release_year": "2023",
+    "runtime": "33 min",
+    "cast": [
+      "Gavin Friday",
+      "Bono"
+    ],
+    "genres": [
+      "Animation",
+      "Adventure",
+      "Family",
+      "Fantasy"
+    ],
+    "certification": "PG",
+    "platforms": [
+      "HBO Max",
+      "HBO Max Amazon Channel",
+      "HBO Max  Amazon Channel"
+    ],
+    "popularity": 4.6498,
+    "vote_average": 6.3
+  },
+  {
+    "tmdb_id": 323803,
+    "media_type": "movie",
+    "title": "Where the Road Runs Out",
+    "synopsis": "George, a scientist living in Rotterdam is growing wary of the world of academia. The sudden death of an old friend is the incentive he needs to return to his African roots where he takes over a dilapidated field station in the jungle of Equatorial Guinea. There he meets an orphan boy with a sunny disposition who opens George's wary eyes to this colorful place. The boy plays matchmaker between George and the lady who runs the local orphanage and all seems rosy until an old friend of George's shows up out of nowhere to throw their lives into disarray as George discovers there are many obstacles on the road to redemption and a few more where the road runs out.",
+    "cover_image_url": "https://image.tmdb.org/t/p/w500/5BC9qDdd6gm0V5m5zYW34DGdSX4.jpg",
+    "imdb_id": "tt2346198",
+    "release_year": "2014",
+    "runtime": "1 hr 31 min",
+    "cast": [
+      "Isaach de Bankolé",
+      "Juliet Landau",
+      "Stelio Savante"
+    ],
+    "genres": [
+      "Romance",
+      "Drama",
+      "Family"
+    ],
+    "certification": null,
+    "platforms": [
+      "Peacock Premium",
+      "Peacock Premium Plus",
+      "Fawesome",
+      "Tubi TV"
+    ],
+    "popularity": 4.6497,
+    "vote_average": 5.7
+  },
+  {
+    "tmdb_id": 234530,
+    "media_type": "movie",
+    "title": "Fish and Slips",
+    "synopsis": "Sylvester Cat decides to take his son, Junior, on a fishing trip inside a closed aquarium with all kinds of exotic fish—some not very friendly to Sylvester.",
+    "cover_image_url": "https://image.tmdb.org/t/p/w500/ypxuksQPfmkLVryS0BBaVk8LPYr.jpg",
+    "imdb_id": "tt0055986",
+    "release_year": "1962",
+    "runtime": "6 min",
+    "cast": [
+      "Mel Blanc"
+    ],
+    "genres": [
+      "Animation"
+    ],
+    "certification": null,
+    "platforms": [],
+    "popularity": 4.6493,
+    "vote_average": 6.7
+  },
+  {
+    "tmdb_id": 567966,
+    "media_type": "movie",
+    "title": "Bixler High Private Eye",
+    "synopsis": "Teenage detective Xander DeWitt is the new kid at Bixler Valley High, and he's there to unravel the biggest mystery of his life- the truth about his missing father. But in order to crack this case, Xander must learn to work with a partner- fearless investigative reporter Kenzie Messina.",
+    "cover_image_url": "https://image.tmdb.org/t/p/w500/lqLQbg1aFLMxlPxfHDyIVC4ejdF.jpg",
+    "imdb_id": "tt9173364",
+    "release_year": "2019",
+    "runtime": "1 hr 6 min",
+    "cast": [
+      "Jace Norman",
+      "Samiyah Womack",
+      "Ed Begley Jr."
+    ],
+    "genres": [
+      "Adventure",
+      "Family",
+      "TV Movie"
+    ],
+    "certification": null,
+    "platforms": [
+      "Paramount+ Amazon Channel",
+      "Paramount+ Roku Premium Channel",
+      "Paramount Plus Essential",
+      "Paramount Plus Premium"
+    ],
+    "popularity": 4.6451,
+    "vote_average": 7.434
+  },
+  {
+    "tmdb_id": 236473,
+    "media_type": "movie",
+    "title": "Sniffles Takes a Trip",
+    "synopsis": "Sniffles the mouse is in the country for a restful vacation of fresh air, enjoyment of nature, and peace and quiet.",
+    "cover_image_url": "https://image.tmdb.org/t/p/w500/o0YBHuecI34p6ARgkgtwlfUTh3S.jpg",
+    "imdb_id": "tt0033065",
+    "release_year": "1940",
+    "runtime": "8 min",
+    "cast": [
+      "Margaret Hill-Talbot"
+    ],
+    "genres": [
+      "Animation",
+      "Family",
+      "Comedy"
+    ],
+    "certification": null,
+    "platforms": [],
+    "popularity": 4.6428,
+    "vote_average": 5.4
+  },
+  {
+    "tmdb_id": 240907,
+    "media_type": "movie",
+    "title": "Defending Santa",
+    "synopsis": "Kris Kringle, aka Santa Claus, goes on trial for mental competency in Small Town U.S.A.",
+    "cover_image_url": "https://image.tmdb.org/t/p/w500/nAiK8Fazx2YUy4b0QFqdK0kVPkr.jpg",
+    "imdb_id": "tt2910966",
+    "release_year": "2013",
+    "runtime": "1 hr 27 min",
+    "cast": [
+      "Dean Cain",
+      "Jud Tylor",
+      "John Savage"
+    ],
+    "genres": [
+      "Comedy",
+      "Family",
+      "TV Movie"
+    ],
+    "certification": null,
+    "platforms": [
+      "Hoopla",
+      "The Roku Channel",
+      "Pluto TV",
+      "Tubi TV"
+    ],
+    "popularity": 4.6357,
+    "vote_average": 6.4
+  },
+  {
+    "tmdb_id": 24358,
+    "media_type": "movie",
+    "title": "The Second Renaissance Part I",
+    "synopsis": "Tells the early history of how conflict began between the humans and machines. Part 1 of 2.",
+    "cover_image_url": "https://image.tmdb.org/t/p/w500/mP8yrOPUGOWssebZePBrLxWIMY3.jpg",
+    "imdb_id": "tt0366179",
+    "release_year": "2003",
+    "runtime": "9 min",
+    "cast": [
+      "Julia Fletcher",
+      "Dane A. Davis",
+      "Debi Derryberry"
+    ],
+    "genres": [
+      "Science Fiction",
+      "Animation"
+    ],
+    "certification": "NR",
+    "platforms": [],
+    "popularity": 4.6301,
+    "vote_average": 7.468
+  },
+  {
+    "tmdb_id": 234878,
+    "media_type": "movie",
+    "title": "The Bongo Punch",
+    "synopsis": "Boxing bantam Pepe Chickeeto is continually bested in the boxing ring and considers retiring. Fortunately, he and his wife are expecting a son who, Pepe hopes, will carry on his great boxing legacy. He is quite disappointed when the son, Pepito by name, much prefers playing bongo drums to any kind of pugilism.",
+    "cover_image_url": "",
+    "imdb_id": "tt0149921",
+    "release_year": "1957",
+    "runtime": "6 min",
+    "cast": [
+      "Grace Stafford",
+      "June Foray",
+      "Hal Smith"
+    ],
+    "genres": [
+      "Animation"
+    ],
+    "certification": null,
+    "platforms": [],
+    "popularity": 4.6289,
+    "vote_average": 5.8
+  },
+  {
+    "tmdb_id": 228187,
+    "media_type": "movie",
+    "title": "Haunters of the Deep",
+    "synopsis": "Josh Holman encounters the ghost of a child mine worker with a special warning on the headlands of his Cornish home town, as an old tin mine is about to be re-opened after the discovery of valuable deposits of ore.",
+    "cover_image_url": "https://image.tmdb.org/t/p/w500/h0MiyMn7dX2ALAX7nOcQ2HzmIRy.jpg",
+    "imdb_id": "tt0087389",
+    "release_year": "1984",
+    "runtime": "59 min",
+    "cast": [
+      "Andrew Keir",
+      "Barbara Ewing",
+      "Bob Sherman"
+    ],
+    "genres": [
+      "Drama",
+      "Family",
+      "Fantasy",
+      "Adventure",
+      "Mystery"
+    ],
+    "certification": null,
+    "platforms": [
+      "BFI Player Amazon Channel"
+    ],
+    "popularity": 4.6216,
+    "vote_average": 5.8
+  },
+  {
+    "tmdb_id": 568024,
+    "media_type": "movie",
+    "title": "Ed, Edd n Eddy’s Jingle Jingle Jangle",
+    "synopsis": "Eddy, sick of getting cheap presents for Christmas, plans to get adopted by one of the neighborhood kids so he can mooch off of their presents.",
+    "cover_image_url": "https://image.tmdb.org/t/p/w500/A1pHZzt1yQ7aF2sDLgjfkEXkxV6.jpg",
+    "imdb_id": "tt0871611",
+    "release_year": "2004",
+    "runtime": "26 min",
+    "cast": [
+      "Matt Hill",
+      "Sam Vincent",
+      "Tony Sampson"
+    ],
+    "genres": [
+      "Animation",
+      "Comedy",
+      "TV Movie",
+      "Family"
+    ],
+    "certification": null,
+    "platforms": [],
+    "popularity": 4.6184,
+    "vote_average": 9.1
+  },
+  {
+    "tmdb_id": 64706,
+    "media_type": "movie",
+    "title": "The Vanishing Private",
+    "synopsis": "Private Duck is a camouflage painter. He paints a giant cannon with some very gaudy colors, until Sergeant Pete explains that the point is to make it so the cannon can't be seen. Donald finds a bucket of experimental invisible paint and makes the cannon disappear. Pete isn't happy with this, and knocks Donald into the paint, then chases him, until he runs into the general. As Pete tries to explain, Donald prods him with a cactus, then goes off to steal some pies. Eventually, Pete goes berserk and starts throwing grenades willy-nilly and gets in more trouble with the general.",
+    "cover_image_url": "https://image.tmdb.org/t/p/w500/t74XBsLUl5nmwoEvdkIh9H9bEwv.jpg",
+    "imdb_id": "tt0035503",
+    "release_year": "1942",
+    "runtime": "7 min",
+    "cast": [
+      "Clarence Nash",
+      "Billy Bletcher"
+    ],
+    "genres": [
+      "Animation",
+      "Comedy"
+    ],
+    "certification": "NR",
+    "platforms": [],
+    "popularity": 4.6128,
+    "vote_average": 6.293
+  },
+  {
+    "tmdb_id": 126280,
+    "media_type": "movie",
+    "title": "Claws for Alarm",
+    "synopsis": "Porky and Sylvester stay overnight in what Sylvester realizes is a terrifying hotel filled with endless imminent danger.",
+    "cover_image_url": "https://image.tmdb.org/t/p/w500/8QM5kXf1oBaUyQPcfbSbRxtkXpV.jpg",
+    "imdb_id": "tt0046862",
+    "release_year": "1954",
+    "runtime": "7 min",
+    "cast": [
+      "Mel Blanc"
+    ],
+    "genres": [
+      "Animation",
+      "Comedy"
+    ],
+    "certification": null,
+    "platforms": [],
+    "popularity": 4.6058,
+    "vote_average": 7.2
+  },
+  {
+    "tmdb_id": 41513,
+    "media_type": "movie",
+    "title": "The Smurfs",
+    "synopsis": "When the evil wizard Gargamel chases the tiny blue Smurfs out of their village, they tumble from their magical world and into ours -- in fact, smack dab in the middle of Central Park. Just three apples high and stuck in the Big Apple, the Smurfs must find a way to get back to their village before Gargamel tracks them down.",
+    "cover_image_url": "https://image.tmdb.org/t/p/w500/vRhnslP2gW0QDym7BsMeSuioUfK.jpg",
+    "imdb_id": "tt0472181",
+    "release_year": "2011",
+    "runtime": "1 hr 43 min",
+    "cast": [
+      "Hank Azaria",
+      "Neil Patrick Harris",
+      "Jayma Mays"
+    ],
+    "genres": [
+      "Animation",
+      "Family",
+      "Adventure",
+      "Comedy",
+      "Fantasy"
+    ],
+    "certification": "PG",
+    "platforms": [],
+    "popularity": 4.6033,
+    "vote_average": 5.759
+  },
+  {
+    "tmdb_id": 109299,
+    "media_type": "movie",
+    "title": "Peculiar Penguins",
+    "synopsis": "Penguins dance and play in Antarctica.",
+    "cover_image_url": "https://image.tmdb.org/t/p/w500/kW2IFGz81V8vnaTZBdB1ImdFzk2.jpg",
+    "imdb_id": "tt0025641",
+    "release_year": "1934",
+    "runtime": "9 min",
+    "cast": [],
+    "genres": [
+      "Animation"
+    ],
+    "certification": "NR",
+    "platforms": [],
+    "popularity": 4.6028,
+    "vote_average": 5.788
+  },
+  {
+    "tmdb_id": 46188,
+    "media_type": "movie",
+    "title": "Peter Pan",
+    "synopsis": "This animated fairy tale for kids tells the classic story of Peter Pan, the boy who never grew up. Determined never to become an adult, Peter stays forever young in a magical word called Neverland, where he leads a band of mischevious kids called the Lost Boys. Unfortunately, Neverland's chief other inhabitant is a pirate named Captain Hook, who would like nothing more than to put a permanent end to Peter's fun.",
+    "cover_image_url": "https://image.tmdb.org/t/p/w500/x3068r7upUZru100Px4iY7xHwGE.jpg",
+    "imdb_id": "tt0220698",
+    "release_year": "1988",
+    "runtime": "48 min",
+    "cast": [
+      "Phillip Hinton",
+      "Keith Scott",
+      "Daniel Floyd"
+    ],
+    "genres": [
+      "Action",
+      "Adventure",
+      "Animation",
+      "Family",
+      "Fantasy",
+      "Science Fiction"
+    ],
+    "certification": null,
+    "platforms": [
+      "FlixFling"
+    ],
+    "popularity": 4.5959,
+    "vote_average": 6.3
+  },
+  {
+    "tmdb_id": 165868,
+    "media_type": "movie",
+    "title": "Mutiny on the Bunny",
+    "synopsis": "Shanghai Sam needs a new crew for his ship. Bugs signs on but rebels at the captain's cruelty.",
+    "cover_image_url": "https://image.tmdb.org/t/p/w500/17t71HJiFSqgzdam9e0Pa86zFGG.jpg",
+    "imdb_id": "tt0042766",
+    "release_year": "1950",
+    "runtime": "7 min",
+    "cast": [
+      "Mel Blanc"
+    ],
+    "genres": [
+      "Animation",
+      "Comedy"
+    ],
+    "certification": "PG",
+    "platforms": [],
+    "popularity": 4.5957,
+    "vote_average": 6.9
+  },
+  {
+    "tmdb_id": 62183,
+    "media_type": "movie",
+    "title": "The First Easter Rabbit",
+    "synopsis": "A beloved toy stuffed rabbit is rescued by a fairy to be the first Easter Rabbit.",
+    "cover_image_url": "https://image.tmdb.org/t/p/w500/jNJGnRjeohjLrp4yBBolx8YwA1h.jpg",
+    "imdb_id": "tt0246623",
+    "release_year": "1976",
+    "runtime": "25 min",
+    "cast": [
+      "Burl Ives",
+      "Robert Morse",
+      "Stan Freberg"
+    ],
+    "genres": [
+      "Family",
+      "Animation",
+      "Comedy"
+    ],
+    "certification": "G",
+    "platforms": [],
+    "popularity": 4.5949,
+    "vote_average": 5.6
+  },
+  {
+    "tmdb_id": 1566269,
+    "media_type": "movie",
+    "title": "The First Snow of Fraggle Rock",
+    "synopsis": "When the holidays are filled with unexpected adventures and challenges, the Fraggles learn to appreciate each day for being unique and special, like a snowflake.",
+    "cover_image_url": "https://image.tmdb.org/t/p/w500/xyxAOTToALUkeFS9x5V6MOv8YWr.jpg",
+    "imdb_id": "tt39089423",
+    "release_year": "2025",
+    "runtime": "34 min",
+    "cast": [
+      "John Tartaglia",
+      "Karen Prell",
+      "Donna Kimball"
+    ],
+    "genres": [
+      "Family",
+      "Comedy",
+      "Music"
+    ],
+    "certification": "G",
+    "platforms": [
+      "Apple TV",
+      "Apple TV Amazon Channel"
+    ],
+    "popularity": 4.5933,
+    "vote_average": 6.909
+  },
+  {
+    "tmdb_id": 21705,
+    "media_type": "movie",
+    "title": "The Barbie Diaries",
+    "synopsis": "Barbie is disheartened when Todd breaks her heart and goes back to his former girlfriend. But things change when she comes across a diary, which makes her wishes come true.",
+    "cover_image_url": "https://image.tmdb.org/t/p/w500/zSCQBfNWsdiKaqDj7LQUgxnSaFi.jpg",
+    "imdb_id": "tt0795338",
+    "release_year": "2006",
+    "runtime": "1 hr 10 min",
+    "cast": [
+      "Kelly Sheridan",
+      "Sarah Edmondson",
+      "Venus Terzo"
+    ],
+    "genres": [
+      "Family",
+      "Animation"
+    ],
+    "certification": "G",
+    "platforms": [],
+    "popularity": 4.5914,
+    "vote_average": 6.4
+  },
+  {
+    "tmdb_id": 88751,
+    "media_type": "movie",
+    "title": "Journey to the Center of the Earth",
+    "synopsis": "On a quest to find out what happened to his missing brother, a scientist, his nephew and their mountain guide discover a fantastic and dangerous lost world in the center of the earth.",
+    "cover_image_url": "https://image.tmdb.org/t/p/w500/kL55wY0s2H9JdwfjoWIp9plvYnl.jpg",
+    "imdb_id": "tt0373051",
+    "release_year": "2008",
+    "runtime": "1 hr 33 min",
+    "cast": [
+      "Brendan Fraser",
+      "Josh Hutcherson",
+      "Anita Briem"
+    ],
+    "genres": [
+      "Action",
+      "Science Fiction",
+      "Adventure",
+      "Comedy",
+      "Family"
+    ],
+    "certification": "PG",
+    "platforms": [
+      "Midnight Pulp Amazon Channel",
+      "The CW"
+    ],
+    "popularity": 4.5854,
+    "vote_average": 6.088
   }
 ]

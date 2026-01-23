@@ -39,7 +39,9 @@ def assess_item(client: GeminiClient, enriched: EnrichedItem) -> Optional[Assess
             has_violence=bool(assessment_data.get('has_violence', False)),
             has_scary=bool(assessment_data.get('has_scary', False)),
             is_educational=bool(assessment_data.get('is_educational', False)),
-            reasoning=assessment_data.get('reasoning', '')
+            reasoning=assessment_data.get('reasoning', ''),
+            safe_above_age=assessment_data.get('safe_above_age'),
+            is_episodic_issue=bool(assessment_data.get('is_episodic_issue', False))
         )
 
         assessed = AssessedItem(

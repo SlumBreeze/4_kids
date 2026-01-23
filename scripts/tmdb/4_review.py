@@ -159,6 +159,8 @@ def prompt_review_decision(item: AssessedItem) -> Optional[ReviewedItem]:
         max_age=max_age,
         stimulation_level=stim_level,
         featured=featured,
+        safe_above_age=item.assessment.safe_above_age,
+        is_episodic_issue=item.assessment.is_episodic_issue,
         ai_suggestion=item.assessment,
         reviewed_at=datetime.utcnow().isoformat()
     )

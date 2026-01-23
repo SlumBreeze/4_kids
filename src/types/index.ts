@@ -26,6 +26,8 @@ export interface Show {
   ageRecommendation: string;
   minAge: number; // in Years; decimals under 1 represent months (e.g. 0.5 => 5 months)
   maxAge: number; // in Years
+  safeAboveAge?: number; // Age where Caution becomes Safe
+  isEpisodicIssue?: boolean; // NEW: True if safety flags are from isolated episodes
   releaseYear?: string; // "2018" or "2018–Present"
   runtime?: string; // "7 min" or "22 min"
   stimulationLevel?: StimulationLevel;

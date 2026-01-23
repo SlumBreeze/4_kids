@@ -140,6 +140,8 @@ Return a valid JSON object with these fields (no Markdown):
   "rating": "Safe" | "Caution" | "Unsafe",
   "min_age": <number>,
   "max_age": <number>,
+  "safe_above_age": <number or null>,
+  "is_episodic_issue": <boolean>,
   "stimulation_level": "Low" | "Medium" | "High",
   "has_lgbtq": <boolean>,
   "has_violence": <boolean>,
@@ -149,9 +151,20 @@ Return a valid JSON object with these fields (no Markdown):
 }}
 
 Rating guidelines:
-- "Safe": No LGBTQ+ themes, minimal violence/scary content
-- "Caution": Moderate violence OR scary imagery, suitable for older kids
-- "Unsafe": LGBTQ+ themes present OR intense violence/horror
+- "Safe": No concerning content for any age within the target range
+- "Caution": Contains content (violence, scary imagery) that requires age consideration
+- "Unsafe": LGBTQ+ themes present OR intense violence/horror unsuitable for children
+
+IMPORTANT - Age-aware Caution:
+- If rating is "Caution", set "safe_above_age" to the age where the content becomes appropriate
+- Example: Cartoon violence may be Caution for age 3 but Safe for age 7 → set safe_above_age: 7
+- If rating is "Safe" or "Unsafe", set safe_above_age to null
+
+IMPORTANT - Episode vs Series-wide issues:
+- Set "is_episodic_issue": true if concerning content only appears in isolated episodes, not throughout
+- Example: A long-running educational show with one controversial old episode → is_episodic_issue: true
+- If content is consistent throughout the series, set is_episodic_issue: false
+- For movies, always set is_episodic_issue: false
 
 Age guidelines:
 - min_age: Absolute minimum safe age. Use decimals for months under 1 year (0.5 = 5mo, 0.8 = 8mo)

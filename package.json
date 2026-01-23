@@ -14,6 +14,7 @@
     "tmdb:review": "python scripts/tmdb/4_review.py",
     "tmdb:auto": "python scripts/tmdb/4_review_auto.py",
     "tmdb:import": "python scripts/tmdb/5_import.py",
+    "tmdb:reassess": "python scripts/tmdb/6_reassess.py",
     "tmdb:full": "npm run tmdb:discover && npm run tmdb:enrich && npm run tmdb:assess"
   },
   "dependencies": {
