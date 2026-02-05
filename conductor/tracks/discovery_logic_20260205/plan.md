@@ -1,21 +1,16 @@
-# Implementation Plan: Default View & Advanced Discovery Logic
+# Implementation Plan: Simplified Age Discovery
 
-This plan outlines the steps to implement the "toddler-first" default view, advanced recency constraints, and prioritized safety sorting.
+## Phase 1: Age Filter Refactor
+- [x] Task: Redefine Age Buckets [807f045]
+    - [x] Write Tests: Update `src/test/AgeFilter.test.ts` to verify the 4 new categories and absence of "All Ages".
+    - [x] Implement: Update `AGE_BUCKETS` in `AgeFilter.tsx`.
+- [x] Task: Update App Default State [be0c954]
+    - [x] Write Tests: Verify `App.tsx` initializes with the Toddler bucket.
+    - [x] Implement: Ensure the first bucket is the default and remove "All Ages" checks.
+- [x] Task: Conductor - User Manual Verification 'Phase 1: Age Filter Refactor' (Protocol in workflow.md)
 
-## Phase 1: Discovery Engine (Logic & Utils) [checkpoint: e1b54a2]
-- [x] Task: Implement Sorting Logic [0d410f4]
-    - [x] Write Tests: Create `src/test/discovery.test.ts`. Verify sorting by "Safe" then "Caution", then by Year (Descending).
-    - [x] Implement: Add `sortShows` utility to `src/utils/filter.ts`.
-- [x] Task: Enhance Filtering with Context & Recency [b7231b2]
-    - [x] Write Tests: Verify the 2017+ constraint applies by default but is bypassed by search/filter interactions.
-    - [x] Implement: Update `filterShows` in `src/utils/filter.ts` to handle recency constraints and interaction context.
-- [x] Task: Conductor - User Manual Verification 'Phase 1: Discovery Engine (Logic & Utils)' (Protocol in workflow.md)
-
-## Phase 2: UI Integration & Defaults
-- [ ] Task: Update Age Buckets & Default State
-    - [ ] Write Tests: Ensure "Toddlers (3mo–2yr)" is the default selected bucket.
-    - [ ] Implement: Add the composite toddler bucket to `AGE_BUCKETS` in `AgeFilter.tsx` and update initial state in `App.tsx`.
-- [ ] Task: Connect App to Enhanced Discovery Engine
-    - [ ] Write Tests: Verify the main `shows-grid` reflects the new filtering and sorting requirements on initial load and after interaction.
-    - [ ] Implement: Refactor `useMemo` logic in `App.tsx` to utilize the updated discovery utilities.
-- [ ] Task: Conductor - User Manual Verification 'Phase 2: UI Integration & Defaults' (Protocol in workflow.md)
+## Phase 2: Logic Refinement [checkpoint: eeffdec]
+- [x] Task: Tighten Default Discovery Logic [b7231b2]
+    - [x] Write Tests: Ensure only shows matching the active bucket (especially the default toddler one) appear.
+    - [x] Implement: Refine the filtering logic in `App.tsx` to handle the removal of "All Ages" and enforce strict bucket matches.
+- [x] Task: Conductor - User Manual Verification 'Phase 2: Logic Refinement' (Protocol in workflow.md)
