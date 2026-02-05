@@ -23,4 +23,5 @@
 ## Development Tools
 - **Linting:** ESLint (Flat Config) with TypeScript and React plugins.
 - **Formatting:** Prettier (assumed or inferred via project standards).
+- **Testing:** Vitest + React Testing Library (JSDom environment).
 - **Version Control:** Git.
