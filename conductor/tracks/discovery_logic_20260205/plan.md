@@ -6,9 +6,9 @@ This plan outlines the steps to implement the "toddler-first" default view, adva
 - [x] Task: Implement Sorting Logic [0d410f4]
     - [x] Write Tests: Create `src/test/discovery.test.ts`. Verify sorting by "Safe" then "Caution", then by Year (Descending).
     - [x] Implement: Add `sortShows` utility to `src/utils/filter.ts`.
-- [~] Task: Enhance Filtering with Context & Recency
-    - [ ] Write Tests: Verify the 2017+ constraint applies by default but is bypassed by search/filter interactions.
-    - [ ] Implement: Update `filterShows` in `src/utils/filter.ts` to handle recency constraints and interaction context.
+- [x] Task: Enhance Filtering with Context & Recency [52914c3]
+    - [x] Write Tests: Verify the 2017+ constraint applies by default but is bypassed by search/filter interactions.
+    - [x] Implement: Update `filterShows` in `src/utils/filter.ts` to handle recency constraints and interaction context.
 - [ ] Task: Conductor - User Manual Verification 'Phase 1: Discovery Engine (Logic & Utils)' (Protocol in workflow.md)
 
 ## Phase 2: UI Integration & Defaults
