@@ -3,6 +3,7 @@ import { Show } from "../types";
 import { formatAgeRange } from "../utils/format";
 import styles from "./ShowDetailModal.module.css";
 import { platformLogos, platformAliases } from "../constants/platforms";
+import { Badge, BadgeVariant } from "./Badge";
 
 interface ShowDetailModalProps {
   show: Show | null;
@@ -28,9 +29,9 @@ export const ShowDetailModal: React.FC<ShowDetailModalProps> = ({
 
   // Helper for stimulation badge style
   const stimStyle = {
-    Low: { bg: "#ffffff", color: "#2E7D32", text: "🍃 Low Stimulation" },
-    Medium: { bg: "#ffffff", color: "#E65100", text: "⚡ Medium Stimulation" },
-    High: { bg: "#ffffff", color: "#7B1FA2", text: "🚀 High Stimulation" },
+    Low: { color: "#2E7D32", text: "🍃 Low Stimulation" },
+    Medium: { color: "#E65100", text: "⚡ Medium Stimulation" },
+    High: { color: "#7B1FA2", text: "🚀 High Stimulation" },
   }[stimLevel];
 
   const normalizePlatform = (platform: string) =>
@@ -68,29 +69,28 @@ export const ShowDetailModal: React.FC<ShowDetailModalProps> = ({
 
           <div className={styles.headerInfo}>
             <div className={styles.badges}>
-              <span
-                className={`${styles.ratingBadge} ${
+              <Badge
+                variant={
                   show.rating === "Safe"
-                    ? styles.safe
+                    ? "safe"
                     : show.rating === "Unsafe"
-                      ? styles.unsafe
-                      : styles.caution
-                }`}
+                      ? "unsafe"
+                      : "caution"
+                }
               >
                 {show.rating === "Safe"
                   ? "✅ Safe"
                   : show.rating === "Unsafe"
                     ? "🚫 Unsafe"
                     : "⚠️ Caution"}
-              </span>
-              <span className={styles.ageBadge}>
+              </Badge>
+              <Badge variant="primary">
                 {formatAgeRange(show.minAge, show.maxAge)}
-              </span>
+              </Badge>
 
               <span
                 className={styles.stimBadge}
                 style={{
-                  backgroundColor: stimStyle.bg,
                   color: stimStyle.color,
                   borderColor: stimStyle.color,
                 }}
@@ -157,9 +157,9 @@ export const ShowDetailModal: React.FC<ShowDetailModalProps> = ({
             <div className={styles.castList}>
               {show.cast.length > 0 ? (
                 show.cast.map((actor) => (
-                  <span key={actor} className={styles.castMember}>
+                  <Badge key={actor} variant="secondary">
                     {actor}
-                  </span>
+                  </Badge>
                 ))
               ) : (
                 <span className={styles.placeholder}>

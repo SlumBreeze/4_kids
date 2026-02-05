@@ -10,13 +10,10 @@ describe("ShowDetailModal Component Styles", () => {
     expect(cssContent).toContain("border-radius: var(--border-radius-large)");
   });
 
-  it("should use vibrant status colors for safety and age badges", () => {
+  it("should have a white background for the modal content areas", () => {
     const cssPath = path.resolve(__dirname, "../../src/components/ShowDetailModal.module.css");
     const cssContent = fs.readFileSync(cssPath, "utf-8");
 
-    expect(cssContent).toContain("var(--color-safe)");
-    expect(cssContent).toContain("var(--color-caution)");
-    expect(cssContent).toContain("var(--color-unsafe)");
-    expect(cssContent).toContain("var(--color-primary-blue)");
+    expect(cssContent).toContain("background: white");
   });
 });

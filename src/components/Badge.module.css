@@ -1,0 +1,40 @@
+.badge {
+  padding: 6px 14px;
+  border-radius: 999px;
+  font-weight: 800;
+  font-size: 0.85rem;
+  letter-spacing: 0.02em;
+  display: inline-flex;
+  align-items: center;
+  gap: 6px;
+  border: 3px solid transparent;
+  box-shadow: 0 4px 0 rgba(0, 0, 0, 0.05);
+  background: white;
+}
+
+.safe {
+  color: var(--color-safe);
+  border-color: var(--color-safe);
+}
+
+.caution {
+  color: var(--color-caution);
+  border-color: var(--color-caution);
+}
+
+.unsafe {
+  color: var(--color-unsafe);
+  border-color: var(--color-unsafe);
+}
+
+.primary {
+  color: var(--color-primary-blue);
+  border-color: var(--color-primary-blue);
+}
+
+.secondary {
+  color: #64748b;
+  border-color: #f1f5f9;
+  background: #f1f5f9;
+  box-shadow: none;
+}

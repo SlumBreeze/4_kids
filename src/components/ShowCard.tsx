@@ -2,6 +2,7 @@ import React from "react";
 import { Show } from "../types";
 import { formatAgeRange } from "../utils/format";
 import styles from "./ShowCard.module.css";
+import { Badge } from "./Badge";
 
 interface ShowCardProps {
   show: Show;
@@ -9,15 +10,18 @@ interface ShowCardProps {
 }
 
 export const ShowCard: React.FC<ShowCardProps> = ({ show, onClick }) => {
-  let cardStyle = styles.cardCaution;
+  let variant: "safe" | "caution" | "unsafe" = "caution";
   let badgeText = "⚠️ Caution";
+  let cardStyle = styles.cardCaution;
 
   if (show.rating === "Safe") {
-    cardStyle = styles.cardSafe;
+    variant = "safe";
     badgeText = "✅ Safe";
+    cardStyle = styles.cardSafe;
   } else if (show.rating === "Unsafe") {
-    cardStyle = styles.cardUnsafe;
+    variant = "unsafe";
     badgeText = "🚫 Unsafe";
+    cardStyle = styles.cardUnsafe;
   }
 
   const ageString = formatAgeRange(show.minAge, show.maxAge);
@@ -31,14 +35,16 @@ export const ShowCard: React.FC<ShowCardProps> = ({ show, onClick }) => {
           className={styles.image}
           loading="lazy"
         />
-        <div className={styles.ratingBadge}>{badgeText}</div>
+        <div className={styles.ratingBadge}>
+          <Badge variant={variant}>{badgeText}</Badge>
+        </div>
       </div>
       <div className={styles.content}>
         <h3 className={styles.title}>{show.title}</h3>
         <div className={styles.meta}>
-          <span className={styles.ageTag}>{ageString}</span>
+          <Badge variant="primary">{ageString}</Badge>
           {show.tags.length > 0 && (
-            <span className={styles.genreTag}>{show.tags[0]}</span>
+            <Badge variant="secondary">{show.tags[0]}</Badge>
           )}
         </div>
       </div>

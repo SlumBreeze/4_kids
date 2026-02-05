@@ -98,8 +98,6 @@
   flex-wrap: wrap;
 }
 
-.ratingBadge,
-.ageBadge,
 .stimBadge {
   padding: 8px 18px;
   border-radius: 999px;
@@ -108,31 +106,6 @@
   letter-spacing: 0.02em;
   border: 3px solid transparent;
   box-shadow: 0 4px 0 rgba(0, 0, 0, 0.05);
-}
-
-.safe {
-  background: white;
-  color: var(--color-safe);
-  border-color: var(--color-safe);
-}
-.caution {
-  background: white;
-  color: var(--color-caution);
-  border-color: var(--color-caution);
-}
-.unsafe {
-  background: white;
-  color: var(--color-unsafe);
-  border-color: var(--color-unsafe);
-}
-
-.ageBadge {
-  background: white;
-  color: var(--color-primary-blue);
-  border-color: var(--color-primary-blue);
-}
-
-.stimBadge {
   background: white;
   border-color: currentColor; /* Inherits from dynamic style */
 }
@@ -264,26 +237,6 @@
   display: flex;
   flex-wrap: wrap;
   gap: 12px;
-}
-
-.castMember {
-  background: #f8fafc;
-  padding: 10px 20px;
-  border-radius: 999px;
-  font-weight: 700;
-  color: #64748b;
-  font-size: 1rem;
-  border: 2px solid transparent;
-  transition: all 0.2s;
-  box-shadow: 0 2px 4px rgba(0, 0, 0, 0.02);
-}
-
-.castMember:hover {
-  background: white;
-  border-color: var(--color-primary-purple);
-  color: var(--color-primary-purple);
-  transform: translateY(-2px);
-  box-shadow: 0 4px 8px rgba(0, 0, 0, 0.05);
 }
 
 .reasoningBox {
