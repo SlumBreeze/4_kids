@@ -23,7 +23,7 @@ function App() {
   const isInteracted = useMemo(() => {
     return (
       searchTerm.trim() !== "" ||
-      selectedBucket.label !== "All Ages" ||
+      selectedBucket.label !== AGE_BUCKETS[0].label ||
       selectedStimulation !== "All"
     );
   }, [searchTerm, selectedBucket, selectedStimulation]);
