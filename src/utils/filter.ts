@@ -65,12 +65,24 @@ export const filterShows = (
   shows: Show[],
   searchTerm: string,
   viewerAge?: number,
+  isInteracted: boolean = false,
 ): Show[] => {
   // 1. Classify all shows (Applying the policy with age context)
-  const classifiedShows = shows.map((show) => classifyShow(show, viewerAge));
+  let classifiedShows = shows.map((show) => classifyShow(show, viewerAge));
 
-  // 2. Filter by search term
-  if (!searchTerm) return classifiedShows;
+  // 2. Apply 2017+ constraint by default (unless user interacted or searched)
+  const isSearching = !!searchTerm.trim();
+  if (!isInteracted && !isSearching) {
+    classifiedShows = classifiedShows.filter((show) => {
+      if (!show.releaseYear) return false;
+      const match = show.releaseYear.match(/\d{4}/);
+      const year = match ? parseInt(match[0], 10) : 0;
+      return year >= 2017;
+    });
+  }
+
+  // 3. Filter by search term
+  if (!isSearching) return classifiedShows;
 
   return classifiedShows.filter((s) =>
     s.title.toLowerCase().includes(searchTerm.toLowerCase()),

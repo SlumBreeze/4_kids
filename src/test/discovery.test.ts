@@ -1,6 +1,6 @@
 import { describe, it, expect } from "vitest";
 import { Show } from "../types";
-import { sortShows } from "../utils/filter";
+import { sortShows, filterShows } from "../utils/filter";
 
 describe("sortShows", () => {
   const mockShows: Partial<Show>[] = [
@@ -36,5 +36,32 @@ describe("sortShows", () => {
     const sorted = sortShows(shows as Show[]);
     expect(sorted[0].title).toBe("Single 2020");
     expect(sorted[1].title).toBe("Range 2018");
+  });
+});
+
+describe("filterShows enhanced", () => {
+  const mockShows: Partial<Show>[] = [
+    { id: "1", title: "New Show", releaseYear: "2020", rating: "Safe", tags: [] },
+    { id: "2", title: "Old Show", releaseYear: "2010", rating: "Safe", tags: [] },
+    { id: "3", title: "Bluey", releaseYear: "2018", rating: "Safe", tags: [] },
+  ];
+
+  it("should apply 2017+ constraint by default (no search, no interaction)", () => {
+    // We'll need to update filterShows signature to accept a context/interaction flag
+    const filtered = filterShows(mockShows as Show[], "", undefined, false);
+    expect(filtered.length).toBe(2);
+    expect(filtered.find(s => s.title === "Old Show")).toBeUndefined();
+  });
+
+  it("should bypass 2017+ constraint when search term is provided", () => {
+    const filtered = filterShows(mockShows as Show[], "Old", undefined, true);
+    expect(filtered.length).toBe(1);
+    expect(filtered[0].title).toBe("Old Show");
+  });
+
+  it("should bypass 2017+ constraint when user has interacted with filters", () => {
+    const filtered = filterShows(mockShows as Show[], "", undefined, true);
+    expect(filtered.length).toBe(3);
+    expect(filtered.find(s => s.title === "Old Show")).toBeDefined();
   });
 });
