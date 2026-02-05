@@ -1,33 +1,38 @@
 :root {
   font-family: "Inter", system-ui, Avenir, Helvetica, Arial, sans-serif;
   line-height: 1.5;
-  font-weight: 600; /* Bolder by default */
+  font-weight: 600;
 
   color-scheme: light;
 
-  /* Palette */
-  --c-yellow: #ffd700;
-  --c-yellow-dark: #ffc107;
-  --c-green: #4caf50;
-  --c-green-dark: #388e3c;
-  --c-blue: #2196f3;
-  --c-red: #e91e63;
+  /* Vibrant Palette per Product Guidelines */
+  --color-primary-yellow: #ffd700;
+  --color-primary-blue: #2196f3;
+  --color-primary-purple: #9c27b0;
+
+  /* Status Colors */
+  --color-safe: #4caf50;
+  --color-caution: #ffc107;
+  --color-unsafe: #f44336;
+
+  /* Visual Identity */
+  --border-radius-large: 1.5rem;
+
+  /* Legacy aliases for backward compatibility if needed, or migration */
+  --c-yellow: var(--color-primary-yellow);
+  --c-green: var(--color-safe);
+  --c-blue: var(--color-primary-blue);
+  --c-red: var(--color-unsafe);
   --c-white: #ffffff;
   --c-text: #2c3e50;
 
-  /* Layout */
-  --radius-lg: 24px;
-  --radius-xl: 40px;
-  --shadow-pop: 0 8px 0 rgba(0, 0, 0, 0.15); /* Pop-out 3D effect */
+  --shadow-pop: 0 8px 0 rgba(0, 0, 0, 0.15);
 
-  background-color: var(--c-yellow);
-  background-image:
-    radial-gradient(#ffeb3b 20%, transparent 20%),
+  background-color: var(--color-primary-yellow);
+  background-image: radial-gradient(#ffeb3b 20%, transparent 20%),
     radial-gradient(#ffeb3b 20%, transparent 20%);
   background-size: 50px 50px;
-  background-position:
-    0 0,
-    25px 25px;
+  background-position: 0 0, 25px 25px;
 
   color: var(--c-text);
 
@@ -52,7 +57,7 @@ h3 {
 }
 
 button {
-  border-radius: var(--radius-xl);
+  border-radius: var(--border-radius-large);
   border: none;
   padding: 0.8em 2em;
   font-size: 1.1em;
@@ -60,9 +65,7 @@ button {
   font-family: inherit;
   background-color: var(--c-white);
   cursor: pointer;
-  transition:
-    transform 0.1s,
-    box-shadow 0.1s;
+  transition: transform 0.1s, box-shadow 0.1s;
   box-shadow: 0 4px 0 rgba(0, 0, 0, 0.1);
 }
 
