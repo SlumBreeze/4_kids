@@ -15,9 +15,9 @@ This plan outlines the steps to refactor the KidShow Scout frontend to align wit
 - [x] Task: Refactor ShowCard Component [b1ac971]
     - [x] Write Tests: Ensure ShowCard uses the new border-radius and vibrant styling.
     - [x] Implement: Update `ShowCard.tsx` and `ShowCard.module.css`.
-- [ ] Task: Refactor Filter Components (Age & Stimulation)
-    - [ ] Write Tests: Verify filters have rounded edges and clear active states.
-    - [ ] Implement: Update `AgeFilter.tsx`, `StimulationFilter.tsx` and their modules.
+- [x] Task: Refactor Filter Components (Age & Stimulation) [8f46fb5]
+    - [x] Write Tests: Verify filters have rounded edges and clear active states.
+    - [x] Implement: Update `AgeFilter.tsx`, `StimulationFilter.tsx` and their modules.
 - [ ] Task: Conductor - User Manual Verification 'Phase 2: Core Components Refactor' (Protocol in workflow.md)
 
 ## Phase 3: Detail View & Modals
