@@ -21,9 +21,9 @@ This plan outlines the steps to refactor the KidShow Scout frontend to align wit
 - [x] Task: Conductor - User Manual Verification 'Phase 2: Core Components Refactor' (Protocol in workflow.md)
 
 ## Phase 3: Detail View & Modals
-- [ ] Task: Refactor ShowDetailModal
-    - [ ] Write Tests: Ensure modal has soft edges and clean, rounded typography.
-    - [ ] Implement: Update `ShowDetailModal.tsx` and `ShowDetailModal.module.css`.
+- [x] Task: Refactor ShowDetailModal [2a5974a]
+    - [x] Write Tests: Ensure modal has soft edges and clean, rounded typography.
+    - [x] Implement: Update `ShowDetailModal.tsx` and `ShowDetailModal.module.css`.
 - [ ] Task: Implement Safety Status Badges
     - [ ] Write Tests: Verify badges use high-contrast color coding (Safe/Caution/Unsafe).
     - [ ] Implement: Create a shared Badge component or update existing status indicators.
