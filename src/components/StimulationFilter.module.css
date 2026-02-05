@@ -10,27 +10,27 @@
 .pill {
   flex: 0 0 auto;
   background: white;
-  border: 2px solid #eee !important;
-  border-radius: 50px !important;
-  padding: 8px 18px !important;
+  border: 4px solid transparent !important;
+  border-radius: var(--border-radius-large) !important;
+  padding: 10px 24px !important;
   font-size: 0.95rem !important;
-  color: #666;
-  font-weight: 700 !important;
+  color: var(--c-text);
+  font-weight: 800 !important;
   transition: all 0.2s ease;
-  box-shadow: 0 4px 6px rgba(0, 0, 0, 0.05);
+  box-shadow: 0 4px 0 rgba(0, 0, 0, 0.05);
 }
 
 .pill:hover {
-  border-color: var(--c-blue) !important;
+  border-color: var(--color-primary-blue) !important;
   transform: translateY(-2px);
-  color: var(--c-blue);
+  box-shadow: 0 6px 0 rgba(0, 0, 0, 0.08);
 }
 
 .active {
-  background-color: var(--c-blue) !important;
+  background-color: var(--color-primary-blue) !important;
   color: white !important;
-  border-color: var(--c-blue) !important;
-  box-shadow: 0 6px 12px rgba(33, 150, 243, 0.3);
+  border-color: var(--color-primary-blue) !important;
+  box-shadow: 0 8px 0 rgba(0, 0, 0, 0.1) !important;
 }
 
 .active:hover {
