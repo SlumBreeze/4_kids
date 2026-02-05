@@ -11,14 +11,14 @@ This plan outlines the steps to refactor the KidShow Scout frontend to align wit
     - [x] Implement: Load "Fredoka" or "Quicksand" from Google Fonts and set as the default sans-serif.
 - [x] Task: Conductor - User Manual Verification 'Phase 1: Foundation & Theme Setup' (Protocol in workflow.md)
 
-## Phase 2: Core Components Refactor
+## Phase 2: Core Components Refactor [checkpoint: 041324e]
 - [x] Task: Refactor ShowCard Component [b1ac971]
     - [x] Write Tests: Ensure ShowCard uses the new border-radius and vibrant styling.
     - [x] Implement: Update `ShowCard.tsx` and `ShowCard.module.css`.
 - [x] Task: Refactor Filter Components (Age & Stimulation) [8f46fb5]
     - [x] Write Tests: Verify filters have rounded edges and clear active states.
     - [x] Implement: Update `AgeFilter.tsx`, `StimulationFilter.tsx` and their modules.
-- [ ] Task: Conductor - User Manual Verification 'Phase 2: Core Components Refactor' (Protocol in workflow.md)
+- [x] Task: Conductor - User Manual Verification 'Phase 2: Core Components Refactor' (Protocol in workflow.md)
 
 ## Phase 3: Detail View & Modals
 - [ ] Task: Refactor ShowDetailModal
