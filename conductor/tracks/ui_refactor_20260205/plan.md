@@ -3,9 +3,9 @@
 This plan outlines the steps to refactor the KidShow Scout frontend to align with the new Product Guidelines, focusing on a playful, safety-first aesthetic.
 
 ## Phase 1: Foundation & Theme Setup
-- [ ] Task: Define Global CSS Variables (Colors, Border Radius)
-    - [ ] Write Tests: Ensure theme variables are present in the CSS.
-    - [ ] Implement: Update `src/index.css` with the vibrant palette and `1.5rem` border-radius variable.
+- [x] Task: Define Global CSS Variables (Colors, Border Radius) [8f7bd60]
+    - [x] Write Tests: Ensure theme variables are present in the CSS.
+    - [x] Implement: Update `src/index.css` with the vibrant palette and `1.5rem` border-radius variable.
 - [ ] Task: Integrate Playful Typography
     - [ ] Write Tests: Verify the font-family is correctly applied to the body.
     - [ ] Implement: Load "Fredoka" or "Quicksand" from Google Fonts and set as the default sans-serif.
