@@ -36,6 +36,31 @@ export const classifyShow = (show: Show, viewerAge?: number): Show => {
   return newShow;
 };
 
+export const sortShows = (shows: Show[]): Show[] => {
+  const getYear = (yearStr?: string): number => {
+    if (!yearStr) return 0;
+    // Extract first 4 digits (handles "2018" or "2018–Present")
+    const match = yearStr.match(/\d{4}/);
+    return match ? parseInt(match[0], 10) : 0;
+  };
+
+  const ratingPriority = {
+    Safe: 0,
+    Caution: 1,
+    Unsafe: 2,
+  };
+
+  return [...shows].sort((a, b) => {
+    // 1. Primary: Rating (Safe < Caution < Unsafe)
+    const pA = ratingPriority[a.rating];
+    const pB = ratingPriority[b.rating];
+    if (pA !== pB) return pA - pB;
+
+    // 2. Secondary: Release Year (Descending)
+    return getYear(b.releaseYear) - getYear(a.releaseYear);
+  });
+};
+
 export const filterShows = (
   shows: Show[],
   searchTerm: string,
