@@ -1,7 +1,7 @@
 import { useState, useMemo } from "react";
 import { Show, StimulationLevel } from "./types";
 import { mockShows } from "./data/mockShows";
-import { filterShows } from "./utils/filter";
+import { filterShows, sortShows } from "./utils/filter";
 import { ShowCard } from "./components/ShowCard";
 import { AgeFilter, AGE_BUCKETS, AgeBucket } from "./components/AgeFilter";
 import {
@@ -19,20 +19,17 @@ function App() {
   const [selectedStimulation, setSelectedStimulation] =
     useState<StimulationFilterValue>("All");
   const [selectedShow, setSelectedShow] = useState<Show | null>(null);
-  const homePicks = useMemo(() => {
-    const base = filterShows(mockShows, "").filter(
-      (show) => show.rating === "Safe",
+
+  const isInteracted = useMemo(() => {
+    return (
+      searchTerm.trim() !== "" ||
+      selectedBucket.label !== "All Ages" ||
+      selectedStimulation !== "All"
     );
-    const shuffled = [...base].sort(() => Math.random() - 0.5);
-    return shuffled.slice(0, 6);
-  }, []);
+  }, [searchTerm, selectedBucket, selectedStimulation]);
 
   const filteredShows = useMemo(() => {
-    let shows = filterShows(mockShows, searchTerm);
-    const isHomepage =
-      !searchTerm &&
-      selectedBucket.label === "All Ages" &&
-      selectedStimulation === "All";
+    let shows = filterShows(mockShows, searchTerm, undefined, isInteracted);
 
     if (selectedBucket.label !== "All Ages") {
       shows = shows.filter((show) => {
@@ -49,12 +46,8 @@ function App() {
       });
     }
 
-    if (isHomepage) {
-      shows = homePicks;
-    }
-
-    return shows;
-  }, [searchTerm, selectedBucket, selectedStimulation, homePicks]);
+    return sortShows(shows);
+  }, [searchTerm, selectedBucket, selectedStimulation, isInteracted]);
 
   return (
     <div className="app-container">

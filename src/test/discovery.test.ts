@@ -46,11 +46,15 @@ describe("filterShows enhanced", () => {
     { id: "3", title: "Bluey", releaseYear: "2018", rating: "Safe", tags: [] },
   ];
 
-  it("should apply 2017+ constraint by default (no search, no interaction)", () => {
-    // We'll need to update filterShows signature to accept a context/interaction flag
-    const filtered = filterShows(mockShows as Show[], "", undefined, false);
-    expect(filtered.length).toBe(2);
-    expect(filtered.find(s => s.title === "Old Show")).toBeUndefined();
+  it("should apply 2017+ and 3mo-2yr constraints by default (no search, no interaction)", () => {
+    const mockShowsWithAge: Partial<Show>[] = [
+      { id: "1", title: "New Toddler", releaseYear: "2020", minAge: 0.5, maxAge: 1.0, rating: "Safe", tags: [] },
+      { id: "2", title: "New School Age", releaseYear: "2020", minAge: 5.0, maxAge: 10.0, rating: "Safe", tags: [] },
+      { id: "3", title: "Old Toddler", releaseYear: "2010", minAge: 0.5, maxAge: 1.0, rating: "Safe", tags: [] },
+    ];
+    const filtered = filterShows(mockShowsWithAge as Show[], "", undefined, false);
+    expect(filtered.length).toBe(1);
+    expect(filtered[0].title).toBe("New Toddler");
   });
 
   it("should bypass 2017+ constraint when search term is provided", () => {

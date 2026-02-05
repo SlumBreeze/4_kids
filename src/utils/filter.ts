@@ -70,14 +70,19 @@ export const filterShows = (
   // 1. Classify all shows (Applying the policy with age context)
   let classifiedShows = shows.map((show) => classifyShow(show, viewerAge));
 
-  // 2. Apply 2017+ constraint by default (unless user interacted or searched)
+  // 2. Apply Default Constraints (unless user interacted or searched)
   const isSearching = !!searchTerm.trim();
   if (!isInteracted && !isSearching) {
     classifiedShows = classifiedShows.filter((show) => {
-      if (!show.releaseYear) return false;
-      const match = show.releaseYear.match(/\d{4}/);
+      // Recency: 2017+
+      const match = show.releaseYear?.match(/\d{4}/);
       const year = match ? parseInt(match[0], 10) : 0;
-      return year >= 2017;
+      const isRecent = year >= 2017;
+
+      // Age: 3mo - 2yr (0.3 - 2.0)
+      const isToddler = show.minAge <= 2.0 && show.maxAge >= 0.3;
+
+      return isRecent && isToddler;
     });
   }
 
