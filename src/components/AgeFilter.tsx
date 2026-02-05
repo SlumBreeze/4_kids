@@ -8,6 +8,7 @@ export interface AgeBucket {
 }
 
 export const AGE_BUCKETS: AgeBucket[] = [
+  { label: "Toddlers (3mo–2yr)", min: 0.3, max: 2 },
   { label: "All Ages", min: 0, max: 99 },
   { label: "3–5 mo", min: 0.3, max: 0.5 },
   { label: "6–8 mo", min: 0.6, max: 0.8 },
