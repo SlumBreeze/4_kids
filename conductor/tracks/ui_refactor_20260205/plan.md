@@ -1,0 +1,30 @@
+# Implementation Plan: UI Refactor to Product Guidelines
+
+This plan outlines the steps to refactor the KidShow Scout frontend to align with the new Product Guidelines, focusing on a playful, safety-first aesthetic.
+
+## Phase 1: Foundation & Theme Setup
+- [ ] Task: Define Global CSS Variables (Colors, Border Radius)
+    - [ ] Write Tests: Ensure theme variables are present in the CSS.
+    - [ ] Implement: Update `src/index.css` with the vibrant palette and `1.5rem` border-radius variable.
+- [ ] Task: Integrate Playful Typography
+    - [ ] Write Tests: Verify the font-family is correctly applied to the body.
+    - [ ] Implement: Load "Fredoka" or "Quicksand" from Google Fonts and set as the default sans-serif.
+- [ ] Task: Conductor - User Manual Verification 'Phase 1: Foundation & Theme Setup' (Protocol in workflow.md)
+
+## Phase 2: Core Components Refactor
+- [ ] Task: Refactor ShowCard Component
+    - [ ] Write Tests: Ensure ShowCard uses the new border-radius and vibrant styling.
+    - [ ] Implement: Update `ShowCard.tsx` and `ShowCard.module.css`.
+- [ ] Task: Refactor Filter Components (Age & Stimulation)
+    - [ ] Write Tests: Verify filters have rounded edges and clear active states.
+    - [ ] Implement: Update `AgeFilter.tsx`, `StimulationFilter.tsx` and their modules.
+- [ ] Task: Conductor - User Manual Verification 'Phase 2: Core Components Refactor' (Protocol in workflow.md)
+
+## Phase 3: Detail View & Modals
+- [ ] Task: Refactor ShowDetailModal
+    - [ ] Write Tests: Ensure modal has soft edges and clean, rounded typography.
+    - [ ] Implement: Update `ShowDetailModal.tsx` and `ShowDetailModal.module.css`.
+- [ ] Task: Implement Safety Status Badges
+    - [ ] Write Tests: Verify badges use high-contrast color coding (Safe/Caution/Unsafe).
+    - [ ] Implement: Create a shared Badge component or update existing status indicators.
+- [ ] Task: Conductor - User Manual Verification 'Phase 3: Detail View & Modals' (Protocol in workflow.md)
