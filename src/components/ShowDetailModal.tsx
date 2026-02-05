@@ -28,9 +28,9 @@ export const ShowDetailModal: React.FC<ShowDetailModalProps> = ({
 
   // Helper for stimulation badge style
   const stimStyle = {
-    Low: { bg: "#E8F5E9", color: "#2E7D32", text: "🍃 Low Stimulation" },
-    Medium: { bg: "#FFF3E0", color: "#E65100", text: "⚡ Medium Stimulation" },
-    High: { bg: "#F3E5F5", color: "#7B1FA2", text: "🚀 High Stimulation" },
+    Low: { bg: "#ffffff", color: "#2E7D32", text: "🍃 Low Stimulation" },
+    Medium: { bg: "#ffffff", color: "#E65100", text: "⚡ Medium Stimulation" },
+    High: { bg: "#ffffff", color: "#7B1FA2", text: "🚀 High Stimulation" },
   }[stimLevel];
 
   const normalizePlatform = (platform: string) =>
@@ -69,7 +69,13 @@ export const ShowDetailModal: React.FC<ShowDetailModalProps> = ({
           <div className={styles.headerInfo}>
             <div className={styles.badges}>
               <span
-                className={`${styles.ratingBadge} ${show.rating === "Safe" ? styles.safe : styles.caution}`}
+                className={`${styles.ratingBadge} ${
+                  show.rating === "Safe"
+                    ? styles.safe
+                    : show.rating === "Unsafe"
+                      ? styles.unsafe
+                      : styles.caution
+                }`}
               >
                 {show.rating === "Safe"
                   ? "✅ Safe"
@@ -86,6 +92,7 @@ export const ShowDetailModal: React.FC<ShowDetailModalProps> = ({
                 style={{
                   backgroundColor: stimStyle.bg,
                   color: stimStyle.color,
+                  borderColor: stimStyle.color,
                 }}
               >
                 {stimStyle.text}
