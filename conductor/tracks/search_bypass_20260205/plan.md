@@ -2,7 +2,7 @@
 
 This plan outlines the steps to allow the search functionality to bypass all active filters and safety classifications when a search term is present.
 
-## Phase 1: Core Logic Implementation (TDD)
+## Phase 1: Core Logic Implementation (TDD) [checkpoint: 3fbeb62]
 This phase focuses on modifying the filtering logic to prioritize search terms over existing filters.
 
 - [x] Task: Create unit tests for search bypass logic [1b3c943]
