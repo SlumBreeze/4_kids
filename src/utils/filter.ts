@@ -36,7 +36,9 @@ export const classifyShow = (show: Show, viewerAge?: number): Show => {
   return newShow;
 };
 
-export const sortShows = (shows: Show[]): Show[] => {
+export const sortShows = (shows: Show[], searchTerm: string = ""): Show[] => {
+  const query = searchTerm.toLowerCase().trim();
+
   const getYear = (yearStr?: string): number => {
     if (!yearStr) return 0;
     // Extract first 4 digits (handles "2018" or "2018–Present")
@@ -51,9 +53,21 @@ export const sortShows = (shows: Show[]): Show[] => {
   };
 
   return [...shows].sort((a, b) => {
-    // 1. Primary: Rating (Safe < Caution < Unsafe)
-    const pA = ratingPriority[a.rating];
-    const pB = ratingPriority[b.rating];
+    // 0. Primary (if searching): Relevance
+    if (query) {
+      const aTitle = a.title.toLowerCase();
+      const bTitle = b.title.toLowerCase();
+
+      const aStarts = aTitle.startsWith(query);
+      const bStarts = bTitle.startsWith(query);
+
+      if (aStarts && !bStarts) return -1;
+      if (!aStarts && bStarts) return 1;
+    }
+
+    // 1. Primary (or Secondary if searching): Rating (Safe < Caution < Unsafe)
+    const pA = ratingPriority[a.rating as keyof typeof ratingPriority] ?? 1;
+    const pB = ratingPriority[b.rating as keyof typeof ratingPriority] ?? 1;
     if (pA !== pB) return pA - pB;
 
     // 2. Secondary: Release Year (Descending)

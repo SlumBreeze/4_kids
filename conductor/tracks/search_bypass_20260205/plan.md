@@ -29,14 +29,14 @@ This phase adds the visual cues to indicate when filters are being bypassed.
     - [x] Add a `searching` state or derive it from `searchQuery` in `App.tsx`.
     - [x] Pass a `disabled` or `isDimmed` prop to `AgeFilter` and `StimulationFilter` components.
     - [x] Update `AgeFilter.module.css` and `StimulationFilter.module.css` to handle the dimmed state (reduced opacity).
-- [ ] Task: Conductor - User Manual Verification 'UI Visual Feedback' (Protocol in workflow.md)
+- [x] Task: Conductor - User Manual Verification 'UI Visual Feedback' (Protocol in workflow.md)
 
 ## Phase 3: Integration & Relevance Sorting
 Final adjustments to ensure results are sorted correctly and the UX is seamless.
 
-- [ ] Task: Implement Relevance Sorting
-    - [ ] Ensure the search result list is sorted by title relevance when search is active.
-- [ ] Task: Final Integration Check
-    - [ ] Verify state restoration when search is cleared.
-    - [ ] Perform a full smoke test of the application.
+- [x] Task: Implement Relevance Sorting
+    - [x] Ensure the search result list is sorted by title relevance when search is active.
+- [x] Task: Final Integration Check
+    - [x] Verify state restoration when search is cleared.
+    - [x] Perform a full smoke test of the application.
 - [ ] Task: Conductor - User Manual Verification 'Integration & Relevance Sorting' (Protocol in workflow.md)

@@ -1,11 +1,11 @@
 import { describe, it, expect } from "vitest";
-import { filterShows } from "../utils/filter";
+import { filterShows, sortShows } from "../utils/filter";
 import { Show } from "../types";
 
 const mockShows: Show[] = [
   {
     id: "1",
-    title: "Old Show",
+    title: "The Old Show",
     releaseYear: "2010",
     minAge: 5,
     maxAge: 10,
@@ -48,6 +48,21 @@ const mockShows: Show[] = [
     cast: [],
     ageRecommendation: "3mo-2"
   },
+  {
+    id: "4",
+    title: "Oldest Show",
+    releaseYear: "2000",
+    minAge: 5,
+    maxAge: 10,
+    rating: "Safe",
+    tags: ["Educational"],
+    stimulationLevel: "Low",
+    reasoning: "Safe for kids",
+    synopsis: "...",
+    coverImage: "...",
+    cast: [],
+    ageRecommendation: "5-10"
+  },
 ];
 
 describe("Search Bypass Logic", () => {
@@ -57,7 +72,7 @@ describe("Search Bypass Logic", () => {
     expect(results.some(s => s.id === "1")).toBe(false);
     expect(results.some(s => s.id === "3")).toBe(true);
 
-    // With search, should see "Old Show" (ID 1)
+    // With search, should see "The Old Show" (ID 1)
     const searchResults = filterShows(mockShows, "Old", undefined, undefined, undefined, undefined, false);
     expect(searchResults.some(s => s.id === "1")).toBe(true);
   });
@@ -79,7 +94,7 @@ describe("Search Bypass Logic", () => {
     
     const results = filterShows(mockShows, searchTerm, minAge, maxAge, "All", undefined, true);
     
-    // "Old Show" is age 5-10, so it's outside 0.3-2. 
+    // "The Old Show" is age 5-10, so it's outside 0.3-2. 
     // It should be found because search bypasses the age filter.
     expect(results.some(s => s.id === "1")).toBe(true); 
   });
@@ -102,5 +117,16 @@ describe("Search Bypass Logic", () => {
     const clearedResults = filterShows(mockShows, "", 0.3, 2, "All", undefined, false);
     expect(clearedResults.some(s => s.id === "1")).toBe(false);
     expect(clearedResults.some(s => s.id === "3")).toBe(true);
+  });
+
+  it("Search results are sorted by relevance (starts with)", () => {
+    const searchTerm = "Old";
+    const filtered = filterShows(mockShows, searchTerm);
+    const sorted = sortShows(filtered, searchTerm);
+
+    // "Oldest Show" (ID 4) starts with "Old"
+    // "The Old Show" (ID 1) contains "Old" but doesn't start with it
+    expect(sorted[0].id).toBe("4");
+    expect(sorted[1].id).toBe("1");
   });
 });

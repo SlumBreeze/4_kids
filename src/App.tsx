@@ -39,7 +39,7 @@ function App() {
       isInteracted,
     );
 
-    return sortShows(shows);
+    return sortShows(shows, searchTerm);
   }, [searchTerm, selectedBucket, selectedStimulation, isInteracted]);
 
   return (
