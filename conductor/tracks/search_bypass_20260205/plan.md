@@ -20,7 +20,7 @@ This phase focuses on modifying the filtering logic to prioritize search terms o
     - [x] Ensure >80% coverage for the new logic.
 - [x] Task: Conductor - User Manual Verification 'Core Logic Implementation' (Protocol in workflow.md)
 
-## Phase 2: UI Visual Feedback
+## Phase 2: UI Visual Feedback [checkpoint: ecd1fe3]
 This phase adds the visual cues to indicate when filters are being bypassed.
 
 - [x] Task: Create UI tests for visual feedback [39b600d]
