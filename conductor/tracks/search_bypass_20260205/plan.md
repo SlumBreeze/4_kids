@@ -34,9 +34,9 @@ This phase adds the visual cues to indicate when filters are being bypassed.
 ## Phase 3: Integration & Relevance Sorting
 Final adjustments to ensure results are sorted correctly and the UX is seamless.
 
-- [x] Task: Implement Relevance Sorting
+- [x] Task: Implement Relevance Sorting [5a454bb]
     - [x] Ensure the search result list is sorted by title relevance when search is active.
-- [x] Task: Final Integration Check
+- [x] Task: Final Integration Check [5a454bb]
     - [x] Verify state restoration when search is cleared.
     - [x] Perform a full smoke test of the application.
 - [ ] Task: Conductor - User Manual Verification 'Integration & Relevance Sorting' (Protocol in workflow.md)
