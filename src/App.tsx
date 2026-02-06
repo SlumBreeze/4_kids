@@ -29,22 +29,15 @@ function App() {
   }, [searchTerm, selectedBucket, selectedStimulation]);
 
   const filteredShows = useMemo(() => {
-    let shows = filterShows(mockShows, searchTerm, undefined, isInteracted);
-
-    if (selectedBucket.label !== "All Ages") {
-      shows = shows.filter((show) => {
-        return (
-          show.minAge <= selectedBucket.max && show.maxAge >= selectedBucket.min
-        );
-      });
-    }
-
-    if (selectedStimulation !== "All") {
-      shows = shows.filter((show) => {
-        const stim = (show.stimulationLevel || "Medium") as StimulationLevel;
-        return stim === selectedStimulation;
-      });
-    }
+    const shows = filterShows(
+      mockShows,
+      searchTerm,
+      selectedBucket.min,
+      selectedBucket.max,
+      selectedStimulation,
+      undefined,
+      isInteracted,
+    );
 
     return sortShows(shows);
   }, [searchTerm, selectedBucket, selectedStimulation, isInteracted]);

@@ -64,26 +64,48 @@ export const sortShows = (shows: Show[]): Show[] => {
 export const filterShows = (
   shows: Show[],
   searchTerm: string,
+  minAge?: number,
+  maxAge?: number,
+  stimulationLevel?: string,
   viewerAge?: number,
   isInteracted: boolean = false,
 ): Show[] => {
   // 1. Classify all shows (Applying the policy with age context)
   let classifiedShows = shows.map((show) => classifyShow(show, viewerAge));
 
-  // 2. Apply Default Constraints (unless user interacted or searched)
   const isSearching = !!searchTerm.trim();
-  if (!isInteracted && !isSearching) {
-    classifiedShows = classifiedShows.filter((show) => {
-      // Recency: 2017+
-      const match = show.releaseYear?.match(/\d{4}/);
-      const year = match ? parseInt(match[0], 10) : 0;
-      const isRecent = year >= 2017;
 
-      // Age: 3mo - 2yr (0.3 - 2.0)
-      const isToddler = show.minAge <= 2.0 && show.maxAge >= 0.3;
+  // 2. Apply Filters (Bypassed if searching)
+  if (!isSearching) {
+    // Default Constraints (unless user interacted)
+    if (!isInteracted) {
+      classifiedShows = classifiedShows.filter((show) => {
+        // Recency: 2017+
+        const match = show.releaseYear?.match(/\d{4}/);
+        const year = match ? parseInt(match[0], 10) : 0;
+        const isRecent = year >= 2017;
 
-      return isRecent && isToddler;
-    });
+        // Age: 3mo - 2yr (0.3 - 2.0)
+        const isToddler = show.minAge <= 2.0 && show.maxAge >= 0.3;
+
+        return isRecent && isToddler;
+      });
+    }
+
+    // Age Bucket Filter
+    if (minAge !== undefined && maxAge !== undefined) {
+      classifiedShows = classifiedShows.filter((show) => {
+        return show.minAge <= maxAge && show.maxAge >= minAge;
+      });
+    }
+
+    // Stimulation Filter
+    if (stimulationLevel && stimulationLevel !== "All") {
+      classifiedShows = classifiedShows.filter((show) => {
+        const stim = (show.stimulationLevel || "Medium") as StimulationLevel;
+        return stim === stimulationLevel;
+      });
+    }
   }
 
   // 3. Filter by search term
