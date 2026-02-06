@@ -82,7 +82,7 @@ function App() {
       </section>
 
       <main className="main-content">
-        <section className="content-area">
+        <section className={`content-area ${searchTerm.trim() ? "searching" : ""}`}>
           <h3 className="section-title">Top Picks For You</h3>
 
           <AgeFilter

@@ -130,6 +130,22 @@
   font-size: 1.2rem;
 }
 
+/* Searching / Filter Bypass Styles */
+.content-area.searching [class*="AgeFilter_container"],
+.content-area.searching [class*="StimulationFilter_container"] {
+  opacity: 0.4;
+  pointer-events: none;
+  filter: grayscale(0.5);
+  transition: all 0.3s ease;
+}
+
+.content-area.searching .section-title::after {
+  content: " (Searching All Shows)";
+  font-size: 1.2rem;
+  opacity: 0.8;
+  display: block;
+}
+
 @media (max-width: 1024px) {
   .hero-section {
     flex-direction: column-reverse;

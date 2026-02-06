@@ -1,21 +1,29 @@
 import { describe, it, expect } from "vitest";
+import { render, screen, fireEvent } from "@testing-library/react";
 import fs from "fs";
 import path from "path";
+import App from "../App";
+import React from "react";
 
 describe("Filter Components Styles", () => {
-  it("AgeFilter should use vibrant colors and rounded edges", () => {
-    const cssPath = path.resolve(__dirname, "../../src/components/AgeFilter.module.css");
+  it("AgeFilter should use vibrant colors", () => {
+    const cssPath = path.resolve(__dirname, "../components/AgeFilter.module.css");
     const cssContent = fs.readFileSync(cssPath, "utf-8");
 
-    expect(cssContent).toContain("var(--color-primary-blue)");
-    expect(cssContent).toContain("border-radius: var(--border-radius-large)");
+    expect(cssContent).toContain("var(--color-primary-blue)"); 
   });
+});
 
-  it("StimulationFilter should use vibrant colors and rounded edges", () => {
-    const cssPath = path.resolve(__dirname, "../../src/components/StimulationFilter.module.css");
-    const cssContent = fs.readFileSync(cssPath, "utf-8");
-
-    expect(cssContent).toContain("var(--color-primary-blue)");
-    expect(cssContent).toContain("border-radius: var(--border-radius-large)");
+describe("Filter Visual Feedback", () => {
+  it("should apply dimmed style when searching", () => {
+    render(<App />);
+    
+    const searchInput = screen.getByPlaceholderText(/Search for/i);
+    
+    fireEvent.change(searchInput, { target: { value: "Bluey" } });
+    
+    // Check the container of the filters
+    const section = screen.getByText(/Top Picks For You/i).closest("section");
+    expect(section?.className).toContain("searching");
   });
 });

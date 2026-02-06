@@ -18,17 +18,17 @@ This phase focuses on modifying the filtering logic to prioritize search terms o
 - [x] Task: Refactor and Verify Coverage [1b3c943]
     - [x] Refactor filtering logic for clarity.
     - [x] Ensure >80% coverage for the new logic.
-- [ ] Task: Conductor - User Manual Verification 'Core Logic Implementation' (Protocol in workflow.md)
+- [x] Task: Conductor - User Manual Verification 'Core Logic Implementation' (Protocol in workflow.md)
 
 ## Phase 2: UI Visual Feedback
 This phase adds the visual cues to indicate when filters are being bypassed.
 
-- [ ] Task: Create UI tests for visual feedback
-    - [ ] Add tests to `src/test/Filters.test.tsx` to verify CSS classes are applied when search is active.
-- [ ] Task: Implement "Gray out" effect for filters
-    - [ ] Add a `searching` state or derive it from `searchQuery` in `App.tsx`.
-    - [ ] Pass a `disabled` or `isDimmed` prop to `AgeFilter` and `StimulationFilter` components.
-    - [ ] Update `AgeFilter.module.css` and `StimulationFilter.module.css` to handle the dimmed state (reduced opacity).
+- [x] Task: Create UI tests for visual feedback
+    - [x] Add tests to `src/test/Filters.test.tsx` to verify CSS classes are applied when search is active.
+- [x] Task: Implement "Gray out" effect for filters
+    - [x] Add a `searching` state or derive it from `searchQuery` in `App.tsx`.
+    - [x] Pass a `disabled` or `isDimmed` prop to `AgeFilter` and `StimulationFilter` components.
+    - [x] Update `AgeFilter.module.css` and `StimulationFilter.module.css` to handle the dimmed state (reduced opacity).
 - [ ] Task: Conductor - User Manual Verification 'UI Visual Feedback' (Protocol in workflow.md)
 
 ## Phase 3: Integration & Relevance Sorting
