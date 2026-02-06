@@ -31,7 +31,7 @@ This phase adds the visual cues to indicate when filters are being bypassed.
     - [x] Update `AgeFilter.module.css` and `StimulationFilter.module.css` to handle the dimmed state (reduced opacity).
 - [x] Task: Conductor - User Manual Verification 'UI Visual Feedback' (Protocol in workflow.md)
 
-## Phase 3: Integration & Relevance Sorting
+## Phase 3: Integration & Relevance Sorting [checkpoint: 6361c3a]
 Final adjustments to ensure results are sorted correctly and the UX is seamless.
 
 - [x] Task: Implement Relevance Sorting [5a454bb]
