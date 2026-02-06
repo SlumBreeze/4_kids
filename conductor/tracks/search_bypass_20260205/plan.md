@@ -5,17 +5,17 @@ This plan outlines the steps to allow the search functionality to bypass all act
 ## Phase 1: Core Logic Implementation (TDD)
 This phase focuses on modifying the filtering logic to prioritize search terms over existing filters.
 
-- [x] Task: Create unit tests for search bypass logic
+- [x] Task: Create unit tests for search bypass logic [1b3c943]
     - [x] Create `src/test/searchBypass.test.ts`
     - [x] Define tests: "Search bypasses age filter"
     - [x] Define tests: "Search bypasses stimulation filter"
     - [x] Define tests: "Search bypasses release year (toddler-first) filter"
     - [x] Define tests: "Clearing search restores filter application"
-- [x] Task: Implement Search Bypass in filtering utility
+- [x] Task: Implement Search Bypass in filtering utility [1b3c943]
     - [x] Modify `src/utils/filter.ts` (or the relevant filter hook in `App.tsx`) to check if `searchQuery` is non-empty.
     - [x] If `searchQuery` is active, return results based solely on title matching.
     - [x] Ensure `classifyShow` or equivalent logic is bypassed or handled as per spec (Option A).
-- [x] Task: Refactor and Verify Coverage
+- [x] Task: Refactor and Verify Coverage [1b3c943]
     - [x] Refactor filtering logic for clarity.
     - [x] Ensure >80% coverage for the new logic.
 - [ ] Task: Conductor - User Manual Verification 'Core Logic Implementation' (Protocol in workflow.md)
