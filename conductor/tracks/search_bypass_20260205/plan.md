@@ -23,9 +23,9 @@ This phase focuses on modifying the filtering logic to prioritize search terms o
 ## Phase 2: UI Visual Feedback
 This phase adds the visual cues to indicate when filters are being bypassed.
 
-- [x] Task: Create UI tests for visual feedback
+- [x] Task: Create UI tests for visual feedback [39b600d]
     - [x] Add tests to `src/test/Filters.test.tsx` to verify CSS classes are applied when search is active.
-- [x] Task: Implement "Gray out" effect for filters
+- [x] Task: Implement "Gray out" effect for filters [39b600d]
     - [x] Add a `searching` state or derive it from `searchQuery` in `App.tsx`.
     - [x] Pass a `disabled` or `isDimmed` prop to `AgeFilter` and `StimulationFilter` components.
     - [x] Update `AgeFilter.module.css` and `StimulationFilter.module.css` to handle the dimmed state (reduced opacity).
