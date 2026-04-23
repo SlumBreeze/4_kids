@@ -10,8 +10,6 @@ export interface AgeBucket {
 export const AGE_BUCKETS: AgeBucket[] = [
   { label: "Toddlers (3mo–2yr)", min: 0.3, max: 2 },
   { label: "Preschoolers (3–5yr)", min: 3, max: 5 },
-  { label: "School Age (6–9yr)", min: 6, max: 9 },
-  { label: "Pre-Teens (10–12yr)", min: 10, max: 12 },
 ];
 
 interface AgeFilterProps {

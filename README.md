@@ -1,20 +1,55 @@
 # KidShow Scout
 
-KidShow Scout is a small React + TypeScript app that helps parents find age-appropriate TV shows. It ships as a Vite SPA and includes a lightweight data ingestion script to add new titles from IMDb.
+KidShow Scout helps parents of young children (ages 3 months – 5 years) find safe, age-appropriate TV shows and movies. Every title is rated for safety, stimulation level, and age suitability so parents can make confident, informed choices.
 
-## Features
+---
 
-- Search and filter shows by age bucket.
-- Detail modal with ratings, tags, and context.
-- JSON-backed data in `src/data/shows.json`.
+## For Users
 
-## Tech Stack
+> **Coming soon** — KidShow Scout is currently in development. The sections below describe the app once published.
+
+### What It Does
+
+- Browse curated shows filtered to your child's exact age group
+- Filter by **stimulation level** (Low / Medium / High) to match your child's mood or time of day
+- Search by title to quickly find a specific show
+- Tap any show card to see full details: safety rating, content tags, cast, and the reasoning behind the rating
+
+### Age Groups
+
+| Group | Ages |
+|-------|------|
+| Toddlers | 3 months – 2 years |
+| Preschoolers | 3 – 5 years |
+
+### Safety Ratings
+
+| Rating | Meaning |
+|--------|---------|
+| **Safe** | Appropriate with no concerns |
+| **Caution** | May have mild content worth previewing |
+| **Unsafe** | Not recommended for this age group |
+
+### Stimulation Levels
+
+| Level | When to use |
+|-------|-------------|
+| **Low** | Wind-down, naptime routine, calm period |
+| **Medium** | Normal daytime viewing |
+| **High** | Active, energetic play time |
+
+---
+
+## For Developers
+
+### Tech Stack
 
 - React 18 + TypeScript
 - Vite 5
 - ESLint (flat config)
+- Python 3 (data ingestion scripts)
 
-## Getting Started
+### Setup
 
 ```bash
 npm install
@@ -23,32 +58,39 @@ npm run dev
 
 Open the URL printed by Vite (usually `http://localhost:5173`).
 
-## Useful Commands
+### Commands
 
 ```bash
 npm run dev      # start dev server with HMR
 npm run build    # type-check and build for production
-npm run preview  # preview the production build locally
+npm run preview  # preview production build
 npm run lint     # run ESLint
 ```
 
-## Data Ingestion
+### Age & Data Scope
 
-### TMDB Batch Pipeline (Recommended)
+The app targets **ages 3 months to 5 years**. Shows outside this range (`minAge >= 6`) are excluded from `src/data/shows.json`. When running the data pipeline, reject or adjust any show whose `minAge` is 6 or above.
 
-The TMDB pipeline automatically discovers, enriches, and assesses hundreds of kids' shows from TMDB with AI-powered safety ratings.
+Age values use a decimal format:
+- Whole numbers = years (e.g. `3` = 3 years)
+- Decimals under 1 = months (e.g. `0.5` = 5 months, `0.3` = 3 months)
 
-**Prerequisites:**
+### Data Ingestion
+
+#### TMDB Batch Pipeline (Recommended)
+
+Automatically discovers, enriches, and AI-assesses kids' shows from TMDB.
 
 ```bash
 # Install Python dependencies
 python -m pip install -r scripts/requirements.txt
-
-# TMDB API key should already be in .env
-# If not, add it: TMDB_API_KEY=your_key_here
 ```
 
-**Run the Pipeline:**
+Required `.env` at project root:
+```
+TMDB_API_KEY=your_key_here
+GEMINI_API_KEY=your_key_here
+```
 
 ```bash
 # Stage 1: Discover content from TMDB (~2 min)
@@ -60,83 +102,65 @@ npm run tmdb:enrich
 # Stage 3: AI safety assessment (~3 min)
 npm run tmdb:assess
 
-# Stage 4: Human review (interactive, user-paced)
+# Stage 4: Human review (interactive)
 npm run tmdb:review
 
-# OR: Automated review (accepts all pending, caps max age at 18)
+# Stage 4 (automated): Accept all pending, cap maxAge at 5
 npm run tmdb:auto
 
-# Stage 5: Import approved shows to shows.json (~5 sec)
+# Stage 5: Import approved shows into shows.json
 npm run tmdb:import
 
-# SHORTCUT: Run Stages 1-3 sequentially
+# Shortcut: Run Stages 1–3 sequentially
 npm run tmdb:full
 ```
 
-**Pipeline Features:**
+**Staging files** (in `scripts/data/tmdb_staging/`):
 
-- Targets ~100 TV shows and ~30 movies per run (popular US market)
-- Discovers across all US providers by default (optionally filter via `TMDB_WATCH_PROVIDERS`)
-- AI-powered safety ratings and age recommendations
-- Interactive CLI review queue with accept/edit/reject options
-- Tracks TMDB ID and streaming platform availability
-- Resumable from any stage (each stage saves to staging files)
-- Stage 5 can replace existing shows by IMDb ID (and falls back to title match)
+| File | Contents |
+|------|----------|
+| `1_discovered.json` | Raw TMDB results |
+| `2_enriched.json` | Full metadata + IMDb IDs |
+| `3_assessed.json` | AI safety assessments |
+| `4_reviewed.json` | Human-approved items |
 
-**Staging Files:**
-
-- `scripts/data/tmdb_staging/1_discovered.json` - Raw TMDB results
-- `scripts/data/tmdb_staging/2_enriched.json` - Full metadata + IMDb IDs
-- `scripts/data/tmdb_staging/3_assessed.json` - AI safety assessments
-- `scripts/data/tmdb_staging/4_reviewed.json` - Human-approved items
-
-**Provider Logos (UI):**
+**Provider logos:**
 
 ```bash
-# Downloads provider logos into public/assets/providers
-# Requires LOGO_DEV_API_KEY in your environment or .env
+# Downloads logos into public/assets/providers
+# Requires LOGO_DEV_API_KEY in .env
 python scripts/tmdb/download_provider_logos.py
 ```
 
-**Optional Reset (clean slate):**
+**Clean slate reset:**
 
 ```bash
 python scripts/tmdb/reset.py
 ```
 
-### Manual Data Scraper (Legacy, for single shows)
-
-The legacy IMDb scraper prompts you through a manual search and updates `src/data/shows.json`.
-
-1. Install Python dependencies:
-
-```bash
-python -m pip install -r scripts/requirements.txt
-```
-
-2. Run the interactive script:
+#### Manual Scraper (Legacy — single shows)
 
 ```bash
 python scripts/add_show.py
 ```
 
-Notes:
+- Searches IMDb, scrapes metadata, calls Gemini for safety rating
+- Interactive review before writing to `shows.json`
+- Can overwrite an existing entry by confirming the prompt
+- If `ModuleNotFoundError`, run `python -m pip install -r scripts/requirements.txt`
 
-- The script can overwrite existing entries if you confirm.
-- It auto-scrapes description, runtime, image, and year range when available.
-- Ages in the scraper use a compact format: whole numbers are years, decimals under 1 are months (e.g. `0.5` means 5 months).
-- If you see `ModuleNotFoundError`, install dependencies with
-  `python -m pip install -r scripts/requirements.txt` or use a virtual env.
+### Project Structure
 
-## Project Structure
+```
+src/
+  components/    UI components (AgeFilter, ShowCard, ShowDetailModal, …)
+  data/          shows.json — source of truth for all show data
+  types/         TypeScript interfaces (Show, ContentTag, SafetyRating, …)
+  utils/         filter.ts, format.ts, sort helpers
+public/          static assets (cover images, provider logos)
+scripts/         Python data ingestion tools
+```
 
-- `src/` app code and styles
-- `src/components/` reusable UI components
-- `src/utils/` shared helpers
-- `src/data/` show data (`shows.json`)
-- `public/` static assets
-- `scripts/` data ingestion tools
-
-## Contributing
+### Contributing
 
 See `AGENTS.md` for repo-specific guidelines.
