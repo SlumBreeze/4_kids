@@ -19,9 +19,9 @@ describe("Theme Variables", () => {
 
     // Border Radius
     expect(cssContent).toContain("--border-radius-large");
-    expect(cssContent).toMatch(/--border-radius-large:\s*1\.5rem/);
+    expect(cssContent).toMatch(/--border-radius-large:\s*8px/);
 
     // Typography
-    expect(cssContent).toMatch(/font-family:\s*"Fredoka"/);
+    expect(cssContent).toMatch(/font-family:\s*Inter/);
   });
 });

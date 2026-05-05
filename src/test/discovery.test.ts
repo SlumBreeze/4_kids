@@ -68,7 +68,15 @@ describe("filterShows enhanced", () => {
       { id: "1", title: "New Toddler", releaseYear: "2020", minAge: 0.5, maxAge: 1.0, rating: "Safe", tags: [] },
       { id: "2", title: "Old Toddler", releaseYear: "2010", minAge: 0.5, maxAge: 1.0, rating: "Safe", tags: [] },
     ];
-    const filtered = filterShows(mockShowsWithAge as Show[], "", undefined, true);
+    const filtered = filterShows(
+      mockShowsWithAge as Show[],
+      "",
+      undefined,
+      undefined,
+      undefined,
+      undefined,
+      true,
+    );
     expect(filtered.length).toBe(2);
     expect(filtered.find(s => s.title === "Old Toddler")).toBeDefined();
   });
