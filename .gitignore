@@ -12,6 +12,10 @@ dist
 dist-ssr
 *.local
 .env
+*.tsbuildinfo
+__pycache__/
+*.py[cod]
+.claude/
 
 # Editor directories and files
 .vscode/*

@@ -3,7 +3,7 @@ import { Show } from "../types";
 import { formatAgeRange } from "../utils/format";
 import styles from "./ShowDetailModal.module.css";
 import { platformLogos, platformAliases } from "../constants/platforms";
-import { Badge, BadgeVariant } from "./Badge";
+import { Badge } from "./Badge";
 
 interface ShowDetailModalProps {
   show: Show | null;
@@ -14,7 +14,6 @@ export const ShowDetailModal: React.FC<ShowDetailModalProps> = ({
   show,
   onClose,
 }) => {
-  // Close on Escape key
   useEffect(() => {
     const handleEsc = (e: KeyboardEvent) => {
       if (e.key === "Escape") onClose();
@@ -23,15 +22,38 @@ export const ShowDetailModal: React.FC<ShowDetailModalProps> = ({
     return () => window.removeEventListener("keydown", handleEsc);
   }, [onClose]);
 
+  useEffect(() => {
+    if (!show) return;
+
+    const scrollY = window.scrollY;
+    const previousPosition = document.body.style.position;
+    const previousTop = document.body.style.top;
+    const previousWidth = document.body.style.width;
+    const previousOverflow = document.body.style.overflow;
+
+    document.body.style.position = "fixed";
+    document.body.style.top = `-${scrollY}px`;
+    document.body.style.width = "100%";
+    document.body.style.overflow = "hidden";
+
+    return () => {
+      document.body.style.position = previousPosition;
+      document.body.style.top = previousTop;
+      document.body.style.width = previousWidth;
+      document.body.style.overflow = previousOverflow;
+      window.scrollTo(0, scrollY);
+    };
+  }, [show]);
+
   if (!show) return null;
 
   const stimLevel = show.stimulationLevel || "Medium"; // Default
 
   // Helper for stimulation badge style
   const stimStyle = {
-    Low: { color: "#2E7D32", text: "🍃 Low Stimulation" },
-    Medium: { color: "#E65100", text: "⚡ Medium Stimulation" },
-    High: { color: "#7B1FA2", text: "🚀 High Stimulation" },
+    Low: { color: "#2f6f4e", text: "Low stimulation" },
+    Medium: { color: "#9a5b13", text: "Medium stimulation" },
+    High: { color: "#7f3f3f", text: "High stimulation" },
   }[stimLevel];
 
   const normalizePlatform = (platform: string) =>
@@ -79,10 +101,10 @@ export const ShowDetailModal: React.FC<ShowDetailModalProps> = ({
                 }
               >
                 {show.rating === "Safe"
-                  ? "✅ Safe"
+                  ? "Safe"
                   : show.rating === "Unsafe"
-                    ? "🚫 Unsafe"
-                    : "⚠️ Caution"}
+                    ? "Unsafe"
+                    : "Caution"}
               </Badge>
               <Badge variant="primary">
                 {formatAgeRange(show.minAge, show.maxAge)}
@@ -153,7 +175,7 @@ export const ShowDetailModal: React.FC<ShowDetailModalProps> = ({
 
         <div className={styles.body}>
           <div className={styles.section}>
-            <h3>🎭 Cast</h3>
+            <h3>Cast</h3>
             <div className={styles.castList}>
               {show.cast.length > 0 ? (
                 show.cast.map((actor) => (
@@ -170,7 +192,7 @@ export const ShowDetailModal: React.FC<ShowDetailModalProps> = ({
           </div>
 
           <div className={styles.section}>
-            <h3>🛡️ Safety Assessment</h3>
+            <h3>Safety Assessment</h3>
             <div className={styles.reasoningBox}>{show.reasoning}</div>
           </div>
         </div>

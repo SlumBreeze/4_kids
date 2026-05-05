@@ -1,4 +1,4 @@
-import { Show } from "../types";
+import { Show, StimulationLevel } from "../types";
 
 export const classifyShow = (show: Show, viewerAge?: number): Show => {
   const newShow = { ...show };

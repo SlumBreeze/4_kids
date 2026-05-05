@@ -1,14 +1,13 @@
 .container {
   display: flex;
-  justify-content: center;
-  gap: 12px;
+  justify-content: flex-start;
+  gap: 8px;
   overflow-x: auto;
-  padding: 10px 0 20px 0;
-  margin-bottom: 20px;
+  padding: 0 0 10px;
+  margin-bottom: 0;
   scrollbar-width: none;
   -ms-overflow-style: none;
   white-space: nowrap;
-  flex-wrap: wrap;
 }
 
 .container::-webkit-scrollbar {
@@ -18,27 +17,28 @@
 .pill {
   flex: 0 0 auto;
   background: white;
-  border: 4px solid transparent !important;
+  border: 1px solid var(--c-line) !important;
   border-radius: var(--border-radius-large) !important;
-  padding: 10px 24px !important;
-  font-size: 1rem !important;
+  padding: 9px 12px !important;
+  font-size: 0.86rem !important;
   color: var(--c-text);
-  font-weight: 800 !important;
-  transition: all 0.2s ease;
-  box-shadow: 0 4px 0 rgba(0, 0, 0, 0.05);
+  font-weight: 750 !important;
+  transition:
+    background 0.15s,
+    border-color 0.15s,
+    color 0.15s;
+  box-shadow: none;
 }
 
 .pill:hover {
   border-color: var(--color-primary-blue) !important;
-  transform: translateY(-2px);
-  box-shadow: 0 6px 0 rgba(0, 0, 0, 0.08);
 }
 
 .active {
   background-color: var(--color-primary-blue) !important;
   color: white !important;
   border-color: var(--color-primary-blue) !important;
-  box-shadow: 0 8px 0 rgba(0, 0, 0, 0.1) !important;
+  box-shadow: none !important;
 }
 
 .active:hover {

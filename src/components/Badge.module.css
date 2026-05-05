@@ -1,14 +1,14 @@
 .badge {
-  padding: 6px 14px;
-  border-radius: 999px;
-  font-weight: 800;
-  font-size: 0.85rem;
-  letter-spacing: 0.02em;
+  padding: 4px 8px;
+  border-radius: 6px;
+  font-weight: 750;
+  font-size: 0.74rem;
+  letter-spacing: 0;
   display: inline-flex;
   align-items: center;
-  gap: 6px;
-  border: 3px solid transparent;
-  box-shadow: 0 4px 0 rgba(0, 0, 0, 0.05);
+  gap: 4px;
+  border: 1px solid transparent;
+  box-shadow: none;
   background: white;
 }
 
@@ -34,7 +34,7 @@
 
 .secondary {
   color: #64748b;
-  border-color: #f1f5f9;
-  background: #f1f5f9;
+  border-color: #e4ebe6;
+  background: #f3f6f4;
   box-shadow: none;
 }

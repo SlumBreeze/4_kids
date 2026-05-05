@@ -1,5 +1,5 @@
 import { useState, useMemo } from "react";
-import { Show, StimulationLevel } from "./types";
+import { Show } from "./types";
 import { mockShows } from "./data/mockShows";
 import { filterShows, sortShows } from "./utils/filter";
 import { ShowCard } from "./components/ShowCard";
@@ -42,48 +42,51 @@ function App() {
     return sortShows(shows, searchTerm);
   }, [searchTerm, selectedBucket, selectedStimulation, isInteracted]);
 
+  const shortlistLabel =
+    selectedStimulation === "All"
+      ? "Best matches for tonight"
+      : `${selectedStimulation} stimulation matches`;
+
   return (
     <div className="app-container">
       <header className="app-header">
-        <h1 className="logo">KidShow Scout 🛡️</h1>
-        <button
-          style={{ color: "var(--c-blue)" }}
-          onClick={() => alert("Login coming soon!")}
-        >
-          Parents Login
+        <div>
+          <h1 className="logo">KidShow Scout</h1>
+        </div>
+        <button className="account-button" onClick={() => alert("Login coming soon!")}>
+          Login
         </button>
       </header>
 
       <section className="hero-section">
         <div className="hero-content">
-          <h2 className="hero-title">Safe shows for your little ones.</h2>
+          <h2 className="hero-title">Tonight's Shortlist</h2>
           <p className="hero-subtitle">
-            Curated, opinionated, and always age-appropriate. Find the perfect
-            show in seconds.
+            Find something age-fit, safe enough, and calm enough before bedtime
+            becomes a negotiation.
           </p>
 
           <div className="search-bar-container">
             <input
               type="text"
-              placeholder="Search for 'Bluey'..."
+              placeholder="Search shows"
               className="search-input"
               value={searchTerm}
               onChange={(e) => setSearchTerm(e.target.value)}
             />
           </div>
         </div>
-        <div className="hero-image-container">
-          <img
-            src="/assets/mascots.png"
-            alt="Friendly Mascots"
-            className="hero-mascot"
-          />
-        </div>
       </section>
 
       <main className="main-content">
         <section className={`content-area ${searchTerm.trim() ? "searching" : ""}`}>
-          <h3 className="section-title">Top Picks For You</h3>
+          <div className="section-heading">
+            <div>
+              <span className="eyebrow">Browse</span>
+              <h3 className="section-title">{shortlistLabel}</h3>
+            </div>
+            <span className="result-count">{filteredShows.length} shows</span>
+          </div>
 
           <AgeFilter
             selectedLabel={selectedBucket.label}
@@ -105,8 +108,8 @@ function App() {
               ))
             ) : (
               <div className="no-results">
-                <h3>Uh oh! No shows found for this age.</h3>
-                <p>Try selecting a different age group.</p>
+                <h3>No shows match these filters.</h3>
+                <p>Try a wider age range or a different stimulation level.</p>
               </div>
             )}
           </div>
