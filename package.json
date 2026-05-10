@@ -8,6 +8,7 @@
     "build": "tsc -b && vite build",
     "lint": "eslint .",
     "preview": "vite preview",
+    "serve": "node server/index.js",
     "test": "vitest run",
     "tmdb:discover": "python scripts/tmdb/1_discover.py",
     "tmdb:enrich": "python scripts/tmdb/2_enrich.py",

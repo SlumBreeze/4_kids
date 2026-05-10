@@ -1,5 +1,5 @@
-import { describe, it, expect } from "vitest";
-import { render, screen, fireEvent } from "@testing-library/react";
+import { describe, it, expect, vi } from "vitest";
+import { render, screen, fireEvent, waitFor } from "@testing-library/react";
 import fs from "fs";
 import path from "path";
 import App from "../App";
@@ -15,15 +15,21 @@ describe("Filter Components Styles", () => {
 });
 
 describe("Filter Visual Feedback", () => {
-  it("should apply dimmed style when searching", () => {
+  it("should send search and age filters to the API", async () => {
     render(<App />);
-    
+
+    const fetchMock = vi.mocked(fetch);
+    fetchMock.mockClear();
+
     const searchInput = screen.getByPlaceholderText(/Search shows/i);
-    
+
     fireEvent.change(searchInput, { target: { value: "Bluey" } });
-    
-    // Check the container of the filters
-    const section = screen.getByText(/Best matches for tonight/i).closest("section");
-    expect(section?.className).toContain("searching");
+
+    await waitFor(() => {
+      expect(fetchMock).toHaveBeenCalledWith(
+        "/api/shows?q=Bluey&minAge=0.3&maxAge=2&limit=25&offset=0",
+        expect.objectContaining({ signal: expect.any(AbortSignal) }),
+      );
+    });
   });
 });
