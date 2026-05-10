@@ -7,7 +7,8 @@ from .config import (
     GEMINI_MAX_RETRIES,
     GEMINI_MIN_DELAY_SECONDS,
     GEMINI_BACKOFF_BASE_SECONDS,
-    GEMINI_MAX_BACKOFF_SECONDS
+    GEMINI_MAX_BACKOFF_SECONDS,
+    GEMINI_MODEL
 )
 
 class GeminiClient:
@@ -16,7 +17,7 @@ class GeminiClient:
     def __init__(self, api_key: str):
         self.api_key = api_key
         self.base_url = "https://generativelanguage.googleapis.com/v1beta"
-        self.model = "gemini-2.5-flash-preview-09-2025"
+        self.model = GEMINI_MODEL
         self.max_retries = GEMINI_MAX_RETRIES
         self.min_delay_seconds = GEMINI_MIN_DELAY_SECONDS
         self.backoff_base_seconds = GEMINI_BACKOFF_BASE_SECONDS
@@ -107,10 +108,10 @@ class GeminiClient:
                 if attempt < self.max_retries:
                     self._sleep_with_backoff(attempt, None)
                     continue
-                print(f"AI Assessment Failed for {title}: {e}")
+                print(f"AI Assessment Failed for {title} using {self.model}: {e}")
                 return None
             except (KeyError, ValueError, json.JSONDecodeError) as e:
-                print(f"AI Assessment Failed for {title}: {e}")
+                print(f"AI Assessment Failed for {title} using {self.model}: {e}")
                 return None
 
     def _build_prompt(
@@ -168,7 +169,8 @@ IMPORTANT - Episode vs Series-wide issues:
 
 Age guidelines:
 - min_age: Absolute minimum safe age. Use decimals for months under 1 year (0.5 = 5mo, 0.8 = 8mo)
-- max_age: Age where kids typically lose interest (usually 7-14 for kids' shows, 99 for all-ages)
+- max_age: Age where kids typically lose interest within this app's scope. Do not exceed 5.
+- The app only serves children from 3 months through 5 years. Never return 99 or ages above 5.
 
 Stimulation level:
 - "Low": Slow pacing, gentle music, minimal scene changes

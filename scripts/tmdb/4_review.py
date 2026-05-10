@@ -15,7 +15,7 @@ def display_item_details(item: AssessedItem):
     ai = item.assessment
     enriched = item.enriched
 
-    # Build tags from AI assessment
+    # Build tags from rule assessment
     suggested_tags = []
     if ai.is_educational:
         suggested_tags.append("Educational")
@@ -38,7 +38,7 @@ def display_item_details(item: AssessedItem):
 [bold yellow]Genres:[/] {', '.join(enriched.genres)}
 [bold yellow]Platforms:[/] {', '.join(enriched.platforms) or 'None found'}
 
-[bold green]AI Assessment:[/]
+[bold green]Rule Assessment:[/]
   Rating: {ai.rating}
   Ages: {format_age_label(ai.min_age)} - {format_age_label(ai.max_age)}
   Stimulation: {ai.stimulation_level}
@@ -73,10 +73,10 @@ def prompt_review_decision(item: AssessedItem) -> Optional[ReviewedItem]:
     ai = item.assessment
 
     if action == "a":
-        # Accept AI suggestions as-is
+        # Accept rule suggestions as-is
         rating = ai.rating
         min_age = ai.min_age
-        max_age = ai.max_age
+        max_age = min(ai.max_age, 5.0)
         stim_level = ai.stimulation_level
         reasoning = ai.reasoning
 
@@ -93,7 +93,7 @@ def prompt_review_decision(item: AssessedItem) -> Optional[ReviewedItem]:
         featured = False
 
     else:  # Edit
-        console.print("\n[bold yellow]Edit Mode - Press Enter to keep AI suggestion[/]")
+        console.print("\n[bold yellow]Edit Mode - Press Enter to keep rule suggestion[/]")
 
         # Rating
         rating = Prompt.ask(
@@ -128,9 +128,10 @@ def prompt_review_decision(item: AssessedItem) -> Optional[ReviewedItem]:
             default=str(ai.min_age)
         )
         max_age = parse_age_input(
-            f"Maximum Age [dim](AI: {format_age_label(ai.max_age)})[/]",
-            default=str(ai.max_age)
+            f"Maximum Age [dim](AI: {format_age_label(min(ai.max_age, 5.0))})[/]",
+            default=str(min(ai.max_age, 5.0))
         )
+        max_age = min(max_age, 5.0)
 
         # Stimulation
         stim_level = Prompt.ask(
@@ -140,7 +141,7 @@ def prompt_review_decision(item: AssessedItem) -> Optional[ReviewedItem]:
         )
 
         # Reasoning
-        console.print(f"\n[bold]AI Reasoning:[/] [dim]{ai.reasoning}[/dim]")
+        console.print(f"\n[bold]Rule Reasoning:[/] [dim]{ai.reasoning}[/dim]")
         if Confirm.ask("Edit reasoning?", default=False):
             reasoning = Prompt.ask("Enter your reasoning")
         else:
@@ -165,7 +166,7 @@ def prompt_review_decision(item: AssessedItem) -> Optional[ReviewedItem]:
         reviewed_at=datetime.utcnow().isoformat()
     )
 
-    console.print(f"[bold green]✓ Approved: {item.enriched.title}[/]")
+    console.print(f"[bold green][OK] Approved: {item.enriched.title}[/]")
     return reviewed
 
 def main():
@@ -220,7 +221,7 @@ def main():
             reviewed_data.append(item.to_dict())
 
         save_json(REVIEWED_FILE, reviewed_data)
-        console.print(f"\n[bold green]✓ Saved {len(approved)} approved items to {REVIEWED_FILE}[/]")
+        console.print(f"\n[bold green][OK] Saved {len(approved)} approved items to {REVIEWED_FILE}[/]")
 
     # Summary
     console.rule("[bold green]Review Session Complete[/]")

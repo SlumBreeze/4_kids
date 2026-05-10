@@ -2,7 +2,6 @@ import json
 import os
 import re
 import requests
-import sys
 from urllib.parse import quote
 
 from bs4 import BeautifulSoup
@@ -24,7 +23,6 @@ HEADERS = {
 }
 
 load_dotenv(ENV_FILE)
-GEMINI_API_KEY = os.getenv("GEMINI_API_KEY", "").strip()
 
 def search_imdb(query):
     safe_query = query.strip()
@@ -150,46 +148,6 @@ def format_age_label(age_years):
         return f"{months}mo"
     return f"{age_years:g}"
 
-def get_ai_safety_assessment(title, year):
-    if not GEMINI_API_KEY:
-        console.print("[yellow]GEMINI_API_KEY missing. Skipping AI assessment.[/]")
-        return None
-
-    console.print(f"[yellow]Consulting AI Safety Expert for '{title}'...[/]")
-
-    system_prompt = f"""
-You are a safety assessment expert for children's media.
-Analyze the show/movie: "{title} ({year})".
-
-Return a valid JSON object with the following boolean or string fields. Do not use Markdown code blocks.
-
-Fields required:
-- has_lgbtq (boolean): true if it contains LGBTQ+ themes.
-- has_violence (boolean): true if it contains violence or scary imagery.
-- is_educational (boolean): true if it is educational.
-- reasoning (string): 2-3 sentences on why it is safe/unsafe.
-- min_age (number): Absolute minimum safe age (e.g. 0.5, 5).
-- max_age (number): Age where kids typically lose interest (e.g. 7, 12).
-- stimulation_level (string): "Low", "Medium", or "High".
-"""
-
-    try:
-        url = f"https://generativelanguage.googleapis.com/v1beta/models/gemini-2.5-flash-preview-09-2025:generateContent?key={GEMINI_API_KEY}"
-        payload = {
-            "contents": [{"parts": [{"text": system_prompt}]}],
-            "generationConfig": {"responseMimeType": "application/json"}
-        }
-
-        response = requests.post(url, json=payload, headers={"Content-Type": "application/json"}, timeout=15)
-        response.raise_for_status()
-
-        result = response.json()
-        raw_text = result["candidates"][0]["content"]["parts"][0]["text"]
-        return json.loads(raw_text)
-    except Exception as e:
-        console.print(f"[red]AI Assessment Failed: {e}[/]")
-        return None
-
 def load_shows():
     if not os.path.exists(DATA_FILE):
         return []
@@ -201,7 +159,6 @@ def save_shows(shows):
         json.dump(shows, f, indent=2)
 
 def main():
-    use_ai = "--no-ai" not in sys.argv
     console.rule("[bold blue]KidShow Scout - Data Ingestion Tool[/]")
 
     while True:
@@ -240,53 +197,8 @@ def main():
         if Confirm.ask("Is it [bold blue]Educational[/]?"): tags.append("Educational")
         reasoning = Prompt.ask("Enter reasoning/opinion (Why is it safe/unsafe?)")
         min_age = parse_age_input("Minimum Age (e.g. 0.5, 3, 7, 6m)")
-        max_age = parse_age_input("Maximum Age (e.g. 5, 12, 99, 18m)", default="99")
+        max_age = parse_age_input("Maximum Age (max 5 for app scope)", default="5")
         stim_level = Prompt.ask("Stimulation Level", choices=["Low", "Medium", "High"], default="Medium")
-
-        # 4. Optional AI Safety Assessment (compare/replace)
-        if use_ai and Confirm.ask("Run AI assessment for comparison?", default=False):
-            ai_data = get_ai_safety_assessment(selected["title"], selected.get("year", ""))
-        else:
-            ai_data = None
-
-        if ai_data:
-            ai_tags = []
-            if ai_data.get("has_lgbtq"): ai_tags.append("LGBTQ+ Themes")
-            if ai_data.get("has_violence"): ai_tags.append("Violence")
-            if ai_data.get("is_educational"): ai_tags.append("Educational")
-
-            ai_reasoning = ai_data.get("reasoning", "")
-            ai_min_age = normalize_age_value(ai_data.get("min_age", 0))
-            ai_max_age = normalize_age_value(ai_data.get("max_age", 99))
-            ai_stim_level = ai_data.get("stimulation_level", "Medium")
-
-            console.print(Panel(f"""
-[bold]AI Assessment:[/bold]
-[cyan]Tags:[/cyan] {', '.join(ai_tags) if ai_tags else 'None'}
-[cyan]Ages:[/cyan] {ai_min_age} - {ai_max_age}
-[cyan]Stimulation:[/cyan] {ai_stim_level}
-[cyan]Reasoning:[/cyan] {ai_reasoning}
-""", title="Safety Report", border_style="green"))
-
-            if Confirm.ask("Replace manual assessment with AI?", default=False):
-                tags = ai_tags
-                reasoning = ai_reasoning
-                min_age = ai_min_age
-                max_age = ai_max_age
-                stim_level = ai_stim_level
-            elif Confirm.ask("Quick-edit manual fields?", default=False):
-                if Confirm.ask("Edit tags?", default=False):
-                    tags = []
-                    if Confirm.ask("Does this show have [bold red]LGBTQ+ Themes[/]?"): tags.append("LGBTQ+ Themes")
-                    if Confirm.ask("Does it contain [bold red]Violence[/]?"): tags.append("Violence")
-                    if Confirm.ask("Is it [bold blue]Educational[/]?"): tags.append("Educational")
-                if Confirm.ask("Edit ages?", default=False):
-                    min_age = parse_age_input("Minimum Age (e.g. 0.5, 3, 7, 6m)", default=str(min_age))
-                    max_age = parse_age_input("Maximum Age (e.g. 5, 12, 99, 18m)", default=str(max_age))
-                if Confirm.ask("Edit stimulation level?", default=False):
-                    stim_level = Prompt.ask("Stimulation Level", choices=["Low", "Medium", "High"], default=stim_level)
-                if Confirm.ask("Edit reasoning?", default=False):
-                    reasoning = Prompt.ask("Enter reasoning/opinion (Why is it safe/unsafe?)", default=reasoning)
 
         # Smart Default for Rating
         rating = "Safe"
@@ -299,6 +211,7 @@ def main():
         # Auto-scraped fields (no prompts needed)
         release_year = details.get('year_range', '') or str(selected.get('year', ''))
         runtime = details.get('duration', '')
+        max_age = min(max_age, 5.0)
 
         console.print(f"Auto-scraped Year: [bold cyan]{release_year}[/]")
         console.print(f"Auto-scraped Runtime: [bold cyan]{runtime if runtime else 'Not found'}[/]")
@@ -313,7 +226,7 @@ def main():
             "featured": False,
             "rating": rating,
             "reasoning": reasoning,
-            "ageRecommendation": f"{format_age_label(min_age)}+" if max_age == 99 else f"{format_age_label(min_age)}-{format_age_label(max_age)}",
+            "ageRecommendation": f"{format_age_label(min_age)}+" if max_age >= 5 else f"{format_age_label(min_age)}-{format_age_label(max_age)}",
             "minAge": min_age,
             "maxAge": max_age,
             "releaseYear": release_year,

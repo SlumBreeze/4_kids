@@ -14,6 +14,7 @@ export type StimulationLevel = "Low" | "Medium" | "High";
 export interface Show {
   id: string;
   tmdbId?: string; // NEW: TMDB ID for future updates
+  mediaType?: "tv" | "movie"; // Distinguishes TMDB TV and movie IDs
   title: string;
   synopsis: string;
   coverImage: string; // URL mock

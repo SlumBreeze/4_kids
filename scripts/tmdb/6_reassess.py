@@ -137,8 +137,8 @@ def main():
     with open(SHOWS_FILE, 'w', encoding='utf-8') as f:
         json.dump(updated_shows, f, indent=2, ensure_ascii=False)
 
-    console.print(f"\n[bold green]✓ Re-assessed {updated_count} shows[/]")
-    console.print(f"[bold green]✓ Updated {SHOWS_FILE}[/]")
+    console.print(f"\n[bold green][OK] Re-assessed {updated_count} shows[/]")
+    console.print(f"[bold green][OK] Updated {SHOWS_FILE}[/]")
 
 if __name__ == "__main__":
     main()

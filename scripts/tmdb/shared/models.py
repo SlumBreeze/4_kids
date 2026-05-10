@@ -87,7 +87,7 @@ class EnrichedItem:
 
 @dataclass
 class AIAssessment:
-    """Gemini AI safety assessment"""
+    """Safety assessment produced by the active assessment stage."""
     rating: str  # "Safe", "Caution", "Unsafe"
     min_age: float
     max_age: float
@@ -143,7 +143,7 @@ class AIAssessment:
 
 @dataclass
 class AssessedItem:
-    """Enriched item + AI assessment"""
+    """Enriched item + safety assessment"""
     enriched: EnrichedItem
     assessment: AIAssessment
     flagged_for_review: bool
@@ -225,16 +225,18 @@ class ReviewedItem:
         """Convert to final Show schema"""
         from .io_utils import format_age_label
 
+        max_age = min(self.max_age, 5.0)
         min_label = format_age_label(self.min_age)
-        if self.max_age >= 99:
+        if max_age >= 5:
             age_recommendation = f"{min_label}+"
         else:
-            max_label = format_age_label(self.max_age)
+            max_label = format_age_label(max_age)
             age_recommendation = f"{min_label}-{max_label}"
 
         return {
             "id": self.enriched.imdb_id,
             "tmdbId": str(self.enriched.tmdb_id),
+            "mediaType": self.enriched.media_type,
             "title": self.enriched.title,
             "synopsis": self.enriched.synopsis,
             "coverImage": self.enriched.cover_image_url,
@@ -245,7 +247,7 @@ class ReviewedItem:
             "reasoning": self.reasoning,
             "ageRecommendation": age_recommendation,
             "minAge": self.min_age,
-            "maxAge": self.max_age,
+            "maxAge": max_age,
             "safeAboveAge": self.safe_above_age,
             "isEpisodicIssue": self.is_episodic_issue,
             "releaseYear": self.enriched.release_year,
@@ -253,4 +255,3 @@ class ReviewedItem:
             "stimulationLevel": self.stimulation_level,
             "featured": self.featured
         }
-

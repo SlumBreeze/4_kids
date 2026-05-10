@@ -1,0 +1,6233 @@
+{
+  "generatedAt": "2026-05-08T23:46:08.603633+00:00",
+  "duplicateIds": [],
+  "possibleVariants": [
+    {
+      "reason": "same_normalized_title",
+      "items": [
+        {
+          "index": 24,
+          "title": "Rugrats",
+          "tmdbId": "124920",
+          "mediaType": "tv"
+        },
+        {
+          "index": 868,
+          "title": "Rugrats",
+          "tmdbId": "3022",
+          "mediaType": "tv"
+        }
+      ]
+    },
+    {
+      "reason": "same_normalized_title",
+      "items": [
+        {
+          "index": 26,
+          "title": "The Smurfs",
+          "tmdbId": "5687",
+          "mediaType": "tv"
+        },
+        {
+          "index": 881,
+          "title": "The Smurfs",
+          "tmdbId": "41513",
+          "mediaType": "movie"
+        }
+      ]
+    },
+    {
+      "reason": "same_normalized_title",
+      "items": [
+        {
+          "index": 66,
+          "title": "Danger Mouse",
+          "tmdbId": "64092",
+          "mediaType": "tv"
+        },
+        {
+          "index": 870,
+          "title": "Danger Mouse",
+          "tmdbId": "3474",
+          "mediaType": "tv"
+        }
+      ]
+    },
+    {
+      "reason": "same_normalized_title",
+      "items": [
+        {
+          "index": 78,
+          "title": "My Little Pony",
+          "tmdbId": "345",
+          "mediaType": "tv"
+        },
+        {
+          "index": 880,
+          "title": "My Little Pony",
+          "tmdbId": "359878",
+          "mediaType": "movie"
+        }
+      ]
+    },
+    {
+      "reason": "same_normalized_title",
+      "items": [
+        {
+          "index": 100,
+          "title": "Heidi",
+          "tmdbId": "74902",
+          "mediaType": "tv"
+        },
+        {
+          "index": 872,
+          "title": "Heidi",
+          "tmdbId": "62475",
+          "mediaType": "tv"
+        }
+      ]
+    },
+    {
+      "reason": "same_normalized_title",
+      "items": [
+        {
+          "index": 110,
+          "title": "The Berenstain Bears",
+          "tmdbId": "10318",
+          "mediaType": "tv"
+        },
+        {
+          "index": 873,
+          "title": "The Berenstain Bears",
+          "tmdbId": "4665",
+          "mediaType": "tv"
+        }
+      ]
+    },
+    {
+      "reason": "same_normalized_title",
+      "items": [
+        {
+          "index": 167,
+          "title": "Teenage Mutant Ninja Turtles",
+          "tmdbId": "160",
+          "mediaType": null
+        },
+        {
+          "index": 961,
+          "title": "Teenage Mutant Ninja Turtles",
+          "tmdbId": "51817",
+          "mediaType": "tv"
+        },
+        {
+          "index": 1057,
+          "title": "Teenage Mutant Ninja Turtles",
+          "tmdbId": "2284",
+          "mediaType": "tv"
+        }
+      ]
+    },
+    {
+      "reason": "same_normalized_title",
+      "items": [
+        {
+          "index": 169,
+          "title": "Mickey Mouse Clubhouse",
+          "tmdbId": "3934",
+          "mediaType": null
+        },
+        {
+          "index": 312,
+          "title": "Mickey Mouse Clubhouse+",
+          "tmdbId": "232869",
+          "mediaType": null
+        }
+      ]
+    },
+    {
+      "reason": "same_normalized_title",
+      "items": [
+        {
+          "index": 189,
+          "title": "Hercules",
+          "tmdbId": "11970",
+          "mediaType": "movie"
+        },
+        {
+          "index": 1365,
+          "title": "Hercules",
+          "tmdbId": "2567",
+          "mediaType": "tv"
+        }
+      ]
+    },
+    {
+      "reason": "same_normalized_title",
+      "items": [
+        {
+          "index": 237,
+          "title": "The Muppet Show",
+          "tmdbId": "1548113",
+          "mediaType": "movie"
+        },
+        {
+          "index": 1191,
+          "title": "The Muppet Show",
+          "tmdbId": "4459",
+          "mediaType": "tv"
+        }
+      ]
+    },
+    {
+      "reason": "same_normalized_title",
+      "items": [
+        {
+          "index": 246,
+          "title": "Flipper",
+          "tmdbId": "2886",
+          "mediaType": null
+        },
+        {
+          "index": 299,
+          "title": "Flipper",
+          "tmdbId": "6223",
+          "mediaType": null
+        }
+      ]
+    },
+    {
+      "reason": "same_normalized_title",
+      "items": [
+        {
+          "index": 252,
+          "title": "Bananas in Pyjamas",
+          "tmdbId": "65795",
+          "mediaType": "tv"
+        },
+        {
+          "index": 871,
+          "title": "Bananas in Pyjamas",
+          "tmdbId": "3103",
+          "mediaType": "tv"
+        }
+      ]
+    },
+    {
+      "reason": "same_normalized_title",
+      "items": [
+        {
+          "index": 316,
+          "title": "LEGO Masters",
+          "tmdbId": "88754",
+          "mediaType": null
+        },
+        {
+          "index": 1371,
+          "title": "LEGO Masters",
+          "tmdbId": "84379",
+          "mediaType": "tv"
+        }
+      ]
+    },
+    {
+      "reason": "same_normalized_title",
+      "items": [
+        {
+          "index": 356,
+          "title": "Johnny Test",
+          "tmdbId": "127753",
+          "mediaType": null
+        },
+        {
+          "index": 1117,
+          "title": "Johnny Test",
+          "tmdbId": "1769",
+          "mediaType": "tv"
+        }
+      ]
+    },
+    {
+      "reason": "same_normalized_title",
+      "items": [
+        {
+          "index": 509,
+          "title": "Cinderella",
+          "tmdbId": "11224",
+          "mediaType": null
+        },
+        {
+          "index": 1308,
+          "title": "Cinderella",
+          "tmdbId": "150689",
+          "mediaType": "movie"
+        }
+      ]
+    },
+    {
+      "reason": "same_normalized_title",
+      "items": [
+        {
+          "index": 511,
+          "title": "Aladdin",
+          "tmdbId": "812",
+          "mediaType": null
+        },
+        {
+          "index": 1334,
+          "title": "Aladdin",
+          "tmdbId": "420817",
+          "mediaType": "movie"
+        }
+      ]
+    },
+    {
+      "reason": "same_normalized_title",
+      "items": [
+        {
+          "index": 549,
+          "title": "Alice in Wonderland",
+          "tmdbId": "12092",
+          "mediaType": null
+        },
+        {
+          "index": 1332,
+          "title": "Alice in Wonderland",
+          "tmdbId": "12155",
+          "mediaType": "movie"
+        }
+      ]
+    },
+    {
+      "reason": "same_normalized_title",
+      "items": [
+        {
+          "index": 555,
+          "title": "Peter Pan",
+          "tmdbId": "10693",
+          "mediaType": "movie"
+        },
+        {
+          "index": 882,
+          "title": "Peter Pan",
+          "tmdbId": "46188",
+          "mediaType": "movie"
+        }
+      ]
+    },
+    {
+      "reason": "same_normalized_title",
+      "items": [
+        {
+          "index": 557,
+          "title": "Chicken Little",
+          "tmdbId": "9982",
+          "mediaType": "movie"
+        },
+        {
+          "index": 1441,
+          "title": "Chicken Little",
+          "tmdbId": "64648",
+          "mediaType": "movie"
+        }
+      ]
+    },
+    {
+      "reason": "same_normalized_title",
+      "items": [
+        {
+          "index": 626,
+          "title": "Alice Through the Looking Glass",
+          "tmdbId": "15162",
+          "mediaType": null
+        },
+        {
+          "index": 684,
+          "title": "Alice Through the Looking Glass",
+          "tmdbId": "176462",
+          "mediaType": null
+        }
+      ]
+    },
+    {
+      "reason": "same_normalized_title",
+      "items": [
+        {
+          "index": 663,
+          "title": "The Night Before Christmas",
+          "tmdbId": "53929",
+          "mediaType": null
+        },
+        {
+          "index": 682,
+          "title": "The Night Before Christmas",
+          "tmdbId": "103097",
+          "mediaType": null
+        }
+      ]
+    },
+    {
+      "reason": "same_normalized_title",
+      "items": [
+        {
+          "index": 694,
+          "title": "Lost and Found",
+          "tmdbId": "33572",
+          "mediaType": "movie"
+        },
+        {
+          "index": 1385,
+          "title": "Lost and Found",
+          "tmdbId": "274153",
+          "mediaType": "movie"
+        }
+      ]
+    },
+    {
+      "reason": "same_normalized_title",
+      "items": [
+        {
+          "index": 777,
+          "title": "You're a Good Man, Charlie Brown",
+          "tmdbId": "51330",
+          "mediaType": "movie"
+        },
+        {
+          "index": 879,
+          "title": "You're a Good Man, Charlie Brown",
+          "tmdbId": "360303",
+          "mediaType": "movie"
+        }
+      ]
+    },
+    {
+      "reason": "same_normalized_title",
+      "items": [
+        {
+          "index": 837,
+          "title": "Snow White",
+          "tmdbId": "116743",
+          "mediaType": "movie"
+        },
+        {
+          "index": 838,
+          "title": "Snow White",
+          "tmdbId": "59075",
+          "mediaType": "movie"
+        }
+      ]
+    },
+    {
+      "reason": "same_normalized_title",
+      "items": [
+        {
+          "index": 869,
+          "title": "The Little Mermaid",
+          "tmdbId": "2675",
+          "mediaType": "tv"
+        },
+        {
+          "index": 875,
+          "title": "The Little Mermaid",
+          "tmdbId": "10144",
+          "mediaType": "movie"
+        },
+        {
+          "index": 1419,
+          "title": "The Little Mermaid",
+          "tmdbId": "447277",
+          "mediaType": "movie"
+        }
+      ]
+    },
+    {
+      "reason": "same_normalized_title",
+      "items": [
+        {
+          "index": 874,
+          "title": "Beauty and the Beast",
+          "tmdbId": "10020",
+          "mediaType": "movie"
+        },
+        {
+          "index": 1417,
+          "title": "Beauty and the Beast",
+          "tmdbId": "321612",
+          "mediaType": "movie"
+        }
+      ]
+    },
+    {
+      "reason": "same_normalized_title",
+      "items": [
+        {
+          "index": 876,
+          "title": "Doctor Dolittle",
+          "tmdbId": "16081",
+          "mediaType": "movie"
+        },
+        {
+          "index": 1445,
+          "title": "Doctor Dolittle",
+          "tmdbId": "3050",
+          "mediaType": "movie"
+        }
+      ]
+    },
+    {
+      "reason": "same_normalized_title",
+      "items": [
+        {
+          "index": 877,
+          "title": "The Wizard of Oz",
+          "tmdbId": "415009",
+          "mediaType": "movie"
+        },
+        {
+          "index": 1418,
+          "title": "The Wizard of Oz",
+          "tmdbId": "630",
+          "mediaType": "movie"
+        }
+      ]
+    },
+    {
+      "reason": "same_normalized_title",
+      "items": [
+        {
+          "index": 878,
+          "title": "The Railway Children",
+          "tmdbId": "37662",
+          "mediaType": "movie"
+        },
+        {
+          "index": 1473,
+          "title": "The Railway Children",
+          "tmdbId": "31920",
+          "mediaType": "movie"
+        }
+      ]
+    },
+    {
+      "reason": "same_normalized_title",
+      "items": [
+        {
+          "index": 918,
+          "title": "iCarly",
+          "tmdbId": "5371",
+          "mediaType": "tv"
+        },
+        {
+          "index": 1116,
+          "title": "iCarly",
+          "tmdbId": "119243",
+          "mediaType": "tv"
+        }
+      ]
+    },
+    {
+      "reason": "same_normalized_title",
+      "items": [
+        {
+          "index": 946,
+          "title": "The Wonder Years",
+          "tmdbId": "4500",
+          "mediaType": "tv"
+        },
+        {
+          "index": 1205,
+          "title": "The Wonder Years",
+          "tmdbId": "126164",
+          "mediaType": "tv"
+        }
+      ]
+    },
+    {
+      "reason": "same_normalized_title",
+      "items": [
+        {
+          "index": 947,
+          "title": "The Powerpuff Girls",
+          "tmdbId": "607",
+          "mediaType": "tv"
+        },
+        {
+          "index": 1199,
+          "title": "The Powerpuff Girls",
+          "tmdbId": "66149",
+          "mediaType": "tv"
+        }
+      ]
+    },
+    {
+      "reason": "same_normalized_title",
+      "items": [
+        {
+          "index": 948,
+          "title": "Avatar: The Last Airbender",
+          "tmdbId": "246",
+          "mediaType": "tv"
+        },
+        {
+          "index": 1032,
+          "title": "Avatar the Last Airbender",
+          "tmdbId": "82452",
+          "mediaType": "tv"
+        }
+      ]
+    },
+    {
+      "reason": "same_normalized_title",
+      "items": [
+        {
+          "index": 951,
+          "title": "Animaniacs",
+          "tmdbId": "82",
+          "mediaType": "tv"
+        },
+        {
+          "index": 1027,
+          "title": "Animaniacs",
+          "tmdbId": "107124",
+          "mediaType": "tv"
+        }
+      ]
+    },
+    {
+      "reason": "same_normalized_title",
+      "items": [
+        {
+          "index": 957,
+          "title": "DuckTales",
+          "tmdbId": "72350",
+          "mediaType": "tv"
+        },
+        {
+          "index": 1033,
+          "title": "DuckTales",
+          "tmdbId": "720",
+          "mediaType": "tv"
+        }
+      ]
+    },
+    {
+      "reason": "same_normalized_title",
+      "items": [
+        {
+          "index": 989,
+          "title": "Ben 10",
+          "tmdbId": "4686",
+          "mediaType": "tv"
+        },
+        {
+          "index": 1086,
+          "title": "Ben 10",
+          "tmdbId": "68295",
+          "mediaType": "tv"
+        }
+      ]
+    },
+    {
+      "reason": "same_normalized_title",
+      "items": [
+        {
+          "index": 1072,
+          "title": "ThunderCats",
+          "tmdbId": "1988",
+          "mediaType": "tv"
+        },
+        {
+          "index": 1154,
+          "title": "ThunderCats",
+          "tmdbId": "38165",
+          "mediaType": "tv"
+        }
+      ]
+    },
+    {
+      "reason": "same_normalized_title",
+      "items": [
+        {
+          "index": 1298,
+          "title": "Lilo & Stitch",
+          "tmdbId": "552524",
+          "mediaType": "movie"
+        },
+        {
+          "index": 1338,
+          "title": "Lilo & Stitch",
+          "tmdbId": "11544",
+          "mediaType": "movie"
+        }
+      ]
+    },
+    {
+      "reason": "same_normalized_title",
+      "items": [
+        {
+          "index": 1363,
+          "title": "The Beverly Hillbillies",
+          "tmdbId": "1930",
+          "mediaType": "tv"
+        },
+        {
+          "index": 1424,
+          "title": "The Beverly Hillbillies",
+          "tmdbId": "11041",
+          "mediaType": "movie"
+        }
+      ]
+    },
+    {
+      "reason": "same_normalized_title",
+      "items": [
+        {
+          "index": 1368,
+          "title": "Cloudy with a Chance of Meatballs",
+          "tmdbId": "70967",
+          "mediaType": "tv"
+        },
+        {
+          "index": 1422,
+          "title": "Cloudy with a Chance of Meatballs",
+          "tmdbId": "22794",
+          "mediaType": "movie"
+        }
+      ]
+    },
+    {
+      "reason": "same_normalized_title",
+      "items": [
+        {
+          "index": 1369,
+          "title": "Sonic the Hedgehog",
+          "tmdbId": "2404",
+          "mediaType": "tv"
+        },
+        {
+          "index": 1421,
+          "title": "Sonic the Hedgehog",
+          "tmdbId": "454626",
+          "mediaType": "movie"
+        }
+      ]
+    },
+    {
+      "reason": "same_normalized_title",
+      "items": [
+        {
+          "index": 1372,
+          "title": "Zootopia",
+          "tmdbId": "269149",
+          "mediaType": "movie"
+        },
+        {
+          "index": 1414,
+          "title": "Zootopia+",
+          "tmdbId": "114463",
+          "mediaType": "tv"
+        }
+      ]
+    },
+    {
+      "reason": "same_normalized_title",
+      "items": [
+        {
+          "index": 1373,
+          "title": "The Lion King",
+          "tmdbId": "8587",
+          "mediaType": "movie"
+        },
+        {
+          "index": 1420,
+          "title": "The Lion King",
+          "tmdbId": "420818",
+          "mediaType": "movie"
+        }
+      ]
+    },
+    {
+      "reason": "same_normalized_title",
+      "items": [
+        {
+          "index": 1374,
+          "title": "How to Train Your Dragon",
+          "tmdbId": "10191",
+          "mediaType": "movie"
+        },
+        {
+          "index": 1416,
+          "title": "How to Train Your Dragon",
+          "tmdbId": "1087192",
+          "mediaType": "movie"
+        }
+      ]
+    },
+    {
+      "reason": "same_normalized_title",
+      "items": [
+        {
+          "index": 1379,
+          "title": "Cheaper by the Dozen",
+          "tmdbId": "691683",
+          "mediaType": "movie"
+        },
+        {
+          "index": 1442,
+          "title": "Cheaper by the Dozen",
+          "tmdbId": "33839",
+          "mediaType": "movie"
+        },
+        {
+          "index": 1501,
+          "title": "Cheaper by the Dozen",
+          "tmdbId": "11007",
+          "mediaType": "movie"
+        }
+      ]
+    },
+    {
+      "reason": "same_normalized_title",
+      "items": [
+        {
+          "index": 1393,
+          "title": "Anne of Green Gables",
+          "tmdbId": "397520",
+          "mediaType": "movie"
+        },
+        {
+          "index": 1423,
+          "title": "Anne of Green Gables",
+          "tmdbId": "17663",
+          "mediaType": "movie"
+        },
+        {
+          "index": 1476,
+          "title": "Anne of Green Gables",
+          "tmdbId": "43901",
+          "mediaType": "movie"
+        }
+      ]
+    },
+    {
+      "reason": "same_normalized_title",
+      "items": [
+        {
+          "index": 1471,
+          "title": "Watership Down",
+          "tmdbId": "11837",
+          "mediaType": "movie"
+        },
+        {
+          "index": 1472,
+          "title": "Watership Down",
+          "tmdbId": "68394",
+          "mediaType": "tv"
+        },
+        {
+          "index": 1512,
+          "title": "Watership Down",
+          "tmdbId": "11690",
+          "mediaType": "tv"
+        }
+      ]
+    },
+    {
+      "reason": "same_normalized_title",
+      "items": [
+        {
+          "index": 1520,
+          "title": "Black Beauty",
+          "tmdbId": "331464",
+          "mediaType": "movie"
+        },
+        {
+          "index": 1525,
+          "title": "Black Beauty",
+          "tmdbId": "254138",
+          "mediaType": "movie"
+        },
+        {
+          "index": 1537,
+          "title": "Black Beauty",
+          "tmdbId": "83300",
+          "mediaType": "movie"
+        },
+        {
+          "index": 1555,
+          "title": "Black Beauty",
+          "tmdbId": "28356",
+          "mediaType": "movie"
+        }
+      ]
+    },
+    {
+      "reason": "high_title_overlap",
+      "sharedTokens": [
+        "dollhouse",
+        "gabby"
+      ],
+      "items": [
+        {
+          "index": 6,
+          "title": "Gabby's Dollhouse",
+          "tmdbId": "111474",
+          "mediaType": null
+        },
+        {
+          "index": 7,
+          "title": "Gabby's Dollhouse: The Movie",
+          "tmdbId": "1280282",
+          "mediaType": null
+        }
+      ]
+    },
+    {
+      "reason": "high_title_overlap",
+      "sharedTokens": [
+        "patrol",
+        "paw"
+      ],
+      "items": [
+        {
+          "index": 9,
+          "title": "PAW Patrol",
+          "tmdbId": "57532",
+          "mediaType": null
+        },
+        {
+          "index": 512,
+          "title": "A Paw Patrol Christmas",
+          "tmdbId": "1507275",
+          "mediaType": null
+        }
+      ]
+    },
+    {
+      "reason": "high_title_overlap",
+      "sharedTokens": [
+        "patrol",
+        "paw"
+      ],
+      "items": [
+        {
+          "index": 9,
+          "title": "PAW Patrol",
+          "tmdbId": "57532",
+          "mediaType": null
+        },
+        {
+          "index": 595,
+          "title": "PAW Patrol: The Mighty Movie",
+          "tmdbId": "893723",
+          "mediaType": null
+        }
+      ]
+    },
+    {
+      "reason": "high_title_overlap",
+      "sharedTokens": [
+        "patrol",
+        "paw"
+      ],
+      "items": [
+        {
+          "index": 9,
+          "title": "PAW Patrol",
+          "tmdbId": "57532",
+          "mediaType": null
+        },
+        {
+          "index": 670,
+          "title": "PAW Patrol: The Movie",
+          "tmdbId": "675445",
+          "mediaType": null
+        }
+      ]
+    },
+    {
+      "reason": "high_title_overlap",
+      "sharedTokens": [
+        "masks",
+        "pj"
+      ],
+      "items": [
+        {
+          "index": 30,
+          "title": "PJ Masks",
+          "tmdbId": "65417",
+          "mediaType": null
+        },
+        {
+          "index": 97,
+          "title": "PJ Masks: Power Heroes",
+          "tmdbId": "224022",
+          "mediaType": null
+        }
+      ]
+    },
+    {
+      "reason": "high_title_overlap",
+      "sharedTokens": [
+        "masks",
+        "pj"
+      ],
+      "items": [
+        {
+          "index": 30,
+          "title": "PJ Masks",
+          "tmdbId": "65417",
+          "mediaType": null
+        },
+        {
+          "index": 155,
+          "title": "PJ Masks (Shorts)",
+          "tmdbId": "301074",
+          "mediaType": null
+        }
+      ]
+    },
+    {
+      "reason": "high_title_overlap",
+      "sharedTokens": [
+        "lilo",
+        "stitch"
+      ],
+      "items": [
+        {
+          "index": 33,
+          "title": "Lilo & Stitch: The Series",
+          "tmdbId": "2355",
+          "mediaType": null
+        },
+        {
+          "index": 1298,
+          "title": "Lilo & Stitch",
+          "tmdbId": "552524",
+          "mediaType": "movie"
+        }
+      ]
+    },
+    {
+      "reason": "high_title_overlap",
+      "sharedTokens": [
+        "lilo",
+        "stitch"
+      ],
+      "items": [
+        {
+          "index": 33,
+          "title": "Lilo & Stitch: The Series",
+          "tmdbId": "2355",
+          "mediaType": null
+        },
+        {
+          "index": 1338,
+          "title": "Lilo & Stitch",
+          "tmdbId": "11544",
+          "mediaType": "movie"
+        }
+      ]
+    },
+    {
+      "reason": "high_title_overlap",
+      "sharedTokens": [
+        "shaun",
+        "sheep"
+      ],
+      "items": [
+        {
+          "index": 34,
+          "title": "Shaun the Sheep",
+          "tmdbId": "3902",
+          "mediaType": null
+        },
+        {
+          "index": 427,
+          "title": "Shaun the Sheep: Adventures from Mossy Bottom",
+          "tmdbId": "100605",
+          "mediaType": null
+        }
+      ]
+    },
+    {
+      "reason": "high_title_overlap",
+      "sharedTokens": [
+        "shaun",
+        "sheep"
+      ],
+      "items": [
+        {
+          "index": 34,
+          "title": "Shaun the Sheep",
+          "tmdbId": "3902",
+          "mediaType": null
+        },
+        {
+          "index": 439,
+          "title": "Shaun the Sheep: Mossy Bottom Shorts",
+          "tmdbId": "98840",
+          "mediaType": null
+        }
+      ]
+    },
+    {
+      "reason": "high_title_overlap",
+      "sharedTokens": [
+        "shaun",
+        "sheep"
+      ],
+      "items": [
+        {
+          "index": 34,
+          "title": "Shaun the Sheep",
+          "tmdbId": "3902",
+          "mediaType": null
+        },
+        {
+          "index": 489,
+          "title": "Shaun the Sheep Championsheeps",
+          "tmdbId": "82679",
+          "mediaType": null
+        }
+      ]
+    },
+    {
+      "reason": "high_title_overlap",
+      "sharedTokens": [
+        "pooh",
+        "winnie"
+      ],
+      "items": [
+        {
+          "index": 39,
+          "title": "The New Adventures of Winnie the Pooh",
+          "tmdbId": "2005",
+          "mediaType": null
+        },
+        {
+          "index": 742,
+          "title": "Winnie the Pooh",
+          "tmdbId": "51162",
+          "mediaType": "movie"
+        }
+      ]
+    },
+    {
+      "reason": "high_title_overlap",
+      "sharedTokens": [
+        "jerry",
+        "tom"
+      ],
+      "items": [
+        {
+          "index": 58,
+          "title": "Tom and Jerry Tales",
+          "tmdbId": "676",
+          "mediaType": null
+        },
+        {
+          "index": 611,
+          "title": "Tom & Jerry",
+          "tmdbId": "587807",
+          "mediaType": null
+        }
+      ]
+    },
+    {
+      "reason": "high_title_overlap",
+      "sharedTokens": [
+        "bus",
+        "magic",
+        "school"
+      ],
+      "items": [
+        {
+          "index": 61,
+          "title": "The Magic School Bus",
+          "tmdbId": "7248",
+          "mediaType": null
+        },
+        {
+          "index": 403,
+          "title": "The Magic School Bus Rides Again",
+          "tmdbId": "73472",
+          "mediaType": null
+        }
+      ]
+    },
+    {
+      "reason": "high_title_overlap",
+      "sharedTokens": [
+        "cat",
+        "hat"
+      ],
+      "items": [
+        {
+          "index": 64,
+          "title": "The Cat in the Hat Knows a Lot About That!",
+          "tmdbId": "32896",
+          "mediaType": null
+        },
+        {
+          "index": 1404,
+          "title": "The Cat in the Hat",
+          "tmdbId": "10588",
+          "mediaType": "movie"
+        }
+      ]
+    },
+    {
+      "reason": "high_title_overlap",
+      "sharedTokens": [
+        "danger",
+        "mouse"
+      ],
+      "items": [
+        {
+          "index": 66,
+          "title": "Danger Mouse",
+          "tmdbId": "64092",
+          "mediaType": "tv"
+        },
+        {
+          "index": 870,
+          "title": "Danger Mouse",
+          "tmdbId": "3474",
+          "mediaType": "tv"
+        }
+      ]
+    },
+    {
+      "reason": "high_title_overlap",
+      "sharedTokens": [
+        "adventures",
+        "paddington"
+      ],
+      "items": [
+        {
+          "index": 70,
+          "title": "The Adventures of Paddington",
+          "tmdbId": "96650",
+          "mediaType": null
+        },
+        {
+          "index": 408,
+          "title": "The Adventures of Paddington Bear",
+          "tmdbId": "11732",
+          "mediaType": null
+        }
+      ]
+    },
+    {
+      "reason": "high_title_overlap",
+      "sharedTokens": [
+        "shortcake",
+        "strawberry"
+      ],
+      "items": [
+        {
+          "index": 72,
+          "title": "Strawberry Shortcake's Berry Bitty Adventures",
+          "tmdbId": "33835",
+          "mediaType": null
+        },
+        {
+          "index": 321,
+          "title": "Strawberry Shortcake",
+          "tmdbId": "16033",
+          "mediaType": null
+        }
+      ]
+    },
+    {
+      "reason": "high_title_overlap",
+      "sharedTokens": [
+        "little",
+        "my",
+        "pony"
+      ],
+      "items": [
+        {
+          "index": 78,
+          "title": "My Little Pony",
+          "tmdbId": "345",
+          "mediaType": "tv"
+        },
+        {
+          "index": 174,
+          "title": "My Little Pony: Friendship Is Magic",
+          "tmdbId": "33765",
+          "mediaType": null
+        }
+      ]
+    },
+    {
+      "reason": "high_title_overlap",
+      "sharedTokens": [
+        "little",
+        "my",
+        "pony"
+      ],
+      "items": [
+        {
+          "index": 78,
+          "title": "My Little Pony",
+          "tmdbId": "345",
+          "mediaType": "tv"
+        },
+        {
+          "index": 304,
+          "title": "My Little Pony: Tell Your Tale",
+          "tmdbId": "202905",
+          "mediaType": null
+        }
+      ]
+    },
+    {
+      "reason": "high_title_overlap",
+      "sharedTokens": [
+        "little",
+        "my",
+        "pony"
+      ],
+      "items": [
+        {
+          "index": 78,
+          "title": "My Little Pony",
+          "tmdbId": "345",
+          "mediaType": "tv"
+        },
+        {
+          "index": 337,
+          "title": "My Little Pony: Make Your Mark",
+          "tmdbId": "158691",
+          "mediaType": null
+        }
+      ]
+    },
+    {
+      "reason": "high_title_overlap",
+      "sharedTokens": [
+        "little",
+        "my",
+        "pony"
+      ],
+      "items": [
+        {
+          "index": 78,
+          "title": "My Little Pony",
+          "tmdbId": "345",
+          "mediaType": "tv"
+        },
+        {
+          "index": 347,
+          "title": "My Little Pony: Pony Life",
+          "tmdbId": "105313",
+          "mediaType": null
+        }
+      ]
+    },
+    {
+      "reason": "high_title_overlap",
+      "sharedTokens": [
+        "little",
+        "my",
+        "pony"
+      ],
+      "items": [
+        {
+          "index": 78,
+          "title": "My Little Pony",
+          "tmdbId": "345",
+          "mediaType": "tv"
+        },
+        {
+          "index": 462,
+          "title": "My Little Pony Tales",
+          "tmdbId": "588",
+          "mediaType": null
+        }
+      ]
+    },
+    {
+      "reason": "high_title_overlap",
+      "sharedTokens": [
+        "little",
+        "my",
+        "pony"
+      ],
+      "items": [
+        {
+          "index": 78,
+          "title": "My Little Pony",
+          "tmdbId": "345",
+          "mediaType": "tv"
+        },
+        {
+          "index": 668,
+          "title": "My Little Pony: A Very Minty Christmas",
+          "tmdbId": "25396",
+          "mediaType": null
+        }
+      ]
+    },
+    {
+      "reason": "high_title_overlap",
+      "sharedTokens": [
+        "little",
+        "my",
+        "pony"
+      ],
+      "items": [
+        {
+          "index": 78,
+          "title": "My Little Pony",
+          "tmdbId": "345",
+          "mediaType": "tv"
+        },
+        {
+          "index": 702,
+          "title": "My Little Pony: Best Gift Ever",
+          "tmdbId": "564638",
+          "mediaType": "movie"
+        }
+      ]
+    },
+    {
+      "reason": "high_title_overlap",
+      "sharedTokens": [
+        "little",
+        "my",
+        "pony"
+      ],
+      "items": [
+        {
+          "index": 78,
+          "title": "My Little Pony",
+          "tmdbId": "345",
+          "mediaType": "tv"
+        },
+        {
+          "index": 793,
+          "title": "My Little Pony: The Runaway Rainbow",
+          "tmdbId": "256439",
+          "mediaType": "movie"
+        }
+      ]
+    },
+    {
+      "reason": "high_title_overlap",
+      "sharedTokens": [
+        "little",
+        "my",
+        "pony"
+      ],
+      "items": [
+        {
+          "index": 78,
+          "title": "My Little Pony",
+          "tmdbId": "345",
+          "mediaType": "tv"
+        },
+        {
+          "index": 880,
+          "title": "My Little Pony",
+          "tmdbId": "359878",
+          "mediaType": "movie"
+        }
+      ]
+    },
+    {
+      "reason": "high_title_overlap",
+      "sharedTokens": [
+        "mickey",
+        "mouse"
+      ],
+      "items": [
+        {
+          "index": 83,
+          "title": "The Wonderful World of Mickey Mouse",
+          "tmdbId": "109930",
+          "mediaType": null
+        },
+        {
+          "index": 202,
+          "title": "Mickey Mouse",
+          "tmdbId": "46879",
+          "mediaType": null
+        }
+      ]
+    },
+    {
+      "reason": "high_title_overlap",
+      "sharedTokens": [
+        "mickey",
+        "mouse",
+        "wonderful"
+      ],
+      "items": [
+        {
+          "index": 83,
+          "title": "The Wonderful World of Mickey Mouse",
+          "tmdbId": "109930",
+          "mediaType": null
+        },
+        {
+          "index": 746,
+          "title": "The Wonderful Spring of Mickey Mouse",
+          "tmdbId": "963660",
+          "mediaType": "movie"
+        }
+      ]
+    },
+    {
+      "reason": "high_title_overlap",
+      "sharedTokens": [
+        "bears",
+        "care",
+        "lot"
+      ],
+      "items": [
+        {
+          "index": 85,
+          "title": "Care Bears: Welcome to Care-a-Lot",
+          "tmdbId": "65268",
+          "mediaType": null
+        },
+        {
+          "index": 272,
+          "title": "Care Bears: Adventures in Care-a-lot",
+          "tmdbId": "14100",
+          "mediaType": null
+        }
+      ]
+    },
+    {
+      "reason": "high_title_overlap",
+      "sharedTokens": [
+        "bears",
+        "care"
+      ],
+      "items": [
+        {
+          "index": 85,
+          "title": "Care Bears: Welcome to Care-a-Lot",
+          "tmdbId": "65268",
+          "mediaType": null
+        },
+        {
+          "index": 276,
+          "title": "The Care Bears",
+          "tmdbId": "2264",
+          "mediaType": null
+        }
+      ]
+    },
+    {
+      "reason": "high_title_overlap",
+      "sharedTokens": [
+        "age",
+        "ice"
+      ],
+      "items": [
+        {
+          "index": 89,
+          "title": "Ice Age: Scrat Tales",
+          "tmdbId": "158307",
+          "mediaType": null
+        },
+        {
+          "index": 161,
+          "title": "Ice Age",
+          "tmdbId": "425",
+          "mediaType": null
+        }
+      ]
+    },
+    {
+      "reason": "high_title_overlap",
+      "sharedTokens": [
+        "friends",
+        "thomas"
+      ],
+      "items": [
+        {
+          "index": 90,
+          "title": "Thomas & Friends: All Engines Go!",
+          "tmdbId": "138523",
+          "mediaType": null
+        },
+        {
+          "index": 171,
+          "title": "Thomas & Friends",
+          "tmdbId": "2304",
+          "mediaType": null
+        }
+      ]
+    },
+    {
+      "reason": "high_title_overlap",
+      "sharedTokens": [
+        "adventures",
+        "barbie",
+        "dreamhouse"
+      ],
+      "items": [
+        {
+          "index": 94,
+          "title": "Barbie: Dreamhouse Adventures",
+          "tmdbId": "89092",
+          "mediaType": null
+        },
+        {
+          "index": 112,
+          "title": "Barbie Dreamhouse Adventures: Go Team Roberts",
+          "tmdbId": "211638",
+          "mediaType": null
+        }
+      ]
+    },
+    {
+      "reason": "high_title_overlap",
+      "sharedTokens": [
+        "bears",
+        "berenstain"
+      ],
+      "items": [
+        {
+          "index": 110,
+          "title": "The Berenstain Bears",
+          "tmdbId": "10318",
+          "mediaType": "tv"
+        },
+        {
+          "index": 873,
+          "title": "The Berenstain Bears",
+          "tmdbId": "4665",
+          "mediaType": "tv"
+        }
+      ]
+    },
+    {
+      "reason": "high_title_overlap",
+      "sharedTokens": [
+        "angelina",
+        "ballerina"
+      ],
+      "items": [
+        {
+          "index": 116,
+          "title": "Angelina Ballerina: The Next Steps",
+          "tmdbId": "33347",
+          "mediaType": null
+        },
+        {
+          "index": 135,
+          "title": "Angelina Ballerina",
+          "tmdbId": "28624",
+          "mediaType": null
+        }
+      ]
+    },
+    {
+      "reason": "high_title_overlap",
+      "sharedTokens": [
+        "bears",
+        "care"
+      ],
+      "items": [
+        {
+          "index": 122,
+          "title": "Care Bears: Unlock the Magic",
+          "tmdbId": "97959",
+          "mediaType": null
+        },
+        {
+          "index": 276,
+          "title": "The Care Bears",
+          "tmdbId": "2264",
+          "mediaType": null
+        }
+      ]
+    },
+    {
+      "reason": "high_title_overlap",
+      "sharedTokens": [
+        "friends",
+        "lego"
+      ],
+      "items": [
+        {
+          "index": 127,
+          "title": "LEGO Friends",
+          "tmdbId": "68820",
+          "mediaType": null
+        },
+        {
+          "index": 133,
+          "title": "LEGO Friends: Girls on a Mission",
+          "tmdbId": "87547",
+          "mediaType": null
+        }
+      ]
+    },
+    {
+      "reason": "high_title_overlap",
+      "sharedTokens": [
+        "friends",
+        "lego"
+      ],
+      "items": [
+        {
+          "index": 127,
+          "title": "LEGO Friends",
+          "tmdbId": "68820",
+          "mediaType": null
+        },
+        {
+          "index": 279,
+          "title": "LEGO Friends: The Next Chapter",
+          "tmdbId": "218695",
+          "mediaType": null
+        }
+      ]
+    },
+    {
+      "reason": "high_title_overlap",
+      "sharedTokens": [
+        "friends",
+        "lego"
+      ],
+      "items": [
+        {
+          "index": 127,
+          "title": "LEGO Friends",
+          "tmdbId": "68820",
+          "mediaType": null
+        },
+        {
+          "index": 664,
+          "title": "LEGO Friends: Girlz 4 Life",
+          "tmdbId": "378858",
+          "mediaType": null
+        }
+      ]
+    },
+    {
+      "reason": "high_title_overlap",
+      "sharedTokens": [
+        "mickey",
+        "mouse"
+      ],
+      "items": [
+        {
+          "index": 129,
+          "title": "Mickey Mouse: Mixed-Up Adventures",
+          "tmdbId": "139612",
+          "mediaType": null
+        },
+        {
+          "index": 202,
+          "title": "Mickey Mouse",
+          "tmdbId": "46879",
+          "mediaType": null
+        }
+      ]
+    },
+    {
+      "reason": "high_title_overlap",
+      "sharedTokens": [
+        "pets",
+        "wonder"
+      ],
+      "items": [
+        {
+          "index": 136,
+          "title": "Wonder Pets: In the City",
+          "tmdbId": "274382",
+          "mediaType": null
+        },
+        {
+          "index": 317,
+          "title": "The Wonder Pets",
+          "tmdbId": "10867",
+          "mediaType": null
+        }
+      ]
+    },
+    {
+      "reason": "high_title_overlap",
+      "sharedTokens": [
+        "movie",
+        "spongebob",
+        "squarepants"
+      ],
+      "items": [
+        {
+          "index": 139,
+          "title": "The SpongeBob Movie: Search for SquarePants",
+          "tmdbId": "991494",
+          "mediaType": null
+        },
+        {
+          "index": 507,
+          "title": "The SpongeBob SquarePants Movie",
+          "tmdbId": "11836",
+          "mediaType": null
+        }
+      ]
+    },
+    {
+      "reason": "high_title_overlap",
+      "sharedTokens": [
+        "spongebob",
+        "squarepants"
+      ],
+      "items": [
+        {
+          "index": 139,
+          "title": "The SpongeBob Movie: Search for SquarePants",
+          "tmdbId": "991494",
+          "mediaType": null
+        },
+        {
+          "index": 1142,
+          "title": "SpongeBob SquarePants",
+          "tmdbId": "387",
+          "mediaType": "tv"
+        }
+      ]
+    },
+    {
+      "reason": "high_title_overlap",
+      "sharedTokens": [
+        "story",
+        "toy"
+      ],
+      "items": [
+        {
+          "index": 142,
+          "title": "Toy Story 2",
+          "tmdbId": "863",
+          "mediaType": null
+        },
+        {
+          "index": 157,
+          "title": "Toy Story",
+          "tmdbId": "862",
+          "mediaType": null
+        }
+      ]
+    },
+    {
+      "reason": "high_title_overlap",
+      "sharedTokens": [
+        "story",
+        "toy"
+      ],
+      "items": [
+        {
+          "index": 142,
+          "title": "Toy Story 2",
+          "tmdbId": "863",
+          "mediaType": null
+        },
+        {
+          "index": 528,
+          "title": "Toy Story 4",
+          "tmdbId": "301528",
+          "mediaType": null
+        }
+      ]
+    },
+    {
+      "reason": "high_title_overlap",
+      "sharedTokens": [
+        "story",
+        "toy"
+      ],
+      "items": [
+        {
+          "index": 142,
+          "title": "Toy Story 2",
+          "tmdbId": "863",
+          "mediaType": null
+        },
+        {
+          "index": 1305,
+          "title": "Toy Story 3",
+          "tmdbId": "10193",
+          "mediaType": "movie"
+        }
+      ]
+    },
+    {
+      "reason": "high_title_overlap",
+      "sharedTokens": [
+        "despicable",
+        "me"
+      ],
+      "items": [
+        {
+          "index": 144,
+          "title": "Despicable Me 4",
+          "tmdbId": "519182",
+          "mediaType": null
+        },
+        {
+          "index": 545,
+          "title": "Despicable Me 2",
+          "tmdbId": "93456",
+          "mediaType": null
+        }
+      ]
+    },
+    {
+      "reason": "high_title_overlap",
+      "sharedTokens": [
+        "despicable",
+        "me"
+      ],
+      "items": [
+        {
+          "index": 144,
+          "title": "Despicable Me 4",
+          "tmdbId": "519182",
+          "mediaType": null
+        },
+        {
+          "index": 617,
+          "title": "Despicable Me 3",
+          "tmdbId": "324852",
+          "mediaType": null
+        }
+      ]
+    },
+    {
+      "reason": "high_title_overlap",
+      "sharedTokens": [
+        "despicable",
+        "me"
+      ],
+      "items": [
+        {
+          "index": 144,
+          "title": "Despicable Me 4",
+          "tmdbId": "519182",
+          "mediaType": null
+        },
+        {
+          "index": 1303,
+          "title": "Despicable Me",
+          "tmdbId": "20352",
+          "mediaType": "movie"
+        }
+      ]
+    },
+    {
+      "reason": "high_title_overlap",
+      "sharedTokens": [
+        "bell",
+        "tinker"
+      ],
+      "items": [
+        {
+          "index": 145,
+          "title": "Tinker Bell and the Legend of the NeverBeast",
+          "tmdbId": "297270",
+          "mediaType": null
+        },
+        {
+          "index": 636,
+          "title": "Tinker Bell",
+          "tmdbId": "13179",
+          "mediaType": null
+        }
+      ]
+    },
+    {
+      "reason": "high_title_overlap",
+      "sharedTokens": [
+        "bros",
+        "mario",
+        "super"
+      ],
+      "items": [
+        {
+          "index": 146,
+          "title": "The Super Mario Bros. Movie",
+          "tmdbId": "502356",
+          "mediaType": null
+        },
+        {
+          "index": 232,
+          "title": "The Super Mario Bros. Super Show!",
+          "tmdbId": "14613",
+          "mediaType": null
+        }
+      ]
+    },
+    {
+      "reason": "high_title_overlap",
+      "sharedTokens": [
+        "mario",
+        "movie",
+        "super"
+      ],
+      "items": [
+        {
+          "index": 146,
+          "title": "The Super Mario Bros. Movie",
+          "tmdbId": "502356",
+          "mediaType": null
+        },
+        {
+          "index": 1275,
+          "title": "The Super Mario Galaxy Movie",
+          "tmdbId": "1226863",
+          "mediaType": "movie"
+        }
+      ]
+    },
+    {
+      "reason": "high_title_overlap",
+      "sharedTokens": [
+        "story",
+        "toy"
+      ],
+      "items": [
+        {
+          "index": 157,
+          "title": "Toy Story",
+          "tmdbId": "862",
+          "mediaType": null
+        },
+        {
+          "index": 528,
+          "title": "Toy Story 4",
+          "tmdbId": "301528",
+          "mediaType": null
+        }
+      ]
+    },
+    {
+      "reason": "high_title_overlap",
+      "sharedTokens": [
+        "story",
+        "toy"
+      ],
+      "items": [
+        {
+          "index": 157,
+          "title": "Toy Story",
+          "tmdbId": "862",
+          "mediaType": null
+        },
+        {
+          "index": 1305,
+          "title": "Toy Story 3",
+          "tmdbId": "10193",
+          "mediaType": "movie"
+        }
+      ]
+    },
+    {
+      "reason": "high_title_overlap",
+      "sharedTokens": [
+        "age",
+        "ice"
+      ],
+      "items": [
+        {
+          "index": 161,
+          "title": "Ice Age",
+          "tmdbId": "425",
+          "mediaType": null
+        },
+        {
+          "index": 524,
+          "title": "Ice Age: Dawn of the Dinosaurs",
+          "tmdbId": "8355",
+          "mediaType": null
+        }
+      ]
+    },
+    {
+      "reason": "high_title_overlap",
+      "sharedTokens": [
+        "age",
+        "ice"
+      ],
+      "items": [
+        {
+          "index": 161,
+          "title": "Ice Age",
+          "tmdbId": "425",
+          "mediaType": null
+        },
+        {
+          "index": 562,
+          "title": "The Ice Age Adventures of Buck Wild",
+          "tmdbId": "774825",
+          "mediaType": null
+        }
+      ]
+    },
+    {
+      "reason": "high_title_overlap",
+      "sharedTokens": [
+        "age",
+        "ice"
+      ],
+      "items": [
+        {
+          "index": 161,
+          "title": "Ice Age",
+          "tmdbId": "425",
+          "mediaType": null
+        },
+        {
+          "index": 1326,
+          "title": "Ice Age: Continental Drift",
+          "tmdbId": "57800",
+          "mediaType": "movie"
+        }
+      ]
+    },
+    {
+      "reason": "high_title_overlap",
+      "sharedTokens": [
+        "age",
+        "ice"
+      ],
+      "items": [
+        {
+          "index": 161,
+          "title": "Ice Age",
+          "tmdbId": "425",
+          "mediaType": null
+        },
+        {
+          "index": 1331,
+          "title": "Ice Age: The Meltdown",
+          "tmdbId": "950",
+          "mediaType": "movie"
+        }
+      ]
+    },
+    {
+      "reason": "high_title_overlap",
+      "sharedTokens": [
+        "sesame",
+        "street"
+      ],
+      "items": [
+        {
+          "index": 163,
+          "title": "Sesame Street",
+          "tmdbId": "502",
+          "mediaType": null
+        },
+        {
+          "index": 628,
+          "title": "A Sesame Street Christmas Carol",
+          "tmdbId": "215963",
+          "mediaType": null
+        }
+      ]
+    },
+    {
+      "reason": "high_title_overlap",
+      "sharedTokens": [
+        "ferb",
+        "phineas"
+      ],
+      "items": [
+        {
+          "index": 166,
+          "title": "Phineas and Ferb",
+          "tmdbId": "1877",
+          "mediaType": null
+        },
+        {
+          "index": 309,
+          "title": "Take Two with Phineas and Ferb",
+          "tmdbId": "34406",
+          "mediaType": null
+        }
+      ]
+    },
+    {
+      "reason": "high_title_overlap",
+      "sharedTokens": [
+        "mutant",
+        "ninja",
+        "teenage",
+        "turtles"
+      ],
+      "items": [
+        {
+          "index": 167,
+          "title": "Teenage Mutant Ninja Turtles",
+          "tmdbId": "160",
+          "mediaType": null
+        },
+        {
+          "index": 961,
+          "title": "Teenage Mutant Ninja Turtles",
+          "tmdbId": "51817",
+          "mediaType": "tv"
+        }
+      ]
+    },
+    {
+      "reason": "high_title_overlap",
+      "sharedTokens": [
+        "mutant",
+        "ninja",
+        "teenage",
+        "turtles"
+      ],
+      "items": [
+        {
+          "index": 167,
+          "title": "Teenage Mutant Ninja Turtles",
+          "tmdbId": "160",
+          "mediaType": null
+        },
+        {
+          "index": 1057,
+          "title": "Teenage Mutant Ninja Turtles",
+          "tmdbId": "2284",
+          "mediaType": "tv"
+        }
+      ]
+    },
+    {
+      "reason": "high_title_overlap",
+      "sharedTokens": [
+        "mutant",
+        "ninja",
+        "teenage",
+        "turtles"
+      ],
+      "items": [
+        {
+          "index": 167,
+          "title": "Teenage Mutant Ninja Turtles",
+          "tmdbId": "160",
+          "mediaType": null
+        },
+        {
+          "index": 1217,
+          "title": "Rise of the Teenage Mutant Ninja Turtles",
+          "tmdbId": "81026",
+          "mediaType": "tv"
+        }
+      ]
+    },
+    {
+      "reason": "high_title_overlap",
+      "sharedTokens": [
+        "mickey",
+        "mouse"
+      ],
+      "items": [
+        {
+          "index": 169,
+          "title": "Mickey Mouse Clubhouse",
+          "tmdbId": "3934",
+          "mediaType": null
+        },
+        {
+          "index": 202,
+          "title": "Mickey Mouse",
+          "tmdbId": "46879",
+          "mediaType": null
+        }
+      ]
+    },
+    {
+      "reason": "high_title_overlap",
+      "sharedTokens": [
+        "clubhouse",
+        "mickey",
+        "mouse"
+      ],
+      "items": [
+        {
+          "index": 169,
+          "title": "Mickey Mouse Clubhouse",
+          "tmdbId": "3934",
+          "mediaType": null
+        },
+        {
+          "index": 312,
+          "title": "Mickey Mouse Clubhouse+",
+          "tmdbId": "232869",
+          "mediaType": null
+        }
+      ]
+    },
+    {
+      "reason": "high_title_overlap",
+      "sharedTokens": [
+        "friends",
+        "thomas"
+      ],
+      "items": [
+        {
+          "index": 171,
+          "title": "Thomas & Friends",
+          "tmdbId": "2304",
+          "mediaType": null
+        },
+        {
+          "index": 783,
+          "title": "Thomas & Friends: King of the Railway",
+          "tmdbId": "221029",
+          "mediaType": "movie"
+        }
+      ]
+    },
+    {
+      "reason": "high_title_overlap",
+      "sharedTokens": [
+        "little",
+        "my",
+        "pony"
+      ],
+      "items": [
+        {
+          "index": 174,
+          "title": "My Little Pony: Friendship Is Magic",
+          "tmdbId": "33765",
+          "mediaType": null
+        },
+        {
+          "index": 347,
+          "title": "My Little Pony: Pony Life",
+          "tmdbId": "105313",
+          "mediaType": null
+        }
+      ]
+    },
+    {
+      "reason": "high_title_overlap",
+      "sharedTokens": [
+        "little",
+        "my",
+        "pony"
+      ],
+      "items": [
+        {
+          "index": 174,
+          "title": "My Little Pony: Friendship Is Magic",
+          "tmdbId": "33765",
+          "mediaType": null
+        },
+        {
+          "index": 462,
+          "title": "My Little Pony Tales",
+          "tmdbId": "588",
+          "mediaType": null
+        }
+      ]
+    },
+    {
+      "reason": "high_title_overlap",
+      "sharedTokens": [
+        "little",
+        "my",
+        "pony"
+      ],
+      "items": [
+        {
+          "index": 174,
+          "title": "My Little Pony: Friendship Is Magic",
+          "tmdbId": "33765",
+          "mediaType": null
+        },
+        {
+          "index": 880,
+          "title": "My Little Pony",
+          "tmdbId": "359878",
+          "mediaType": "movie"
+        }
+      ]
+    },
+    {
+      "reason": "high_title_overlap",
+      "sharedTokens": [
+        "mickey",
+        "mouse"
+      ],
+      "items": [
+        {
+          "index": 202,
+          "title": "Mickey Mouse",
+          "tmdbId": "46879",
+          "mediaType": null
+        },
+        {
+          "index": 282,
+          "title": "Mickey Mouse Funhouse",
+          "tmdbId": "127633",
+          "mediaType": null
+        }
+      ]
+    },
+    {
+      "reason": "high_title_overlap",
+      "sharedTokens": [
+        "mickey",
+        "mouse"
+      ],
+      "items": [
+        {
+          "index": 202,
+          "title": "Mickey Mouse",
+          "tmdbId": "46879",
+          "mediaType": null
+        },
+        {
+          "index": 284,
+          "title": "The Mickey Mouse Club",
+          "tmdbId": "2208",
+          "mediaType": null
+        }
+      ]
+    },
+    {
+      "reason": "high_title_overlap",
+      "sharedTokens": [
+        "mickey",
+        "mouse"
+      ],
+      "items": [
+        {
+          "index": 202,
+          "title": "Mickey Mouse",
+          "tmdbId": "46879",
+          "mediaType": null
+        },
+        {
+          "index": 312,
+          "title": "Mickey Mouse Clubhouse+",
+          "tmdbId": "232869",
+          "mediaType": null
+        }
+      ]
+    },
+    {
+      "reason": "high_title_overlap",
+      "sharedTokens": [
+        "mickey",
+        "mouse"
+      ],
+      "items": [
+        {
+          "index": 202,
+          "title": "Mickey Mouse",
+          "tmdbId": "46879",
+          "mediaType": null
+        },
+        {
+          "index": 746,
+          "title": "The Wonderful Spring of Mickey Mouse",
+          "tmdbId": "963660",
+          "mediaType": "movie"
+        }
+      ]
+    },
+    {
+      "reason": "high_title_overlap",
+      "sharedTokens": [
+        "man",
+        "spider"
+      ],
+      "items": [
+        {
+          "index": 204,
+          "title": "Marvel's Spider-Man",
+          "tmdbId": "72705",
+          "mediaType": null
+        },
+        {
+          "index": 978,
+          "title": "Spider-Man",
+          "tmdbId": "888",
+          "mediaType": "tv"
+        }
+      ]
+    },
+    {
+      "reason": "high_title_overlap",
+      "sharedTokens": [
+        "man",
+        "marvel",
+        "spider"
+      ],
+      "items": [
+        {
+          "index": 204,
+          "title": "Marvel's Spider-Man",
+          "tmdbId": "72705",
+          "mediaType": null
+        },
+        {
+          "index": 1059,
+          "title": "Marvel's Ultimate Spider-Man",
+          "tmdbId": "34391",
+          "mediaType": "tv"
+        }
+      ]
+    },
+    {
+      "reason": "high_title_overlap",
+      "sharedTokens": [
+        "littlest",
+        "pet",
+        "shop"
+      ],
+      "items": [
+        {
+          "index": 219,
+          "title": "Littlest Pet Shop",
+          "tmdbId": "33965",
+          "mediaType": null
+        },
+        {
+          "index": 379,
+          "title": "Littlest Pet Shop: A World of Our Own",
+          "tmdbId": "125004",
+          "mediaType": null
+        }
+      ]
+    },
+    {
+      "reason": "high_title_overlap",
+      "sharedTokens": [
+        "bots",
+        "rescue",
+        "transformers"
+      ],
+      "items": [
+        {
+          "index": 221,
+          "title": "Transformers: Rescue Bots",
+          "tmdbId": "38881",
+          "mediaType": null
+        },
+        {
+          "index": 834,
+          "title": "Transformers: Rescue Bots Academy",
+          "tmdbId": "85521",
+          "mediaType": "tv"
+        }
+      ]
+    },
+    {
+      "reason": "high_title_overlap",
+      "sharedTokens": [
+        "hedgehog",
+        "sonic"
+      ],
+      "items": [
+        {
+          "index": 233,
+          "title": "Adventures of Sonic the Hedgehog",
+          "tmdbId": "44",
+          "mediaType": null
+        },
+        {
+          "index": 1291,
+          "title": "Sonic the Hedgehog 3",
+          "tmdbId": "939243",
+          "mediaType": "movie"
+        }
+      ]
+    },
+    {
+      "reason": "high_title_overlap",
+      "sharedTokens": [
+        "hedgehog",
+        "sonic"
+      ],
+      "items": [
+        {
+          "index": 233,
+          "title": "Adventures of Sonic the Hedgehog",
+          "tmdbId": "44",
+          "mediaType": null
+        },
+        {
+          "index": 1339,
+          "title": "Sonic the Hedgehog 2",
+          "tmdbId": "675353",
+          "mediaType": "movie"
+        }
+      ]
+    },
+    {
+      "reason": "high_title_overlap",
+      "sharedTokens": [
+        "hedgehog",
+        "sonic"
+      ],
+      "items": [
+        {
+          "index": 233,
+          "title": "Adventures of Sonic the Hedgehog",
+          "tmdbId": "44",
+          "mediaType": null
+        },
+        {
+          "index": 1369,
+          "title": "Sonic the Hedgehog",
+          "tmdbId": "2404",
+          "mediaType": "tv"
+        }
+      ]
+    },
+    {
+      "reason": "high_title_overlap",
+      "sharedTokens": [
+        "hedgehog",
+        "sonic"
+      ],
+      "items": [
+        {
+          "index": 233,
+          "title": "Adventures of Sonic the Hedgehog",
+          "tmdbId": "44",
+          "mediaType": null
+        },
+        {
+          "index": 1421,
+          "title": "Sonic the Hedgehog",
+          "tmdbId": "454626",
+          "mediaType": "movie"
+        }
+      ]
+    },
+    {
+      "reason": "high_title_overlap",
+      "sharedTokens": [
+        "place",
+        "waverly",
+        "wizards"
+      ],
+      "items": [
+        {
+          "index": 235,
+          "title": "Wizards Beyond Waverly Place",
+          "tmdbId": "245026",
+          "mediaType": null
+        },
+        {
+          "index": 1012,
+          "title": "Wizards of Waverly Place",
+          "tmdbId": "3498",
+          "mediaType": "tv"
+        }
+      ]
+    },
+    {
+      "reason": "high_title_overlap",
+      "sharedTokens": [
+        "muppet",
+        "show"
+      ],
+      "items": [
+        {
+          "index": 237,
+          "title": "The Muppet Show",
+          "tmdbId": "1548113",
+          "mediaType": "movie"
+        },
+        {
+          "index": 1191,
+          "title": "The Muppet Show",
+          "tmdbId": "4459",
+          "mediaType": "tv"
+        }
+      ]
+    },
+    {
+      "reason": "high_title_overlap",
+      "sharedTokens": [
+        "dog",
+        "red"
+      ],
+      "items": [
+        {
+          "index": 244,
+          "title": "Clifford the Big Red Dog",
+          "tmdbId": "8379",
+          "mediaType": null
+        },
+        {
+          "index": 1536,
+          "title": "Red Dog",
+          "tmdbId": "66125",
+          "mediaType": "movie"
+        }
+      ]
+    },
+    {
+      "reason": "high_title_overlap",
+      "sharedTokens": [
+        "bananas",
+        "pyjamas"
+      ],
+      "items": [
+        {
+          "index": 252,
+          "title": "Bananas in Pyjamas",
+          "tmdbId": "65795",
+          "mediaType": "tv"
+        },
+        {
+          "index": 871,
+          "title": "Bananas in Pyjamas",
+          "tmdbId": "3103",
+          "mediaType": "tv"
+        }
+      ]
+    },
+    {
+      "reason": "high_title_overlap",
+      "sharedTokens": [
+        "shortcake",
+        "strawberry"
+      ],
+      "items": [
+        {
+          "index": 257,
+          "title": "Strawberry Shortcake: Berry in the Big City",
+          "tmdbId": "197322",
+          "mediaType": null
+        },
+        {
+          "index": 321,
+          "title": "Strawberry Shortcake",
+          "tmdbId": "16033",
+          "mediaType": null
+        }
+      ]
+    },
+    {
+      "reason": "high_title_overlap",
+      "sharedTokens": [
+        "fraggle",
+        "rock"
+      ],
+      "items": [
+        {
+          "index": 265,
+          "title": "Fraggle Rock",
+          "tmdbId": "2957",
+          "mediaType": null
+        },
+        {
+          "index": 319,
+          "title": "Fraggle Rock: Back to the Rock",
+          "tmdbId": "104002",
+          "mediaType": null
+        }
+      ]
+    },
+    {
+      "reason": "high_title_overlap",
+      "sharedTokens": [
+        "fraggle",
+        "rock"
+      ],
+      "items": [
+        {
+          "index": 265,
+          "title": "Fraggle Rock",
+          "tmdbId": "2957",
+          "mediaType": null
+        },
+        {
+          "index": 487,
+          "title": "Fraggle Rock: Rock On!",
+          "tmdbId": "102318",
+          "mediaType": null
+        }
+      ]
+    },
+    {
+      "reason": "high_title_overlap",
+      "sharedTokens": [
+        "fraggle",
+        "rock"
+      ],
+      "items": [
+        {
+          "index": 265,
+          "title": "Fraggle Rock",
+          "tmdbId": "2957",
+          "mediaType": null
+        },
+        {
+          "index": 831,
+          "title": "The First Snow of Fraggle Rock",
+          "tmdbId": "1566269",
+          "mediaType": "movie"
+        }
+      ]
+    },
+    {
+      "reason": "high_title_overlap",
+      "sharedTokens": [
+        "alice",
+        "wonderland"
+      ],
+      "items": [
+        {
+          "index": 267,
+          "title": "Alice's Wonderland Bakery",
+          "tmdbId": "154820",
+          "mediaType": null
+        },
+        {
+          "index": 549,
+          "title": "Alice in Wonderland",
+          "tmdbId": "12092",
+          "mediaType": null
+        }
+      ]
+    },
+    {
+      "reason": "high_title_overlap",
+      "sharedTokens": [
+        "alice",
+        "wonderland"
+      ],
+      "items": [
+        {
+          "index": 267,
+          "title": "Alice's Wonderland Bakery",
+          "tmdbId": "154820",
+          "mediaType": null
+        },
+        {
+          "index": 1332,
+          "title": "Alice in Wonderland",
+          "tmdbId": "12155",
+          "mediaType": "movie"
+        }
+      ]
+    },
+    {
+      "reason": "high_title_overlap",
+      "sharedTokens": [
+        "bears",
+        "care"
+      ],
+      "items": [
+        {
+          "index": 272,
+          "title": "Care Bears: Adventures in Care-a-lot",
+          "tmdbId": "14100",
+          "mediaType": null
+        },
+        {
+          "index": 276,
+          "title": "The Care Bears",
+          "tmdbId": "2264",
+          "mediaType": null
+        }
+      ]
+    },
+    {
+      "reason": "high_title_overlap",
+      "sharedTokens": [
+        "bears",
+        "care"
+      ],
+      "items": [
+        {
+          "index": 276,
+          "title": "The Care Bears",
+          "tmdbId": "2264",
+          "mediaType": null
+        },
+        {
+          "index": 808,
+          "title": "The Care Bears Movie",
+          "tmdbId": "11243",
+          "mediaType": "movie"
+        }
+      ]
+    },
+    {
+      "reason": "high_title_overlap",
+      "sharedTokens": [
+        "little",
+        "my",
+        "pony"
+      ],
+      "items": [
+        {
+          "index": 304,
+          "title": "My Little Pony: Tell Your Tale",
+          "tmdbId": "202905",
+          "mediaType": null
+        },
+        {
+          "index": 347,
+          "title": "My Little Pony: Pony Life",
+          "tmdbId": "105313",
+          "mediaType": null
+        }
+      ]
+    },
+    {
+      "reason": "high_title_overlap",
+      "sharedTokens": [
+        "little",
+        "my",
+        "pony"
+      ],
+      "items": [
+        {
+          "index": 304,
+          "title": "My Little Pony: Tell Your Tale",
+          "tmdbId": "202905",
+          "mediaType": null
+        },
+        {
+          "index": 462,
+          "title": "My Little Pony Tales",
+          "tmdbId": "588",
+          "mediaType": null
+        }
+      ]
+    },
+    {
+      "reason": "high_title_overlap",
+      "sharedTokens": [
+        "little",
+        "my",
+        "pony"
+      ],
+      "items": [
+        {
+          "index": 304,
+          "title": "My Little Pony: Tell Your Tale",
+          "tmdbId": "202905",
+          "mediaType": null
+        },
+        {
+          "index": 880,
+          "title": "My Little Pony",
+          "tmdbId": "359878",
+          "mediaType": "movie"
+        }
+      ]
+    },
+    {
+      "reason": "high_title_overlap",
+      "sharedTokens": [
+        "lego",
+        "masters"
+      ],
+      "items": [
+        {
+          "index": 316,
+          "title": "LEGO Masters",
+          "tmdbId": "88754",
+          "mediaType": null
+        },
+        {
+          "index": 1371,
+          "title": "LEGO Masters",
+          "tmdbId": "84379",
+          "mediaType": "tv"
+        }
+      ]
+    },
+    {
+      "reason": "high_title_overlap",
+      "sharedTokens": [
+        "fraggle",
+        "rock"
+      ],
+      "items": [
+        {
+          "index": 319,
+          "title": "Fraggle Rock: Back to the Rock",
+          "tmdbId": "104002",
+          "mediaType": null
+        },
+        {
+          "index": 487,
+          "title": "Fraggle Rock: Rock On!",
+          "tmdbId": "102318",
+          "mediaType": null
+        }
+      ]
+    },
+    {
+      "reason": "high_title_overlap",
+      "sharedTokens": [
+        "dragons",
+        "rescue",
+        "riders"
+      ],
+      "items": [
+        {
+          "index": 326,
+          "title": "Dragons Rescue Riders: Heroes of the Sky",
+          "tmdbId": "138955",
+          "mediaType": null
+        },
+        {
+          "index": 371,
+          "title": "Dragons: Rescue Riders",
+          "tmdbId": "94045",
+          "mediaType": null
+        }
+      ]
+    },
+    {
+      "reason": "high_title_overlap",
+      "sharedTokens": [
+        "heroes",
+        "rescue"
+      ],
+      "items": [
+        {
+          "index": 326,
+          "title": "Dragons Rescue Riders: Heroes of the Sky",
+          "tmdbId": "138955",
+          "mediaType": null
+        },
+        {
+          "index": 455,
+          "title": "Rescue Heroes",
+          "tmdbId": "45054",
+          "mediaType": null
+        }
+      ]
+    },
+    {
+      "reason": "high_title_overlap",
+      "sharedTokens": [
+        "little",
+        "my",
+        "pony"
+      ],
+      "items": [
+        {
+          "index": 337,
+          "title": "My Little Pony: Make Your Mark",
+          "tmdbId": "158691",
+          "mediaType": null
+        },
+        {
+          "index": 347,
+          "title": "My Little Pony: Pony Life",
+          "tmdbId": "105313",
+          "mediaType": null
+        }
+      ]
+    },
+    {
+      "reason": "high_title_overlap",
+      "sharedTokens": [
+        "little",
+        "my",
+        "pony"
+      ],
+      "items": [
+        {
+          "index": 337,
+          "title": "My Little Pony: Make Your Mark",
+          "tmdbId": "158691",
+          "mediaType": null
+        },
+        {
+          "index": 462,
+          "title": "My Little Pony Tales",
+          "tmdbId": "588",
+          "mediaType": null
+        }
+      ]
+    },
+    {
+      "reason": "high_title_overlap",
+      "sharedTokens": [
+        "little",
+        "my",
+        "pony"
+      ],
+      "items": [
+        {
+          "index": 337,
+          "title": "My Little Pony: Make Your Mark",
+          "tmdbId": "158691",
+          "mediaType": null
+        },
+        {
+          "index": 880,
+          "title": "My Little Pony",
+          "tmdbId": "359878",
+          "mediaType": "movie"
+        }
+      ]
+    },
+    {
+      "reason": "high_title_overlap",
+      "sharedTokens": [
+        "little",
+        "my",
+        "pony"
+      ],
+      "items": [
+        {
+          "index": 347,
+          "title": "My Little Pony: Pony Life",
+          "tmdbId": "105313",
+          "mediaType": null
+        },
+        {
+          "index": 462,
+          "title": "My Little Pony Tales",
+          "tmdbId": "588",
+          "mediaType": null
+        }
+      ]
+    },
+    {
+      "reason": "high_title_overlap",
+      "sharedTokens": [
+        "little",
+        "my",
+        "pony"
+      ],
+      "items": [
+        {
+          "index": 347,
+          "title": "My Little Pony: Pony Life",
+          "tmdbId": "105313",
+          "mediaType": null
+        },
+        {
+          "index": 668,
+          "title": "My Little Pony: A Very Minty Christmas",
+          "tmdbId": "25396",
+          "mediaType": null
+        }
+      ]
+    },
+    {
+      "reason": "high_title_overlap",
+      "sharedTokens": [
+        "little",
+        "my",
+        "pony"
+      ],
+      "items": [
+        {
+          "index": 347,
+          "title": "My Little Pony: Pony Life",
+          "tmdbId": "105313",
+          "mediaType": null
+        },
+        {
+          "index": 702,
+          "title": "My Little Pony: Best Gift Ever",
+          "tmdbId": "564638",
+          "mediaType": "movie"
+        }
+      ]
+    },
+    {
+      "reason": "high_title_overlap",
+      "sharedTokens": [
+        "little",
+        "my",
+        "pony"
+      ],
+      "items": [
+        {
+          "index": 347,
+          "title": "My Little Pony: Pony Life",
+          "tmdbId": "105313",
+          "mediaType": null
+        },
+        {
+          "index": 793,
+          "title": "My Little Pony: The Runaway Rainbow",
+          "tmdbId": "256439",
+          "mediaType": "movie"
+        }
+      ]
+    },
+    {
+      "reason": "high_title_overlap",
+      "sharedTokens": [
+        "little",
+        "my",
+        "pony"
+      ],
+      "items": [
+        {
+          "index": 347,
+          "title": "My Little Pony: Pony Life",
+          "tmdbId": "105313",
+          "mediaType": null
+        },
+        {
+          "index": 880,
+          "title": "My Little Pony",
+          "tmdbId": "359878",
+          "mediaType": "movie"
+        }
+      ]
+    },
+    {
+      "reason": "high_title_overlap",
+      "sharedTokens": [
+        "johnny",
+        "test"
+      ],
+      "items": [
+        {
+          "index": 356,
+          "title": "Johnny Test",
+          "tmdbId": "127753",
+          "mediaType": null
+        },
+        {
+          "index": 1117,
+          "title": "Johnny Test",
+          "tmdbId": "1769",
+          "mediaType": "tv"
+        }
+      ]
+    },
+    {
+      "reason": "high_title_overlap",
+      "sharedTokens": [
+        "power",
+        "princess"
+      ],
+      "items": [
+        {
+          "index": 360,
+          "title": "Princess Power",
+          "tmdbId": "209708",
+          "mediaType": null
+        },
+        {
+          "index": 1245,
+          "title": "She-Ra: Princess of Power",
+          "tmdbId": "14755",
+          "mediaType": "tv"
+        }
+      ]
+    },
+    {
+      "reason": "high_title_overlap",
+      "sharedTokens": [
+        "monsters",
+        "super"
+      ],
+      "items": [
+        {
+          "index": 375,
+          "title": "Super Monsters",
+          "tmdbId": "74495",
+          "mediaType": null
+        },
+        {
+          "index": 497,
+          "title": "Super Monsters Monster Pets",
+          "tmdbId": "90137",
+          "mediaType": null
+        }
+      ]
+    },
+    {
+      "reason": "high_title_overlap",
+      "sharedTokens": [
+        "bottom",
+        "mossy",
+        "shaun",
+        "sheep"
+      ],
+      "items": [
+        {
+          "index": 427,
+          "title": "Shaun the Sheep: Adventures from Mossy Bottom",
+          "tmdbId": "100605",
+          "mediaType": null
+        },
+        {
+          "index": 439,
+          "title": "Shaun the Sheep: Mossy Bottom Shorts",
+          "tmdbId": "98840",
+          "mediaType": null
+        }
+      ]
+    },
+    {
+      "reason": "high_title_overlap",
+      "sharedTokens": [
+        "pooh",
+        "winnie"
+      ],
+      "items": [
+        {
+          "index": 446,
+          "title": "Playdate with Winnie the Pooh",
+          "tmdbId": "228674",
+          "mediaType": null
+        },
+        {
+          "index": 742,
+          "title": "Winnie the Pooh",
+          "tmdbId": "51162",
+          "mediaType": "movie"
+        }
+      ]
+    },
+    {
+      "reason": "high_title_overlap",
+      "sharedTokens": [
+        "little",
+        "my",
+        "pony"
+      ],
+      "items": [
+        {
+          "index": 462,
+          "title": "My Little Pony Tales",
+          "tmdbId": "588",
+          "mediaType": null
+        },
+        {
+          "index": 668,
+          "title": "My Little Pony: A Very Minty Christmas",
+          "tmdbId": "25396",
+          "mediaType": null
+        }
+      ]
+    },
+    {
+      "reason": "high_title_overlap",
+      "sharedTokens": [
+        "little",
+        "my",
+        "pony"
+      ],
+      "items": [
+        {
+          "index": 462,
+          "title": "My Little Pony Tales",
+          "tmdbId": "588",
+          "mediaType": null
+        },
+        {
+          "index": 702,
+          "title": "My Little Pony: Best Gift Ever",
+          "tmdbId": "564638",
+          "mediaType": "movie"
+        }
+      ]
+    },
+    {
+      "reason": "high_title_overlap",
+      "sharedTokens": [
+        "little",
+        "my",
+        "pony"
+      ],
+      "items": [
+        {
+          "index": 462,
+          "title": "My Little Pony Tales",
+          "tmdbId": "588",
+          "mediaType": null
+        },
+        {
+          "index": 793,
+          "title": "My Little Pony: The Runaway Rainbow",
+          "tmdbId": "256439",
+          "mediaType": "movie"
+        }
+      ]
+    },
+    {
+      "reason": "high_title_overlap",
+      "sharedTokens": [
+        "little",
+        "my",
+        "pony"
+      ],
+      "items": [
+        {
+          "index": 462,
+          "title": "My Little Pony Tales",
+          "tmdbId": "588",
+          "mediaType": null
+        },
+        {
+          "index": 880,
+          "title": "My Little Pony",
+          "tmdbId": "359878",
+          "mediaType": "movie"
+        }
+      ]
+    },
+    {
+      "reason": "high_title_overlap",
+      "sharedTokens": [
+        "pooh",
+        "winnie"
+      ],
+      "items": [
+        {
+          "index": 484,
+          "title": "Me & Winnie the Pooh",
+          "tmdbId": "229023",
+          "mediaType": null
+        },
+        {
+          "index": 742,
+          "title": "Winnie the Pooh",
+          "tmdbId": "51162",
+          "mediaType": "movie"
+        }
+      ]
+    },
+    {
+      "reason": "high_title_overlap",
+      "sharedTokens": [
+        "fraggle",
+        "rock"
+      ],
+      "items": [
+        {
+          "index": 487,
+          "title": "Fraggle Rock: Rock On!",
+          "tmdbId": "102318",
+          "mediaType": null
+        },
+        {
+          "index": 831,
+          "title": "The First Snow of Fraggle Rock",
+          "tmdbId": "1566269",
+          "mediaType": "movie"
+        }
+      ]
+    },
+    {
+      "reason": "high_title_overlap",
+      "sharedTokens": [
+        "spongebob",
+        "squarepants"
+      ],
+      "items": [
+        {
+          "index": 507,
+          "title": "The SpongeBob SquarePants Movie",
+          "tmdbId": "11836",
+          "mediaType": null
+        },
+        {
+          "index": 1142,
+          "title": "SpongeBob SquarePants",
+          "tmdbId": "387",
+          "mediaType": "tv"
+        }
+      ]
+    },
+    {
+      "reason": "high_title_overlap",
+      "sharedTokens": [
+        "madagascar",
+        "penguins"
+      ],
+      "items": [
+        {
+          "index": 515,
+          "title": "Penguins of Madagascar",
+          "tmdbId": "270946",
+          "mediaType": null
+        },
+        {
+          "index": 952,
+          "title": "The Penguins of Madagascar",
+          "tmdbId": "7869",
+          "mediaType": "tv"
+        }
+      ]
+    },
+    {
+      "reason": "high_title_overlap",
+      "sharedTokens": [
+        "beast",
+        "beauty"
+      ],
+      "items": [
+        {
+          "index": 521,
+          "title": "Beauty and the Beast: The Enchanted Christmas",
+          "tmdbId": "13313",
+          "mediaType": null
+        },
+        {
+          "index": 874,
+          "title": "Beauty and the Beast",
+          "tmdbId": "10020",
+          "mediaType": "movie"
+        }
+      ]
+    },
+    {
+      "reason": "high_title_overlap",
+      "sharedTokens": [
+        "beast",
+        "beauty"
+      ],
+      "items": [
+        {
+          "index": 521,
+          "title": "Beauty and the Beast: The Enchanted Christmas",
+          "tmdbId": "13313",
+          "mediaType": null
+        },
+        {
+          "index": 1417,
+          "title": "Beauty and the Beast",
+          "tmdbId": "321612",
+          "mediaType": "movie"
+        }
+      ]
+    },
+    {
+      "reason": "high_title_overlap",
+      "sharedTokens": [
+        "story",
+        "toy"
+      ],
+      "items": [
+        {
+          "index": 528,
+          "title": "Toy Story 4",
+          "tmdbId": "301528",
+          "mediaType": null
+        },
+        {
+          "index": 1305,
+          "title": "Toy Story 3",
+          "tmdbId": "10193",
+          "mediaType": "movie"
+        }
+      ]
+    },
+    {
+      "reason": "high_title_overlap",
+      "sharedTokens": [
+        "hotel",
+        "transylvania"
+      ],
+      "items": [
+        {
+          "index": 530,
+          "title": "Hotel Transylvania: Transformania",
+          "tmdbId": "585083",
+          "mediaType": null
+        },
+        {
+          "index": 1335,
+          "title": "Hotel Transylvania",
+          "tmdbId": "76492",
+          "mediaType": "movie"
+        }
+      ]
+    },
+    {
+      "reason": "high_title_overlap",
+      "sharedTokens": [
+        "king",
+        "lion"
+      ],
+      "items": [
+        {
+          "index": 531,
+          "title": "The Lion King II: Simba's Pride",
+          "tmdbId": "9732",
+          "mediaType": null
+        },
+        {
+          "index": 1373,
+          "title": "The Lion King",
+          "tmdbId": "8587",
+          "mediaType": "movie"
+        }
+      ]
+    },
+    {
+      "reason": "high_title_overlap",
+      "sharedTokens": [
+        "king",
+        "lion"
+      ],
+      "items": [
+        {
+          "index": 531,
+          "title": "The Lion King II: Simba's Pride",
+          "tmdbId": "9732",
+          "mediaType": null
+        },
+        {
+          "index": 1420,
+          "title": "The Lion King",
+          "tmdbId": "420818",
+          "mediaType": "movie"
+        }
+      ]
+    },
+    {
+      "reason": "high_title_overlap",
+      "sharedTokens": [
+        "snow",
+        "white"
+      ],
+      "items": [
+        {
+          "index": 538,
+          "title": "Snow White and the Seven Dwarfs",
+          "tmdbId": "408",
+          "mediaType": null
+        },
+        {
+          "index": 837,
+          "title": "Snow White",
+          "tmdbId": "116743",
+          "mediaType": "movie"
+        }
+      ]
+    },
+    {
+      "reason": "high_title_overlap",
+      "sharedTokens": [
+        "snow",
+        "white"
+      ],
+      "items": [
+        {
+          "index": 538,
+          "title": "Snow White and the Seven Dwarfs",
+          "tmdbId": "408",
+          "mediaType": null
+        },
+        {
+          "index": 838,
+          "title": "Snow White",
+          "tmdbId": "59075",
+          "mediaType": "movie"
+        }
+      ]
+    },
+    {
+      "reason": "high_title_overlap",
+      "sharedTokens": [
+        "despicable",
+        "me"
+      ],
+      "items": [
+        {
+          "index": 545,
+          "title": "Despicable Me 2",
+          "tmdbId": "93456",
+          "mediaType": null
+        },
+        {
+          "index": 617,
+          "title": "Despicable Me 3",
+          "tmdbId": "324852",
+          "mediaType": null
+        }
+      ]
+    },
+    {
+      "reason": "high_title_overlap",
+      "sharedTokens": [
+        "despicable",
+        "me"
+      ],
+      "items": [
+        {
+          "index": 545,
+          "title": "Despicable Me 2",
+          "tmdbId": "93456",
+          "mediaType": null
+        },
+        {
+          "index": 1303,
+          "title": "Despicable Me",
+          "tmdbId": "20352",
+          "mediaType": "movie"
+        }
+      ]
+    },
+    {
+      "reason": "high_title_overlap",
+      "sharedTokens": [
+        "alice",
+        "wonderland"
+      ],
+      "items": [
+        {
+          "index": 549,
+          "title": "Alice in Wonderland",
+          "tmdbId": "12092",
+          "mediaType": null
+        },
+        {
+          "index": 1332,
+          "title": "Alice in Wonderland",
+          "tmdbId": "12155",
+          "mediaType": "movie"
+        }
+      ]
+    },
+    {
+      "reason": "high_title_overlap",
+      "sharedTokens": [
+        "pan",
+        "peter"
+      ],
+      "items": [
+        {
+          "index": 555,
+          "title": "Peter Pan",
+          "tmdbId": "10693",
+          "mediaType": "movie"
+        },
+        {
+          "index": 882,
+          "title": "Peter Pan",
+          "tmdbId": "46188",
+          "mediaType": "movie"
+        }
+      ]
+    },
+    {
+      "reason": "high_title_overlap",
+      "sharedTokens": [
+        "chicken",
+        "little"
+      ],
+      "items": [
+        {
+          "index": 557,
+          "title": "Chicken Little",
+          "tmdbId": "9982",
+          "mediaType": "movie"
+        },
+        {
+          "index": 1441,
+          "title": "Chicken Little",
+          "tmdbId": "64648",
+          "mediaType": "movie"
+        }
+      ]
+    },
+    {
+      "reason": "high_title_overlap",
+      "sharedTokens": [
+        "dragon",
+        "how",
+        "train",
+        "your"
+      ],
+      "items": [
+        {
+          "index": 571,
+          "title": "How to Train Your Dragon: Homecoming",
+          "tmdbId": "638507",
+          "mediaType": null
+        },
+        {
+          "index": 1324,
+          "title": "How to Train Your Dragon 2",
+          "tmdbId": "82702",
+          "mediaType": "movie"
+        }
+      ]
+    },
+    {
+      "reason": "high_title_overlap",
+      "sharedTokens": [
+        "dragon",
+        "how",
+        "train",
+        "your"
+      ],
+      "items": [
+        {
+          "index": 571,
+          "title": "How to Train Your Dragon: Homecoming",
+          "tmdbId": "638507",
+          "mediaType": null
+        },
+        {
+          "index": 1325,
+          "title": "How to Train Your Dragon: The Hidden World",
+          "tmdbId": "166428",
+          "mediaType": "movie"
+        }
+      ]
+    },
+    {
+      "reason": "high_title_overlap",
+      "sharedTokens": [
+        "dragon",
+        "how",
+        "train",
+        "your"
+      ],
+      "items": [
+        {
+          "index": 571,
+          "title": "How to Train Your Dragon: Homecoming",
+          "tmdbId": "638507",
+          "mediaType": null
+        },
+        {
+          "index": 1374,
+          "title": "How to Train Your Dragon",
+          "tmdbId": "10191",
+          "mediaType": "movie"
+        }
+      ]
+    },
+    {
+      "reason": "high_title_overlap",
+      "sharedTokens": [
+        "dragon",
+        "how",
+        "train",
+        "your"
+      ],
+      "items": [
+        {
+          "index": 571,
+          "title": "How to Train Your Dragon: Homecoming",
+          "tmdbId": "638507",
+          "mediaType": null
+        },
+        {
+          "index": 1416,
+          "title": "How to Train Your Dragon",
+          "tmdbId": "1087192",
+          "mediaType": "movie"
+        }
+      ]
+    },
+    {
+      "reason": "high_title_overlap",
+      "sharedTokens": [
+        "movie",
+        "patrol",
+        "paw"
+      ],
+      "items": [
+        {
+          "index": 595,
+          "title": "PAW Patrol: The Mighty Movie",
+          "tmdbId": "893723",
+          "mediaType": null
+        },
+        {
+          "index": 670,
+          "title": "PAW Patrol: The Movie",
+          "tmdbId": "675445",
+          "mediaType": null
+        }
+      ]
+    },
+    {
+      "reason": "high_title_overlap",
+      "sharedTokens": [
+        "king",
+        "lion"
+      ],
+      "items": [
+        {
+          "index": 598,
+          "title": "The Lion King 1½",
+          "tmdbId": "11430",
+          "mediaType": null
+        },
+        {
+          "index": 1373,
+          "title": "The Lion King",
+          "tmdbId": "8587",
+          "mediaType": "movie"
+        }
+      ]
+    },
+    {
+      "reason": "high_title_overlap",
+      "sharedTokens": [
+        "king",
+        "lion"
+      ],
+      "items": [
+        {
+          "index": 598,
+          "title": "The Lion King 1½",
+          "tmdbId": "11430",
+          "mediaType": null
+        },
+        {
+          "index": 1420,
+          "title": "The Lion King",
+          "tmdbId": "420818",
+          "mediaType": "movie"
+        }
+      ]
+    },
+    {
+      "reason": "high_title_overlap",
+      "sharedTokens": [
+        "lego",
+        "movie"
+      ],
+      "items": [
+        {
+          "index": 602,
+          "title": "The Lego Movie",
+          "tmdbId": "137106",
+          "mediaType": null
+        },
+        {
+          "index": 1500,
+          "title": "The Lego Batman Movie",
+          "tmdbId": "324849",
+          "mediaType": "movie"
+        }
+      ]
+    },
+    {
+      "reason": "high_title_overlap",
+      "sharedTokens": [
+        "jerry",
+        "tom"
+      ],
+      "items": [
+        {
+          "index": 611,
+          "title": "Tom & Jerry",
+          "tmdbId": "587807",
+          "mediaType": null
+        },
+        {
+          "index": 964,
+          "title": "The Tom and Jerry Show",
+          "tmdbId": "47480",
+          "mediaType": "tv"
+        }
+      ]
+    },
+    {
+      "reason": "high_title_overlap",
+      "sharedTokens": [
+        "fu",
+        "kung",
+        "panda"
+      ],
+      "items": [
+        {
+          "index": 616,
+          "title": "Kung Fu Panda Holiday",
+          "tmdbId": "50393",
+          "mediaType": null
+        },
+        {
+          "index": 1120,
+          "title": "Kung Fu Panda: The Dragon Knight",
+          "tmdbId": "129959",
+          "mediaType": "tv"
+        }
+      ]
+    },
+    {
+      "reason": "high_title_overlap",
+      "sharedTokens": [
+        "fu",
+        "kung",
+        "panda"
+      ],
+      "items": [
+        {
+          "index": 616,
+          "title": "Kung Fu Panda Holiday",
+          "tmdbId": "50393",
+          "mediaType": null
+        },
+        {
+          "index": 1282,
+          "title": "Kung Fu Panda 4",
+          "tmdbId": "1011985",
+          "mediaType": "movie"
+        }
+      ]
+    },
+    {
+      "reason": "high_title_overlap",
+      "sharedTokens": [
+        "fu",
+        "kung",
+        "panda"
+      ],
+      "items": [
+        {
+          "index": 616,
+          "title": "Kung Fu Panda Holiday",
+          "tmdbId": "50393",
+          "mediaType": null
+        },
+        {
+          "index": 1302,
+          "title": "Kung Fu Panda",
+          "tmdbId": "9502",
+          "mediaType": "movie"
+        }
+      ]
+    },
+    {
+      "reason": "high_title_overlap",
+      "sharedTokens": [
+        "fu",
+        "kung",
+        "panda"
+      ],
+      "items": [
+        {
+          "index": 616,
+          "title": "Kung Fu Panda Holiday",
+          "tmdbId": "50393",
+          "mediaType": null
+        },
+        {
+          "index": 1343,
+          "title": "Kung Fu Panda 2",
+          "tmdbId": "49444",
+          "mediaType": "movie"
+        }
+      ]
+    },
+    {
+      "reason": "high_title_overlap",
+      "sharedTokens": [
+        "fu",
+        "kung",
+        "panda"
+      ],
+      "items": [
+        {
+          "index": 616,
+          "title": "Kung Fu Panda Holiday",
+          "tmdbId": "50393",
+          "mediaType": null
+        },
+        {
+          "index": 1349,
+          "title": "Kung Fu Panda 3",
+          "tmdbId": "140300",
+          "mediaType": "movie"
+        }
+      ]
+    },
+    {
+      "reason": "high_title_overlap",
+      "sharedTokens": [
+        "despicable",
+        "me"
+      ],
+      "items": [
+        {
+          "index": 617,
+          "title": "Despicable Me 3",
+          "tmdbId": "324852",
+          "mediaType": null
+        },
+        {
+          "index": 1303,
+          "title": "Despicable Me",
+          "tmdbId": "20352",
+          "mediaType": "movie"
+        }
+      ]
+    },
+    {
+      "reason": "high_title_overlap",
+      "sharedTokens": [
+        "alice",
+        "glass",
+        "looking",
+        "through"
+      ],
+      "items": [
+        {
+          "index": 626,
+          "title": "Alice Through the Looking Glass",
+          "tmdbId": "15162",
+          "mediaType": null
+        },
+        {
+          "index": 684,
+          "title": "Alice Through the Looking Glass",
+          "tmdbId": "176462",
+          "mediaType": null
+        }
+      ]
+    },
+    {
+      "reason": "high_title_overlap",
+      "sharedTokens": [
+        "chance",
+        "cloudy",
+        "meatballs"
+      ],
+      "items": [
+        {
+          "index": 645,
+          "title": "Cloudy with a Chance of Meatballs 2",
+          "tmdbId": "109451",
+          "mediaType": null
+        },
+        {
+          "index": 1368,
+          "title": "Cloudy with a Chance of Meatballs",
+          "tmdbId": "70967",
+          "mediaType": "tv"
+        }
+      ]
+    },
+    {
+      "reason": "high_title_overlap",
+      "sharedTokens": [
+        "chance",
+        "cloudy",
+        "meatballs"
+      ],
+      "items": [
+        {
+          "index": 645,
+          "title": "Cloudy with a Chance of Meatballs 2",
+          "tmdbId": "109451",
+          "mediaType": null
+        },
+        {
+          "index": 1422,
+          "title": "Cloudy with a Chance of Meatballs",
+          "tmdbId": "22794",
+          "mediaType": "movie"
+        }
+      ]
+    },
+    {
+      "reason": "high_title_overlap",
+      "sharedTokens": [
+        "before",
+        "christmas",
+        "night"
+      ],
+      "items": [
+        {
+          "index": 663,
+          "title": "The Night Before Christmas",
+          "tmdbId": "53929",
+          "mediaType": null
+        },
+        {
+          "index": 682,
+          "title": "The Night Before Christmas",
+          "tmdbId": "103097",
+          "mediaType": null
+        }
+      ]
+    },
+    {
+      "reason": "high_title_overlap",
+      "sharedTokens": [
+        "hood",
+        "robin"
+      ],
+      "items": [
+        {
+          "index": 665,
+          "title": "Robin Hood",
+          "tmdbId": "11886",
+          "mediaType": null
+        },
+        {
+          "index": 1049,
+          "title": "The Adventures of Robin Hood",
+          "tmdbId": "10393",
+          "mediaType": "tv"
+        }
+      ]
+    },
+    {
+      "reason": "high_title_overlap",
+      "sharedTokens": [
+        "little",
+        "my",
+        "pony"
+      ],
+      "items": [
+        {
+          "index": 668,
+          "title": "My Little Pony: A Very Minty Christmas",
+          "tmdbId": "25396",
+          "mediaType": null
+        },
+        {
+          "index": 880,
+          "title": "My Little Pony",
+          "tmdbId": "359878",
+          "mediaType": "movie"
+        }
+      ]
+    },
+    {
+      "reason": "high_title_overlap",
+      "sharedTokens": [
+        "found",
+        "lost"
+      ],
+      "items": [
+        {
+          "index": 694,
+          "title": "Lost and Found",
+          "tmdbId": "33572",
+          "mediaType": "movie"
+        },
+        {
+          "index": 1385,
+          "title": "Lost and Found",
+          "tmdbId": "274153",
+          "mediaType": "movie"
+        }
+      ]
+    },
+    {
+      "reason": "high_title_overlap",
+      "sharedTokens": [
+        "little",
+        "my",
+        "pony"
+      ],
+      "items": [
+        {
+          "index": 702,
+          "title": "My Little Pony: Best Gift Ever",
+          "tmdbId": "564638",
+          "mediaType": "movie"
+        },
+        {
+          "index": 880,
+          "title": "My Little Pony",
+          "tmdbId": "359878",
+          "mediaType": "movie"
+        }
+      ]
+    },
+    {
+      "reason": "high_title_overlap",
+      "sharedTokens": [
+        "house",
+        "loud"
+      ],
+      "items": [
+        {
+          "index": 763,
+          "title": "A Loud House Christmas",
+          "tmdbId": "674610",
+          "mediaType": "movie"
+        },
+        {
+          "index": 967,
+          "title": "The Loud House",
+          "tmdbId": "68073",
+          "mediaType": "tv"
+        }
+      ]
+    },
+    {
+      "reason": "high_title_overlap",
+      "sharedTokens": [
+        "brown",
+        "charlie",
+        "good",
+        "man",
+        "re",
+        "you"
+      ],
+      "items": [
+        {
+          "index": 777,
+          "title": "You're a Good Man, Charlie Brown",
+          "tmdbId": "51330",
+          "mediaType": "movie"
+        },
+        {
+          "index": 879,
+          "title": "You're a Good Man, Charlie Brown",
+          "tmdbId": "360303",
+          "mediaType": "movie"
+        }
+      ]
+    },
+    {
+      "reason": "high_title_overlap",
+      "sharedTokens": [
+        "little",
+        "my",
+        "pony"
+      ],
+      "items": [
+        {
+          "index": 793,
+          "title": "My Little Pony: The Runaway Rainbow",
+          "tmdbId": "256439",
+          "mediaType": "movie"
+        },
+        {
+          "index": 880,
+          "title": "My Little Pony",
+          "tmdbId": "359878",
+          "mediaType": "movie"
+        }
+      ]
+    },
+    {
+      "reason": "high_title_overlap",
+      "sharedTokens": [
+        "parent",
+        "trap"
+      ],
+      "items": [
+        {
+          "index": 795,
+          "title": "Parent Trap III",
+          "tmdbId": "64183",
+          "mediaType": "movie"
+        },
+        {
+          "index": 1345,
+          "title": "The Parent Trap",
+          "tmdbId": "9820",
+          "mediaType": "movie"
+        }
+      ]
+    },
+    {
+      "reason": "high_title_overlap",
+      "sharedTokens": [
+        "snow",
+        "white"
+      ],
+      "items": [
+        {
+          "index": 837,
+          "title": "Snow White",
+          "tmdbId": "116743",
+          "mediaType": "movie"
+        },
+        {
+          "index": 838,
+          "title": "Snow White",
+          "tmdbId": "59075",
+          "mediaType": "movie"
+        }
+      ]
+    },
+    {
+      "reason": "high_title_overlap",
+      "sharedTokens": [
+        "little",
+        "mermaid"
+      ],
+      "items": [
+        {
+          "index": 869,
+          "title": "The Little Mermaid",
+          "tmdbId": "2675",
+          "mediaType": "tv"
+        },
+        {
+          "index": 875,
+          "title": "The Little Mermaid",
+          "tmdbId": "10144",
+          "mediaType": "movie"
+        }
+      ]
+    },
+    {
+      "reason": "high_title_overlap",
+      "sharedTokens": [
+        "little",
+        "mermaid"
+      ],
+      "items": [
+        {
+          "index": 869,
+          "title": "The Little Mermaid",
+          "tmdbId": "2675",
+          "mediaType": "tv"
+        },
+        {
+          "index": 1419,
+          "title": "The Little Mermaid",
+          "tmdbId": "447277",
+          "mediaType": "movie"
+        }
+      ]
+    },
+    {
+      "reason": "high_title_overlap",
+      "sharedTokens": [
+        "beast",
+        "beauty"
+      ],
+      "items": [
+        {
+          "index": 874,
+          "title": "Beauty and the Beast",
+          "tmdbId": "10020",
+          "mediaType": "movie"
+        },
+        {
+          "index": 1417,
+          "title": "Beauty and the Beast",
+          "tmdbId": "321612",
+          "mediaType": "movie"
+        }
+      ]
+    },
+    {
+      "reason": "high_title_overlap",
+      "sharedTokens": [
+        "little",
+        "mermaid"
+      ],
+      "items": [
+        {
+          "index": 875,
+          "title": "The Little Mermaid",
+          "tmdbId": "10144",
+          "mediaType": "movie"
+        },
+        {
+          "index": 1419,
+          "title": "The Little Mermaid",
+          "tmdbId": "447277",
+          "mediaType": "movie"
+        }
+      ]
+    },
+    {
+      "reason": "high_title_overlap",
+      "sharedTokens": [
+        "doctor",
+        "dolittle"
+      ],
+      "items": [
+        {
+          "index": 876,
+          "title": "Doctor Dolittle",
+          "tmdbId": "16081",
+          "mediaType": "movie"
+        },
+        {
+          "index": 1445,
+          "title": "Doctor Dolittle",
+          "tmdbId": "3050",
+          "mediaType": "movie"
+        }
+      ]
+    },
+    {
+      "reason": "high_title_overlap",
+      "sharedTokens": [
+        "oz",
+        "wizard"
+      ],
+      "items": [
+        {
+          "index": 877,
+          "title": "The Wizard of Oz",
+          "tmdbId": "415009",
+          "mediaType": "movie"
+        },
+        {
+          "index": 1418,
+          "title": "The Wizard of Oz",
+          "tmdbId": "630",
+          "mediaType": "movie"
+        }
+      ]
+    },
+    {
+      "reason": "high_title_overlap",
+      "sharedTokens": [
+        "children",
+        "railway"
+      ],
+      "items": [
+        {
+          "index": 878,
+          "title": "The Railway Children",
+          "tmdbId": "37662",
+          "mediaType": "movie"
+        },
+        {
+          "index": 1473,
+          "title": "The Railway Children",
+          "tmdbId": "31920",
+          "mediaType": "movie"
+        }
+      ]
+    },
+    {
+      "reason": "high_title_overlap",
+      "sharedTokens": [
+        "morty",
+        "rick"
+      ],
+      "items": [
+        {
+          "index": 888,
+          "title": "Rick and Morty",
+          "tmdbId": "60625",
+          "mediaType": "tv"
+        },
+        {
+          "index": 1246,
+          "title": "Rick and Morty: The Anime",
+          "tmdbId": "202282",
+          "mediaType": "tv"
+        }
+      ]
+    },
+    {
+      "reason": "high_title_overlap",
+      "sharedTokens": [
+        "teen",
+        "titans"
+      ],
+      "items": [
+        {
+          "index": 896,
+          "title": "Teen Titans Go!",
+          "tmdbId": "45140",
+          "mediaType": "tv"
+        },
+        {
+          "index": 1024,
+          "title": "Teen Titans",
+          "tmdbId": "604",
+          "mediaType": "tv"
+        }
+      ]
+    },
+    {
+      "reason": "high_title_overlap",
+      "sharedTokens": [
+        "clone",
+        "star",
+        "wars"
+      ],
+      "items": [
+        {
+          "index": 898,
+          "title": "Star Wars: The Clone Wars",
+          "tmdbId": "4194",
+          "mediaType": "tv"
+        },
+        {
+          "index": 1225,
+          "title": "Star Wars: Clone Wars",
+          "tmdbId": "3122",
+          "mediaType": "tv"
+        }
+      ]
+    },
+    {
+      "reason": "high_title_overlap",
+      "sharedTokens": [
+        "adventure",
+        "time"
+      ],
+      "items": [
+        {
+          "index": 906,
+          "title": "Adventure Time",
+          "tmdbId": "15260",
+          "mediaType": "tv"
+        },
+        {
+          "index": 956,
+          "title": "Adventure Time: Fionna and Cake",
+          "tmdbId": "131378",
+          "mediaType": "tv"
+        }
+      ]
+    },
+    {
+      "reason": "high_title_overlap",
+      "sharedTokens": [
+        "adventure",
+        "time"
+      ],
+      "items": [
+        {
+          "index": 906,
+          "title": "Adventure Time",
+          "tmdbId": "15260",
+          "mediaType": "tv"
+        },
+        {
+          "index": 1271,
+          "title": "Adventure Time: Distant Lands",
+          "tmdbId": "94810",
+          "mediaType": "tv"
+        }
+      ]
+    },
+    {
+      "reason": "high_title_overlap",
+      "sharedTokens": [
+        "fairly",
+        "oddparents"
+      ],
+      "items": [
+        {
+          "index": 917,
+          "title": "The Fairly OddParents",
+          "tmdbId": "4630",
+          "mediaType": "tv"
+        },
+        {
+          "index": 1114,
+          "title": "The Fairly OddParents: A New Wish",
+          "tmdbId": "247246",
+          "mediaType": "tv"
+        }
+      ]
+    },
+    {
+      "reason": "high_title_overlap",
+      "sharedTokens": [
+        "bare",
+        "bears",
+        "we"
+      ],
+      "items": [
+        {
+          "index": 933,
+          "title": "We Bare Bears",
+          "tmdbId": "63401",
+          "mediaType": "tv"
+        },
+        {
+          "index": 1314,
+          "title": "We Bare Bears: The Movie",
+          "tmdbId": "677638",
+          "mediaType": "movie"
+        }
+      ]
+    },
+    {
+      "reason": "high_title_overlap",
+      "sharedTokens": [
+        "wonder",
+        "years"
+      ],
+      "items": [
+        {
+          "index": 946,
+          "title": "The Wonder Years",
+          "tmdbId": "4500",
+          "mediaType": "tv"
+        },
+        {
+          "index": 1205,
+          "title": "The Wonder Years",
+          "tmdbId": "126164",
+          "mediaType": "tv"
+        }
+      ]
+    },
+    {
+      "reason": "high_title_overlap",
+      "sharedTokens": [
+        "girls",
+        "powerpuff"
+      ],
+      "items": [
+        {
+          "index": 947,
+          "title": "The Powerpuff Girls",
+          "tmdbId": "607",
+          "mediaType": "tv"
+        },
+        {
+          "index": 1199,
+          "title": "The Powerpuff Girls",
+          "tmdbId": "66149",
+          "mediaType": "tv"
+        }
+      ]
+    },
+    {
+      "reason": "high_title_overlap",
+      "sharedTokens": [
+        "airbender",
+        "avatar",
+        "last"
+      ],
+      "items": [
+        {
+          "index": 948,
+          "title": "Avatar: The Last Airbender",
+          "tmdbId": "246",
+          "mediaType": "tv"
+        },
+        {
+          "index": 1032,
+          "title": "Avatar the Last Airbender",
+          "tmdbId": "82452",
+          "mediaType": "tv"
+        }
+      ]
+    },
+    {
+      "reason": "high_title_overlap",
+      "sharedTokens": [
+        "mutant",
+        "ninja",
+        "teenage",
+        "turtles"
+      ],
+      "items": [
+        {
+          "index": 961,
+          "title": "Teenage Mutant Ninja Turtles",
+          "tmdbId": "51817",
+          "mediaType": "tv"
+        },
+        {
+          "index": 1057,
+          "title": "Teenage Mutant Ninja Turtles",
+          "tmdbId": "2284",
+          "mediaType": "tv"
+        }
+      ]
+    },
+    {
+      "reason": "high_title_overlap",
+      "sharedTokens": [
+        "mutant",
+        "ninja",
+        "teenage",
+        "turtles"
+      ],
+      "items": [
+        {
+          "index": 961,
+          "title": "Teenage Mutant Ninja Turtles",
+          "tmdbId": "51817",
+          "mediaType": "tv"
+        },
+        {
+          "index": 1217,
+          "title": "Rise of the Teenage Mutant Ninja Turtles",
+          "tmdbId": "81026",
+          "mediaType": "tv"
+        }
+      ]
+    },
+    {
+      "reason": "high_title_overlap",
+      "sharedTokens": [
+        "man",
+        "spider"
+      ],
+      "items": [
+        {
+          "index": 978,
+          "title": "Spider-Man",
+          "tmdbId": "888",
+          "mediaType": "tv"
+        },
+        {
+          "index": 1059,
+          "title": "Marvel's Ultimate Spider-Man",
+          "tmdbId": "34391",
+          "mediaType": "tv"
+        }
+      ]
+    },
+    {
+      "reason": "high_title_overlap",
+      "sharedTokens": [
+        "man",
+        "spider"
+      ],
+      "items": [
+        {
+          "index": 978,
+          "title": "Spider-Man",
+          "tmdbId": "888",
+          "mediaType": "tv"
+        },
+        {
+          "index": 1257,
+          "title": "Your Friendly Neighborhood Spider-Man",
+          "tmdbId": "138503",
+          "mediaType": "tv"
+        }
+      ]
+    },
+    {
+      "reason": "high_title_overlap",
+      "sharedTokens": [
+        "man",
+        "spider"
+      ],
+      "items": [
+        {
+          "index": 978,
+          "title": "Spider-Man",
+          "tmdbId": "888",
+          "mediaType": "tv"
+        },
+        {
+          "index": 1288,
+          "title": "Spider-Man: Across the Spider-Verse",
+          "tmdbId": "569094",
+          "mediaType": "movie"
+        }
+      ]
+    },
+    {
+      "reason": "high_title_overlap",
+      "sharedTokens": [
+        "man",
+        "spider"
+      ],
+      "items": [
+        {
+          "index": 978,
+          "title": "Spider-Man",
+          "tmdbId": "888",
+          "mediaType": "tv"
+        },
+        {
+          "index": 1292,
+          "title": "Spider-Man: Into the Spider-Verse",
+          "tmdbId": "324857",
+          "mediaType": "movie"
+        }
+      ]
+    },
+    {
+      "reason": "high_title_overlap",
+      "sharedTokens": [
+        "10",
+        "ben"
+      ],
+      "items": [
+        {
+          "index": 989,
+          "title": "Ben 10",
+          "tmdbId": "4686",
+          "mediaType": "tv"
+        },
+        {
+          "index": 1030,
+          "title": "Ben 10: Ultimate Alien",
+          "tmdbId": "31109",
+          "mediaType": "tv"
+        }
+      ]
+    },
+    {
+      "reason": "high_title_overlap",
+      "sharedTokens": [
+        "10",
+        "ben"
+      ],
+      "items": [
+        {
+          "index": 989,
+          "title": "Ben 10",
+          "tmdbId": "4686",
+          "mediaType": "tv"
+        },
+        {
+          "index": 1039,
+          "title": "Ben 10: Alien Force",
+          "tmdbId": "6040",
+          "mediaType": "tv"
+        }
+      ]
+    },
+    {
+      "reason": "high_title_overlap",
+      "sharedTokens": [
+        "10",
+        "ben"
+      ],
+      "items": [
+        {
+          "index": 989,
+          "title": "Ben 10",
+          "tmdbId": "4686",
+          "mediaType": "tv"
+        },
+        {
+          "index": 1062,
+          "title": "Ben 10: Omniverse",
+          "tmdbId": "46922",
+          "mediaType": "tv"
+        }
+      ]
+    },
+    {
+      "reason": "high_title_overlap",
+      "sharedTokens": [
+        "10",
+        "ben"
+      ],
+      "items": [
+        {
+          "index": 989,
+          "title": "Ben 10",
+          "tmdbId": "4686",
+          "mediaType": "tv"
+        },
+        {
+          "index": 1086,
+          "title": "Ben 10",
+          "tmdbId": "68295",
+          "mediaType": "tv"
+        }
+      ]
+    },
+    {
+      "reason": "high_title_overlap",
+      "sharedTokens": [
+        "beavis",
+        "butt",
+        "head"
+      ],
+      "items": [
+        {
+          "index": 990,
+          "title": "Beavis and Butt-Head",
+          "tmdbId": "13943",
+          "mediaType": "tv"
+        },
+        {
+          "index": 1065,
+          "title": "Mike Judge's Beavis and Butt-Head",
+          "tmdbId": "203489",
+          "mediaType": "tv"
+        }
+      ]
+    },
+    {
+      "reason": "high_title_overlap",
+      "sharedTokens": [
+        "justice",
+        "league"
+      ],
+      "items": [
+        {
+          "index": 1008,
+          "title": "Justice League Unlimited",
+          "tmdbId": "84200",
+          "mediaType": "tv"
+        },
+        {
+          "index": 1166,
+          "title": "Justice League",
+          "tmdbId": "1618",
+          "mediaType": "tv"
+        }
+      ]
+    },
+    {
+      "reason": "high_title_overlap",
+      "sharedTokens": [
+        "10",
+        "alien",
+        "ben"
+      ],
+      "items": [
+        {
+          "index": 1030,
+          "title": "Ben 10: Ultimate Alien",
+          "tmdbId": "31109",
+          "mediaType": "tv"
+        },
+        {
+          "index": 1039,
+          "title": "Ben 10: Alien Force",
+          "tmdbId": "6040",
+          "mediaType": "tv"
+        }
+      ]
+    },
+    {
+      "reason": "high_title_overlap",
+      "sharedTokens": [
+        "10",
+        "ben"
+      ],
+      "items": [
+        {
+          "index": 1030,
+          "title": "Ben 10: Ultimate Alien",
+          "tmdbId": "31109",
+          "mediaType": "tv"
+        },
+        {
+          "index": 1086,
+          "title": "Ben 10",
+          "tmdbId": "68295",
+          "mediaType": "tv"
+        }
+      ]
+    },
+    {
+      "reason": "high_title_overlap",
+      "sharedTokens": [
+        "big",
+        "hero"
+      ],
+      "items": [
+        {
+          "index": 1037,
+          "title": "Big Hero 6 The Series",
+          "tmdbId": "68665",
+          "mediaType": "tv"
+        },
+        {
+          "index": 1296,
+          "title": "Big Hero 6",
+          "tmdbId": "177572",
+          "mediaType": "movie"
+        }
+      ]
+    },
+    {
+      "reason": "high_title_overlap",
+      "sharedTokens": [
+        "10",
+        "ben"
+      ],
+      "items": [
+        {
+          "index": 1039,
+          "title": "Ben 10: Alien Force",
+          "tmdbId": "6040",
+          "mediaType": "tv"
+        },
+        {
+          "index": 1086,
+          "title": "Ben 10",
+          "tmdbId": "68295",
+          "mediaType": "tv"
+        }
+      ]
+    },
+    {
+      "reason": "high_title_overlap",
+      "sharedTokens": [
+        "bell",
+        "by",
+        "saved"
+      ],
+      "items": [
+        {
+          "index": 1048,
+          "title": "Saved by the Bell: The New Class",
+          "tmdbId": "531",
+          "mediaType": "tv"
+        },
+        {
+          "index": 1144,
+          "title": "Saved by the Bell",
+          "tmdbId": "4345",
+          "mediaType": "tv"
+        }
+      ]
+    },
+    {
+      "reason": "high_title_overlap",
+      "sharedTokens": [
+        "mutant",
+        "ninja",
+        "teenage",
+        "turtles"
+      ],
+      "items": [
+        {
+          "index": 1057,
+          "title": "Teenage Mutant Ninja Turtles",
+          "tmdbId": "2284",
+          "mediaType": "tv"
+        },
+        {
+          "index": 1217,
+          "title": "Rise of the Teenage Mutant Ninja Turtles",
+          "tmdbId": "81026",
+          "mediaType": "tv"
+        }
+      ]
+    },
+    {
+      "reason": "high_title_overlap",
+      "sharedTokens": [
+        "10",
+        "ben"
+      ],
+      "items": [
+        {
+          "index": 1062,
+          "title": "Ben 10: Omniverse",
+          "tmdbId": "46922",
+          "mediaType": "tv"
+        },
+        {
+          "index": 1086,
+          "title": "Ben 10",
+          "tmdbId": "68295",
+          "mediaType": "tv"
+        }
+      ]
+    },
+    {
+      "reason": "high_title_overlap",
+      "sharedTokens": [
+        "ed",
+        "edd",
+        "eddy"
+      ],
+      "items": [
+        {
+          "index": 1063,
+          "title": "Ed, Edd n Eddy",
+          "tmdbId": "606",
+          "mediaType": "tv"
+        },
+        {
+          "index": 1507,
+          "title": "Ed, Edd n Eddy’s Jingle Jingle Jangle",
+          "tmdbId": "568024",
+          "mediaType": "movie"
+        }
+      ]
+    },
+    {
+      "reason": "high_title_overlap",
+      "sharedTokens": [
+        "ed",
+        "edd",
+        "eddy"
+      ],
+      "items": [
+        {
+          "index": 1063,
+          "title": "Ed, Edd n Eddy",
+          "tmdbId": "606",
+          "mediaType": "tv"
+        },
+        {
+          "index": 1534,
+          "title": "Ed, Edd n Eddy's Big Picture Show",
+          "tmdbId": "50300",
+          "mediaType": "movie"
+        }
+      ]
+    },
+    {
+      "reason": "high_title_overlap",
+      "sharedTokens": [
+        "family",
+        "proud"
+      ],
+      "items": [
+        {
+          "index": 1094,
+          "title": "The Proud Family",
+          "tmdbId": "543",
+          "mediaType": "tv"
+        },
+        {
+          "index": 1264,
+          "title": "The Proud Family: Louder and Prouder",
+          "tmdbId": "125438",
+          "mediaType": "tv"
+        }
+      ]
+    },
+    {
+      "reason": "high_title_overlap",
+      "sharedTokens": [
+        "fu",
+        "kung",
+        "panda"
+      ],
+      "items": [
+        {
+          "index": 1120,
+          "title": "Kung Fu Panda: The Dragon Knight",
+          "tmdbId": "129959",
+          "mediaType": "tv"
+        },
+        {
+          "index": 1282,
+          "title": "Kung Fu Panda 4",
+          "tmdbId": "1011985",
+          "mediaType": "movie"
+        }
+      ]
+    },
+    {
+      "reason": "high_title_overlap",
+      "sharedTokens": [
+        "fu",
+        "kung",
+        "panda"
+      ],
+      "items": [
+        {
+          "index": 1120,
+          "title": "Kung Fu Panda: The Dragon Knight",
+          "tmdbId": "129959",
+          "mediaType": "tv"
+        },
+        {
+          "index": 1302,
+          "title": "Kung Fu Panda",
+          "tmdbId": "9502",
+          "mediaType": "movie"
+        }
+      ]
+    },
+    {
+      "reason": "high_title_overlap",
+      "sharedTokens": [
+        "fu",
+        "kung",
+        "panda"
+      ],
+      "items": [
+        {
+          "index": 1120,
+          "title": "Kung Fu Panda: The Dragon Knight",
+          "tmdbId": "129959",
+          "mediaType": "tv"
+        },
+        {
+          "index": 1343,
+          "title": "Kung Fu Panda 2",
+          "tmdbId": "49444",
+          "mediaType": "movie"
+        }
+      ]
+    },
+    {
+      "reason": "high_title_overlap",
+      "sharedTokens": [
+        "fu",
+        "kung",
+        "panda"
+      ],
+      "items": [
+        {
+          "index": 1120,
+          "title": "Kung Fu Panda: The Dragon Knight",
+          "tmdbId": "129959",
+          "mediaType": "tv"
+        },
+        {
+          "index": 1349,
+          "title": "Kung Fu Panda 3",
+          "tmdbId": "140300",
+          "mediaType": "movie"
+        }
+      ]
+    },
+    {
+      "reason": "high_title_overlap",
+      "sharedTokens": [
+        "bad",
+        "guys"
+      ],
+      "items": [
+        {
+          "index": 1135,
+          "title": "The Bad Guys: The Series",
+          "tmdbId": "302540",
+          "mediaType": "tv"
+        },
+        {
+          "index": 1293,
+          "title": "The Bad Guys 2",
+          "tmdbId": "1175942",
+          "mediaType": "movie"
+        }
+      ]
+    },
+    {
+      "reason": "high_title_overlap",
+      "sharedTokens": [
+        "high",
+        "musical",
+        "school"
+      ],
+      "items": [
+        {
+          "index": 1171,
+          "title": "High School Musical: The Musical: The Series",
+          "tmdbId": "85801",
+          "mediaType": "tv"
+        },
+        {
+          "index": 1392,
+          "title": "High School Musical",
+          "tmdbId": "10947",
+          "mediaType": "movie"
+        }
+      ]
+    },
+    {
+      "reason": "high_title_overlap",
+      "sharedTokens": [
+        "fu",
+        "kung",
+        "panda"
+      ],
+      "items": [
+        {
+          "index": 1282,
+          "title": "Kung Fu Panda 4",
+          "tmdbId": "1011985",
+          "mediaType": "movie"
+        },
+        {
+          "index": 1302,
+          "title": "Kung Fu Panda",
+          "tmdbId": "9502",
+          "mediaType": "movie"
+        }
+      ]
+    },
+    {
+      "reason": "high_title_overlap",
+      "sharedTokens": [
+        "fu",
+        "kung",
+        "panda"
+      ],
+      "items": [
+        {
+          "index": 1282,
+          "title": "Kung Fu Panda 4",
+          "tmdbId": "1011985",
+          "mediaType": "movie"
+        },
+        {
+          "index": 1343,
+          "title": "Kung Fu Panda 2",
+          "tmdbId": "49444",
+          "mediaType": "movie"
+        }
+      ]
+    },
+    {
+      "reason": "high_title_overlap",
+      "sharedTokens": [
+        "fu",
+        "kung",
+        "panda"
+      ],
+      "items": [
+        {
+          "index": 1282,
+          "title": "Kung Fu Panda 4",
+          "tmdbId": "1011985",
+          "mediaType": "movie"
+        },
+        {
+          "index": 1349,
+          "title": "Kung Fu Panda 3",
+          "tmdbId": "140300",
+          "mediaType": "movie"
+        }
+      ]
+    },
+    {
+      "reason": "high_title_overlap",
+      "sharedTokens": [
+        "inside",
+        "out"
+      ],
+      "items": [
+        {
+          "index": 1283,
+          "title": "Inside Out 2",
+          "tmdbId": "1022789",
+          "mediaType": "movie"
+        },
+        {
+          "index": 1295,
+          "title": "Inside Out",
+          "tmdbId": "150540",
+          "mediaType": "movie"
+        }
+      ]
+    },
+    {
+      "reason": "high_title_overlap",
+      "sharedTokens": [
+        "man",
+        "spider",
+        "verse"
+      ],
+      "items": [
+        {
+          "index": 1288,
+          "title": "Spider-Man: Across the Spider-Verse",
+          "tmdbId": "569094",
+          "mediaType": "movie"
+        },
+        {
+          "index": 1292,
+          "title": "Spider-Man: Into the Spider-Verse",
+          "tmdbId": "324857",
+          "mediaType": "movie"
+        }
+      ]
+    },
+    {
+      "reason": "high_title_overlap",
+      "sharedTokens": [
+        "hedgehog",
+        "sonic"
+      ],
+      "items": [
+        {
+          "index": 1291,
+          "title": "Sonic the Hedgehog 3",
+          "tmdbId": "939243",
+          "mediaType": "movie"
+        },
+        {
+          "index": 1339,
+          "title": "Sonic the Hedgehog 2",
+          "tmdbId": "675353",
+          "mediaType": "movie"
+        }
+      ]
+    },
+    {
+      "reason": "high_title_overlap",
+      "sharedTokens": [
+        "hedgehog",
+        "sonic"
+      ],
+      "items": [
+        {
+          "index": 1291,
+          "title": "Sonic the Hedgehog 3",
+          "tmdbId": "939243",
+          "mediaType": "movie"
+        },
+        {
+          "index": 1369,
+          "title": "Sonic the Hedgehog",
+          "tmdbId": "2404",
+          "mediaType": "tv"
+        }
+      ]
+    },
+    {
+      "reason": "high_title_overlap",
+      "sharedTokens": [
+        "hedgehog",
+        "sonic"
+      ],
+      "items": [
+        {
+          "index": 1291,
+          "title": "Sonic the Hedgehog 3",
+          "tmdbId": "939243",
+          "mediaType": "movie"
+        },
+        {
+          "index": 1421,
+          "title": "Sonic the Hedgehog",
+          "tmdbId": "454626",
+          "mediaType": "movie"
+        }
+      ]
+    },
+    {
+      "reason": "high_title_overlap",
+      "sharedTokens": [
+        "lilo",
+        "stitch"
+      ],
+      "items": [
+        {
+          "index": 1298,
+          "title": "Lilo & Stitch",
+          "tmdbId": "552524",
+          "mediaType": "movie"
+        },
+        {
+          "index": 1338,
+          "title": "Lilo & Stitch",
+          "tmdbId": "11544",
+          "mediaType": "movie"
+        }
+      ]
+    },
+    {
+      "reason": "high_title_overlap",
+      "sharedTokens": [
+        "fu",
+        "kung",
+        "panda"
+      ],
+      "items": [
+        {
+          "index": 1302,
+          "title": "Kung Fu Panda",
+          "tmdbId": "9502",
+          "mediaType": "movie"
+        },
+        {
+          "index": 1343,
+          "title": "Kung Fu Panda 2",
+          "tmdbId": "49444",
+          "mediaType": "movie"
+        }
+      ]
+    },
+    {
+      "reason": "high_title_overlap",
+      "sharedTokens": [
+        "fu",
+        "kung",
+        "panda"
+      ],
+      "items": [
+        {
+          "index": 1302,
+          "title": "Kung Fu Panda",
+          "tmdbId": "9502",
+          "mediaType": "movie"
+        },
+        {
+          "index": 1349,
+          "title": "Kung Fu Panda 3",
+          "tmdbId": "140300",
+          "mediaType": "movie"
+        }
+      ]
+    },
+    {
+      "reason": "high_title_overlap",
+      "sharedTokens": [
+        "king",
+        "lion"
+      ],
+      "items": [
+        {
+          "index": 1310,
+          "title": "Mufasa: The Lion King",
+          "tmdbId": "762509",
+          "mediaType": "movie"
+        },
+        {
+          "index": 1373,
+          "title": "The Lion King",
+          "tmdbId": "8587",
+          "mediaType": "movie"
+        }
+      ]
+    },
+    {
+      "reason": "high_title_overlap",
+      "sharedTokens": [
+        "king",
+        "lion"
+      ],
+      "items": [
+        {
+          "index": 1310,
+          "title": "Mufasa: The Lion King",
+          "tmdbId": "762509",
+          "mediaType": "movie"
+        },
+        {
+          "index": 1420,
+          "title": "The Lion King",
+          "tmdbId": "420818",
+          "mediaType": "movie"
+        }
+      ]
+    },
+    {
+      "reason": "high_title_overlap",
+      "sharedTokens": [
+        "dragon",
+        "how",
+        "train",
+        "your"
+      ],
+      "items": [
+        {
+          "index": 1324,
+          "title": "How to Train Your Dragon 2",
+          "tmdbId": "82702",
+          "mediaType": "movie"
+        },
+        {
+          "index": 1325,
+          "title": "How to Train Your Dragon: The Hidden World",
+          "tmdbId": "166428",
+          "mediaType": "movie"
+        }
+      ]
+    },
+    {
+      "reason": "high_title_overlap",
+      "sharedTokens": [
+        "dragon",
+        "how",
+        "train",
+        "your"
+      ],
+      "items": [
+        {
+          "index": 1324,
+          "title": "How to Train Your Dragon 2",
+          "tmdbId": "82702",
+          "mediaType": "movie"
+        },
+        {
+          "index": 1374,
+          "title": "How to Train Your Dragon",
+          "tmdbId": "10191",
+          "mediaType": "movie"
+        }
+      ]
+    },
+    {
+      "reason": "high_title_overlap",
+      "sharedTokens": [
+        "dragon",
+        "how",
+        "train",
+        "your"
+      ],
+      "items": [
+        {
+          "index": 1324,
+          "title": "How to Train Your Dragon 2",
+          "tmdbId": "82702",
+          "mediaType": "movie"
+        },
+        {
+          "index": 1416,
+          "title": "How to Train Your Dragon",
+          "tmdbId": "1087192",
+          "mediaType": "movie"
+        }
+      ]
+    },
+    {
+      "reason": "high_title_overlap",
+      "sharedTokens": [
+        "dragon",
+        "how",
+        "train",
+        "your"
+      ],
+      "items": [
+        {
+          "index": 1325,
+          "title": "How to Train Your Dragon: The Hidden World",
+          "tmdbId": "166428",
+          "mediaType": "movie"
+        },
+        {
+          "index": 1374,
+          "title": "How to Train Your Dragon",
+          "tmdbId": "10191",
+          "mediaType": "movie"
+        }
+      ]
+    },
+    {
+      "reason": "high_title_overlap",
+      "sharedTokens": [
+        "dragon",
+        "how",
+        "train",
+        "your"
+      ],
+      "items": [
+        {
+          "index": 1325,
+          "title": "How to Train Your Dragon: The Hidden World",
+          "tmdbId": "166428",
+          "mediaType": "movie"
+        },
+        {
+          "index": 1416,
+          "title": "How to Train Your Dragon",
+          "tmdbId": "1087192",
+          "mediaType": "movie"
+        }
+      ]
+    },
+    {
+      "reason": "high_title_overlap",
+      "sharedTokens": [
+        "hotel",
+        "transylvania"
+      ],
+      "items": [
+        {
+          "index": 1335,
+          "title": "Hotel Transylvania",
+          "tmdbId": "76492",
+          "mediaType": "movie"
+        },
+        {
+          "index": 1359,
+          "title": "Hotel Transylvania 3: Summer Vacation",
+          "tmdbId": "400155",
+          "mediaType": "movie"
+        }
+      ]
+    },
+    {
+      "reason": "high_title_overlap",
+      "sharedTokens": [
+        "hedgehog",
+        "sonic"
+      ],
+      "items": [
+        {
+          "index": 1339,
+          "title": "Sonic the Hedgehog 2",
+          "tmdbId": "675353",
+          "mediaType": "movie"
+        },
+        {
+          "index": 1369,
+          "title": "Sonic the Hedgehog",
+          "tmdbId": "2404",
+          "mediaType": "tv"
+        }
+      ]
+    },
+    {
+      "reason": "high_title_overlap",
+      "sharedTokens": [
+        "hedgehog",
+        "sonic"
+      ],
+      "items": [
+        {
+          "index": 1339,
+          "title": "Sonic the Hedgehog 2",
+          "tmdbId": "675353",
+          "mediaType": "movie"
+        },
+        {
+          "index": 1421,
+          "title": "Sonic the Hedgehog",
+          "tmdbId": "454626",
+          "mediaType": "movie"
+        }
+      ]
+    },
+    {
+      "reason": "high_title_overlap",
+      "sharedTokens": [
+        "fu",
+        "kung",
+        "panda"
+      ],
+      "items": [
+        {
+          "index": 1343,
+          "title": "Kung Fu Panda 2",
+          "tmdbId": "49444",
+          "mediaType": "movie"
+        },
+        {
+          "index": 1349,
+          "title": "Kung Fu Panda 3",
+          "tmdbId": "140300",
+          "mediaType": "movie"
+        }
+      ]
+    },
+    {
+      "reason": "high_title_overlap",
+      "sharedTokens": [
+        "beverly",
+        "hillbillies"
+      ],
+      "items": [
+        {
+          "index": 1363,
+          "title": "The Beverly Hillbillies",
+          "tmdbId": "1930",
+          "mediaType": "tv"
+        },
+        {
+          "index": 1424,
+          "title": "The Beverly Hillbillies",
+          "tmdbId": "11041",
+          "mediaType": "movie"
+        }
+      ]
+    },
+    {
+      "reason": "high_title_overlap",
+      "sharedTokens": [
+        "chance",
+        "cloudy",
+        "meatballs"
+      ],
+      "items": [
+        {
+          "index": 1368,
+          "title": "Cloudy with a Chance of Meatballs",
+          "tmdbId": "70967",
+          "mediaType": "tv"
+        },
+        {
+          "index": 1422,
+          "title": "Cloudy with a Chance of Meatballs",
+          "tmdbId": "22794",
+          "mediaType": "movie"
+        }
+      ]
+    },
+    {
+      "reason": "high_title_overlap",
+      "sharedTokens": [
+        "hedgehog",
+        "sonic"
+      ],
+      "items": [
+        {
+          "index": 1369,
+          "title": "Sonic the Hedgehog",
+          "tmdbId": "2404",
+          "mediaType": "tv"
+        },
+        {
+          "index": 1421,
+          "title": "Sonic the Hedgehog",
+          "tmdbId": "454626",
+          "mediaType": "movie"
+        }
+      ]
+    },
+    {
+      "reason": "high_title_overlap",
+      "sharedTokens": [
+        "king",
+        "lion"
+      ],
+      "items": [
+        {
+          "index": 1373,
+          "title": "The Lion King",
+          "tmdbId": "8587",
+          "mediaType": "movie"
+        },
+        {
+          "index": 1420,
+          "title": "The Lion King",
+          "tmdbId": "420818",
+          "mediaType": "movie"
+        }
+      ]
+    },
+    {
+      "reason": "high_title_overlap",
+      "sharedTokens": [
+        "dragon",
+        "how",
+        "train",
+        "your"
+      ],
+      "items": [
+        {
+          "index": 1374,
+          "title": "How to Train Your Dragon",
+          "tmdbId": "10191",
+          "mediaType": "movie"
+        },
+        {
+          "index": 1416,
+          "title": "How to Train Your Dragon",
+          "tmdbId": "1087192",
+          "mediaType": "movie"
+        }
+      ]
+    },
+    {
+      "reason": "high_title_overlap",
+      "sharedTokens": [
+        "by",
+        "cheaper",
+        "dozen"
+      ],
+      "items": [
+        {
+          "index": 1379,
+          "title": "Cheaper by the Dozen",
+          "tmdbId": "691683",
+          "mediaType": "movie"
+        },
+        {
+          "index": 1442,
+          "title": "Cheaper by the Dozen",
+          "tmdbId": "33839",
+          "mediaType": "movie"
+        }
+      ]
+    },
+    {
+      "reason": "high_title_overlap",
+      "sharedTokens": [
+        "by",
+        "cheaper",
+        "dozen"
+      ],
+      "items": [
+        {
+          "index": 1379,
+          "title": "Cheaper by the Dozen",
+          "tmdbId": "691683",
+          "mediaType": "movie"
+        },
+        {
+          "index": 1501,
+          "title": "Cheaper by the Dozen",
+          "tmdbId": "11007",
+          "mediaType": "movie"
+        }
+      ]
+    },
+    {
+      "reason": "high_title_overlap",
+      "sharedTokens": [
+        "anne",
+        "gables",
+        "green"
+      ],
+      "items": [
+        {
+          "index": 1393,
+          "title": "Anne of Green Gables",
+          "tmdbId": "397520",
+          "mediaType": "movie"
+        },
+        {
+          "index": 1423,
+          "title": "Anne of Green Gables",
+          "tmdbId": "17663",
+          "mediaType": "movie"
+        }
+      ]
+    },
+    {
+      "reason": "high_title_overlap",
+      "sharedTokens": [
+        "anne",
+        "gables",
+        "green"
+      ],
+      "items": [
+        {
+          "index": 1393,
+          "title": "Anne of Green Gables",
+          "tmdbId": "397520",
+          "mediaType": "movie"
+        },
+        {
+          "index": 1476,
+          "title": "Anne of Green Gables",
+          "tmdbId": "43901",
+          "mediaType": "movie"
+        }
+      ]
+    },
+    {
+      "reason": "high_title_overlap",
+      "sharedTokens": [
+        "anne",
+        "gables",
+        "green"
+      ],
+      "items": [
+        {
+          "index": 1423,
+          "title": "Anne of Green Gables",
+          "tmdbId": "17663",
+          "mediaType": "movie"
+        },
+        {
+          "index": 1476,
+          "title": "Anne of Green Gables",
+          "tmdbId": "43901",
+          "mediaType": "movie"
+        }
+      ]
+    },
+    {
+      "reason": "high_title_overlap",
+      "sharedTokens": [
+        "by",
+        "cheaper",
+        "dozen"
+      ],
+      "items": [
+        {
+          "index": 1442,
+          "title": "Cheaper by the Dozen",
+          "tmdbId": "33839",
+          "mediaType": "movie"
+        },
+        {
+          "index": 1501,
+          "title": "Cheaper by the Dozen",
+          "tmdbId": "11007",
+          "mediaType": "movie"
+        }
+      ]
+    },
+    {
+      "reason": "high_title_overlap",
+      "sharedTokens": [
+        "down",
+        "watership"
+      ],
+      "items": [
+        {
+          "index": 1471,
+          "title": "Watership Down",
+          "tmdbId": "11837",
+          "mediaType": "movie"
+        },
+        {
+          "index": 1472,
+          "title": "Watership Down",
+          "tmdbId": "68394",
+          "mediaType": "tv"
+        }
+      ]
+    },
+    {
+      "reason": "high_title_overlap",
+      "sharedTokens": [
+        "down",
+        "watership"
+      ],
+      "items": [
+        {
+          "index": 1471,
+          "title": "Watership Down",
+          "tmdbId": "11837",
+          "mediaType": "movie"
+        },
+        {
+          "index": 1512,
+          "title": "Watership Down",
+          "tmdbId": "11690",
+          "mediaType": "tv"
+        }
+      ]
+    },
+    {
+      "reason": "high_title_overlap",
+      "sharedTokens": [
+        "down",
+        "watership"
+      ],
+      "items": [
+        {
+          "index": 1472,
+          "title": "Watership Down",
+          "tmdbId": "68394",
+          "mediaType": "tv"
+        },
+        {
+          "index": 1512,
+          "title": "Watership Down",
+          "tmdbId": "11690",
+          "mediaType": "tv"
+        }
+      ]
+    },
+    {
+      "reason": "high_title_overlap",
+      "sharedTokens": [
+        "beauty",
+        "black"
+      ],
+      "items": [
+        {
+          "index": 1520,
+          "title": "Black Beauty",
+          "tmdbId": "331464",
+          "mediaType": "movie"
+        },
+        {
+          "index": 1525,
+          "title": "Black Beauty",
+          "tmdbId": "254138",
+          "mediaType": "movie"
+        }
+      ]
+    },
+    {
+      "reason": "high_title_overlap",
+      "sharedTokens": [
+        "beauty",
+        "black"
+      ],
+      "items": [
+        {
+          "index": 1520,
+          "title": "Black Beauty",
+          "tmdbId": "331464",
+          "mediaType": "movie"
+        },
+        {
+          "index": 1537,
+          "title": "Black Beauty",
+          "tmdbId": "83300",
+          "mediaType": "movie"
+        }
+      ]
+    },
+    {
+      "reason": "high_title_overlap",
+      "sharedTokens": [
+        "beauty",
+        "black"
+      ],
+      "items": [
+        {
+          "index": 1520,
+          "title": "Black Beauty",
+          "tmdbId": "331464",
+          "mediaType": "movie"
+        },
+        {
+          "index": 1555,
+          "title": "Black Beauty",
+          "tmdbId": "28356",
+          "mediaType": "movie"
+        }
+      ]
+    },
+    {
+      "reason": "high_title_overlap",
+      "sharedTokens": [
+        "beauty",
+        "black"
+      ],
+      "items": [
+        {
+          "index": 1525,
+          "title": "Black Beauty",
+          "tmdbId": "254138",
+          "mediaType": "movie"
+        },
+        {
+          "index": 1537,
+          "title": "Black Beauty",
+          "tmdbId": "83300",
+          "mediaType": "movie"
+        }
+      ]
+    },
+    {
+      "reason": "high_title_overlap",
+      "sharedTokens": [
+        "beauty",
+        "black"
+      ],
+      "items": [
+        {
+          "index": 1525,
+          "title": "Black Beauty",
+          "tmdbId": "254138",
+          "mediaType": "movie"
+        },
+        {
+          "index": 1555,
+          "title": "Black Beauty",
+          "tmdbId": "28356",
+          "mediaType": "movie"
+        }
+      ]
+    },
+    {
+      "reason": "high_title_overlap",
+      "sharedTokens": [
+        "beauty",
+        "black"
+      ],
+      "items": [
+        {
+          "index": 1537,
+          "title": "Black Beauty",
+          "tmdbId": "83300",
+          "mediaType": "movie"
+        },
+        {
+          "index": 1555,
+          "title": "Black Beauty",
+          "tmdbId": "28356",
+          "mediaType": "movie"
+        }
+      ]
+    }
+  ]
+}

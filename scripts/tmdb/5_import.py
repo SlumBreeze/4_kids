@@ -1,4 +1,5 @@
 import re
+import argparse
 from rich.console import Console
 from rich.table import Table
 from rich.prompt import Confirm
@@ -12,6 +13,15 @@ def normalize_title(title: str) -> str:
     return re.sub(r"[^a-z0-9]+", "", (title or "").casefold())
 
 def main():
+    parser = argparse.ArgumentParser(description="Import reviewed items into shows.json.")
+    parser.add_argument(
+        "--match-title",
+        action="store_true",
+        help="Allow replacing by normalized title when no ID match exists. Disabled by default to preserve variants.",
+    )
+    parser.add_argument("--yes", action="store_true", help="Accept import prompts with defaults.")
+    args = parser.parse_args()
+
     console.rule("[bold blue]Stage 5: Import to shows.json[/]")
 
     # Load reviewed items
@@ -26,6 +36,7 @@ def main():
     # Load existing shows
     shows = load_json(SHOWS_FILE) or []
     existing_by_id = {}
+    existing_by_tmdb = {}
     existing_by_title = {}
 
     for index, show in enumerate(shows):
@@ -33,11 +44,16 @@ def main():
         if show_id:
             existing_by_id[show_id] = index
 
+        tmdb_id = show.get("tmdbId")
+        media_type = show.get("mediaType")
+        if tmdb_id and media_type:
+            existing_by_tmdb[(str(tmdb_id), media_type)] = index
+
         title_key = normalize_title(show.get("title", ""))
         if title_key:
             existing_by_title.setdefault(title_key, []).append(index)
 
-    overwrite_existing = Confirm.ask(
+    overwrite_existing = True if args.yes else Confirm.ask(
         "Overwrite existing shows when a match is found?",
         default=True
     )
@@ -52,9 +68,19 @@ def main():
         match_index = None
         action = "Add"
 
-        if show_data.get("id") and show_data["id"] in existing_by_id:
+        if show_data.get("minAge", 0) >= 6:
+            action = "Skip (out of age scope)"
+        elif show_data.get("maxAge", 0) > 5:
+            action = "Skip (out of age scope)"
+
+        tmdb_key = (str(show_data.get("tmdbId")), show_data.get("mediaType"))
+        if action.startswith("Skip"):
+            pass
+        elif tmdb_key in existing_by_tmdb:
+            match_index = existing_by_tmdb[tmdb_key]
+        elif show_data.get("id") and show_data["id"] in existing_by_id:
             match_index = existing_by_id[show_data["id"]]
-        else:
+        elif args.match_title:
             title_key = normalize_title(show_data.get("title", ""))
             if title_key in existing_by_title and len(existing_by_title[title_key]) == 1:
                 match_index = existing_by_title[title_key][0]
@@ -100,7 +126,7 @@ def main():
     console.print(table)
 
     # Confirm import
-    if not Confirm.ask(
+    if not args.yes and not Confirm.ask(
         f"\nImport {add_count} new and {replace_count} replacements to shows.json?",
         default=True
     ):
@@ -116,7 +142,7 @@ def main():
 
     # Save
     save_json(SHOWS_FILE, shows)
-    console.print(f"[bold green]✓ Successfully imported {add_count} shows and replaced {replace_count} shows in {SHOWS_FILE}[/]")
+    console.print(f"[bold green][OK] Successfully imported {add_count} shows and replaced {replace_count} shows in {SHOWS_FILE}[/]")
     console.print(f"[green]Total shows in database: {len(shows)}[/]")
 
 if __name__ == "__main__":

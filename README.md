@@ -79,7 +79,7 @@ Age values use a decimal format:
 
 #### TMDB Batch Pipeline (Recommended)
 
-Automatically discovers, enriches, and AI-assesses kids' shows from TMDB.
+Automatically discovers, enriches, and rule-assesses kids' shows from TMDB.
 
 ```bash
 # Install Python dependencies
@@ -89,7 +89,6 @@ python -m pip install -r scripts/requirements.txt
 Required `.env` at project root:
 ```
 TMDB_API_KEY=your_key_here
-GEMINI_API_KEY=your_key_here
 ```
 
 ```bash
@@ -99,7 +98,7 @@ npm run tmdb:discover
 # Stage 2: Enrich with full metadata (~5 min, rate-limited)
 npm run tmdb:enrich
 
-# Stage 3: AI safety assessment (~3 min)
+# Stage 3: Rule-based safety assessment
 npm run tmdb:assess
 
 # Stage 4: Human review (interactive)
@@ -111,8 +110,38 @@ npm run tmdb:auto
 # Stage 5: Import approved shows into shows.json
 npm run tmdb:import
 
+# Stage 5 (automated): Import using ID matches only, preserving title variants
+npm run tmdb:import:auto
+
+# Refresh existing TMDB-backed records and write a report only
+npm run tmdb:refresh
+
+# Apply the refresh report to shows.json
+npm run tmdb:refresh:apply
+
+# Audit duplicate IDs and possible title variants
+npm run tmdb:audit-variants
+
+# Check free fallback sources for missing metadata suggestions
+npm run tmdb:free-sources
+
 # Shortcut: Run Stages 1–3 sequentially
 npm run tmdb:full
+
+# Full automated sync: discover, enrich, assess, auto-review, import, refresh, audit
+npm run tmdb:sync
+
+# Pipeline runner: content stages + audit stages
+npm run tmdb:pipeline
+
+# Content only: discover, enrich, assess, auto-review, import
+npm run tmdb:pipeline:content
+
+# Audit only: refresh report, variant audit, free-source report
+npm run tmdb:pipeline:audit
+
+# Preview the planned pipeline stages without running API calls
+npm run tmdb:pipeline:plan
 ```
 
 **Staging files** (in `scripts/data/tmdb_staging/`):
@@ -121,8 +150,21 @@ npm run tmdb:full
 |------|----------|
 | `1_discovered.json` | Raw TMDB results |
 | `2_enriched.json` | Full metadata + IMDb IDs |
-| `3_assessed.json` | AI safety assessments |
+| `3_assessed.json` | Rule-based safety assessments |
 | `4_reviewed.json` | Human-approved items |
+| `7_refresh_report.json` | Existing-record metadata changes from TMDB |
+| `8_variant_audit.json` | Duplicate-ID and likely-variant report |
+| `9_free_source_report.json` | TVmaze/Wikidata fallback suggestions |
+
+Title variants are intentionally preserved. For example, `Little Baby Bum` and `Little Baby Bum: Music Time` should remain separate records when their source IDs differ. Automated import no longer replaces a record by title unless `python scripts/tmdb/5_import.py --match-title` is used explicitly.
+
+Free fallback sources are report-only. TVmaze and Wikidata suggestions are useful for filling missing fields or cross-checking records, but they do not overwrite `shows.json` automatically.
+
+Rule-based assessment is deterministic and auditable. It uses certification, genres, title text, and synopsis text to flag content categories such as violence, scary imagery, educational content, and explicit LGBTQ-related terms. It cannot prove absence; flagged or important records still need human review.
+
+Precision note: there is no reliable free public database that proves a kids' show has no LGBTQ-related content. The free, non-AI path is to use deterministic evidence flags, import only source-backed metadata, and manually review flagged titles. That is slower than pretending a model is an oracle, but it is also less stupid.
+
+The pipeline runner lives at `scripts/tmdb/10_run_pipeline.py`. It is the preferred automation entry point because it separates content acquisition from auditing and supports dry runs. By default, audit refreshes are report-only; use `python scripts/tmdb/10_run_pipeline.py --mode audit --apply-refresh` only when you intentionally want TMDB metadata refreshes written to `shows.json`.
 
 **Provider logos:**
 
@@ -144,7 +186,7 @@ python scripts/tmdb/reset.py
 python scripts/add_show.py
 ```
 
-- Searches IMDb, scrapes metadata, calls Gemini for safety rating
+- Searches IMDb, scrapes metadata, and prompts for manual safety rating
 - Interactive review before writing to `shows.json`
 - Can overwrite an existing entry by confirming the prompt
 - If `ModuleNotFoundError`, run `python -m pip install -r scripts/requirements.txt`

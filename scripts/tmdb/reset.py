@@ -21,7 +21,7 @@ def main():
             os.remove(path)
             removed += 1
 
-    console.print(f"[bold green]✓ Removed {removed} file(s)[/]")
+    console.print(f"[bold green][OK] Removed {removed} file(s)[/]")
 
 if __name__ == "__main__":
     main()
